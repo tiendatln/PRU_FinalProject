@@ -1,4 +1,4 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
@@ -6,19 +6,26 @@ public class PlayerController : MonoBehaviour
     protected PlMove PlMove;
     protected PlayerAttack PlayerAttack;
     protected DamageReceived DamageReceived;
+    protected PlayerAnimation PlayerAnimation;
+    [SerializeField] private SpawnMagicSkill SpawnMagicSkill;
 
     void Awake()
     {
         PlayerAttack = GetComponent<PlayerAttack>();
         PlMove = GetComponent<PlMove>();
         DamageReceived = GetComponent<DamageReceived>();
+        PlayerAnimation = GetComponent<PlayerAnimation>();
     }
 
-    // Update is called once per frame
     void Update()
     {
-        
+        if (Input.GetKeyDown(KeyCode.I))
+        {
+            PlayerAnimation.NomalMagicSkill();
+            SpawnMagicSkill.Shoot(PlMove.CheckInput());
+        }
     }
+
 
     private void OnCollisionEnter2D(Collision2D collision)
     {
@@ -28,4 +35,5 @@ public class PlayerController : MonoBehaviour
         }
     }
 
+    
 }

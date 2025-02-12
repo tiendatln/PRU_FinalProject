@@ -6,6 +6,7 @@ TagManager:
   tags:
   - Ground
   - enemy
+  - magicSkill
   layers:
   - Default
   - TransparentFX
@@ -13,9 +14,9 @@ TagManager:
   - Player
   - Water
   - UI
-  - 
-  - 
-  - 
+  - 'enemy '
+  - Ground
+  - background
   - 
   - 
   - 
@@ -42,6 +43,12 @@ TagManager:
   m_SortingLayers:
   - name: Default
     uniqueID: 0
+    locked: 0
+  - name: background
+    uniqueID: 1043295651
+    locked: 0
+  - name: Ground
+    uniqueID: 2932562885
     locked: 0
   m_RenderingLayers:
   - Default
