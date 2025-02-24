@@ -1,0 +1,871 @@
+fileFormatVersion: 2
+guid: 61c9092797c2c4d4aa86df144804c424
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 1142172473376456883
+    second: Lootingbox_Click_opening_0
+  - first:
+      213: -233517210693835179
+    second: Lootingbox_Click_opening_1
+  - first:
+      213: -7278875871191188498
+    second: Lootingbox_Click_opening_2
+  - first:
+      213: -2391070267230006988
+    second: Lootingbox_Click_opening_3
+  - first:
+      213: -874040023110597255
+    second: Lootingbox_Click_opening_4
+  - first:
+      213: 4343385996747150308
+    second: Lootingbox_Click_opening_5
+  - first:
+      213: 4499512450693750688
+    second: Lootingbox_Click_opening_6
+  - first:
+      213: 4337376898090148104
+    second: Lootingbox_Click_opening_7
+  - first:
+      213: 549462456799357379
+    second: Lootingbox_Click_opening_8
+  - first:
+      213: -6503614138932611354
+    second: Lootingbox_Click_opening_9
+  - first:
+      213: 8912086378259556862
+    second: Lootingbox_Click_opening_10
+  - first:
+      213: -8713718856206509538
+    second: Lootingbox_Click_opening_11
+  - first:
+      213: 2977434295317183285
+    second: Lootingbox_Click_opening_12
+  - first:
+      213: -3614935667225885777
+    second: Lootingbox_Click_opening_13
+  - first:
+      213: -7746471057105716320
+    second: Lootingbox_Click_opening_14
+  - first:
+      213: 1233011875459721016
+    second: Lootingbox_Click_opening_15
+  - first:
+      213: -4322388711923523266
+    second: Lootingbox_Click_opening_16
+  - first:
+      213: 514990592623283737
+    second: Lootingbox_Click_opening_17
+  - first:
+      213: 4471368287180321515
+    second: Lootingbox_Click_opening_18
+  - first:
+      213: -5763065271179761653
+    second: Lootingbox_Click_opening_19
+  - first:
+      213: -3416906983869483774
+    second: Lootingbox_Click_opening_20
+  - first:
+      213: -2362946484030182701
+    second: Lootingbox_Click_opening_21
+  - first:
+      213: -6509575225549167933
+    second: Lootingbox_Click_opening_22
+  - first:
+      213: 1877837820787220539
+    second: Lootingbox_Click_opening_23
+  - first:
+      213: -213262343920416421
+    second: Lootingbox_Click_opening_24
+  - first:
+      213: -5529486609680550565
+    second: Lootingbox_Click_opening_25
+  - first:
+      213: 7485897503594064186
+    second: Lootingbox_Click_opening_26
+  - first:
+      213: -4372963177324204067
+    second: Lootingbox_Click_opening_27
+  - first:
+      213: 168717064863189755
+    second: Lootingbox_Click_opening_28
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lootingbox_Click_opening_0
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 4144
+        width: 726
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b045d320dfc9df00800000000000000
+      internalID: 1142172473376456883
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_Click_opening_1
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 4144
+        width: 726
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55667a7855162ccf0800000000000000
+      internalID: -233517210693835179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_Click_opening_2
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 4144
+        width: 726
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eebbc75d5fc3cfa90800000000000000
+      internalID: -7278875871191188498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_Click_opening_3
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 4144
+        width: 726
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 431d1c8a24631ded0800000000000000
+      internalID: -2391070267230006988
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_Click_opening_4
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 4144
+        width: 726
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975c407da39ced3f0800000000000000
+      internalID: -874040023110597255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_Click_opening_5
+      rect:
+        serializedVersion: 2
+        x: 5276
+        y: 4144
+        width: 726
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e315824d8ec64c30800000000000000
+      internalID: 4343385996747150308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_Click_opening_6
+      rect:
+        serializedVersion: 2
+        x: 156
+        y: 3120
+        width: 726
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0af5c060cba717e30800000000000000
+      internalID: 4499512450693750688
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_Click_opening_7
+      rect:
+        serializedVersion: 2
+        x: 1180
+        y: 3120
+        width: 726
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80126a3fe45713c30800000000000000
+      internalID: 4337376898090148104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_Click_opening_8
+      rect:
+        serializedVersion: 2
+        x: 2204
+        y: 3120
+        width: 726
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c960fa713510a700800000000000000
+      internalID: 549462456799357379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_Click_opening_9
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 3120
+        width: 726
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6e6b6b4f5658eb5a0800000000000000
+      internalID: -6503614138932611354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_Click_opening_10
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 3120
+        width: 726
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef922cfb7571eab70800000000000000
+      internalID: 8912086378259556862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_Click_opening_11
+      rect:
+        serializedVersion: 2
+        x: 5276
+        y: 3120
+        width: 726
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a10371ed6a21780800000000000000
+      internalID: -8713718856206509538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_Click_opening_12
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2089
+        width: 724
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53b327a67b8f15920800000000000000
+      internalID: 2977434295317183285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_Click_opening_13
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 2107
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa38c15d92b25ddc0800000000000000
+      internalID: -3614935667225885777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_Click_opening_14
+      rect:
+        serializedVersion: 2
+        x: 1030
+        y: 2089
+        width: 1019
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ab7e5abd910f7490800000000000000
+      internalID: -7746471057105716320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_Click_opening_15
+      rect:
+        serializedVersion: 2
+        x: 2054
+        y: 2089
+        width: 1019
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8376d9894c98c1110800000000000000
+      internalID: 1233011875459721016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_Click_opening_16
+      rect:
+        serializedVersion: 2
+        x: 3081
+        y: 2089
+        width: 1016
+        height: 562
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e31e3a41e5ac304c0800000000000000
+      internalID: -4322388711923523266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_Click_opening_17
+      rect:
+        serializedVersion: 2
+        x: 4103
+        y: 2089
+        width: 1018
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91e8af7273d952700800000000000000
+      internalID: 514990592623283737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_Click_opening_18
+      rect:
+        serializedVersion: 2
+        x: 5125
+        y: 2089
+        width: 1019
+        height: 537
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be2745154cd7d0e30800000000000000
+      internalID: 4471368287180321515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_Click_opening_19
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1065
+        width: 2046
+        height: 538
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b08a0fd7baa7500b0800000000000000
+      internalID: -5763065271179761653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_Click_opening_20
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 1065
+        width: 1025
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20578e3a335b490d0800000000000000
+      internalID: -3416906983869483774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_Click_opening_21
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 1065
+        width: 1026
+        height: 542
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3da6f1431b0253fd0800000000000000
+      internalID: -2362946484030182701
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_Click_opening_22
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 1065
+        width: 2049
+        height: 533
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c2657252d759a5a0800000000000000
+      internalID: -6509575225549167933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_Click_opening_23
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 41
+        width: 824
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b30e0dd7c8b6f0a10800000000000000
+      internalID: 1877837820787220539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_Click_opening_24
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 41
+        width: 824
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5908a237075a0df0800000000000000
+      internalID: -213262343920416421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_Click_opening_25
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 41
+        width: 824
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5536b799315343b0800000000000000
+      internalID: -5529486609680550565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_Click_opening_26
+      rect:
+        serializedVersion: 2
+        x: 3227
+        y: 41
+        width: 824
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3925b61e1043e760800000000000000
+      internalID: 7485897503594064186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_Click_opening_27
+      rect:
+        serializedVersion: 2
+        x: 4251
+        y: 41
+        width: 824
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddf2abfb82d1053c0800000000000000
+      internalID: -4372963177324204067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_Click_opening_28
+      rect:
+        serializedVersion: 2
+        x: 5275
+        y: 41
+        width: 824
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfa87bec647675200800000000000000
+      internalID: 168717064863189755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lootingbox_Click_opening_0: 1142172473376456883
+      Lootingbox_Click_opening_1: -233517210693835179
+      Lootingbox_Click_opening_10: 8912086378259556862
+      Lootingbox_Click_opening_11: -8713718856206509538
+      Lootingbox_Click_opening_12: 2977434295317183285
+      Lootingbox_Click_opening_13: -3614935667225885777
+      Lootingbox_Click_opening_14: -7746471057105716320
+      Lootingbox_Click_opening_15: 1233011875459721016
+      Lootingbox_Click_opening_16: -4322388711923523266
+      Lootingbox_Click_opening_17: 514990592623283737
+      Lootingbox_Click_opening_18: 4471368287180321515
+      Lootingbox_Click_opening_19: -5763065271179761653
+      Lootingbox_Click_opening_2: -7278875871191188498
+      Lootingbox_Click_opening_20: -3416906983869483774
+      Lootingbox_Click_opening_21: -2362946484030182701
+      Lootingbox_Click_opening_22: -6509575225549167933
+      Lootingbox_Click_opening_23: 1877837820787220539
+      Lootingbox_Click_opening_24: -213262343920416421
+      Lootingbox_Click_opening_25: -5529486609680550565
+      Lootingbox_Click_opening_26: 7485897503594064186
+      Lootingbox_Click_opening_27: -4372963177324204067
+      Lootingbox_Click_opening_28: 168717064863189755
+      Lootingbox_Click_opening_3: -2391070267230006988
+      Lootingbox_Click_opening_4: -874040023110597255
+      Lootingbox_Click_opening_5: 4343385996747150308
+      Lootingbox_Click_opening_6: 4499512450693750688
+      Lootingbox_Click_opening_7: 4337376898090148104
+      Lootingbox_Click_opening_8: 549462456799357379
+      Lootingbox_Click_opening_9: -6503614138932611354
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

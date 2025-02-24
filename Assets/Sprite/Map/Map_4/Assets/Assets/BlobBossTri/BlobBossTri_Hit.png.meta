@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 92cb03e49ab32af4f83f4ee392748fd3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8289162469237508830
+    second: BlobBossTri_Hit_0
+  - first:
+      213: -522139126670841854
+    second: BlobBossTri_Hit_1
+  - first:
+      213: -5767517452744052996
+    second: BlobBossTri_Hit_2
+  - first:
+      213: 7435434824637851018
+    second: BlobBossTri_Hit_3
+  - first:
+      213: 8720167707898201215
+    second: BlobBossTri_Hit_4
+  - first:
+      213: 5925974649484333242
+    second: BlobBossTri_Hit_5
+  - first:
+      213: -4181918638238327774
+    second: BlobBossTri_Hit_6
+  - first:
+      213: 2648629516965385031
+    second: BlobBossTri_Hit_7
+  - first:
+      213: 3923314773074723873
+    second: BlobBossTri_Hit_8
+  - first:
+      213: -8865745465126614450
+    second: BlobBossTri_Hit_9
+  - first:
+      213: -754070736816119012
+    second: BlobBossTri_Hit_10
+  - first:
+      213: -1224700276599112540
+    second: BlobBossTri_Hit_11
+  - first:
+      213: -9164705213579217418
+    second: BlobBossTri_Hit_12
+  - first:
+      213: -3343466462548642300
+    second: BlobBossTri_Hit_13
+  - first:
+      213: -9217550261269295994
+    second: BlobBossTri_Hit_14
+  - first:
+      213: 8865868628082916249
+    second: BlobBossTri_Hit_15
+  - first:
+      213: -2924022183794519344
+    second: BlobBossTri_Hit_16
+  - first:
+      213: -1803242961858466777
+    second: BlobBossTri_Hit_17
+  - first:
+      213: -3592219391335374713
+    second: BlobBossTri_Hit_18
+  - first:
+      213: -6387543541765087485
+    second: BlobBossTri_Hit_19
+  - first:
+      213: -2076294601689778296
+    second: BlobBossTri_Hit_20
+  - first:
+      213: 1017060315941211801
+    second: BlobBossTri_Hit_21
+  - first:
+      213: 3543971591194378068
+    second: BlobBossTri_Hit_22
+  - first:
+      213: -3993421379852273091
+    second: BlobBossTri_Hit_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlobBossTri_Hit_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2085
+        width: 329
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 225399fe6aaf6fc80800000000000000
+      internalID: -8289162469237508830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Hit_1
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 2085
+        width: 330
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 208a37f0b3df0c8f0800000000000000
+      internalID: -522139126670841854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Hit_2
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 2085
+        width: 330
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfe23513f69a5ffa0800000000000000
+      internalID: -5767517452744052996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Hit_3
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2085
+        width: 331
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a85ab111498ff2760800000000000000
+      internalID: 7435434824637851018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Hit_4
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 2085
+        width: 332
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f74ca133452440970800000000000000
+      internalID: 8720167707898201215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Hit_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1573
+        width: 332
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab0db7aeb8a4d3250800000000000000
+      internalID: 5925974649484333242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Hit_6
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1573
+        width: 332
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c1830c727d6f5c0800000000000000
+      internalID: -4181918638238327774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Hit_7
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1573
+        width: 332
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 743165c3382d1c420800000000000000
+      internalID: 2648629516965385031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Hit_8
+      rect:
+        serializedVersion: 2
+        x: 1657
+        y: 1570
+        width: 301
+        height: 479
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 124492fdff9627630800000000000000
+      internalID: 3923314773074723873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Hit_9
+      rect:
+        serializedVersion: 2
+        x: 2197
+        y: 1561
+        width: 316
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4a0912e87b86f480800000000000000
+      internalID: -8865745465126614450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Hit_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1049
+        width: 317
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c13ee8cf8a00985f0800000000000000
+      internalID: -754070736816119012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Hit_11
+      rect:
+        serializedVersion: 2
+        x: 661
+        y: 1049
+        width: 318
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4acbcf0569df00fe0800000000000000
+      internalID: -1224700276599112540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Hit_12
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 1049
+        width: 318
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5b0793a2d60d080800000000000000
+      internalID: -9164705213579217418
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Hit_13
+      rect:
+        serializedVersion: 2
+        x: 1666
+        y: 1057
+        width: 304
+        height: 480
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4063b5d77fe9991d0800000000000000
+      internalID: -3343466462548642300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Hit_14
+      rect:
+        serializedVersion: 2
+        x: 2160
+        y: 1060
+        width: 309
+        height: 468
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68c0cb1cfdea41080800000000000000
+      internalID: -9217550261269295994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Hit_15
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 549
+        width: 332
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b792a3b84e90b70800000000000000
+      internalID: 8865868628082916249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Hit_16
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 549
+        width: 332
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d2d093e059cb67d0800000000000000
+      internalID: -2924022183794519344
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Hit_17
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 549
+        width: 332
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72ce3b6841899f6e0800000000000000
+      internalID: -1803242961858466777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Hit_18
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 549
+        width: 332
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7806f28fe7fd52ec0800000000000000
+      internalID: -3592219391335374713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Hit_19
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 549
+        width: 331
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30f50cdcdf2ea57a0800000000000000
+      internalID: -6387543541765087485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Hit_20
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 37
+        width: 330
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88738397f058f23e0800000000000000
+      internalID: -2076294601689778296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Hit_21
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 37
+        width: 330
+        height: 426
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e82def7f25d1e00800000000000000
+      internalID: 1017060315941211801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Hit_22
+      rect:
+        serializedVersion: 2
+        x: 1121
+        y: 37
+        width: 329
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45f773ba267be2130800000000000000
+      internalID: 3543971591194378068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Hit_23
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 37
+        width: 329
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3a747fb9648498c0800000000000000
+      internalID: -3993421379852273091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BlobBossTri_Hit_0: -8289162469237508830
+      BlobBossTri_Hit_1: -522139126670841854
+      BlobBossTri_Hit_10: -754070736816119012
+      BlobBossTri_Hit_11: -1224700276599112540
+      BlobBossTri_Hit_12: -9164705213579217418
+      BlobBossTri_Hit_13: -3343466462548642300
+      BlobBossTri_Hit_14: -9217550261269295994
+      BlobBossTri_Hit_15: 8865868628082916249
+      BlobBossTri_Hit_16: -2924022183794519344
+      BlobBossTri_Hit_17: -1803242961858466777
+      BlobBossTri_Hit_18: -3592219391335374713
+      BlobBossTri_Hit_19: -6387543541765087485
+      BlobBossTri_Hit_2: -5767517452744052996
+      BlobBossTri_Hit_20: -2076294601689778296
+      BlobBossTri_Hit_21: 1017060315941211801
+      BlobBossTri_Hit_22: 3543971591194378068
+      BlobBossTri_Hit_23: -3993421379852273091
+      BlobBossTri_Hit_3: 7435434824637851018
+      BlobBossTri_Hit_4: 8720167707898201215
+      BlobBossTri_Hit_5: 5925974649484333242
+      BlobBossTri_Hit_6: -4181918638238327774
+      BlobBossTri_Hit_7: 2648629516965385031
+      BlobBossTri_Hit_8: 3923314773074723873
+      BlobBossTri_Hit_9: -8865745465126614450
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

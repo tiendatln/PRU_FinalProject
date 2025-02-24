@@ -1,0 +1,4979 @@
+fileFormatVersion: 2
+guid: 46355d2095accad4394a88c296e5f1b8
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3660649765393425760
+    second: RedExplosion_0
+  - first:
+      213: -1755475675187355871
+    second: RedExplosion_1
+  - first:
+      213: 546687648020678664
+    second: RedExplosion_2
+  - first:
+      213: -5751089245759872176
+    second: RedExplosion_3
+  - first:
+      213: 4974713358092969298
+    second: RedExplosion_4
+  - first:
+      213: -4878549808465795981
+    second: RedExplosion_5
+  - first:
+      213: -4176211560734188839
+    second: RedExplosion_6
+  - first:
+      213: -333869430615686034
+    second: RedExplosion_7
+  - first:
+      213: -199294914764793618
+    second: RedExplosion_8
+  - first:
+      213: -6156292254046947399
+    second: RedExplosion_9
+  - first:
+      213: -1631328579277027467
+    second: RedExplosion_10
+  - first:
+      213: -4111435569829438120
+    second: RedExplosion_11
+  - first:
+      213: 1851539231417213347
+    second: RedExplosion_12
+  - first:
+      213: 4824729188485468604
+    second: RedExplosion_13
+  - first:
+      213: 7182023044183632560
+    second: RedExplosion_14
+  - first:
+      213: 1096424779139253535
+    second: RedExplosion_15
+  - first:
+      213: 349035583397511556
+    second: RedExplosion_16
+  - first:
+      213: 7577337288233562739
+    second: RedExplosion_17
+  - first:
+      213: 3582838396262466092
+    second: RedExplosion_18
+  - first:
+      213: 1127115199130277734
+    second: RedExplosion_19
+  - first:
+      213: -1293818189575450712
+    second: RedExplosion_20
+  - first:
+      213: -7273999421146197718
+    second: RedExplosion_21
+  - first:
+      213: 8596420679730180959
+    second: RedExplosion_22
+  - first:
+      213: 2019889368522081826
+    second: RedExplosion_23
+  - first:
+      213: -849398482327091544
+    second: RedExplosion_24
+  - first:
+      213: 3012446344385364155
+    second: RedExplosion_25
+  - first:
+      213: -3137573144135892322
+    second: RedExplosion_26
+  - first:
+      213: 6423455819170721475
+    second: RedExplosion_27
+  - first:
+      213: -5241690203778758092
+    second: RedExplosion_28
+  - first:
+      213: 1607302486086948498
+    second: RedExplosion_29
+  - first:
+      213: 8209615272804761561
+    second: RedExplosion_30
+  - first:
+      213: -6512730024120130027
+    second: RedExplosion_31
+  - first:
+      213: 3135745850969337368
+    second: RedExplosion_32
+  - first:
+      213: 167179251321025537
+    second: RedExplosion_33
+  - first:
+      213: -4518558160539249226
+    second: RedExplosion_34
+  - first:
+      213: 4805594074957345414
+    second: RedExplosion_35
+  - first:
+      213: 540689485948703779
+    second: RedExplosion_36
+  - first:
+      213: 8172236240930594530
+    second: RedExplosion_37
+  - first:
+      213: -331927362579563935
+    second: RedExplosion_38
+  - first:
+      213: 923324822977080769
+    second: RedExplosion_39
+  - first:
+      213: 344223540230489329
+    second: RedExplosion_40
+  - first:
+      213: 3603134462690329612
+    second: RedExplosion_41
+  - first:
+      213: 3748644049941435691
+    second: RedExplosion_42
+  - first:
+      213: 5878550045120014939
+    second: RedExplosion_43
+  - first:
+      213: 2436975558586787540
+    second: RedExplosion_44
+  - first:
+      213: -6370167346275893953
+    second: RedExplosion_45
+  - first:
+      213: -3828730303716047455
+    second: RedExplosion_46
+  - first:
+      213: 6263809176248238603
+    second: RedExplosion_47
+  - first:
+      213: 3141196715049600520
+    second: RedExplosion_48
+  - first:
+      213: -939251158342178923
+    second: RedExplosion_49
+  - first:
+      213: -5406241065991066279
+    second: RedExplosion_50
+  - first:
+      213: 51433633385079192
+    second: RedExplosion_51
+  - first:
+      213: 8200450667214154453
+    second: RedExplosion_52
+  - first:
+      213: -8529124280098218721
+    second: RedExplosion_53
+  - first:
+      213: -4560419379981999219
+    second: RedExplosion_54
+  - first:
+      213: 505933461536384370
+    second: RedExplosion_55
+  - first:
+      213: -6390954333764520212
+    second: RedExplosion_56
+  - first:
+      213: 3570228131307922095
+    second: RedExplosion_57
+  - first:
+      213: -4494707808454118275
+    second: RedExplosion_58
+  - first:
+      213: 6868856066830618253
+    second: RedExplosion_59
+  - first:
+      213: -5535860694039845624
+    second: RedExplosion_60
+  - first:
+      213: 6273142592646485568
+    second: RedExplosion_61
+  - first:
+      213: 4305331426646032292
+    second: RedExplosion_62
+  - first:
+      213: -6386273524286112099
+    second: RedExplosion_63
+  - first:
+      213: 4351400751209482628
+    second: RedExplosion_64
+  - first:
+      213: -1649368947258622571
+    second: RedExplosion_65
+  - first:
+      213: -2982995468173579584
+    second: RedExplosion_66
+  - first:
+      213: 5775343886799366954
+    second: RedExplosion_67
+  - first:
+      213: 16190998197642543
+    second: RedExplosion_68
+  - first:
+      213: -9197405586968057645
+    second: RedExplosion_69
+  - first:
+      213: -930169508006782414
+    second: RedExplosion_70
+  - first:
+      213: 7635898725029274192
+    second: RedExplosion_71
+  - first:
+      213: -8643714321261061721
+    second: RedExplosion_72
+  - first:
+      213: 6493577597822340501
+    second: RedExplosion_73
+  - first:
+      213: -951801478588925838
+    second: RedExplosion_74
+  - first:
+      213: 3735619519890993622
+    second: RedExplosion_75
+  - first:
+      213: 5651449489779335002
+    second: RedExplosion_76
+  - first:
+      213: -3202709002867104229
+    second: RedExplosion_77
+  - first:
+      213: -8397081831596295808
+    second: RedExplosion_78
+  - first:
+      213: 7627047004379465492
+    second: RedExplosion_79
+  - first:
+      213: 169690641098575859
+    second: RedExplosion_80
+  - first:
+      213: -5022979823084406680
+    second: RedExplosion_81
+  - first:
+      213: 2840283174506112643
+    second: RedExplosion_82
+  - first:
+      213: -5935336136787354803
+    second: RedExplosion_83
+  - first:
+      213: 6330738657910978898
+    second: RedExplosion_84
+  - first:
+      213: 3337051475596077742
+    second: RedExplosion_85
+  - first:
+      213: -8205054259165172452
+    second: RedExplosion_86
+  - first:
+      213: -7469996837007498947
+    second: RedExplosion_87
+  - first:
+      213: 1239813217005898037
+    second: RedExplosion_88
+  - first:
+      213: 2196161681535166386
+    second: RedExplosion_89
+  - first:
+      213: -382911029164673330
+    second: RedExplosion_90
+  - first:
+      213: -7484371005009808337
+    second: RedExplosion_91
+  - first:
+      213: -7680678762290851778
+    second: RedExplosion_92
+  - first:
+      213: 4672558320290312665
+    second: RedExplosion_93
+  - first:
+      213: 8721541964467786677
+    second: RedExplosion_94
+  - first:
+      213: 7153279333730179594
+    second: RedExplosion_95
+  - first:
+      213: -3037429705356546235
+    second: RedExplosion_96
+  - first:
+      213: 7626910884054653791
+    second: RedExplosion_97
+  - first:
+      213: 5755876302526676841
+    second: RedExplosion_98
+  - first:
+      213: -2946396596884610663
+    second: RedExplosion_99
+  - first:
+      213: -6729794326702682002
+    second: RedExplosion_100
+  - first:
+      213: 7186731764872937203
+    second: RedExplosion_101
+  - first:
+      213: 909268636743769451
+    second: RedExplosion_102
+  - first:
+      213: -4465155956027120560
+    second: RedExplosion_103
+  - first:
+      213: 5943676724135775304
+    second: RedExplosion_104
+  - first:
+      213: -8063115744289288311
+    second: RedExplosion_105
+  - first:
+      213: -12585392626945277
+    second: RedExplosion_106
+  - first:
+      213: -79017077811277877
+    second: RedExplosion_107
+  - first:
+      213: 2877467190934647699
+    second: RedExplosion_108
+  - first:
+      213: 6510138225623678779
+    second: RedExplosion_109
+  - first:
+      213: -7281575243850336329
+    second: RedExplosion_110
+  - first:
+      213: 1240187574440759939
+    second: RedExplosion_111
+  - first:
+      213: -381382598439565111
+    second: RedExplosion_112
+  - first:
+      213: -2348854314344988809
+    second: RedExplosion_113
+  - first:
+      213: 1128651406476306054
+    second: RedExplosion_114
+  - first:
+      213: -1270638583199035407
+    second: RedExplosion_115
+  - first:
+      213: -5692560208491381634
+    second: RedExplosion_116
+  - first:
+      213: 8205365567858581352
+    second: RedExplosion_117
+  - first:
+      213: 4716317367688666654
+    second: RedExplosion_118
+  - first:
+      213: -1286046952334093874
+    second: RedExplosion_119
+  - first:
+      213: -5628224371465040790
+    second: RedExplosion_120
+  - first:
+      213: 4093507388958622188
+    second: RedExplosion_121
+  - first:
+      213: 5529182522186546355
+    second: RedExplosion_122
+  - first:
+      213: -5317119543963694529
+    second: RedExplosion_123
+  - first:
+      213: 1907393704729173373
+    second: RedExplosion_124
+  - first:
+      213: -8159496240433419013
+    second: RedExplosion_125
+  - first:
+      213: 7351376462469531472
+    second: RedExplosion_126
+  - first:
+      213: 4637543037889743274
+    second: RedExplosion_127
+  - first:
+      213: 7216011595788588634
+    second: RedExplosion_128
+  - first:
+      213: 4858425391750665597
+    second: RedExplosion_129
+  - first:
+      213: -5479479602847107811
+    second: RedExplosion_130
+  - first:
+      213: 8974047265172932687
+    second: RedExplosion_131
+  - first:
+      213: -8848329135407761390
+    second: RedExplosion_132
+  - first:
+      213: -6844043768866315666
+    second: RedExplosion_133
+  - first:
+      213: 2096241768108163147
+    second: RedExplosion_134
+  - first:
+      213: -5698743217504072364
+    second: RedExplosion_135
+  - first:
+      213: 2517919165049069529
+    second: RedExplosion_136
+  - first:
+      213: 7240272987752332727
+    second: RedExplosion_137
+  - first:
+      213: 8193634070748544798
+    second: RedExplosion_138
+  - first:
+      213: 2269639900037734431
+    second: RedExplosion_139
+  - first:
+      213: -360387792644254679
+    second: RedExplosion_140
+  - first:
+      213: -7704670009359099219
+    second: RedExplosion_141
+  - first:
+      213: 2699472172380581036
+    second: RedExplosion_142
+  - first:
+      213: -6240529063072883174
+    second: RedExplosion_143
+  - first:
+      213: 2874432370000905647
+    second: RedExplosion_144
+  - first:
+      213: 275778785178115551
+    second: RedExplosion_145
+  - first:
+      213: 6303961565519087587
+    second: RedExplosion_146
+  - first:
+      213: -1153156227608703792
+    second: RedExplosion_147
+  - first:
+      213: 871127681834586956
+    second: RedExplosion_148
+  - first:
+      213: 5302267157908780676
+    second: RedExplosion_149
+  - first:
+      213: 8129185727997099381
+    second: RedExplosion_150
+  - first:
+      213: -2454537636446897075
+    second: RedExplosion_151
+  - first:
+      213: -5628093845791731996
+    second: RedExplosion_152
+  - first:
+      213: -3198528647781884852
+    second: RedExplosion_153
+  - first:
+      213: -8206408666153187477
+    second: RedExplosion_154
+  - first:
+      213: -8317076811319035029
+    second: RedExplosion_155
+  - first:
+      213: 1324771127727453361
+    second: RedExplosion_156
+  - first:
+      213: -2321867915194536038
+    second: RedExplosion_157
+  - first:
+      213: -4307181735620638041
+    second: RedExplosion_158
+  - first:
+      213: -8332202090337290411
+    second: RedExplosion_159
+  - first:
+      213: -2992229094369727685
+    second: RedExplosion_160
+  - first:
+      213: -7841841180330821953
+    second: RedExplosion_161
+  - first:
+      213: -8303006967151268461
+    second: RedExplosion_162
+  - first:
+      213: 1319048083414697478
+    second: RedExplosion_163
+  - first:
+      213: 1389780943268557299
+    second: RedExplosion_164
+  - first:
+      213: -4438216108154082274
+    second: RedExplosion_165
+  - first:
+      213: -8424329678316265580
+    second: RedExplosion_166
+  - first:
+      213: -6957667589258100092
+    second: RedExplosion_167
+  - first:
+      213: 6071659747616236536
+    second: RedExplosion_168
+  - first:
+      213: 886239904182831896
+    second: RedExplosion_169
+  - first:
+      213: -6494615083976520831
+    second: RedExplosion_170
+  - first:
+      213: -3066240554758189333
+    second: RedExplosion_171
+  - first:
+      213: -7790690517995605568
+    second: RedExplosion_172
+  - first:
+      213: 3954994082164506531
+    second: RedExplosion_173
+  - first:
+      213: 1425017132070141577
+    second: RedExplosion_174
+  - first:
+      213: 2922078855646912020
+    second: RedExplosion_175
+  - first:
+      213: -7476060869025033880
+    second: RedExplosion_176
+  - first:
+      213: -164556189083194327
+    second: RedExplosion_177
+  - first:
+      213: 3036270865447958035
+    second: RedExplosion_178
+  - first:
+      213: 2528383022128444147
+    second: RedExplosion_179
+  - first:
+      213: -8418821950219216104
+    second: RedExplosion_180
+  - first:
+      213: 6156730031984633762
+    second: RedExplosion_181
+  - first:
+      213: -5294248803321874343
+    second: RedExplosion_182
+  - first:
+      213: 5443753225839111227
+    second: RedExplosion_183
+  - first:
+      213: -9079441706743807758
+    second: RedExplosion_184
+  - first:
+      213: 3624811914291036675
+    second: RedExplosion_185
+  - first:
+      213: -5812463575050898627
+    second: RedExplosion_186
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedExplosion_0
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 4143
+        width: 842
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa9b9eee62c23dc0800000000000000
+      internalID: -3660649765393425760
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_1
+      rect:
+        serializedVersion: 2
+        x: 2151
+        y: 4241
+        width: 861
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12f5e90ac2c43a7e0800000000000000
+      internalID: -1755475675187355871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_2
+      rect:
+        serializedVersion: 2
+        x: 2591
+        y: 4961
+        width: 143
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 808cd57f489369700800000000000000
+      internalID: 546687648020678664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_3
+      rect:
+        serializedVersion: 2
+        x: 3297
+        y: 4901
+        width: 185
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 053e9e23dc60030b0800000000000000
+      internalID: -5751089245759872176
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_4
+      rect:
+        serializedVersion: 2
+        x: 3506
+        y: 5050
+        width: 18
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 255a588217bb90540800000000000000
+      internalID: 4974713358092969298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_5
+      rect:
+        serializedVersion: 2
+        x: 3634
+        y: 5008
+        width: 118
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374a85ffbc8eb4cb0800000000000000
+      internalID: -4878549808465795981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_6
+      rect:
+        serializedVersion: 2
+        x: 4317
+        y: 4938
+        width: 166
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da1f8746bd1b06c0800000000000000
+      internalID: -4176211560734188839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_7
+      rect:
+        serializedVersion: 2
+        x: 4684
+        y: 5061
+        width: 82
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e644ac2958bdd5bf0800000000000000
+      internalID: -333869430615686034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_8
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 4835
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee817e7b456fb3df0800000000000000
+      internalID: -199294914764793618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_9
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 4164
+        width: 815
+        height: 892
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b7fa08ffc4709aa0800000000000000
+      internalID: -6156292254046947399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_10
+      rect:
+        serializedVersion: 2
+        x: 3152
+        y: 4219
+        width: 903
+        height: 739
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5770040ec4b5c59e0800000000000000
+      internalID: -1631328579277027467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_11
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 4196
+        width: 939
+        height: 783
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85d196fe12f31f6c0800000000000000
+      internalID: -4111435569829438120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_12
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 4633
+        width: 126
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a1a2500f1df1b910800000000000000
+      internalID: 1851539231417213347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_13
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 4660
+        width: 76
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb1922962a1e4f240800000000000000
+      internalID: 4824729188485468604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_14
+      rect:
+        serializedVersion: 2
+        x: 878
+        y: 4228
+        width: 119
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ba2c3d18ebaba360800000000000000
+      internalID: 7182023044183632560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_15
+      rect:
+        serializedVersion: 2
+        x: 2665
+        y: 4126
+        width: 222
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f15088b0788473f00800000000000000
+      internalID: 1096424779139253535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_16
+      rect:
+        serializedVersion: 2
+        x: 3805
+        y: 4134
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 481416a830608d400800000000000000
+      internalID: 349035583397511556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_17
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 4112
+        width: 51
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 372bb700e1c182960800000000000000
+      internalID: 7577337288233562739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_18
+      rect:
+        serializedVersion: 2
+        x: 4885
+        y: 4130
+        width: 40
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c22cad8e98cc8b130800000000000000
+      internalID: 3582838396262466092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_19
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 3953
+        width: 141
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6679a194d4154af00800000000000000
+      internalID: 1127115199130277734
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_20
+      rect:
+        serializedVersion: 2
+        x: 1250
+        y: 3997
+        width: 105
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8af8a66263f6b0ee0800000000000000
+      internalID: -1293818189575450712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_21
+      rect:
+        serializedVersion: 2
+        x: 2297
+        y: 4063
+        width: 26
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a211f26d0109d0b90800000000000000
+      internalID: -7273999421146197718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_22
+      rect:
+        serializedVersion: 2
+        x: 3645
+        y: 3972
+        width: 51
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f53b32bff0f9c4770800000000000000
+      internalID: 8596420679730180959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_23
+      rect:
+        serializedVersion: 2
+        x: 4691
+        y: 4015
+        width: 20
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 226c858cda6180c10800000000000000
+      internalID: 2019889368522081826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_24
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 3150
+        width: 973
+        height: 783
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a64324a4945634f0800000000000000
+      internalID: -849398482327091544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_25
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 3833
+        width: 127
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb083065dfb5ec920800000000000000
+      internalID: 3012446344385364155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_26
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 3177
+        width: 991
+        height: 770
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9289f659d91574d0800000000000000
+      internalID: -3137573144135892322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_27
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 3885
+        width: 108
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ce261cd803b42950800000000000000
+      internalID: 6423455819170721475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_28
+      rect:
+        serializedVersion: 2
+        x: 2598
+        y: 3926
+        width: 86
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43a4f150886c147b0800000000000000
+      internalID: -5241690203778758092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_29
+      rect:
+        serializedVersion: 2
+        x: 2795
+        y: 3845
+        width: 111
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29690d168194e4610800000000000000
+      internalID: 1607302486086948498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_30
+      rect:
+        serializedVersion: 2
+        x: 3850
+        y: 3878
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9df362e18996ee170800000000000000
+      internalID: 8209615272804761561
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_31
+      rect:
+        serializedVersion: 2
+        x: 4919
+        y: 3925
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5166c4a8c822e95a0800000000000000
+      internalID: -6512730024120130027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_32
+      rect:
+        serializedVersion: 2
+        x: 2071
+        y: 3298
+        width: 1002
+        height: 595
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81eaee0dc38648b20800000000000000
+      internalID: 3135745850969337368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_33
+      rect:
+        serializedVersion: 2
+        x: 3173
+        y: 3304
+        width: 924
+        height: 603
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1043ec0b4a0f15200800000000000000
+      internalID: 167179251321025537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_34
+      rect:
+        serializedVersion: 2
+        x: 4181
+        y: 3289
+        width: 770
+        height: 632
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b59d181b4bda41c0800000000000000
+      internalID: -4518558160539249226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_35
+      rect:
+        serializedVersion: 2
+        x: 4781
+        y: 3571
+        width: 222
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 682fd8c9956e0b240800000000000000
+      internalID: 4805594074957345414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_36
+      rect:
+        serializedVersion: 2
+        x: 5029
+        y: 3800
+        width: 28
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 324d2c7093ae08700800000000000000
+      internalID: 540689485948703779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_37
+      rect:
+        serializedVersion: 2
+        x: 2064
+        y: 3782
+        width: 19
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2eedd31109d996170800000000000000
+      internalID: 8172236240930594530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_38
+      rect:
+        serializedVersion: 2
+        x: 2063
+        y: 3686
+        width: 26
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a763682d1c46bf0800000000000000
+      internalID: -331927362579563935
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_39
+      rect:
+        serializedVersion: 2
+        x: 3079
+        y: 3437
+        width: 183
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cd69d5d80f40dc00800000000000000
+      internalID: 923324822977080769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_40
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 3438
+        width: 157
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f404ce6c7de6c400800000000000000
+      internalID: 344223540230489329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_41
+      rect:
+        serializedVersion: 2
+        x: 4963
+        y: 3313
+        width: 132
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0400ae14b7e00230800000000000000
+      internalID: 3603134462690329612
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_42
+      rect:
+        serializedVersion: 2
+        x: 1608
+        y: 3133
+        width: 182
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b25142af6ebd50430800000000000000
+      internalID: 3748644049941435691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_43
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 3184
+        width: 144
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5a2cb1ce1ec49150800000000000000
+      internalID: 5878550045120014939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_44
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 3154
+        width: 144
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d6efdfdb50e1d120800000000000000
+      internalID: 2436975558586787540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_45
+      rect:
+        serializedVersion: 2
+        x: 2653
+        y: 3114
+        width: 166
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3dbe659c8e9897a0800000000000000
+      internalID: -6370167346275893953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_46
+      rect:
+        serializedVersion: 2
+        x: 3102
+        y: 3268
+        width: 84
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a54b32031e9ddac0800000000000000
+      internalID: -3828730303716047455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_47
+      rect:
+        serializedVersion: 2
+        x: 3508
+        y: 3132
+        width: 130
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b02cb1b32458de650800000000000000
+      internalID: 6263809176248238603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_48
+      rect:
+        serializedVersion: 2
+        x: 3696
+        y: 3098
+        width: 149
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 806c72205c5c79b20800000000000000
+      internalID: 3141196715049600520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_49
+      rect:
+        serializedVersion: 2
+        x: 4538
+        y: 3116
+        width: 116
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597e3204c0c17f2f0800000000000000
+      internalID: -939251158342178923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_50
+      rect:
+        serializedVersion: 2
+        x: 4741
+        y: 3085
+        width: 128
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95d297bd46c29f4b0800000000000000
+      internalID: -5406241065991066279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_51
+      rect:
+        serializedVersion: 2
+        x: 863
+        y: 2944
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 891ec67fd9ab6b000800000000000000
+      internalID: 51433633385079192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_52
+      rect:
+        serializedVersion: 2
+        x: 4220
+        y: 2851
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5da2a691f6addc170800000000000000
+      internalID: 8200450667214154453
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_53
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 2725
+        width: 246
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1d169f08a672a980800000000000000
+      internalID: -8529124280098218721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_54
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 2746
+        width: 235
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d83ad5d6cb226b0c0800000000000000
+      internalID: -4560419379981999219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_55
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 2768
+        width: 221
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2752cde7dcf650700800000000000000
+      internalID: 505933461536384370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_56
+      rect:
+        serializedVersion: 2
+        x: 2814
+        y: 2578
+        width: 186
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce6f838e4e4ce47a0800000000000000
+      internalID: -6390954333764520212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_57
+      rect:
+        serializedVersion: 2
+        x: 3114
+        y: 2797
+        width: 202
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa227bdc19ffb8130800000000000000
+      internalID: 3570228131307922095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_58
+      rect:
+        serializedVersion: 2
+        x: 3910
+        y: 2721
+        width: 126
+        height: 128
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74faebef079f91c0800000000000000
+      internalID: -4494707808454118275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_59
+      rect:
+        serializedVersion: 2
+        x: 4130
+        y: 2844
+        width: 38
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8ec9b43334135f50800000000000000
+      internalID: 6868856066830618253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_60
+      rect:
+        serializedVersion: 2
+        x: 4962
+        y: 2740
+        width: 108
+        height: 111
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 80525bd670cac23b0800000000000000
+      internalID: -5535860694039845624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_61
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 2251
+        width: 737
+        height: 531
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 046111493fdae0750800000000000000
+      internalID: 6273142592646485568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_62
+      rect:
+        serializedVersion: 2
+        x: 712
+        y: 2559
+        width: 212
+        height: 271
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4afff853f1c9fbb30800000000000000
+      internalID: 4305331426646032292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_63
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 2236
+        width: 563
+        height: 555
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9eb17ac0166f57a0800000000000000
+      internalID: -6386273524286112099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_64
+      rect:
+        serializedVersion: 2
+        x: 1762
+        y: 2568
+        width: 200
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4898533bde7436c30800000000000000
+      internalID: 4351400751209482628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_65
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 2683
+        width: 9
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59df6136ea34c19e0800000000000000
+      internalID: -1649368947258622571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_66
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 2222
+        width: 576
+        height: 578
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cae9e02d654a96d0800000000000000
+      internalID: -2982995468173579584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_67
+      rect:
+        serializedVersion: 2
+        x: 3163
+        y: 2636
+        width: 89
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a2b666c7aa4262050800000000000000
+      internalID: 5775343886799366954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_68
+      rect:
+        serializedVersion: 2
+        x: 3237
+        y: 2208
+        width: 522
+        height: 601
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f25212880a5893000800000000000000
+      internalID: 16190998197642543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_69
+      rect:
+        serializedVersion: 2
+        x: 3865
+        y: 2588
+        width: 122
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d8639d39504c5080800000000000000
+      internalID: -9197405586968057645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_70
+      rect:
+        serializedVersion: 2
+        x: 4175
+        y: 2654
+        width: 66
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23a1b5eb2cf5713f0800000000000000
+      internalID: -930169508006782414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_71
+      rect:
+        serializedVersion: 2
+        x: 4247
+        y: 2310
+        width: 542
+        height: 508
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0526a360f6928f960800000000000000
+      internalID: 7635898725029274192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_72
+      rect:
+        serializedVersion: 2
+        x: 4917
+        y: 2599
+        width: 109
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a917450f9b5b0880800000000000000
+      internalID: -8643714321261061721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_73
+      rect:
+        serializedVersion: 2
+        x: 3199
+        y: 2565
+        width: 19
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59d82a7bb62dd1a50800000000000000
+      internalID: 6493577597822340501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_74
+      rect:
+        serializedVersion: 2
+        x: 4201
+        y: 2567
+        width: 18
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 278f30c19958ac2f0800000000000000
+      internalID: -951801478588925838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_75
+      rect:
+        serializedVersion: 2
+        x: 22
+        y: 2417
+        width: 98
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d13e13492697d330800000000000000
+      internalID: 3735619519890993622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_76
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 2428
+        width: 72
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5f1c584e5bfd6e40800000000000000
+      internalID: 5651449489779335002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_77
+      rect:
+        serializedVersion: 2
+        x: 1813
+        y: 2473
+        width: 20
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b16292d6121bd83d0800000000000000
+      internalID: -3202709002867104229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_78
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 2445
+        width: 35
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 089f0d55092977b80800000000000000
+      internalID: -8397081831596295808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_79
+      rect:
+        serializedVersion: 2
+        x: 2859
+        y: 2469
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 417ce3537d6b8d960800000000000000
+      internalID: 7627047004379465492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_80
+      rect:
+        serializedVersion: 2
+        x: 3904
+        y: 2465
+        width: 16
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff83603dbcda5200800000000000000
+      internalID: 169690641098575859
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_81
+      rect:
+        serializedVersion: 2
+        x: 4949
+        y: 2461
+        width: 14
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 868791bb67aca4ab0800000000000000
+      internalID: -5022979823084406680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_82
+      rect:
+        serializedVersion: 2
+        x: 902
+        y: 2290
+        width: 105
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386a4fdaf76ba6720800000000000000
+      internalID: 2840283174506112643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_83
+      rect:
+        serializedVersion: 2
+        x: 1635
+        y: 2343
+        width: 99
+        height: 98
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b1048fa3371ada0800000000000000
+      internalID: -5935336136787354803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_84
+      rect:
+        serializedVersion: 2
+        x: 1760
+        y: 2280
+        width: 150
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259fd96844d4bd750800000000000000
+      internalID: 6330738657910978898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_85
+      rect:
+        serializedVersion: 2
+        x: 1968
+        y: 2298
+        width: 73
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaae818f2a69f4e20800000000000000
+      internalID: 3337051475596077742
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_86
+      rect:
+        serializedVersion: 2
+        x: 2683
+        y: 2340
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1d67af9f9ac12e80800000000000000
+      internalID: -8205054259165172452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_87
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 2272
+        width: 141
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3160e8547d355890800000000000000
+      internalID: -7469996837007498947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_88
+      rect:
+        serializedVersion: 2
+        x: 3737
+        y: 2345
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53988735d83b43110800000000000000
+      internalID: 1239813217005898037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_89
+      rect:
+        serializedVersion: 2
+        x: 3857
+        y: 2265
+        width: 131
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b76a31e9655a7e10800000000000000
+      internalID: 2196161681535166386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_90
+      rect:
+        serializedVersion: 2
+        x: 4785
+        y: 2342
+        width: 14
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec67f0e9270afaaf0800000000000000
+      internalID: -382911029164673330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_91
+      rect:
+        serializedVersion: 2
+        x: 4905
+        y: 2259
+        width: 116
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24382f893c222890800000000000000
+      internalID: -7484371005009808337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_92
+      rect:
+        serializedVersion: 2
+        x: 4566
+        y: 2194
+        width: 134
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3054c31c5fb86590800000000000000
+      internalID: -7680678762290851778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_93
+      rect:
+        serializedVersion: 2
+        x: 450
+        y: 2074
+        width: 98
+        height: 92
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d13339390348d040800000000000000
+      internalID: 4672558320290312665
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_94
+      rect:
+        serializedVersion: 2
+        x: 672
+        y: 2052
+        width: 96
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b3d3cd3534290970800000000000000
+      internalID: 8721541964467786677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_95
+      rect:
+        serializedVersion: 2
+        x: 1487
+        y: 2065
+        width: 70
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0a512287ad854360800000000000000
+      internalID: 7153279333730179594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_96
+      rect:
+        serializedVersion: 2
+        x: 1729
+        y: 2047
+        width: 51
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54fe006a6c1e8d5d0800000000000000
+      internalID: -3037429705356546235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_97
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 2047
+        width: 20
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5b53a93a0b38d960800000000000000
+      internalID: 7626910884054653791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_98
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1861
+        width: 59
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96ff03f400bf0ef40800000000000000
+      internalID: 5755876302526676841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_99
+      rect:
+        serializedVersion: 2
+        x: 1142
+        y: 1912
+        width: 15
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 991e543e7eb4c17d0800000000000000
+      internalID: -2946396596884610663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_100
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 1314
+        width: 519
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e60927147b7fa92a0800000000000000
+      internalID: -6729794326702682002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_101
+      rect:
+        serializedVersion: 2
+        x: 894
+        y: 1741
+        width: 87
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe744596766cb360800000000000000
+      internalID: 7186731764872937203
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_102
+      rect:
+        serializedVersion: 2
+        x: 1193
+        y: 1310
+        width: 535
+        height: 499
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6d1482f10f5e9c00800000000000000
+      internalID: 909268636743769451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_103
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 1770
+        width: 54
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 054a84eb0549802c0800000000000000
+      internalID: -4465155956027120560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_104
+      rect:
+        serializedVersion: 2
+        x: 2209
+        y: 1305
+        width: 548
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84cced95d7e2c7250800000000000000
+      internalID: 5943676724135775304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_105
+      rect:
+        serializedVersion: 2
+        x: 3228
+        y: 1412
+        width: 336
+        height: 410
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98f07c663fe0a1090800000000000000
+      internalID: -8063115744289288311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_106
+      rect:
+        serializedVersion: 2
+        x: 4254
+        y: 1418
+        width: 324
+        height: 408
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 303bc1fe6a943dff0800000000000000
+      internalID: -12585392626945277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_107
+      rect:
+        serializedVersion: 2
+        x: 3644
+        y: 1737
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcf8ed9e26647eef0800000000000000
+      internalID: -79017077811277877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_108
+      rect:
+        serializedVersion: 2
+        x: 4675
+        y: 1750
+        width: 9
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39330882a21dee720800000000000000
+      internalID: 2877467190934647699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_109
+      rect:
+        serializedVersion: 2
+        x: 72
+        y: 1656
+        width: 33
+        height: 30
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3fbdf85938a85a50800000000000000
+      internalID: 6510138225623678779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_110
+      rect:
+        serializedVersion: 2
+        x: 850
+        y: 1586
+        width: 94
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b7b50925e5a2fa90800000000000000
+      internalID: -7281575243850336329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_111
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 1668
+        width: 23
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38215653708063110800000000000000
+      internalID: 1240187574440759939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_112
+      rect:
+        serializedVersion: 2
+        x: 1904
+        y: 1600
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c88e702c8e05baf0800000000000000
+      internalID: -381382598439565111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_113
+      rect:
+        serializedVersion: 2
+        x: 2963
+        y: 1618
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77fb2542271376fd0800000000000000
+      internalID: -2348854314344988809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_114
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 1303
+        width: 274
+        height: 356
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 686e34e6976c9af00800000000000000
+      internalID: 1128651406476306054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_115
+      rect:
+        serializedVersion: 2
+        x: 4022
+        y: 1637
+        width: 26
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ff0482d0f8cd5ee0800000000000000
+      internalID: -1270638583199035407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_116
+      rect:
+        serializedVersion: 2
+        x: 4658
+        y: 1539
+        width: 117
+        height: 124
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e7cf85e96a6fff0b0800000000000000
+      internalID: -5692560208491381634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_117
+      rect:
+        serializedVersion: 2
+        x: 5072
+        y: 1646
+        width: 16
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f9e6492805fd170800000000000000
+      internalID: 8205365567858581352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_118
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 1339
+        width: 226
+        height: 209
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1e961568a9b37140800000000000000
+      internalID: 4716317367688666654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_119
+      rect:
+        serializedVersion: 2
+        x: 1147
+        y: 1335
+        width: 165
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec117a15c1b072ee0800000000000000
+      internalID: -1286046952334093874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_120
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 1333
+        width: 157
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6c41a6f0c784e1b0800000000000000
+      internalID: -5628224371465040790
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_121
+      rect:
+        serializedVersion: 2
+        x: 3169
+        y: 1330
+        width: 147
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1c05c284f0fc830800000000000000
+      internalID: 4093507388958622188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_122
+      rect:
+        serializedVersion: 2
+        x: 4181
+        y: 1329
+        width: 136
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bc3a35853a9bbc40800000000000000
+      internalID: 5529182522186546355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_123
+      rect:
+        serializedVersion: 2
+        x: 4486
+        y: 1409
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ac1c132fbc536b0800000000000000
+      internalID: -5317119543963694529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_124
+      rect:
+        serializedVersion: 2
+        x: 4545
+        y: 1303
+        width: 270
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7dd239f77c687a10800000000000000
+      internalID: 1907393704729173373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_125
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1305
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bfca4d27665a3ce80800000000000000
+      internalID: -8159496240433419013
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_126
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 1233
+        width: 103
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0570aaf71f5550660800000000000000
+      internalID: 7351376462469531472
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_127
+      rect:
+        serializedVersion: 2
+        x: 1884
+        y: 1231
+        width: 83
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa9010c72dcdb5040800000000000000
+      internalID: 4637543037889743274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_128
+      rect:
+        serializedVersion: 2
+        x: 447
+        y: 1278
+        width: 10
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a561416705c642460800000000000000
+      internalID: 7216011595788588634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_129
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 1292
+        width: 12
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d75590b17289c6340800000000000000
+      internalID: 4858425391750665597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_130
+      rect:
+        serializedVersion: 2
+        x: 476
+        y: 1156
+        width: 126
+        height: 129
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d15bc4e255af4f3b0800000000000000
+      internalID: -5479479602847107811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_131
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 1278
+        width: 10
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f48c23ee0783a8c70800000000000000
+      internalID: 8974047265172932687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_132
+      rect:
+        serializedVersion: 2
+        x: 2945
+        y: 1237
+        width: 49
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 218f744288b643580800000000000000
+      internalID: -8848329135407761390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_133
+      rect:
+        serializedVersion: 2
+        x: 1468
+        y: 1263
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e626f7914721501a0800000000000000
+      internalID: -6844043768866315666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_134
+      rect:
+        serializedVersion: 2
+        x: 1506
+        y: 1142
+        width: 116
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b408c6f18c8571d10800000000000000
+      internalID: 2096241768108163147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_135
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 1248
+        width: 7
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45dc086ac3ff9e0b0800000000000000
+      internalID: -5698743217504072364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_136
+      rect:
+        serializedVersion: 2
+        x: 4011
+        y: 1234
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dfd5edd32271f220800000000000000
+      internalID: 2517919165049069529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_137
+      rect:
+        serializedVersion: 2
+        x: 2536
+        y: 1129
+        width: 107
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bd75d7fbed9a7460800000000000000
+      internalID: 7240272987752332727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_138
+      rect:
+        serializedVersion: 2
+        x: 3511
+        y: 1118
+        width: 151
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1f318e86c2a5b170800000000000000
+      internalID: 8193634070748544798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_139
+      rect:
+        serializedVersion: 2
+        x: 4600
+        y: 1107
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f106dc9c6716f7f10800000000000000
+      internalID: 2269639900037734431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_140
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 796
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9245d064635affaf0800000000000000
+      internalID: -360387792644254679
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_141
+      rect:
+        serializedVersion: 2
+        x: 3249
+        y: 808
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: daa9b849273831590800000000000000
+      internalID: -7704670009359099219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_142
+      rect:
+        serializedVersion: 2
+        x: 193
+        y: 396
+        width: 279
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cacebcb63a3767520800000000000000
+      internalID: 2699472172380581036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_143
+      rect:
+        serializedVersion: 2
+        x: 1214
+        y: 398
+        width: 270
+        height: 403
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e1a0181ef2569a0800000000000000
+      internalID: -6240529063072883174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_144
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 716
+        width: 82
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa5c9c8d20904e720800000000000000
+      internalID: 2874432370000905647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_145
+      rect:
+        serializedVersion: 2
+        x: 2322
+        y: 400
+        width: 173
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdd512f0853c3d300800000000000000
+      internalID: 275778785178115551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_146
+      rect:
+        serializedVersion: 2
+        x: 2641
+        y: 765
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e70b7ed4ab2c7750800000000000000
+      internalID: 6303961565519087587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_147
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 736
+        width: 136
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0dc8ada458a2fffe0800000000000000
+      internalID: -1153156227608703792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_148
+      rect:
+        serializedVersion: 2
+        x: 3355
+        y: 696
+        width: 73
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4392cdd20ed61c00800000000000000
+      internalID: 871127681834586956
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_149
+      rect:
+        serializedVersion: 2
+        x: 3455
+        y: 744
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4867f5333ef659940800000000000000
+      internalID: 5302267157908780676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_150
+      rect:
+        serializedVersion: 2
+        x: 3669
+        y: 575
+        width: 80
+        height: 211
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d317e695ba0d070800000000000000
+      internalID: 8129185727997099381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_151
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 739
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c71cb360bbfedd0800000000000000
+      internalID: -2454537636446897075
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_152
+      rect:
+        serializedVersion: 2
+        x: 1612
+        y: 752
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ee8507577ef4e1b0800000000000000
+      internalID: -5628093845791731996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_153
+      rect:
+        serializedVersion: 2
+        x: 1152
+        y: 712
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4cdc01342b8c93d0800000000000000
+      internalID: -3198528647781884852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_154
+      rect:
+        serializedVersion: 2
+        x: 2164
+        y: 724
+        width: 11
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b67804c2ccafc1e80800000000000000
+      internalID: -8206408666153187477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_155
+      rect:
+        serializedVersion: 2
+        x: 145
+        y: 702
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6bb0b3b4bec39c80800000000000000
+      internalID: -8317076811319035029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_156
+      rect:
+        serializedVersion: 2
+        x: 577
+        y: 529
+        width: 105
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b473ec5258826210800000000000000
+      internalID: 1324771127727453361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_157
+      rect:
+        serializedVersion: 2
+        x: 1617
+        y: 541
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9fe373de6117cfd0800000000000000
+      internalID: -2321867915194536038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_158
+      rect:
+        serializedVersion: 2
+        x: 2659
+        y: 555
+        width: 72
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7aa08492801d934c0800000000000000
+      internalID: -4307181735620638041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_159
+      rect:
+        serializedVersion: 2
+        x: 3343
+        y: 543
+        width: 85
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 557bda048521e5c80800000000000000
+      internalID: -8332202090337290411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_160
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 305
+        width: 119
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3be08ffd777976d0800000000000000
+      internalID: -2992229094369727685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_161
+      rect:
+        serializedVersion: 2
+        x: 465
+        y: 312
+        width: 120
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb6f95d8efe2c2390800000000000000
+      internalID: -7841841180330821953
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_162
+      rect:
+        serializedVersion: 2
+        x: 588
+        y: 366
+        width: 136
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39dea53972bc5cc80800000000000000
+      internalID: -8303006967151268461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_163
+      rect:
+        serializedVersion: 2
+        x: 1144
+        y: 387
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 606c7954e333e4210800000000000000
+      internalID: 1319048083414697478
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_164
+      rect:
+        serializedVersion: 2
+        x: 1496
+        y: 309
+        width: 109
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f1312f876e794310800000000000000
+      internalID: 1389780943268557299
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_165
+      rect:
+        serializedVersion: 2
+        x: 1625
+        y: 364
+        width: 128
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1c2f0dd6f94862c0800000000000000
+      internalID: -4438216108154082274
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_166
+      rect:
+        serializedVersion: 2
+        x: 2162
+        y: 391
+        width: 22
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49f9d25aac4c61b80800000000000000
+      internalID: -8424329678316265580
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_167
+      rect:
+        serializedVersion: 2
+        x: 2662
+        y: 363
+        width: 119
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 482c50dd036617f90800000000000000
+      internalID: -6957667589258100092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_168
+      rect:
+        serializedVersion: 2
+        x: 3175
+        y: 390
+        width: 16
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f324b51f5ed24450800000000000000
+      internalID: 6071659747616236536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_169
+      rect:
+        serializedVersion: 2
+        x: 3363
+        y: 404
+        width: 74
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b08925f7e8c4c00800000000000000
+      internalID: 886239904182831896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_170
+      rect:
+        serializedVersion: 2
+        x: 3700
+        y: 362
+        width: 108
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18b8fa6bdfd7ed5a0800000000000000
+      internalID: -6494615083976520831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_171
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 379
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: beecdb906768275d0800000000000000
+      internalID: -3066240554758189333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_172
+      rect:
+        serializedVersion: 2
+        x: 1401
+        y: 372
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c13edf2048e1e390800000000000000
+      internalID: -7790690517995605568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_173
+      rect:
+        serializedVersion: 2
+        x: 2528
+        y: 306
+        width: 96
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3afff2cc926f2e630800000000000000
+      internalID: 3954994082164506531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_174
+      rect:
+        serializedVersion: 2
+        x: 3562
+        y: 304
+        width: 80
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98ef2e3188da6c310800000000000000
+      internalID: 1425017132070141577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_175
+      rect:
+        serializedVersion: 2
+        x: 2418
+        y: 366
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41e9384cc3f4d8820800000000000000
+      internalID: 2922078855646912020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_176
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 308
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 861909edf32bf3890800000000000000
+      internalID: -7476060869025033880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_177
+      rect:
+        serializedVersion: 2
+        x: 2112
+        y: 316
+        width: 28
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92caa14940167bdf0800000000000000
+      internalID: -164556189083194327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_178
+      rect:
+        serializedVersion: 2
+        x: 3122
+        y: 312
+        width: 18
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 316b4e8e340032a20800000000000000
+      internalID: 3036270865447958035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_179
+      rect:
+        serializedVersion: 2
+        x: 469
+        y: 290
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2381276fe961320800000000000000
+      internalID: 2528383022128444147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_180
+      rect:
+        serializedVersion: 2
+        x: 1495
+        y: 281
+        width: 8
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81b1ce58a065a2b80800000000000000
+      internalID: -8418821950219216104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_181
+      rect:
+        serializedVersion: 2
+        x: 2518
+        y: 271
+        width: 7
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a76c662859117550800000000000000
+      internalID: 6156730031984633762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_182
+      rect:
+        serializedVersion: 2
+        x: 3540
+        y: 261
+        width: 6
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 958767573cc0786b0800000000000000
+      internalID: -5294248803321874343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_183
+      rect:
+        serializedVersion: 2
+        x: 515
+        y: 75
+        width: 61
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b3ce60777b81c8b40800000000000000
+      internalID: 5443753225839111227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_184
+      rect:
+        serializedVersion: 2
+        x: 1557
+        y: 70
+        width: 28
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f04ba66fd75ff180800000000000000
+      internalID: -9079441706743807758
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_185
+      rect:
+        serializedVersion: 2
+        x: 2586
+        y: 55
+        width: 21
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 302cbe02b3bed4230800000000000000
+      internalID: 3624811914291036675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedExplosion_186
+      rect:
+        serializedVersion: 2
+        x: 3613
+        y: 40
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d33b13b9c2bf55fa0800000000000000
+      internalID: -5812463575050898627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RedExplosion_0: -3660649765393425760
+      RedExplosion_1: -1755475675187355871
+      RedExplosion_10: -1631328579277027467
+      RedExplosion_100: -6729794326702682002
+      RedExplosion_101: 7186731764872937203
+      RedExplosion_102: 909268636743769451
+      RedExplosion_103: -4465155956027120560
+      RedExplosion_104: 5943676724135775304
+      RedExplosion_105: -8063115744289288311
+      RedExplosion_106: -12585392626945277
+      RedExplosion_107: -79017077811277877
+      RedExplosion_108: 2877467190934647699
+      RedExplosion_109: 6510138225623678779
+      RedExplosion_11: -4111435569829438120
+      RedExplosion_110: -7281575243850336329
+      RedExplosion_111: 1240187574440759939
+      RedExplosion_112: -381382598439565111
+      RedExplosion_113: -2348854314344988809
+      RedExplosion_114: 1128651406476306054
+      RedExplosion_115: -1270638583199035407
+      RedExplosion_116: -5692560208491381634
+      RedExplosion_117: 8205365567858581352
+      RedExplosion_118: 4716317367688666654
+      RedExplosion_119: -1286046952334093874
+      RedExplosion_12: 1851539231417213347
+      RedExplosion_120: -5628224371465040790
+      RedExplosion_121: 4093507388958622188
+      RedExplosion_122: 5529182522186546355
+      RedExplosion_123: -5317119543963694529
+      RedExplosion_124: 1907393704729173373
+      RedExplosion_125: -8159496240433419013
+      RedExplosion_126: 7351376462469531472
+      RedExplosion_127: 4637543037889743274
+      RedExplosion_128: 7216011595788588634
+      RedExplosion_129: 4858425391750665597
+      RedExplosion_13: 4824729188485468604
+      RedExplosion_130: -5479479602847107811
+      RedExplosion_131: 8974047265172932687
+      RedExplosion_132: -8848329135407761390
+      RedExplosion_133: -6844043768866315666
+      RedExplosion_134: 2096241768108163147
+      RedExplosion_135: -5698743217504072364
+      RedExplosion_136: 2517919165049069529
+      RedExplosion_137: 7240272987752332727
+      RedExplosion_138: 8193634070748544798
+      RedExplosion_139: 2269639900037734431
+      RedExplosion_14: 7182023044183632560
+      RedExplosion_140: -360387792644254679
+      RedExplosion_141: -7704670009359099219
+      RedExplosion_142: 2699472172380581036
+      RedExplosion_143: -6240529063072883174
+      RedExplosion_144: 2874432370000905647
+      RedExplosion_145: 275778785178115551
+      RedExplosion_146: 6303961565519087587
+      RedExplosion_147: -1153156227608703792
+      RedExplosion_148: 871127681834586956
+      RedExplosion_149: 5302267157908780676
+      RedExplosion_15: 1096424779139253535
+      RedExplosion_150: 8129185727997099381
+      RedExplosion_151: -2454537636446897075
+      RedExplosion_152: -5628093845791731996
+      RedExplosion_153: -3198528647781884852
+      RedExplosion_154: -8206408666153187477
+      RedExplosion_155: -8317076811319035029
+      RedExplosion_156: 1324771127727453361
+      RedExplosion_157: -2321867915194536038
+      RedExplosion_158: -4307181735620638041
+      RedExplosion_159: -8332202090337290411
+      RedExplosion_16: 349035583397511556
+      RedExplosion_160: -2992229094369727685
+      RedExplosion_161: -7841841180330821953
+      RedExplosion_162: -8303006967151268461
+      RedExplosion_163: 1319048083414697478
+      RedExplosion_164: 1389780943268557299
+      RedExplosion_165: -4438216108154082274
+      RedExplosion_166: -8424329678316265580
+      RedExplosion_167: -6957667589258100092
+      RedExplosion_168: 6071659747616236536
+      RedExplosion_169: 886239904182831896
+      RedExplosion_17: 7577337288233562739
+      RedExplosion_170: -6494615083976520831
+      RedExplosion_171: -3066240554758189333
+      RedExplosion_172: -7790690517995605568
+      RedExplosion_173: 3954994082164506531
+      RedExplosion_174: 1425017132070141577
+      RedExplosion_175: 2922078855646912020
+      RedExplosion_176: -7476060869025033880
+      RedExplosion_177: -164556189083194327
+      RedExplosion_178: 3036270865447958035
+      RedExplosion_179: 2528383022128444147
+      RedExplosion_18: 3582838396262466092
+      RedExplosion_180: -8418821950219216104
+      RedExplosion_181: 6156730031984633762
+      RedExplosion_182: -5294248803321874343
+      RedExplosion_183: 5443753225839111227
+      RedExplosion_184: -9079441706743807758
+      RedExplosion_185: 3624811914291036675
+      RedExplosion_186: -5812463575050898627
+      RedExplosion_19: 1127115199130277734
+      RedExplosion_2: 546687648020678664
+      RedExplosion_20: -1293818189575450712
+      RedExplosion_21: -7273999421146197718
+      RedExplosion_22: 8596420679730180959
+      RedExplosion_23: 2019889368522081826
+      RedExplosion_24: -849398482327091544
+      RedExplosion_25: 3012446344385364155
+      RedExplosion_26: -3137573144135892322
+      RedExplosion_27: 6423455819170721475
+      RedExplosion_28: -5241690203778758092
+      RedExplosion_29: 1607302486086948498
+      RedExplosion_3: -5751089245759872176
+      RedExplosion_30: 8209615272804761561
+      RedExplosion_31: -6512730024120130027
+      RedExplosion_32: 3135745850969337368
+      RedExplosion_33: 167179251321025537
+      RedExplosion_34: -4518558160539249226
+      RedExplosion_35: 4805594074957345414
+      RedExplosion_36: 540689485948703779
+      RedExplosion_37: 8172236240930594530
+      RedExplosion_38: -331927362579563935
+      RedExplosion_39: 923324822977080769
+      RedExplosion_4: 4974713358092969298
+      RedExplosion_40: 344223540230489329
+      RedExplosion_41: 3603134462690329612
+      RedExplosion_42: 3748644049941435691
+      RedExplosion_43: 5878550045120014939
+      RedExplosion_44: 2436975558586787540
+      RedExplosion_45: -6370167346275893953
+      RedExplosion_46: -3828730303716047455
+      RedExplosion_47: 6263809176248238603
+      RedExplosion_48: 3141196715049600520
+      RedExplosion_49: -939251158342178923
+      RedExplosion_5: -4878549808465795981
+      RedExplosion_50: -5406241065991066279
+      RedExplosion_51: 51433633385079192
+      RedExplosion_52: 8200450667214154453
+      RedExplosion_53: -8529124280098218721
+      RedExplosion_54: -4560419379981999219
+      RedExplosion_55: 505933461536384370
+      RedExplosion_56: -6390954333764520212
+      RedExplosion_57: 3570228131307922095
+      RedExplosion_58: -4494707808454118275
+      RedExplosion_59: 6868856066830618253
+      RedExplosion_6: -4176211560734188839
+      RedExplosion_60: -5535860694039845624
+      RedExplosion_61: 6273142592646485568
+      RedExplosion_62: 4305331426646032292
+      RedExplosion_63: -6386273524286112099
+      RedExplosion_64: 4351400751209482628
+      RedExplosion_65: -1649368947258622571
+      RedExplosion_66: -2982995468173579584
+      RedExplosion_67: 5775343886799366954
+      RedExplosion_68: 16190998197642543
+      RedExplosion_69: -9197405586968057645
+      RedExplosion_7: -333869430615686034
+      RedExplosion_70: -930169508006782414
+      RedExplosion_71: 7635898725029274192
+      RedExplosion_72: -8643714321261061721
+      RedExplosion_73: 6493577597822340501
+      RedExplosion_74: -951801478588925838
+      RedExplosion_75: 3735619519890993622
+      RedExplosion_76: 5651449489779335002
+      RedExplosion_77: -3202709002867104229
+      RedExplosion_78: -8397081831596295808
+      RedExplosion_79: 7627047004379465492
+      RedExplosion_8: -199294914764793618
+      RedExplosion_80: 169690641098575859
+      RedExplosion_81: -5022979823084406680
+      RedExplosion_82: 2840283174506112643
+      RedExplosion_83: -5935336136787354803
+      RedExplosion_84: 6330738657910978898
+      RedExplosion_85: 3337051475596077742
+      RedExplosion_86: -8205054259165172452
+      RedExplosion_87: -7469996837007498947
+      RedExplosion_88: 1239813217005898037
+      RedExplosion_89: 2196161681535166386
+      RedExplosion_9: -6156292254046947399
+      RedExplosion_90: -382911029164673330
+      RedExplosion_91: -7484371005009808337
+      RedExplosion_92: -7680678762290851778
+      RedExplosion_93: 4672558320290312665
+      RedExplosion_94: 8721541964467786677
+      RedExplosion_95: 7153279333730179594
+      RedExplosion_96: -3037429705356546235
+      RedExplosion_97: 7626910884054653791
+      RedExplosion_98: 5755876302526676841
+      RedExplosion_99: -2946396596884610663
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

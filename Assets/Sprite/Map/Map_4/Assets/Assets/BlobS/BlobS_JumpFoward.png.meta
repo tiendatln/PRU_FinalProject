@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 9645d526d0bad194b9f9bb1d3ffae460
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2979413882244440642
+    second: BlobS_JumpFoward_0
+  - first:
+      213: -5578559850932392710
+    second: BlobS_JumpFoward_1
+  - first:
+      213: 7481051770422364545
+    second: BlobS_JumpFoward_2
+  - first:
+      213: -7856629521448341223
+    second: BlobS_JumpFoward_3
+  - first:
+      213: -6519945569100647884
+    second: BlobS_JumpFoward_4
+  - first:
+      213: 6135184045885447616
+    second: BlobS_JumpFoward_5
+  - first:
+      213: -3575562154086247896
+    second: BlobS_JumpFoward_6
+  - first:
+      213: 2581332285640363658
+    second: BlobS_JumpFoward_7
+  - first:
+      213: 4813196251050802456
+    second: BlobS_JumpFoward_8
+  - first:
+      213: 5866219766779135943
+    second: BlobS_JumpFoward_9
+  - first:
+      213: 5441267344205755105
+    second: BlobS_JumpFoward_10
+  - first:
+      213: -9040974577412747047
+    second: BlobS_JumpFoward_11
+  - first:
+      213: 5428356198009987961
+    second: BlobS_JumpFoward_12
+  - first:
+      213: 5884696549843939515
+    second: BlobS_JumpFoward_13
+  - first:
+      213: 5403842037123362026
+    second: BlobS_JumpFoward_14
+  - first:
+      213: -4414198366787591593
+    second: BlobS_JumpFoward_15
+  - first:
+      213: 8885775056502216141
+    second: BlobS_JumpFoward_16
+  - first:
+      213: -141055557915826376
+    second: BlobS_JumpFoward_17
+  - first:
+      213: 1965643842249305415
+    second: BlobS_JumpFoward_18
+  - first:
+      213: 5274243471133401304
+    second: BlobS_JumpFoward_19
+  - first:
+      213: -5124028668339002952
+    second: BlobS_JumpFoward_20
+  - first:
+      213: -2042801870253213084
+    second: BlobS_JumpFoward_21
+  - first:
+      213: -2408020059950487462
+    second: BlobS_JumpFoward_22
+  - first:
+      213: -4235146686219743597
+    second: BlobS_JumpFoward_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlobS_JumpFoward_0
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2141
+        width: 258
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdd3f51cdef6a6d0800000000000000
+      internalID: -2979413882244440642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_JumpFoward_1
+      rect:
+        serializedVersion: 2
+        x: 633
+        y: 2141
+        width: 261
+        height: 317
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afc2bee3f59f492b0800000000000000
+      internalID: -5578559850932392710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_JumpFoward_2
+      rect:
+        serializedVersion: 2
+        x: 1140
+        y: 2141
+        width: 263
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189055ae2f802d760800000000000000
+      internalID: 7481051770422364545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_JumpFoward_3
+      rect:
+        serializedVersion: 2
+        x: 1647
+        y: 2141
+        width: 266
+        height: 298
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91179329315a7f290800000000000000
+      internalID: -7856629521448341223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_JumpFoward_4
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 2141
+        width: 269
+        height: 289
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 432bfde8c008485a0800000000000000
+      internalID: -6519945569100647884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_JumpFoward_5
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 1628
+        width: 271
+        height: 281
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cd55a6526d842550800000000000000
+      internalID: 6135184045885447616
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_JumpFoward_6
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 1628
+        width: 270
+        height: 293
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 822db5d3a2d016ec0800000000000000
+      internalID: -3575562154086247896
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_JumpFoward_7
+      rect:
+        serializedVersion: 2
+        x: 1099
+        y: 1627
+        width: 286
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8e47dc890cb2d320800000000000000
+      internalID: 2581332285640363658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_JumpFoward_8
+      rect:
+        serializedVersion: 2
+        x: 1619
+        y: 1648
+        width: 288
+        height: 282
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81dff1a2d78ebc240800000000000000
+      internalID: 4813196251050802456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_JumpFoward_9
+      rect:
+        serializedVersion: 2
+        x: 2142
+        y: 1671
+        width: 315
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c7ce3d1ccff86150800000000000000
+      internalID: 5866219766779135943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_JumpFoward_10
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 1180
+        width: 324
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e2315b02d3438b40800000000000000
+      internalID: 5441267344205755105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_JumpFoward_11
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 1202
+        width: 316
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d0d9f1e581088280800000000000000
+      internalID: -9040974577412747047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_JumpFoward_12
+      rect:
+        serializedVersion: 2
+        x: 1170
+        y: 1224
+        width: 300
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 973eca09335655b40800000000000000
+      internalID: 5428356198009987961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_JumpFoward_13
+      rect:
+        serializedVersion: 2
+        x: 1698
+        y: 1248
+        width: 288
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb03a686554aaa150800000000000000
+      internalID: 5884696549843939515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_JumpFoward_14
+      rect:
+        serializedVersion: 2
+        x: 2220
+        y: 1272
+        width: 279
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aecaf05b3bd4efa40800000000000000
+      internalID: 5403842037123362026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_JumpFoward_15
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 718
+        width: 312
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 752248b09fd9db2c0800000000000000
+      internalID: -4414198366787591593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_JumpFoward_16
+      rect:
+        serializedVersion: 2
+        x: 651
+        y: 675
+        width: 344
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc557d4c55d905b70800000000000000
+      internalID: 8885775056502216141
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_JumpFoward_17
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 631
+        width: 327
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83725d8a7beda0ef0800000000000000
+      internalID: -141055557915826376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_JumpFoward_18
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 587
+        width: 271
+        height: 389
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d243cf8ae574b10800000000000000
+      internalID: 1965643842249305415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_JumpFoward_19
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 591
+        width: 270
+        height: 376
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d064db2e70e13940800000000000000
+      internalID: 5274243471133401304
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_JumpFoward_20
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 82
+        width: 268
+        height: 363
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b16cbc031bc3e8b0800000000000000
+      internalID: -5124028668339002952
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_JumpFoward_21
+      rect:
+        serializedVersion: 2
+        x: 638
+        y: 86
+        width: 264
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46abd01b58286a3e0800000000000000
+      internalID: -2042801870253213084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_JumpFoward_22
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 90
+        width: 262
+        height: 337
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a58e2a2838ef49ed0800000000000000
+      internalID: -2408020059950487462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_JumpFoward_23
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 93
+        width: 258
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39e0334178cb935c0800000000000000
+      internalID: -4235146686219743597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BlobS_JumpFoward_0: -2979413882244440642
+      BlobS_JumpFoward_1: -5578559850932392710
+      BlobS_JumpFoward_10: 5441267344205755105
+      BlobS_JumpFoward_11: -9040974577412747047
+      BlobS_JumpFoward_12: 5428356198009987961
+      BlobS_JumpFoward_13: 5884696549843939515
+      BlobS_JumpFoward_14: 5403842037123362026
+      BlobS_JumpFoward_15: -4414198366787591593
+      BlobS_JumpFoward_16: 8885775056502216141
+      BlobS_JumpFoward_17: -141055557915826376
+      BlobS_JumpFoward_18: 1965643842249305415
+      BlobS_JumpFoward_19: 5274243471133401304
+      BlobS_JumpFoward_2: 7481051770422364545
+      BlobS_JumpFoward_20: -5124028668339002952
+      BlobS_JumpFoward_21: -2042801870253213084
+      BlobS_JumpFoward_22: -2408020059950487462
+      BlobS_JumpFoward_23: -4235146686219743597
+      BlobS_JumpFoward_3: -7856629521448341223
+      BlobS_JumpFoward_4: -6519945569100647884
+      BlobS_JumpFoward_5: 6135184045885447616
+      BlobS_JumpFoward_6: -3575562154086247896
+      BlobS_JumpFoward_7: 2581332285640363658
+      BlobS_JumpFoward_8: 4813196251050802456
+      BlobS_JumpFoward_9: 5866219766779135943
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

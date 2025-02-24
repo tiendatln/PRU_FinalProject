@@ -1,0 +1,897 @@
+fileFormatVersion: 2
+guid: b354ad79d64282648a0164d903046b00
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4377877903060868795
+    second: PoupleTri_Idle_0
+  - first:
+      213: 4846204817560421196
+    second: PoupleTri_Idle_1
+  - first:
+      213: 9120359524964515090
+    second: PoupleTri_Idle_2
+  - first:
+      213: -3973418357239093826
+    second: PoupleTri_Idle_3
+  - first:
+      213: 8904217089848641865
+    second: PoupleTri_Idle_4
+  - first:
+      213: 1287404616805113196
+    second: PoupleTri_Idle_5
+  - first:
+      213: -3444055295149818305
+    second: PoupleTri_Idle_6
+  - first:
+      213: -3268692280152571569
+    second: PoupleTri_Idle_7
+  - first:
+      213: 8239851231892514347
+    second: PoupleTri_Idle_8
+  - first:
+      213: -5149095293105255268
+    second: PoupleTri_Idle_9
+  - first:
+      213: 4527813687515907164
+    second: PoupleTri_Idle_10
+  - first:
+      213: 9115398248188469704
+    second: PoupleTri_Idle_11
+  - first:
+      213: -8829155710159907170
+    second: PoupleTri_Idle_12
+  - first:
+      213: 8013971194590781466
+    second: PoupleTri_Idle_13
+  - first:
+      213: -1016808849445393731
+    second: PoupleTri_Idle_14
+  - first:
+      213: -1368085423843969044
+    second: PoupleTri_Idle_15
+  - first:
+      213: 422006506459618364
+    second: PoupleTri_Idle_16
+  - first:
+      213: 1874731417142260733
+    second: PoupleTri_Idle_17
+  - first:
+      213: 3320649650319377844
+    second: PoupleTri_Idle_18
+  - first:
+      213: -879828573753886335
+    second: PoupleTri_Idle_19
+  - first:
+      213: -5195468917410320395
+    second: PoupleTri_Idle_20
+  - first:
+      213: 3519908352360570903
+    second: PoupleTri_Idle_21
+  - first:
+      213: 9140485941924074675
+    second: PoupleTri_Idle_22
+  - first:
+      213: -2881619586463497370
+    second: PoupleTri_Idle_23
+  - first:
+      213: 8922037360972543409
+    second: PoupleTri_Idle_24
+  - first:
+      213: -2425858860116214731
+    second: PoupleTri_Idle_25
+  - first:
+      213: -4669315756159289031
+    second: PoupleTri_Idle_26
+  - first:
+      213: -6855821922359095213
+    second: PoupleTri_Idle_27
+  - first:
+      213: -7790746507016006495
+    second: PoupleTri_Idle_28
+  - first:
+      213: 57176130514301064
+    second: PoupleTri_Idle_29
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PoupleTri_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 13
+        y: 4457
+        width: 990
+        height: 943
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbe99f102c851cc30800000000000000
+      internalID: 4377877903060868795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 1011
+        y: 4451
+        width: 991
+        height: 940
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c43c973fa9d214340800000000000000
+      internalID: 4846204817560421196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 4446
+        width: 989
+        height: 934
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d3c5d8aa6029e70800000000000000
+      internalID: 9120359524964515090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 3012
+        y: 4442
+        width: 987
+        height: 928
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb56fb06e059bd8c0800000000000000
+      internalID: -3973418357239093826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 4014
+        y: 4439
+        width: 983
+        height: 920
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94904634442229b70800000000000000
+      internalID: 8904217089848641865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 5016
+        y: 4437
+        width: 979
+        height: 911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6dddd29da7cdd110800000000000000
+      internalID: 1287404616805113196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 8
+        y: 3356
+        width: 973
+        height: 901
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3ebac9d4f14430d0800000000000000
+      internalID: -3444055295149818305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 1013
+        y: 3355
+        width: 967
+        height: 891
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f41c17180b543a2d0800000000000000
+      internalID: -3268692280152571569
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 2019
+        y: 3355
+        width: 959
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b26a40fe905d95270800000000000000
+      internalID: 8239851231892514347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 3025
+        y: 3355
+        width: 951
+        height: 869
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9c43dbac1dba88b0800000000000000
+      internalID: -5149095293105255268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 4016
+        y: 3326
+        width: 961
+        height: 891
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5489853f8606de30800000000000000
+      internalID: 4527813687515907164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 5012
+        y: 3300
+        width: 967
+        height: 909
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1ed794966608e70800000000000000
+      internalID: 9115398248188469704
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2197
+        width: 968
+        height: 923
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e969e4519a9887580800000000000000
+      internalID: -8829155710159907170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 1003
+        y: 2176
+        width: 966
+        height: 934
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a10ebc57758573f60800000000000000
+      internalID: 8013971194590781466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 2011
+        y: 2159
+        width: 958
+        height: 940
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dba655c1db193e1f0800000000000000
+      internalID: -1016808849445393731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 3019
+        y: 2171
+        width: 955
+        height: 938
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce7f3613e85930de0800000000000000
+      internalID: -1368085423843969044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 4029
+        y: 2182
+        width: 949
+        height: 936
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3cdd668ea44bd500800000000000000
+      internalID: 422006506459618364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 5039
+        y: 2192
+        width: 943
+        height: 934
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df377088a42640a10800000000000000
+      internalID: 1874731417142260733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 38
+        y: 1121
+        width: 939
+        height: 931
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b5cfce6341551e20800000000000000
+      internalID: 3320649650319377844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 1050
+        y: 1131
+        width: 932
+        height: 926
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 189392ed2983ac3f0800000000000000
+      internalID: -879828573753886335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 1139
+        width: 939
+        height: 930
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ffac20eb8cf5e7b0800000000000000
+      internalID: -5195468917410320395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 3044
+        y: 1148
+        width: 946
+        height: 932
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 710e1684ff939d030800000000000000
+      internalID: 3519908352360570903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 4041
+        y: 1156
+        width: 953
+        height: 935
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b416da298789de70800000000000000
+      internalID: 9140485941924074675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 5039
+        y: 1165
+        width: 958
+        height: 937
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 663090be04e6208d0800000000000000
+      internalID: -2881619586463497370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 93
+        width: 964
+        height: 940
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b5388575b171db70800000000000000
+      internalID: 8922037360972543409
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 102
+        width: 969
+        height: 941
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53cf98f283e955ed0800000000000000
+      internalID: -2425858860116214731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 2022
+        y: 111
+        width: 976
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 939bdf11f02433fb0800000000000000
+      internalID: -4669315756159289031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 3022
+        y: 119
+        width: 981
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 350537a094a3bd0a0800000000000000
+      internalID: -6855821922359095213
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 4022
+        y: 128
+        width: 986
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a4123a3455b1e390800000000000000
+      internalID: -7790746507016006495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 5023
+        y: 137
+        width: 989
+        height: 944
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 880bfe443612bc000800000000000000
+      internalID: 57176130514301064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PoupleTri_Idle_0: 4377877903060868795
+      PoupleTri_Idle_1: 4846204817560421196
+      PoupleTri_Idle_10: 4527813687515907164
+      PoupleTri_Idle_11: 9115398248188469704
+      PoupleTri_Idle_12: -8829155710159907170
+      PoupleTri_Idle_13: 8013971194590781466
+      PoupleTri_Idle_14: -1016808849445393731
+      PoupleTri_Idle_15: -1368085423843969044
+      PoupleTri_Idle_16: 422006506459618364
+      PoupleTri_Idle_17: 1874731417142260733
+      PoupleTri_Idle_18: 3320649650319377844
+      PoupleTri_Idle_19: -879828573753886335
+      PoupleTri_Idle_2: 9120359524964515090
+      PoupleTri_Idle_20: -5195468917410320395
+      PoupleTri_Idle_21: 3519908352360570903
+      PoupleTri_Idle_22: 9140485941924074675
+      PoupleTri_Idle_23: -2881619586463497370
+      PoupleTri_Idle_24: 8922037360972543409
+      PoupleTri_Idle_25: -2425858860116214731
+      PoupleTri_Idle_26: -4669315756159289031
+      PoupleTri_Idle_27: -6855821922359095213
+      PoupleTri_Idle_28: -7790746507016006495
+      PoupleTri_Idle_29: 57176130514301064
+      PoupleTri_Idle_3: -3973418357239093826
+      PoupleTri_Idle_4: 8904217089848641865
+      PoupleTri_Idle_5: 1287404616805113196
+      PoupleTri_Idle_6: -3444055295149818305
+      PoupleTri_Idle_7: -3268692280152571569
+      PoupleTri_Idle_8: 8239851231892514347
+      PoupleTri_Idle_9: -5149095293105255268
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

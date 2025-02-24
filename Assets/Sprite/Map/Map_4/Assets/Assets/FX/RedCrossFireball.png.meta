@@ -1,0 +1,2665 @@
+fileFormatVersion: 2
+guid: 96647de818716234f8143fd1b42892f1
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2034844484672556291
+    second: RedCrossFireball_0
+  - first:
+      213: -3530370626704696477
+    second: RedCrossFireball_1
+  - first:
+      213: 7425902222692243518
+    second: RedCrossFireball_2
+  - first:
+      213: -8441762314125272587
+    second: RedCrossFireball_3
+  - first:
+      213: -7527229056985602078
+    second: RedCrossFireball_4
+  - first:
+      213: 7889958824419771204
+    second: RedCrossFireball_5
+  - first:
+      213: -5583575811542927330
+    second: RedCrossFireball_6
+  - first:
+      213: -4219785953984802877
+    second: RedCrossFireball_7
+  - first:
+      213: -3565916742403574722
+    second: RedCrossFireball_8
+  - first:
+      213: 3946504925280918027
+    second: RedCrossFireball_9
+  - first:
+      213: 6953274998965058462
+    second: RedCrossFireball_10
+  - first:
+      213: 3143843985433176959
+    second: RedCrossFireball_11
+  - first:
+      213: -2350753424831186356
+    second: RedCrossFireball_12
+  - first:
+      213: 5413335522827798865
+    second: RedCrossFireball_13
+  - first:
+      213: -3142997165734878128
+    second: RedCrossFireball_14
+  - first:
+      213: -830346404199678332
+    second: RedCrossFireball_15
+  - first:
+      213: -3515008922834893412
+    second: RedCrossFireball_16
+  - first:
+      213: 6150249669605919841
+    second: RedCrossFireball_17
+  - first:
+      213: 1694810010322958610
+    second: RedCrossFireball_18
+  - first:
+      213: 7284122337014249522
+    second: RedCrossFireball_19
+  - first:
+      213: 4700298732226058864
+    second: RedCrossFireball_20
+  - first:
+      213: -2944475009006080269
+    second: RedCrossFireball_21
+  - first:
+      213: 392477074755565824
+    second: RedCrossFireball_22
+  - first:
+      213: -428005623149300932
+    second: RedCrossFireball_23
+  - first:
+      213: -612248728310958765
+    second: RedCrossFireball_24
+  - first:
+      213: 1072624941945810928
+    second: RedCrossFireball_25
+  - first:
+      213: -4103756480118171292
+    second: RedCrossFireball_26
+  - first:
+      213: 3461578523863563987
+    second: RedCrossFireball_27
+  - first:
+      213: 4130116468556912871
+    second: RedCrossFireball_28
+  - first:
+      213: 184837616838463597
+    second: RedCrossFireball_29
+  - first:
+      213: 1790931345477375918
+    second: RedCrossFireball_30
+  - first:
+      213: -4987640433809172950
+    second: RedCrossFireball_31
+  - first:
+      213: 4291237197976092234
+    second: RedCrossFireball_32
+  - first:
+      213: -1374615492151801614
+    second: RedCrossFireball_33
+  - first:
+      213: 7059767894051677927
+    second: RedCrossFireball_34
+  - first:
+      213: -1066764686618010410
+    second: RedCrossFireball_35
+  - first:
+      213: -3397886797330820317
+    second: RedCrossFireball_36
+  - first:
+      213: -4466085950543759333
+    second: RedCrossFireball_37
+  - first:
+      213: -8461308189616390481
+    second: RedCrossFireball_38
+  - first:
+      213: 8319072689439065064
+    second: RedCrossFireball_39
+  - first:
+      213: -3887894056169805918
+    second: RedCrossFireball_40
+  - first:
+      213: 2976457697507118508
+    second: RedCrossFireball_41
+  - first:
+      213: -2975143418457755955
+    second: RedCrossFireball_42
+  - first:
+      213: -5062514003795162876
+    second: RedCrossFireball_43
+  - first:
+      213: -1157087996781991895
+    second: RedCrossFireball_44
+  - first:
+      213: 4992205166528566681
+    second: RedCrossFireball_45
+  - first:
+      213: -7516406738260202073
+    second: RedCrossFireball_46
+  - first:
+      213: -2975887765653240414
+    second: RedCrossFireball_47
+  - first:
+      213: 5307109942136299101
+    second: RedCrossFireball_48
+  - first:
+      213: -4566807331568279351
+    second: RedCrossFireball_49
+  - first:
+      213: 419845746574857731
+    second: RedCrossFireball_50
+  - first:
+      213: -5108579852774467507
+    second: RedCrossFireball_51
+  - first:
+      213: -2915454533940570303
+    second: RedCrossFireball_52
+  - first:
+      213: 5601363845503204131
+    second: RedCrossFireball_53
+  - first:
+      213: -7004180702978174230
+    second: RedCrossFireball_54
+  - first:
+      213: 5925281659158309037
+    second: RedCrossFireball_55
+  - first:
+      213: 745006652566050135
+    second: RedCrossFireball_56
+  - first:
+      213: 6664121813150584836
+    second: RedCrossFireball_57
+  - first:
+      213: 1897710327463925865
+    second: RedCrossFireball_58
+  - first:
+      213: -3495192296059092370
+    second: RedCrossFireball_59
+  - first:
+      213: -1491131489936663372
+    second: RedCrossFireball_60
+  - first:
+      213: 8700235343239597080
+    second: RedCrossFireball_61
+  - first:
+      213: 643400388594775716
+    second: RedCrossFireball_62
+  - first:
+      213: -1055598940487747669
+    second: RedCrossFireball_63
+  - first:
+      213: -6829822273526279258
+    second: RedCrossFireball_64
+  - first:
+      213: 3746967682115648525
+    second: RedCrossFireball_65
+  - first:
+      213: -1037146010187479402
+    second: RedCrossFireball_66
+  - first:
+      213: -5323353322171717805
+    second: RedCrossFireball_67
+  - first:
+      213: -9052039099149406947
+    second: RedCrossFireball_68
+  - first:
+      213: 9092306505753376720
+    second: RedCrossFireball_69
+  - first:
+      213: 5952361697384593601
+    second: RedCrossFireball_70
+  - first:
+      213: 6688491719469623234
+    second: RedCrossFireball_71
+  - first:
+      213: 6543969920505292475
+    second: RedCrossFireball_72
+  - first:
+      213: -3607273950909171389
+    second: RedCrossFireball_73
+  - first:
+      213: -4433403889132228976
+    second: RedCrossFireball_74
+  - first:
+      213: 928021649898489201
+    second: RedCrossFireball_75
+  - first:
+      213: -1829889069918090055
+    second: RedCrossFireball_76
+  - first:
+      213: 5333205043248654337
+    second: RedCrossFireball_77
+  - first:
+      213: -2927325204500265447
+    second: RedCrossFireball_78
+  - first:
+      213: 9083249158097835717
+    second: RedCrossFireball_79
+  - first:
+      213: -6867125381380040911
+    second: RedCrossFireball_80
+  - first:
+      213: 4384860142120338536
+    second: RedCrossFireball_81
+  - first:
+      213: 5409329799481410021
+    second: RedCrossFireball_82
+  - first:
+      213: 4185759191746865671
+    second: RedCrossFireball_83
+  - first:
+      213: -9080564122430202789
+    second: RedCrossFireball_84
+  - first:
+      213: -375484873214980001
+    second: RedCrossFireball_85
+  - first:
+      213: 8384335974601227426
+    second: RedCrossFireball_86
+  - first:
+      213: -6624834232376094501
+    second: RedCrossFireball_87
+  - first:
+      213: -161096645669927821
+    second: RedCrossFireball_88
+  - first:
+      213: -3186255701035367728
+    second: RedCrossFireball_89
+  - first:
+      213: -4287230388869185411
+    second: RedCrossFireball_90
+  - first:
+      213: -6387844235061116733
+    second: RedCrossFireball_91
+  - first:
+      213: -7979303954260018034
+    second: RedCrossFireball_92
+  - first:
+      213: 7691415642116928614
+    second: RedCrossFireball_93
+  - first:
+      213: -2626979718728322001
+    second: RedCrossFireball_94
+  - first:
+      213: -5254295670013457077
+    second: RedCrossFireball_95
+  - first:
+      213: -2925972364789802821
+    second: RedCrossFireball_96
+  - first:
+      213: 1668332880317306650
+    second: RedCrossFireball_97
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedCrossFireball_0
+      rect:
+        serializedVersion: 2
+        x: 682
+        y: 3794
+        width: 256
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d021a17483d3c10800000000000000
+      internalID: 2034844484672556291
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_1
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 3791
+        width: 275
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36b1bc5ae9a910fc0800000000000000
+      internalID: -3530370626704696477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_2
+      rect:
+        serializedVersion: 2
+        x: 2655
+        y: 3777
+        width: 301
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e38da583aba1e0760800000000000000
+      internalID: 7425902222692243518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_3
+      rect:
+        serializedVersion: 2
+        x: 3643
+        y: 3767
+        width: 339
+        height: 307
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f99844d6e5d8da80800000000000000
+      internalID: -8441762314125272587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_4
+      rect:
+        serializedVersion: 2
+        x: 4632
+        y: 3758
+        width: 370
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e7ef5bbd09e98790800000000000000
+      internalID: -7527229056985602078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_5
+      rect:
+        serializedVersion: 2
+        x: 5623
+        y: 3750
+        width: 394
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 443cffd7fb3ce7d60800000000000000
+      internalID: 7889958824419771204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_6
+      rect:
+        serializedVersion: 2
+        x: 6615
+        y: 3743
+        width: 435
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e183588e1672382b0800000000000000
+      internalID: -5583575811542927330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_7
+      rect:
+        serializedVersion: 2
+        x: 7609
+        y: 3739
+        width: 455
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3cf8d80480f4075c0800000000000000
+      internalID: -4219785953984802877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_8
+      rect:
+        serializedVersion: 2
+        x: 414
+        y: 3214
+        width: 521
+        height: 330
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e34ba66ad91538ec0800000000000000
+      internalID: -3565916742403574722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_9
+      rect:
+        serializedVersion: 2
+        x: 1411
+        y: 3213
+        width: 524
+        height: 326
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0ad2bfe15dc4c630800000000000000
+      internalID: 3946504925280918027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_10
+      rect:
+        serializedVersion: 2
+        x: 2409
+        y: 3213
+        width: 529
+        height: 332
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9bbae285cefe7060800000000000000
+      internalID: 6953274998965058462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_11
+      rect:
+        serializedVersion: 2
+        x: 3406
+        y: 3212
+        width: 553
+        height: 336
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7b2efca27d21ab20800000000000000
+      internalID: 3143843985433176959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_12
+      rect:
+        serializedVersion: 2
+        x: 4404
+        y: 3211
+        width: 574
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4a77660732706fd0800000000000000
+      internalID: -2350753424831186356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_13
+      rect:
+        serializedVersion: 2
+        x: 5401
+        y: 3210
+        width: 641
+        height: 342
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15987281af7002b40800000000000000
+      internalID: 5413335522827798865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_14
+      rect:
+        serializedVersion: 2
+        x: 6399
+        y: 3210
+        width: 663
+        height: 345
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0542056eab4d164d0800000000000000
+      internalID: -3142997165734878128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_15
+      rect:
+        serializedVersion: 2
+        x: 7397
+        y: 3210
+        width: 684
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48eb72148540a74f0800000000000000
+      internalID: -830346404199678332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_16
+      rect:
+        serializedVersion: 2
+        x: 203
+        y: 2686
+        width: 704
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c95091c020e283fc0800000000000000
+      internalID: -3515008922834893412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_17
+      rect:
+        serializedVersion: 2
+        x: 1202
+        y: 2686
+        width: 751
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16c03d43d731a5550800000000000000
+      internalID: 6150249669605919841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_18
+      rect:
+        serializedVersion: 2
+        x: 2201
+        y: 2687
+        width: 773
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219731399bc258710800000000000000
+      internalID: 1694810010322958610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_19
+      rect:
+        serializedVersion: 2
+        x: 3201
+        y: 2689
+        width: 777
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 238f83e2ca6661560800000000000000
+      internalID: 7284122337014249522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_20
+      rect:
+        serializedVersion: 2
+        x: 4201
+        y: 2692
+        width: 837
+        height: 340
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07a9d803bc0da3140800000000000000
+      internalID: 4700298732226058864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_21
+      rect:
+        serializedVersion: 2
+        x: 5203
+        y: 2695
+        width: 827
+        height: 335
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3fe6d2e649f1327d0800000000000000
+      internalID: -2944475009006080269
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_22
+      rect:
+        serializedVersion: 2
+        x: 6206
+        y: 2700
+        width: 837
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0093a4fe1db527500800000000000000
+      internalID: 392477074755565824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_23
+      rect:
+        serializedVersion: 2
+        x: 7210
+        y: 2706
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33f056472b6f0af0800000000000000
+      internalID: -428005623149300932
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_24
+      rect:
+        serializedVersion: 2
+        x: 7226
+        y: 2707
+        width: 858
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35537d2860bd087f0800000000000000
+      internalID: -612248728310958765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_25
+      rect:
+        serializedVersion: 2
+        x: 35
+        y: 2187
+        width: 876
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ff67e1a3bab2ee00800000000000000
+      internalID: 1072624941945810928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_26
+      rect:
+        serializedVersion: 2
+        x: 1037
+        y: 2191
+        width: 883
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46959d559378c07c0800000000000000
+      internalID: -4103756480118171292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_27
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 2321
+        width: 71
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de3205c35ff90030800000000000000
+      internalID: 3461578523863563987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_28
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 2196
+        width: 820
+        height: 313
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e8535dbb0f115930800000000000000
+      internalID: 4130116468556912871
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_29
+      rect:
+        serializedVersion: 2
+        x: 3103
+        y: 2245
+        width: 298
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6059cc45dca09200800000000000000
+      internalID: 184837616838463597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_30
+      rect:
+        serializedVersion: 2
+        x: 3418
+        y: 2196
+        width: 562
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea79a48e19aaad810800000000000000
+      internalID: 1790931345477375918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_31
+      rect:
+        serializedVersion: 2
+        x: 4143
+        y: 2270
+        width: 243
+        height: 213
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a26dd6b737758cab0800000000000000
+      internalID: -4987640433809172950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_32
+      rect:
+        serializedVersion: 2
+        x: 4422
+        y: 2189
+        width: 577
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a4ebe40ee798d8b30800000000000000
+      internalID: 4291237197976092234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_33
+      rect:
+        serializedVersion: 2
+        x: 5147
+        y: 2278
+        width: 223
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f80b8f2e726cece0800000000000000
+      internalID: -1374615492151801614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_34
+      rect:
+        serializedVersion: 2
+        x: 5426
+        y: 2185
+        width: 580
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e668a1de7559f160800000000000000
+      internalID: 7059767894051677927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_35
+      rect:
+        serializedVersion: 2
+        x: 6155
+        y: 2292
+        width: 196
+        height: 176
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dcd3336b271231f0800000000000000
+      internalID: -1066764686618010410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_36
+      rect:
+        serializedVersion: 2
+        x: 6430
+        y: 2186
+        width: 620
+        height: 328
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3235b1ae5f748d0d0800000000000000
+      internalID: -3397886797330820317
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_37
+      rect:
+        serializedVersion: 2
+        x: 7177
+        y: 2321
+        width: 156
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18f9758d764502c0800000000000000
+      internalID: -4466085950543759333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_38
+      rect:
+        serializedVersion: 2
+        x: 7206
+        y: 2299
+        width: 9
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faebfce0805639a80800000000000000
+      internalID: -8461308189616390481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_39
+      rect:
+        serializedVersion: 2
+        x: 7432
+        y: 2188
+        width: 655
+        height: 327
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e34ba2e888437370800000000000000
+      internalID: 8319072689439065064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_40
+      rect:
+        serializedVersion: 2
+        x: 25
+        y: 2191
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a765a174fc6b0ac0800000000000000
+      internalID: -3887894056169805918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_41
+      rect:
+        serializedVersion: 2
+        x: 1034
+        y: 2202
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cad83e481808e4920800000000000000
+      internalID: 2976457697507118508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_42
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1835
+        width: 117
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dceebfae2da26b6d0800000000000000
+      internalID: -2975143418457755955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_43
+      rect:
+        serializedVersion: 2
+        x: 241
+        y: 1667
+        width: 664
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 409495df5565eb9b0800000000000000
+      internalID: -5062514003795162876
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_44
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1819
+        width: 64
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 928e0f1f89231ffe0800000000000000
+      internalID: -1157087996781991895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_45
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 1907
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9951ecc2620e74540800000000000000
+      internalID: 4992205166528566681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_46
+      rect:
+        serializedVersion: 2
+        x: 1242
+        y: 1669
+        width: 682
+        height: 323
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ade5aa25eb50b790800000000000000
+      internalID: -7516406738260202073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_47
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 1910
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5cec418d583b6d0800000000000000
+      internalID: -2975887765653240414
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_48
+      rect:
+        serializedVersion: 2
+        x: 2245
+        y: 1673
+        width: 844
+        height: 320
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e5af4cf54a6a940800000000000000
+      internalID: 5307109942136299101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_49
+      rect:
+        serializedVersion: 2
+        x: 3247
+        y: 1674
+        width: 702
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0293c8de07f90c0800000000000000
+      internalID: -4566807331568279351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_50
+      rect:
+        serializedVersion: 2
+        x: 4250
+        y: 1674
+        width: 753
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3069d096b7793d500800000000000000
+      internalID: 419845746574857731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_51
+      rect:
+        serializedVersion: 2
+        x: 5254
+        y: 1675
+        width: 756
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4819a8b0bdaa19b0800000000000000
+      internalID: -5108579852774467507
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_52
+      rect:
+        serializedVersion: 2
+        x: 6259
+        y: 1675
+        width: 738
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1479ba15c893a87d0800000000000000
+      internalID: -2915454533940570303
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_53
+      rect:
+        serializedVersion: 2
+        x: 7261
+        y: 1677
+        width: 828
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b3fec7dba0cbd40800000000000000
+      internalID: 5601363845503204131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_54
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 1789
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae21758a2c62cce90800000000000000
+      internalID: -7004180702978174230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_55
+      rect:
+        serializedVersion: 2
+        x: 69
+        y: 1155
+        width: 833
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da8a4488644da3250800000000000000
+      internalID: 5925281659158309037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_56
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1331
+        width: 116
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75590817a9bc65a00800000000000000
+      internalID: 745006652566050135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_57
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 1158
+        width: 792
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 400d5c42b77bb7c50800000000000000
+      internalID: 6664121813150584836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_58
+      rect:
+        serializedVersion: 2
+        x: 2057
+        y: 1332
+        width: 107
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 968d3130d75065a10800000000000000
+      internalID: 1897710327463925865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_59
+      rect:
+        serializedVersion: 2
+        x: 2109
+        y: 1162
+        width: 793
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6247b300259e7fc0800000000000000
+      internalID: -3495192296059092370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_60
+      rect:
+        serializedVersion: 2
+        x: 3075
+        y: 1382
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bc1dec6fcf6e4be0800000000000000
+      internalID: -1491131489936663372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_61
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 1167
+        width: 816
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81c4818e2f17db870800000000000000
+      internalID: 8700235343239597080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_62
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 1398
+        width: 35
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a63a8a9e31dde800800000000000000
+      internalID: 643400388594775716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_63
+      rect:
+        serializedVersion: 2
+        x: 4422
+        y: 1170
+        width: 527
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7f2fe3b52c951f0800000000000000
+      internalID: -1055598940487747669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_64
+      rect:
+        serializedVersion: 2
+        x: 5415
+        y: 1164
+        width: 582
+        height: 275
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a35a6304d89731a0800000000000000
+      internalID: -6829822273526279258
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_65
+      rect:
+        serializedVersion: 2
+        x: 6410
+        y: 1156
+        width: 595
+        height: 291
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0c3f5d2147eff330800000000000000
+      internalID: 3746967682115648525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_66
+      rect:
+        serializedVersion: 2
+        x: 7438
+        y: 1147
+        width: 569
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 696cf82e2315b91f0800000000000000
+      internalID: -1037146010187479402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_67
+      rect:
+        serializedVersion: 2
+        x: 4144
+        y: 1175
+        width: 216
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3572f0a9b56af16b0800000000000000
+      internalID: -5323353322171717805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_68
+      rect:
+        serializedVersion: 2
+        x: 5301
+        y: 1296
+        width: 61
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1da04a2662b06280800000000000000
+      internalID: -9052039099149406947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_69
+      rect:
+        serializedVersion: 2
+        x: 6295
+        y: 1323
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d73768089c5e2e70800000000000000
+      internalID: 9092306505753376720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_70
+      rect:
+        serializedVersion: 2
+        x: 7208
+        y: 1184
+        width: 86
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c8ff334d690b9250800000000000000
+      internalID: 5952361697384593601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_71
+      rect:
+        serializedVersion: 2
+        x: 3113
+        y: 1292
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c7e02e18cb42dc50800000000000000
+      internalID: 6688491719469623234
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_72
+      rect:
+        serializedVersion: 2
+        x: 4107
+        y: 1292
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb62f84a8f9d0da50800000000000000
+      internalID: 6543969920505292475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_73
+      rect:
+        serializedVersion: 2
+        x: 4363
+        y: 1295
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 349f98c247360fdc0800000000000000
+      internalID: -3607273950909171389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_74
+      rect:
+        serializedVersion: 2
+        x: 5180
+        y: 1191
+        width: 85
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09e207ae6a26972c0800000000000000
+      internalID: -4433403889132228976
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_75
+      rect:
+        serializedVersion: 2
+        x: 5163
+        y: 1277
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 175421216cef0ec00800000000000000
+      internalID: 928021649898489201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_76
+      rect:
+        serializedVersion: 2
+        x: 6156
+        y: 1276
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9bc8929069dea96e0800000000000000
+      internalID: -1829889069918090055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_77
+      rect:
+        serializedVersion: 2
+        x: 6217
+        y: 1256
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1086825fab9530a40800000000000000
+      internalID: 5333205043248654337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_78
+      rect:
+        serializedVersion: 2
+        x: 4420
+        y: 1246
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 916c6b37c3d0067d0800000000000000
+      internalID: -2927325204500265447
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_79
+      rect:
+        serializedVersion: 2
+        x: 6214
+        y: 1189
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c699c2fbfe2e0e70800000000000000
+      internalID: 9083249158097835717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_80
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 620
+        width: 799
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13716c669d113b0a0800000000000000
+      internalID: -6867125381380040911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_81
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 618
+        width: 540
+        height: 314
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8640ad831172adc30800000000000000
+      internalID: 4384860142120338536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_82
+      rect:
+        serializedVersion: 2
+        x: 2259
+        y: 618
+        width: 521
+        height: 312
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5e14603faccc11b40800000000000000
+      internalID: 5409329799481410021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_83
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 618
+        width: 506
+        height: 309
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70ae56bcecdc61a30800000000000000
+      internalID: 4185759191746865671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_84
+      rect:
+        serializedVersion: 2
+        x: 4258
+        y: 619
+        width: 492
+        height: 305
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5c1462aa0b5bf180800000000000000
+      internalID: -9080564122430202789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_85
+      rect:
+        serializedVersion: 2
+        x: 5256
+        y: 619
+        width: 478
+        height: 303
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f501d794f720acaf0800000000000000
+      internalID: -375484873214980001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_86
+      rect:
+        serializedVersion: 2
+        x: 6255
+        y: 620
+        width: 462
+        height: 299
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ac72a395252b5470800000000000000
+      internalID: 8384335974601227426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_87
+      rect:
+        serializedVersion: 2
+        x: 7254
+        y: 686
+        width: 150
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd010639d5cdf04a0800000000000000
+      internalID: -6624834232376094501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_88
+      rect:
+        serializedVersion: 2
+        x: 7413
+        y: 621
+        width: 283
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 374465c447ba3cdf0800000000000000
+      internalID: -161096645669927821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_89
+      rect:
+        serializedVersion: 2
+        x: 61
+        y: 167
+        width: 137
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d24938425528c3d0800000000000000
+      internalID: -3186255701035367728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_90
+      rect:
+        serializedVersion: 2
+        x: 220
+        y: 98
+        width: 260
+        height: 290
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7041311da2b084c0800000000000000
+      internalID: -4287230388869185411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_91
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 173
+        width: 124
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c0c7a03381d957a0800000000000000
+      internalID: -6387844235061116733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_92
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 99
+        width: 235
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8c367b6451d34190800000000000000
+      internalID: -7979303954260018034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_93
+      rect:
+        serializedVersion: 2
+        x: 2062
+        y: 180
+        width: 109
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 664334096c56dba60800000000000000
+      internalID: 7691415642116928614
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_94
+      rect:
+        serializedVersion: 2
+        x: 2219
+        y: 101
+        width: 221
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24fa093dd71b8bd0800000000000000
+      internalID: -2626979718728322001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_95
+      rect:
+        serializedVersion: 2
+        x: 3108
+        y: 304
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4d89f33dedf417b0800000000000000
+      internalID: -5254295670013457077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_96
+      rect:
+        serializedVersion: 2
+        x: 3219
+        y: 103
+        width: 207
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8181ef2abd467d0800000000000000
+      internalID: -2925972364789802821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossFireball_97
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 188
+        width: 85
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a17da6a5aeb172710800000000000000
+      internalID: 1668332880317306650
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RedCrossFireball_0: 2034844484672556291
+      RedCrossFireball_1: -3530370626704696477
+      RedCrossFireball_10: 6953274998965058462
+      RedCrossFireball_11: 3143843985433176959
+      RedCrossFireball_12: -2350753424831186356
+      RedCrossFireball_13: 5413335522827798865
+      RedCrossFireball_14: -3142997165734878128
+      RedCrossFireball_15: -830346404199678332
+      RedCrossFireball_16: -3515008922834893412
+      RedCrossFireball_17: 6150249669605919841
+      RedCrossFireball_18: 1694810010322958610
+      RedCrossFireball_19: 7284122337014249522
+      RedCrossFireball_2: 7425902222692243518
+      RedCrossFireball_20: 4700298732226058864
+      RedCrossFireball_21: -2944475009006080269
+      RedCrossFireball_22: 392477074755565824
+      RedCrossFireball_23: -428005623149300932
+      RedCrossFireball_24: -612248728310958765
+      RedCrossFireball_25: 1072624941945810928
+      RedCrossFireball_26: -4103756480118171292
+      RedCrossFireball_27: 3461578523863563987
+      RedCrossFireball_28: 4130116468556912871
+      RedCrossFireball_29: 184837616838463597
+      RedCrossFireball_3: -8441762314125272587
+      RedCrossFireball_30: 1790931345477375918
+      RedCrossFireball_31: -4987640433809172950
+      RedCrossFireball_32: 4291237197976092234
+      RedCrossFireball_33: -1374615492151801614
+      RedCrossFireball_34: 7059767894051677927
+      RedCrossFireball_35: -1066764686618010410
+      RedCrossFireball_36: -3397886797330820317
+      RedCrossFireball_37: -4466085950543759333
+      RedCrossFireball_38: -8461308189616390481
+      RedCrossFireball_39: 8319072689439065064
+      RedCrossFireball_4: -7527229056985602078
+      RedCrossFireball_40: -3887894056169805918
+      RedCrossFireball_41: 2976457697507118508
+      RedCrossFireball_42: -2975143418457755955
+      RedCrossFireball_43: -5062514003795162876
+      RedCrossFireball_44: -1157087996781991895
+      RedCrossFireball_45: 4992205166528566681
+      RedCrossFireball_46: -7516406738260202073
+      RedCrossFireball_47: -2975887765653240414
+      RedCrossFireball_48: 5307109942136299101
+      RedCrossFireball_49: -4566807331568279351
+      RedCrossFireball_5: 7889958824419771204
+      RedCrossFireball_50: 419845746574857731
+      RedCrossFireball_51: -5108579852774467507
+      RedCrossFireball_52: -2915454533940570303
+      RedCrossFireball_53: 5601363845503204131
+      RedCrossFireball_54: -7004180702978174230
+      RedCrossFireball_55: 5925281659158309037
+      RedCrossFireball_56: 745006652566050135
+      RedCrossFireball_57: 6664121813150584836
+      RedCrossFireball_58: 1897710327463925865
+      RedCrossFireball_59: -3495192296059092370
+      RedCrossFireball_6: -5583575811542927330
+      RedCrossFireball_60: -1491131489936663372
+      RedCrossFireball_61: 8700235343239597080
+      RedCrossFireball_62: 643400388594775716
+      RedCrossFireball_63: -1055598940487747669
+      RedCrossFireball_64: -6829822273526279258
+      RedCrossFireball_65: 3746967682115648525
+      RedCrossFireball_66: -1037146010187479402
+      RedCrossFireball_67: -5323353322171717805
+      RedCrossFireball_68: -9052039099149406947
+      RedCrossFireball_69: 9092306505753376720
+      RedCrossFireball_7: -4219785953984802877
+      RedCrossFireball_70: 5952361697384593601
+      RedCrossFireball_71: 6688491719469623234
+      RedCrossFireball_72: 6543969920505292475
+      RedCrossFireball_73: -3607273950909171389
+      RedCrossFireball_74: -4433403889132228976
+      RedCrossFireball_75: 928021649898489201
+      RedCrossFireball_76: -1829889069918090055
+      RedCrossFireball_77: 5333205043248654337
+      RedCrossFireball_78: -2927325204500265447
+      RedCrossFireball_79: 9083249158097835717
+      RedCrossFireball_8: -3565916742403574722
+      RedCrossFireball_80: -6867125381380040911
+      RedCrossFireball_81: 4384860142120338536
+      RedCrossFireball_82: 5409329799481410021
+      RedCrossFireball_83: 4185759191746865671
+      RedCrossFireball_84: -9080564122430202789
+      RedCrossFireball_85: -375484873214980001
+      RedCrossFireball_86: 8384335974601227426
+      RedCrossFireball_87: -6624834232376094501
+      RedCrossFireball_88: -161096645669927821
+      RedCrossFireball_89: -3186255701035367728
+      RedCrossFireball_9: 3946504925280918027
+      RedCrossFireball_90: -4287230388869185411
+      RedCrossFireball_91: -6387844235061116733
+      RedCrossFireball_92: -7979303954260018034
+      RedCrossFireball_93: 7691415642116928614
+      RedCrossFireball_94: -2626979718728322001
+      RedCrossFireball_95: -5254295670013457077
+      RedCrossFireball_96: -2925972364789802821
+      RedCrossFireball_97: 1668332880317306650
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

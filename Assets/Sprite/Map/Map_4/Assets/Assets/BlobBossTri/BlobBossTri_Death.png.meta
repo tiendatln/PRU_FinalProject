@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: a8db552f267697642844afc23430a6a3
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8217469995981300495
+    second: BlobBossTri_Death_0
+  - first:
+      213: 4775877384148750421
+    second: BlobBossTri_Death_1
+  - first:
+      213: 5685831018749693241
+    second: BlobBossTri_Death_2
+  - first:
+      213: -8213109882247812399
+    second: BlobBossTri_Death_3
+  - first:
+      213: -4440449893837914622
+    second: BlobBossTri_Death_4
+  - first:
+      213: -3106465772862215811
+    second: BlobBossTri_Death_5
+  - first:
+      213: 4327169666168895847
+    second: BlobBossTri_Death_6
+  - first:
+      213: 6151775992991464358
+    second: BlobBossTri_Death_7
+  - first:
+      213: 429171246958194513
+    second: BlobBossTri_Death_8
+  - first:
+      213: -60482066233303331
+    second: BlobBossTri_Death_9
+  - first:
+      213: -8002271549775848359
+    second: BlobBossTri_Death_10
+  - first:
+      213: -4392181992302946002
+    second: BlobBossTri_Death_11
+  - first:
+      213: -5801993300152881110
+    second: BlobBossTri_Death_12
+  - first:
+      213: -1885923304540677035
+    second: BlobBossTri_Death_13
+  - first:
+      213: 7454175898512855795
+    second: BlobBossTri_Death_14
+  - first:
+      213: 443575509430507678
+    second: BlobBossTri_Death_15
+  - first:
+      213: -6136286404424147403
+    second: BlobBossTri_Death_16
+  - first:
+      213: 10283388455790591
+    second: BlobBossTri_Death_17
+  - first:
+      213: -316052784742177466
+    second: BlobBossTri_Death_18
+  - first:
+      213: -9188800877829558014
+    second: BlobBossTri_Death_19
+  - first:
+      213: 3744964743735724485
+    second: BlobBossTri_Death_20
+  - first:
+      213: -2694740446625604253
+    second: BlobBossTri_Death_21
+  - first:
+      213: -427478970423191497
+    second: BlobBossTri_Death_22
+  - first:
+      213: 4520479084672935776
+    second: BlobBossTri_Death_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlobBossTri_Death_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1766
+        width: 330
+        height: 424
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fc9a11a39ea5fd80800000000000000
+      internalID: -8217469995981300495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Death_1
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1765
+        width: 336
+        height: 429
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 550120d5d23574240800000000000000
+      internalID: 4775877384148750421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Death_2
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1765
+        width: 343
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93d097dcf2128ee40800000000000000
+      internalID: 5685831018749693241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Death_3
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1764
+        width: 349
+        height: 431
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1da6e57b31c250e80800000000000000
+      internalID: -8213109882247812399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Death_4
+      rect:
+        serializedVersion: 2
+        x: 1685
+        y: 1764
+        width: 354
+        height: 430
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20ebeda195a5062c0800000000000000
+      internalID: -4440449893837914622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Death_5
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 1324
+        width: 359
+        height: 427
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7963ad96dd93e4d0800000000000000
+      internalID: -3106465772862215811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Death_6
+      rect:
+        serializedVersion: 2
+        x: 425
+        y: 1324
+        width: 364
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 769b7d292e13d0c30800000000000000
+      internalID: 4327169666168895847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Death_7
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 1323
+        width: 367
+        height: 417
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ab38001caf7f5550800000000000000
+      internalID: 6151775992991464358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Death_8
+      rect:
+        serializedVersion: 2
+        x: 1265
+        y: 1323
+        width: 370
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f21caa9f8b4f500800000000000000
+      internalID: 429171246958194513
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Death_9
+      rect:
+        serializedVersion: 2
+        x: 1684
+        y: 1322
+        width: 372
+        height: 401
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dded1e691ef192ff0800000000000000
+      internalID: -60482066233303331
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Death_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 883
+        width: 374
+        height: 391
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95c556f5c6832f090800000000000000
+      internalID: -8002271549775848359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Death_11
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 882
+        width: 374
+        height: 381
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e295aefafb5db03c0800000000000000
+      internalID: -4392181992302946002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Death_12
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 882
+        width: 373
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a20f03375dd2b7fa0800000000000000
+      internalID: -5801993300152881110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Death_13
+      rect:
+        serializedVersion: 2
+        x: 1263
+        y: 882
+        width: 395
+        height: 348
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55cd83f1fbad3d5e0800000000000000
+      internalID: -1885923304540677035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Death_14
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 881
+        width: 411
+        height: 322
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f2132c5c7d827760800000000000000
+      internalID: 7454175898512855795
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Death_15
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 442
+        width: 419
+        height: 295
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e981bae5395e72600800000000000000
+      internalID: 443575509430507678
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Death_16
+      rect:
+        serializedVersion: 2
+        x: 422
+        y: 441
+        width: 419
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53e5d30d60887daa0800000000000000
+      internalID: -6136286404424147403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Death_17
+      rect:
+        serializedVersion: 2
+        x: 841
+        y: 441
+        width: 416
+        height: 274
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff7aef3ffa8842000800000000000000
+      internalID: 10283388455790591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Death_18
+      rect:
+        serializedVersion: 2
+        x: 1261
+        y: 440
+        width: 418
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6456b23baa72d9bf0800000000000000
+      internalID: -316052784742177466
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Death_19
+      rect:
+        serializedVersion: 2
+        x: 1681
+        y: 440
+        width: 406
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 201fb253942da7080800000000000000
+      internalID: -9188800877829558014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Death_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 402
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c9cabeb799c8f330800000000000000
+      internalID: 3744964743735724485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Death_21
+      rect:
+        serializedVersion: 2
+        x: 420
+        y: 0
+        width: 391
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36dd00557db5a9ad0800000000000000
+      internalID: -2694740446625604253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Death_22
+      rect:
+        serializedVersion: 2
+        x: 839
+        y: 0
+        width: 376
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738d9fa242a411af0800000000000000
+      internalID: -427478970423191497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_Death_23
+      rect:
+        serializedVersion: 2
+        x: 1259
+        y: 0
+        width: 377
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0676388e6c7fbbe30800000000000000
+      internalID: 4520479084672935776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BlobBossTri_Death_0: -8217469995981300495
+      BlobBossTri_Death_1: 4775877384148750421
+      BlobBossTri_Death_10: -8002271549775848359
+      BlobBossTri_Death_11: -4392181992302946002
+      BlobBossTri_Death_12: -5801993300152881110
+      BlobBossTri_Death_13: -1885923304540677035
+      BlobBossTri_Death_14: 7454175898512855795
+      BlobBossTri_Death_15: 443575509430507678
+      BlobBossTri_Death_16: -6136286404424147403
+      BlobBossTri_Death_17: 10283388455790591
+      BlobBossTri_Death_18: -316052784742177466
+      BlobBossTri_Death_19: -9188800877829558014
+      BlobBossTri_Death_2: 5685831018749693241
+      BlobBossTri_Death_20: 3744964743735724485
+      BlobBossTri_Death_21: -2694740446625604253
+      BlobBossTri_Death_22: -427478970423191497
+      BlobBossTri_Death_23: 4520479084672935776
+      BlobBossTri_Death_3: -8213109882247812399
+      BlobBossTri_Death_4: -4440449893837914622
+      BlobBossTri_Death_5: -3106465772862215811
+      BlobBossTri_Death_6: 4327169666168895847
+      BlobBossTri_Death_7: 6151775992991464358
+      BlobBossTri_Death_8: 429171246958194513
+      BlobBossTri_Death_9: -60482066233303331
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

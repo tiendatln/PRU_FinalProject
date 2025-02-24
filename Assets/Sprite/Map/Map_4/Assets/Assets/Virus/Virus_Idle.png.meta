@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: d1e57f77803633c438908e0eca8cdf18
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 6366231364377405446
+    second: Virus_Idle_0
+  - first:
+      213: -8911318628024378584
+    second: Virus_Idle_1
+  - first:
+      213: 5387374519834365487
+    second: Virus_Idle_2
+  - first:
+      213: 2962284076933695977
+    second: Virus_Idle_3
+  - first:
+      213: 5238614166478937542
+    second: Virus_Idle_4
+  - first:
+      213: -2908232604788903430
+    second: Virus_Idle_5
+  - first:
+      213: -391688312623819401
+    second: Virus_Idle_6
+  - first:
+      213: 5169956188591649192
+    second: Virus_Idle_7
+  - first:
+      213: -6990641923788667525
+    second: Virus_Idle_8
+  - first:
+      213: 3123780705253578667
+    second: Virus_Idle_9
+  - first:
+      213: 2122192862359731863
+    second: Virus_Idle_10
+  - first:
+      213: -4884790400510954099
+    second: Virus_Idle_11
+  - first:
+      213: 9068643035808656528
+    second: Virus_Idle_12
+  - first:
+      213: -5072940822180134981
+    second: Virus_Idle_13
+  - first:
+      213: -929334367381288535
+    second: Virus_Idle_14
+  - first:
+      213: 7092680025132345533
+    second: Virus_Idle_15
+  - first:
+      213: 341194693073572487
+    second: Virus_Idle_16
+  - first:
+      213: 5461828350929538559
+    second: Virus_Idle_17
+  - first:
+      213: 3790629762568680164
+    second: Virus_Idle_18
+  - first:
+      213: 478150614803533283
+    second: Virus_Idle_19
+  - first:
+      213: -2305526908719146814
+    second: Virus_Idle_20
+  - first:
+      213: -3808794200073831039
+    second: Virus_Idle_21
+  - first:
+      213: 8773412384931954155
+    second: Virus_Idle_22
+  - first:
+      213: -3661772855978596060
+    second: Virus_Idle_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Virus_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 2202
+        width: 526
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6086aa732b5695850800000000000000
+      internalID: 6366231364377405446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virus_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 2202
+        width: 526
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b19480ce2a45480800000000000000
+      internalID: -8911318628024378584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virus_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1061
+        y: 2201
+        width: 529
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2ec7be059cc3ca40800000000000000
+      internalID: 5387374519834365487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virus_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 2201
+        width: 530
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e9cd615ca52c1920800000000000000
+      internalID: 2962284076933695977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virus_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 2120
+        y: 2201
+        width: 530
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cd5e4c34db43b840800000000000000
+      internalID: 5238614166478937542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virus_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1651
+        width: 531
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af1395bbad1e3a7d0800000000000000
+      internalID: -2908232604788903430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virus_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 529
+        y: 1651
+        width: 532
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 775926f0e81709af0800000000000000
+      internalID: -391688312623819401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virus_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 1060
+        y: 1651
+        width: 530
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1765d03cf5fb740800000000000000
+      internalID: 5169956188591649192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virus_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 1590
+        y: 1651
+        width: 530
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b758f9455304cfe90800000000000000
+      internalID: -6990641923788667525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virus_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 1651
+        width: 529
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba7dbdc3006e95b20800000000000000
+      internalID: 3123780705253578667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virus_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 1100
+        width: 527
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79e32d91a2b837d10800000000000000
+      internalID: 2122192862359731863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virus_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 549
+        width: 522
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d857e4fe20db53cb0800000000000000
+      internalID: -4884790400510954099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virus_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 532
+        y: 1100
+        width: 527
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09ce1381bca4add70800000000000000
+      internalID: 9068643035808656528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virus_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 536
+        y: 549
+        width: 520
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbfff57233b4999b0800000000000000
+      internalID: -5072940822180134981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virus_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1100
+        width: 526
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a90da211575a13f0800000000000000
+      internalID: -929334367381288535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virus_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 1594
+        y: 1099
+        width: 524
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db8a58b77e24e6260800000000000000
+      internalID: 7092680025132345533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virus_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 1596
+        y: 549
+        width: 521
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78216eff3ca2cb400800000000000000
+      internalID: 341194693073572487
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virus_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 2124
+        y: 1099
+        width: 524
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffd005972ff4ccb40800000000000000
+      internalID: 5461828350929538559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virus_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 2125
+        y: 549
+        width: 522
+        height: 551
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e2fde87fa50b9430800000000000000
+      internalID: 3790629762568680164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virus_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 0
+        width: 523
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3edcf78637bb2a600800000000000000
+      internalID: 478150614803533283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virus_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 534
+        y: 0
+        width: 525
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c8d0b1ed7f1100e0800000000000000
+      internalID: -2305526908719146814
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virus_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 1
+        width: 526
+        height: 549
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18df70adad1742bc0800000000000000
+      internalID: -3808794200073831039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virus_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 549
+        width: 519
+        height: 550
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedb1ef941c61c970800000000000000
+      internalID: 8773412384931954155
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Virus_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 1593
+        y: 2
+        width: 526
+        height: 547
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4296a370df4ce2dc0800000000000000
+      internalID: -3661772855978596060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Virus_Idle_0: 6366231364377405446
+      Virus_Idle_1: -8911318628024378584
+      Virus_Idle_10: 2122192862359731863
+      Virus_Idle_11: -4884790400510954099
+      Virus_Idle_12: 9068643035808656528
+      Virus_Idle_13: -5072940822180134981
+      Virus_Idle_14: -929334367381288535
+      Virus_Idle_15: 7092680025132345533
+      Virus_Idle_16: 341194693073572487
+      Virus_Idle_17: 5461828350929538559
+      Virus_Idle_18: 3790629762568680164
+      Virus_Idle_19: 478150614803533283
+      Virus_Idle_2: 5387374519834365487
+      Virus_Idle_20: -2305526908719146814
+      Virus_Idle_21: -3808794200073831039
+      Virus_Idle_22: 8773412384931954155
+      Virus_Idle_23: -3661772855978596060
+      Virus_Idle_3: 2962284076933695977
+      Virus_Idle_4: 5238614166478937542
+      Virus_Idle_5: -2908232604788903430
+      Virus_Idle_6: -391688312623819401
+      Virus_Idle_7: 5169956188591649192
+      Virus_Idle_8: -6990641923788667525
+      Virus_Idle_9: 3123780705253578667
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

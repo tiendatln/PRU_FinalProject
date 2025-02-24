@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 68f40465703c1b24088fb9efd846f1c6
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8045224265192010993
+    second: Lootingbox_ConcealedMonster_0
+  - first:
+      213: -6365196227991360067
+    second: Lootingbox_ConcealedMonster_1
+  - first:
+      213: -6330246711024656195
+    second: Lootingbox_ConcealedMonster_2
+  - first:
+      213: -6224724785875250525
+    second: Lootingbox_ConcealedMonster_3
+  - first:
+      213: 218119988219197016
+    second: Lootingbox_ConcealedMonster_4
+  - first:
+      213: 1456579562009963342
+    second: Lootingbox_ConcealedMonster_5
+  - first:
+      213: -7118458463807751470
+    second: Lootingbox_ConcealedMonster_6
+  - first:
+      213: 7459138317560901449
+    second: Lootingbox_ConcealedMonster_7
+  - first:
+      213: 1987766857342912080
+    second: Lootingbox_ConcealedMonster_8
+  - first:
+      213: 1320495810745844700
+    second: Lootingbox_ConcealedMonster_9
+  - first:
+      213: -8604997057815250205
+    second: Lootingbox_ConcealedMonster_10
+  - first:
+      213: -5771152048159476302
+    second: Lootingbox_ConcealedMonster_11
+  - first:
+      213: 2135538020892460930
+    second: Lootingbox_ConcealedMonster_12
+  - first:
+      213: -2855176831444780146
+    second: Lootingbox_ConcealedMonster_13
+  - first:
+      213: 3295631469116087104
+    second: Lootingbox_ConcealedMonster_14
+  - first:
+      213: 3303923325960451145
+    second: Lootingbox_ConcealedMonster_15
+  - first:
+      213: -4718626423587116818
+    second: Lootingbox_ConcealedMonster_16
+  - first:
+      213: -1722052352282102171
+    second: Lootingbox_ConcealedMonster_17
+  - first:
+      213: 8995909430141509592
+    second: Lootingbox_ConcealedMonster_18
+  - first:
+      213: 3918626313529095034
+    second: Lootingbox_ConcealedMonster_19
+  - first:
+      213: -8371220559088777877
+    second: Lootingbox_ConcealedMonster_20
+  - first:
+      213: -8790889667373520822
+    second: Lootingbox_ConcealedMonster_21
+  - first:
+      213: -62006468008210892
+    second: Lootingbox_ConcealedMonster_22
+  - first:
+      213: 5124208489974383945
+    second: Lootingbox_ConcealedMonster_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Lootingbox_ConcealedMonster_0
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 2089
+        width: 724
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f47f1108d066af60800000000000000
+      internalID: 8045224265192010993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_ConcealedMonster_1
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 2107
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dbd2be041c74aa7a0800000000000000
+      internalID: -6365196227991360067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_ConcealedMonster_2
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 2089
+        width: 724
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db06ac8c7227628a0800000000000000
+      internalID: -6330246711024656195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_ConcealedMonster_3
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 2107
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a2165989c55d99a0800000000000000
+      internalID: -6224724785875250525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_ConcealedMonster_4
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 2089
+        width: 724
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 856b73049fae60300800000000000000
+      internalID: 218119988219197016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_ConcealedMonster_5
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 2107
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4ba2b4f46fc63410800000000000000
+      internalID: 1456579562009963342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_ConcealedMonster_6
+      rect:
+        serializedVersion: 2
+        x: 3227
+        y: 2089
+        width: 724
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dabd5c0eb7263d90800000000000000
+      internalID: -7118458463807751470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_ConcealedMonster_7
+      rect:
+        serializedVersion: 2
+        x: 4045
+        y: 2107
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94fe8b497ce248760800000000000000
+      internalID: 7459138317560901449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_ConcealedMonster_8
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 1065
+        width: 724
+        height: 449
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0560834dc67f59b10800000000000000
+      internalID: 1987766857342912080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_ConcealedMonster_9
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 1083
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd3c5ee81f7535210800000000000000
+      internalID: 1320495810745844700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_ConcealedMonster_10
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 1065
+        width: 724
+        height: 445
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3eaf3a364c8e49880800000000000000
+      internalID: -8604997057815250205
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_ConcealedMonster_11
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 1083
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b5bfa00acfb8efa0800000000000000
+      internalID: -5771152048159476302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_ConcealedMonster_12
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 1065
+        width: 724
+        height: 447
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 287c2a3f384f2ad10800000000000000
+      internalID: 2135538020892460930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_ConcealedMonster_13
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 1083
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8bfec69ccf5068d0800000000000000
+      internalID: -2855176831444780146
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_ConcealedMonster_14
+      rect:
+        serializedVersion: 2
+        x: 3227
+        y: 1065
+        width: 724
+        height: 451
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04b53433c5f6cbd20800000000000000
+      internalID: 3295631469116087104
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_ConcealedMonster_15
+      rect:
+        serializedVersion: 2
+        x: 4045
+        y: 1083
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944fff092c4e9dd20800000000000000
+      internalID: 3303923325960451145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_ConcealedMonster_16
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 41
+        width: 724
+        height: 454
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee86152a442148eb0800000000000000
+      internalID: -4718626423587116818
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_ConcealedMonster_17
+      rect:
+        serializedVersion: 2
+        x: 973
+        y: 59
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5667999628a0a18e0800000000000000
+      internalID: -1722052352282102171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_ConcealedMonster_18
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 41
+        width: 724
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dfdb2fd6f3e7dc70800000000000000
+      internalID: 8995909430141509592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_ConcealedMonster_19
+      rect:
+        serializedVersion: 2
+        x: 1997
+        y: 59
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a737661ded1c16630800000000000000
+      internalID: 3918626313529095034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_ConcealedMonster_20
+      rect:
+        serializedVersion: 2
+        x: 2203
+        y: 41
+        width: 724
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b65011f014373db80800000000000000
+      internalID: -8371220559088777877
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_ConcealedMonster_21
+      rect:
+        serializedVersion: 2
+        x: 3021
+        y: 59
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a48ac847c6c700680800000000000000
+      internalID: -8790889667373520822
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_ConcealedMonster_22
+      rect:
+        serializedVersion: 2
+        x: 3227
+        y: 41
+        width: 724
+        height: 453
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43e08942275b32ff0800000000000000
+      internalID: -62006468008210892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Lootingbox_ConcealedMonster_23
+      rect:
+        serializedVersion: 2
+        x: 4045
+        y: 59
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 945c6ffe878dc1740800000000000000
+      internalID: 5124208489974383945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Lootingbox_ConcealedMonster_0: 8045224265192010993
+      Lootingbox_ConcealedMonster_1: -6365196227991360067
+      Lootingbox_ConcealedMonster_10: -8604997057815250205
+      Lootingbox_ConcealedMonster_11: -5771152048159476302
+      Lootingbox_ConcealedMonster_12: 2135538020892460930
+      Lootingbox_ConcealedMonster_13: -2855176831444780146
+      Lootingbox_ConcealedMonster_14: 3295631469116087104
+      Lootingbox_ConcealedMonster_15: 3303923325960451145
+      Lootingbox_ConcealedMonster_16: -4718626423587116818
+      Lootingbox_ConcealedMonster_17: -1722052352282102171
+      Lootingbox_ConcealedMonster_18: 8995909430141509592
+      Lootingbox_ConcealedMonster_19: 3918626313529095034
+      Lootingbox_ConcealedMonster_2: -6330246711024656195
+      Lootingbox_ConcealedMonster_20: -8371220559088777877
+      Lootingbox_ConcealedMonster_21: -8790889667373520822
+      Lootingbox_ConcealedMonster_22: -62006468008210892
+      Lootingbox_ConcealedMonster_23: 5124208489974383945
+      Lootingbox_ConcealedMonster_3: -6224724785875250525
+      Lootingbox_ConcealedMonster_4: 218119988219197016
+      Lootingbox_ConcealedMonster_5: 1456579562009963342
+      Lootingbox_ConcealedMonster_6: -7118458463807751470
+      Lootingbox_ConcealedMonster_7: 7459138317560901449
+      Lootingbox_ConcealedMonster_8: 1987766857342912080
+      Lootingbox_ConcealedMonster_9: 1320495810745844700
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

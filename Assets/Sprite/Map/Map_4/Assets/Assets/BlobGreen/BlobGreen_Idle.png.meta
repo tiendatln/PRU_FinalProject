@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: a22d003b15f6a4b419df1580f1364320
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5916388296420681606
+    second: BlobGreen_Idle_0
+  - first:
+      213: 9065956568576279804
+    second: BlobGreen_Idle_1
+  - first:
+      213: 4601783064416408541
+    second: BlobGreen_Idle_2
+  - first:
+      213: 8706200565449372987
+    second: BlobGreen_Idle_3
+  - first:
+      213: -567623665674037497
+    second: BlobGreen_Idle_4
+  - first:
+      213: 7934402368283777279
+    second: BlobGreen_Idle_5
+  - first:
+      213: -118127487415985706
+    second: BlobGreen_Idle_6
+  - first:
+      213: -1197268572011465400
+    second: BlobGreen_Idle_7
+  - first:
+      213: -1848112467474267066
+    second: BlobGreen_Idle_8
+  - first:
+      213: -5666720265677592118
+    second: BlobGreen_Idle_9
+  - first:
+      213: -757293523704808622
+    second: BlobGreen_Idle_10
+  - first:
+      213: 2703554012913691897
+    second: BlobGreen_Idle_11
+  - first:
+      213: 8982690201176604965
+    second: BlobGreen_Idle_12
+  - first:
+      213: -1444332712817599873
+    second: BlobGreen_Idle_13
+  - first:
+      213: -1345723789011574073
+    second: BlobGreen_Idle_14
+  - first:
+      213: 3017650784699946363
+    second: BlobGreen_Idle_15
+  - first:
+      213: -3698413164271126960
+    second: BlobGreen_Idle_16
+  - first:
+      213: -3473608181802410419
+    second: BlobGreen_Idle_17
+  - first:
+      213: -5053699256258444325
+    second: BlobGreen_Idle_18
+  - first:
+      213: -1884164399469025538
+    second: BlobGreen_Idle_19
+  - first:
+      213: 7716015921236433159
+    second: BlobGreen_Idle_20
+  - first:
+      213: -720076141006226968
+    second: BlobGreen_Idle_21
+  - first:
+      213: -8950225151256075663
+    second: BlobGreen_Idle_22
+  - first:
+      213: 1044600017203094406
+    second: BlobGreen_Idle_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlobGreen_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4319
+        width: 857
+        height: 1081
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a781196d034c4eda0800000000000000
+      internalID: -5916388296420681606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGreen_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 4319
+        width: 861
+        height: 1077
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf4cb13377fb0dd70800000000000000
+      internalID: 9065956568576279804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGreen_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 4319
+        width: 865
+        height: 1071
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd3d2f7d051dcdf30800000000000000
+      internalID: 4601783064416408541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGreen_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 4319
+        width: 866
+        height: 1065
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b353aee6943a2d870800000000000000
+      internalID: 8706200565449372987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGreen_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 3485
+        y: 4319
+        width: 869
+        height: 1059
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 707d46198456f18f0800000000000000
+      internalID: -567623665674037497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGreen_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 3239
+        width: 869
+        height: 1051
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff8929a6ae8ac1e60800000000000000
+      internalID: 7934402368283777279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGreen_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 3239
+        width: 870
+        height: 1044
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d95c521da35c5ef0800000000000000
+      internalID: -118127487415985706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGreen_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 1745
+        y: 3239
+        width: 869
+        height: 1036
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8457480c392726fe0800000000000000
+      internalID: -1197268572011465400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGreen_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 2616
+        y: 3239
+        width: 868
+        height: 1028
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 644c937a08f2a56e0800000000000000
+      internalID: -1848112467474267066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGreen_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 3488
+        y: 3239
+        width: 866
+        height: 1020
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9a7c221f3cb51b0800000000000000
+      internalID: -5666720265677592118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGreen_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 4
+        y: 2159
+        width: 864
+        height: 1018
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25bfed07d8d8d75f0800000000000000
+      internalID: -757293523704808622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGreen_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 876
+        y: 2159
+        width: 861
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9fc6dcafc04f48520800000000000000
+      internalID: 2703554012913691897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGreen_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 1746
+        y: 2159
+        width: 864
+        height: 1018
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5218388452de8ac70800000000000000
+      internalID: 8982690201176604965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGreen_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 2617
+        y: 2159
+        width: 866
+        height: 1019
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7ad703dc03b4fbe0800000000000000
+      internalID: -1444332712817599873
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGreen_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 3487
+        y: 2159
+        width: 868
+        height: 1026
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c22c260857035de0800000000000000
+      internalID: -1345723789011574073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGreen_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1079
+        width: 869
+        height: 1033
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7518368669d0e920800000000000000
+      internalID: 3017650784699946363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGreen_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 1079
+        width: 870
+        height: 1040
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 056bdf672d89cacc0800000000000000
+      internalID: -3698413164271126960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGreen_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 1744
+        y: 1079
+        width: 869
+        height: 1047
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4ed6ca33c34bcfc0800000000000000
+      internalID: -3473608181802410419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGreen_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 2612
+        y: 0
+        width: 858
+        height: 1081
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd34f055d47add9b0800000000000000
+      internalID: -5053699256258444325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGreen_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 2614
+        y: 1079
+        width: 869
+        height: 1054
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef6263f167a1ad5e0800000000000000
+      internalID: -1884164399469025538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGreen_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 3485
+        y: 1079
+        width: 868
+        height: 1061
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7095e82699bc41b60800000000000000
+      internalID: 7716015921236433159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGreen_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 867
+        height: 1066
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e9f61c9096c106f0800000000000000
+      internalID: -720076141006226968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGreen_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 0
+        width: 864
+        height: 1071
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1726d9f25a96ac380800000000000000
+      internalID: -8950225151256075663
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGreen_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 1742
+        y: 0
+        width: 861
+        height: 1076
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 683e1cd5e2a2f7e00800000000000000
+      internalID: 1044600017203094406
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BlobGreen_Idle_0: -5916388296420681606
+      BlobGreen_Idle_1: 9065956568576279804
+      BlobGreen_Idle_10: -757293523704808622
+      BlobGreen_Idle_11: 2703554012913691897
+      BlobGreen_Idle_12: 8982690201176604965
+      BlobGreen_Idle_13: -1444332712817599873
+      BlobGreen_Idle_14: -1345723789011574073
+      BlobGreen_Idle_15: 3017650784699946363
+      BlobGreen_Idle_16: -3698413164271126960
+      BlobGreen_Idle_17: -3473608181802410419
+      BlobGreen_Idle_18: -5053699256258444325
+      BlobGreen_Idle_19: -1884164399469025538
+      BlobGreen_Idle_2: 4601783064416408541
+      BlobGreen_Idle_20: 7716015921236433159
+      BlobGreen_Idle_21: -720076141006226968
+      BlobGreen_Idle_22: -8950225151256075663
+      BlobGreen_Idle_23: 1044600017203094406
+      BlobGreen_Idle_3: 8706200565449372987
+      BlobGreen_Idle_4: -567623665674037497
+      BlobGreen_Idle_5: 7934402368283777279
+      BlobGreen_Idle_6: -118127487415985706
+      BlobGreen_Idle_7: -1197268572011465400
+      BlobGreen_Idle_8: -1848112467474267066
+      BlobGreen_Idle_9: -5666720265677592118
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

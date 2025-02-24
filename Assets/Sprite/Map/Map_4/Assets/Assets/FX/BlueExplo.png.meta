@@ -1,0 +1,7865 @@
+fileFormatVersion: 2
+guid: 5ec191dd95ead904ca0a367338472e8c
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7462813104771327498
+    second: BlueExplo_0
+  - first:
+      213: 5267774712238443593
+    second: BlueExplo_1
+  - first:
+      213: 6076779505619878461
+    second: BlueExplo_2
+  - first:
+      213: 1685798527122546788
+    second: BlueExplo_3
+  - first:
+      213: -14868565915157810
+    second: BlueExplo_4
+  - first:
+      213: 3284292907153762383
+    second: BlueExplo_5
+  - first:
+      213: -3807468622647196059
+    second: BlueExplo_6
+  - first:
+      213: 7768577807673366605
+    second: BlueExplo_7
+  - first:
+      213: 7596708271793070676
+    second: BlueExplo_8
+  - first:
+      213: 5675037096343353009
+    second: BlueExplo_9
+  - first:
+      213: 2346318936604952595
+    second: BlueExplo_10
+  - first:
+      213: 4063390546600727244
+    second: BlueExplo_11
+  - first:
+      213: 2014280485749558208
+    second: BlueExplo_12
+  - first:
+      213: -6711029283768614436
+    second: BlueExplo_13
+  - first:
+      213: -1164672193961331103
+    second: BlueExplo_14
+  - first:
+      213: -5400653528331573423
+    second: BlueExplo_15
+  - first:
+      213: 3469538693928797658
+    second: BlueExplo_16
+  - first:
+      213: 7417744954638669774
+    second: BlueExplo_17
+  - first:
+      213: -6134326561852361379
+    second: BlueExplo_18
+  - first:
+      213: -448796555964631307
+    second: BlueExplo_19
+  - first:
+      213: 5408074497672303363
+    second: BlueExplo_20
+  - first:
+      213: -6437056305131751237
+    second: BlueExplo_21
+  - first:
+      213: -6863785294733492545
+    second: BlueExplo_22
+  - first:
+      213: -1847073509705991768
+    second: BlueExplo_23
+  - first:
+      213: -9197910280919341184
+    second: BlueExplo_24
+  - first:
+      213: 748442565071304566
+    second: BlueExplo_25
+  - first:
+      213: -4222183305810279336
+    second: BlueExplo_26
+  - first:
+      213: -5072514314727270399
+    second: BlueExplo_27
+  - first:
+      213: 8423938696025946798
+    second: BlueExplo_28
+  - first:
+      213: -5808631846537427511
+    second: BlueExplo_29
+  - first:
+      213: 7489980884870687394
+    second: BlueExplo_30
+  - first:
+      213: 3336859486128623224
+    second: BlueExplo_31
+  - first:
+      213: -7952438229381111773
+    second: BlueExplo_32
+  - first:
+      213: -4582693413893442920
+    second: BlueExplo_33
+  - first:
+      213: 667425305881473774
+    second: BlueExplo_34
+  - first:
+      213: -6914569856062895681
+    second: BlueExplo_35
+  - first:
+      213: -3863131342470192773
+    second: BlueExplo_36
+  - first:
+      213: 7973353774713225036
+    second: BlueExplo_37
+  - first:
+      213: 5619805062446059210
+    second: BlueExplo_38
+  - first:
+      213: -1171422864550713684
+    second: BlueExplo_39
+  - first:
+      213: -5946323659988509192
+    second: BlueExplo_40
+  - first:
+      213: -6490560905216998530
+    second: BlueExplo_41
+  - first:
+      213: 6985984341498968091
+    second: BlueExplo_42
+  - first:
+      213: 927656703444257352
+    second: BlueExplo_43
+  - first:
+      213: -4726631197950902467
+    second: BlueExplo_44
+  - first:
+      213: -2780454443941723897
+    second: BlueExplo_45
+  - first:
+      213: -8606939698584873993
+    second: BlueExplo_46
+  - first:
+      213: 5665759495971993223
+    second: BlueExplo_47
+  - first:
+      213: -10814533456725329
+    second: BlueExplo_48
+  - first:
+      213: 2867948416358816289
+    second: BlueExplo_49
+  - first:
+      213: -5203904940601663949
+    second: BlueExplo_50
+  - first:
+      213: 6319957094124192361
+    second: BlueExplo_51
+  - first:
+      213: 4582836500912892164
+    second: BlueExplo_52
+  - first:
+      213: 7961622221500922108
+    second: BlueExplo_53
+  - first:
+      213: -2916994820654829825
+    second: BlueExplo_54
+  - first:
+      213: -2841057039647789540
+    second: BlueExplo_55
+  - first:
+      213: -8971946062215369835
+    second: BlueExplo_56
+  - first:
+      213: 433189342559947666
+    second: BlueExplo_57
+  - first:
+      213: 4271822643811742386
+    second: BlueExplo_58
+  - first:
+      213: 4619354471028411037
+    second: BlueExplo_59
+  - first:
+      213: -1395108221354503489
+    second: BlueExplo_60
+  - first:
+      213: 2246806342023884085
+    second: BlueExplo_61
+  - first:
+      213: 8164813941020710512
+    second: BlueExplo_62
+  - first:
+      213: -2837135841887162016
+    second: BlueExplo_63
+  - first:
+      213: 8962516544190265391
+    second: BlueExplo_64
+  - first:
+      213: 7817671993349997389
+    second: BlueExplo_65
+  - first:
+      213: -4559635061357567061
+    second: BlueExplo_66
+  - first:
+      213: -6973283412318213812
+    second: BlueExplo_67
+  - first:
+      213: 2095008640138211820
+    second: BlueExplo_68
+  - first:
+      213: 3843092726981173584
+    second: BlueExplo_69
+  - first:
+      213: 7523760315210522826
+    second: BlueExplo_70
+  - first:
+      213: 2217030568972329167
+    second: BlueExplo_71
+  - first:
+      213: 9056248085980355557
+    second: BlueExplo_72
+  - first:
+      213: 6949632347510647848
+    second: BlueExplo_73
+  - first:
+      213: -4569351427670449340
+    second: BlueExplo_74
+  - first:
+      213: 6499486222287531699
+    second: BlueExplo_75
+  - first:
+      213: -7370382380998864833
+    second: BlueExplo_76
+  - first:
+      213: -2502710913860756892
+    second: BlueExplo_77
+  - first:
+      213: 5297119932018791425
+    second: BlueExplo_78
+  - first:
+      213: -6968517561532618965
+    second: BlueExplo_79
+  - first:
+      213: -79977524513611288
+    second: BlueExplo_80
+  - first:
+      213: 4700797595941825157
+    second: BlueExplo_81
+  - first:
+      213: 8274268472044648363
+    second: BlueExplo_82
+  - first:
+      213: 7948874060729397651
+    second: BlueExplo_83
+  - first:
+      213: -1970552726679134467
+    second: BlueExplo_84
+  - first:
+      213: -8786951648402795044
+    second: BlueExplo_85
+  - first:
+      213: 6105334852601218127
+    second: BlueExplo_86
+  - first:
+      213: 977351465542345128
+    second: BlueExplo_87
+  - first:
+      213: 5515782441303352499
+    second: BlueExplo_88
+  - first:
+      213: -6521147327869051662
+    second: BlueExplo_89
+  - first:
+      213: -5449316089587315367
+    second: BlueExplo_90
+  - first:
+      213: 8972711363349717984
+    second: BlueExplo_91
+  - first:
+      213: -8392183358194594325
+    second: BlueExplo_92
+  - first:
+      213: -4450775704448593272
+    second: BlueExplo_93
+  - first:
+      213: 5720510705335035412
+    second: BlueExplo_94
+  - first:
+      213: -4881249766131227396
+    second: BlueExplo_95
+  - first:
+      213: 5218791439824371833
+    second: BlueExplo_96
+  - first:
+      213: -2909104857584736658
+    second: BlueExplo_97
+  - first:
+      213: -6179991649902941089
+    second: BlueExplo_98
+  - first:
+      213: 8840303946387971232
+    second: BlueExplo_99
+  - first:
+      213: 802460660606287043
+    second: BlueExplo_100
+  - first:
+      213: 7419968468437007257
+    second: BlueExplo_101
+  - first:
+      213: -3403917098467494889
+    second: BlueExplo_102
+  - first:
+      213: -8362159339917615530
+    second: BlueExplo_103
+  - first:
+      213: 2673626872146979765
+    second: BlueExplo_104
+  - first:
+      213: -2532249021582414151
+    second: BlueExplo_105
+  - first:
+      213: -4035343713962372924
+    second: BlueExplo_106
+  - first:
+      213: -3064601576782300681
+    second: BlueExplo_107
+  - first:
+      213: -1937319984275753606
+    second: BlueExplo_108
+  - first:
+      213: -5596101830265956723
+    second: BlueExplo_109
+  - first:
+      213: -1568256364159820151
+    second: BlueExplo_110
+  - first:
+      213: 7661140359614302315
+    second: BlueExplo_111
+  - first:
+      213: -4123214195423179916
+    second: BlueExplo_112
+  - first:
+      213: 3355737265232749706
+    second: BlueExplo_113
+  - first:
+      213: -847291252065986064
+    second: BlueExplo_114
+  - first:
+      213: 7239388232712680776
+    second: BlueExplo_115
+  - first:
+      213: -6440746115482468825
+    second: BlueExplo_116
+  - first:
+      213: 2301649846675743072
+    second: BlueExplo_117
+  - first:
+      213: 1649946279457961007
+    second: BlueExplo_118
+  - first:
+      213: 1934238921283402235
+    second: BlueExplo_119
+  - first:
+      213: -4786584750149706214
+    second: BlueExplo_120
+  - first:
+      213: -2179626717250339961
+    second: BlueExplo_121
+  - first:
+      213: -1223749472212775892
+    second: BlueExplo_122
+  - first:
+      213: 7894419662807045779
+    second: BlueExplo_123
+  - first:
+      213: 57212411452101045
+    second: BlueExplo_124
+  - first:
+      213: 7649957815557994872
+    second: BlueExplo_125
+  - first:
+      213: 3757110174038594833
+    second: BlueExplo_126
+  - first:
+      213: -1627796690281689687
+    second: BlueExplo_127
+  - first:
+      213: 702545847460603324
+    second: BlueExplo_128
+  - first:
+      213: -267194627220621421
+    second: BlueExplo_129
+  - first:
+      213: -2001756052487657773
+    second: BlueExplo_130
+  - first:
+      213: -3716225640728147460
+    second: BlueExplo_131
+  - first:
+      213: -7178209599706875738
+    second: BlueExplo_132
+  - first:
+      213: 4089051593547577629
+    second: BlueExplo_133
+  - first:
+      213: 1042764852367698318
+    second: BlueExplo_134
+  - first:
+      213: -1339979657930092937
+    second: BlueExplo_135
+  - first:
+      213: 2422221503988646086
+    second: BlueExplo_136
+  - first:
+      213: -7973320761164435626
+    second: BlueExplo_137
+  - first:
+      213: 5093983133145906101
+    second: BlueExplo_138
+  - first:
+      213: -8974086677327290676
+    second: BlueExplo_139
+  - first:
+      213: -3542471007810503288
+    second: BlueExplo_140
+  - first:
+      213: 4236807898962351239
+    second: BlueExplo_141
+  - first:
+      213: -7343613938948969471
+    second: BlueExplo_142
+  - first:
+      213: -2381917589876337508
+    second: BlueExplo_143
+  - first:
+      213: -6059005883298520054
+    second: BlueExplo_144
+  - first:
+      213: 1375664640825907483
+    second: BlueExplo_145
+  - first:
+      213: 6538905278331537024
+    second: BlueExplo_146
+  - first:
+      213: -8419698419893675586
+    second: BlueExplo_147
+  - first:
+      213: -2713136601135737962
+    second: BlueExplo_148
+  - first:
+      213: -4990337414313335004
+    second: BlueExplo_149
+  - first:
+      213: -3210079285717667794
+    second: BlueExplo_150
+  - first:
+      213: 8198847448764867411
+    second: BlueExplo_151
+  - first:
+      213: 1288895522246829662
+    second: BlueExplo_152
+  - first:
+      213: 5432704054503511063
+    second: BlueExplo_153
+  - first:
+      213: -7609830144687061620
+    second: BlueExplo_154
+  - first:
+      213: -829564035799049307
+    second: BlueExplo_155
+  - first:
+      213: 1900042568202776033
+    second: BlueExplo_156
+  - first:
+      213: -6548964754082080097
+    second: BlueExplo_157
+  - first:
+      213: 4762509556955647604
+    second: BlueExplo_158
+  - first:
+      213: 7040331837151230401
+    second: BlueExplo_159
+  - first:
+      213: 1067390482970309811
+    second: BlueExplo_160
+  - first:
+      213: -4601581926453947737
+    second: BlueExplo_161
+  - first:
+      213: 1284260778133728281
+    second: BlueExplo_162
+  - first:
+      213: -7694080362349499124
+    second: BlueExplo_163
+  - first:
+      213: 4539457594829689845
+    second: BlueExplo_164
+  - first:
+      213: -1910994318434021716
+    second: BlueExplo_165
+  - first:
+      213: 2131362226914519730
+    second: BlueExplo_166
+  - first:
+      213: -8743513442073000542
+    second: BlueExplo_167
+  - first:
+      213: -7662907576583856253
+    second: BlueExplo_168
+  - first:
+      213: -2973378518377297885
+    second: BlueExplo_169
+  - first:
+      213: 3204400640070904236
+    second: BlueExplo_170
+  - first:
+      213: -4936454581036503471
+    second: BlueExplo_171
+  - first:
+      213: -8691270402845054261
+    second: BlueExplo_172
+  - first:
+      213: -6707517370385369031
+    second: BlueExplo_173
+  - first:
+      213: -9118422471127121031
+    second: BlueExplo_174
+  - first:
+      213: 6422323894471690430
+    second: BlueExplo_175
+  - first:
+      213: -43808509701003893
+    second: BlueExplo_176
+  - first:
+      213: 4588311946047896658
+    second: BlueExplo_177
+  - first:
+      213: 762045441809768286
+    second: BlueExplo_178
+  - first:
+      213: -730713122697890041
+    second: BlueExplo_179
+  - first:
+      213: -7832667021851301425
+    second: BlueExplo_180
+  - first:
+      213: 7372445773956073369
+    second: BlueExplo_181
+  - first:
+      213: 7725150076503501987
+    second: BlueExplo_182
+  - first:
+      213: -8845938302146037981
+    second: BlueExplo_183
+  - first:
+      213: 315748867681405576
+    second: BlueExplo_184
+  - first:
+      213: -1854811221714645937
+    second: BlueExplo_185
+  - first:
+      213: -8172867988190173849
+    second: BlueExplo_186
+  - first:
+      213: -799501429101622282
+    second: BlueExplo_187
+  - first:
+      213: 6851945312742812215
+    second: BlueExplo_188
+  - first:
+      213: 3443740139357374697
+    second: BlueExplo_189
+  - first:
+      213: 7230551871259096131
+    second: BlueExplo_190
+  - first:
+      213: -7317014459790945404
+    second: BlueExplo_191
+  - first:
+      213: -3431661046720403336
+    second: BlueExplo_192
+  - first:
+      213: -6866330511416245051
+    second: BlueExplo_193
+  - first:
+      213: -6882811614551501362
+    second: BlueExplo_194
+  - first:
+      213: -2080357346847314741
+    second: BlueExplo_195
+  - first:
+      213: -87330543803266845
+    second: BlueExplo_196
+  - first:
+      213: -8211112137484092924
+    second: BlueExplo_197
+  - first:
+      213: 9033905411951110116
+    second: BlueExplo_198
+  - first:
+      213: 3540707254933415419
+    second: BlueExplo_199
+  - first:
+      213: -1562519090210684718
+    second: BlueExplo_200
+  - first:
+      213: -8864686100206493984
+    second: BlueExplo_201
+  - first:
+      213: 4166293111237548721
+    second: BlueExplo_202
+  - first:
+      213: 2461418822621447843
+    second: BlueExplo_203
+  - first:
+      213: -8168590639630020313
+    second: BlueExplo_204
+  - first:
+      213: -2498830461902037928
+    second: BlueExplo_205
+  - first:
+      213: 5012853504944883729
+    second: BlueExplo_206
+  - first:
+      213: 337261853830958958
+    second: BlueExplo_207
+  - first:
+      213: 4441699728073360071
+    second: BlueExplo_208
+  - first:
+      213: -344526322072494401
+    second: BlueExplo_209
+  - first:
+      213: 6119605339053248204
+    second: BlueExplo_210
+  - first:
+      213: 8632628138395934723
+    second: BlueExplo_211
+  - first:
+      213: -6677587133981111989
+    second: BlueExplo_212
+  - first:
+      213: -8770446293133455110
+    second: BlueExplo_213
+  - first:
+      213: -3153589973955788600
+    second: BlueExplo_214
+  - first:
+      213: -5551580283432515139
+    second: BlueExplo_215
+  - first:
+      213: 2312166503605247412
+    second: BlueExplo_216
+  - first:
+      213: -2248152140013708324
+    second: BlueExplo_217
+  - first:
+      213: 5671626875750591122
+    second: BlueExplo_218
+  - first:
+      213: 2522624360666075074
+    second: BlueExplo_219
+  - first:
+      213: 54675151599531263
+    second: BlueExplo_220
+  - first:
+      213: 8289159198811759341
+    second: BlueExplo_221
+  - first:
+      213: 1035913406951752364
+    second: BlueExplo_222
+  - first:
+      213: -1126745148745589157
+    second: BlueExplo_223
+  - first:
+      213: 6710134956000453346
+    second: BlueExplo_224
+  - first:
+      213: -8369345597345006286
+    second: BlueExplo_225
+  - first:
+      213: -1357688807608738787
+    second: BlueExplo_226
+  - first:
+      213: 4966555757273818789
+    second: BlueExplo_227
+  - first:
+      213: -3348543412838869270
+    second: BlueExplo_228
+  - first:
+      213: 6887392900020324627
+    second: BlueExplo_229
+  - first:
+      213: -6572832258343857905
+    second: BlueExplo_230
+  - first:
+      213: -3455674633056211666
+    second: BlueExplo_231
+  - first:
+      213: -755267855670272588
+    second: BlueExplo_232
+  - first:
+      213: 4210097124815798492
+    second: BlueExplo_233
+  - first:
+      213: -3328636022199224266
+    second: BlueExplo_234
+  - first:
+      213: -4049310521492166468
+    second: BlueExplo_235
+  - first:
+      213: -6626937636571380063
+    second: BlueExplo_236
+  - first:
+      213: 3693364607873061910
+    second: BlueExplo_237
+  - first:
+      213: -7239804279655946799
+    second: BlueExplo_238
+  - first:
+      213: 1148477209645418461
+    second: BlueExplo_239
+  - first:
+      213: -303387445818885196
+    second: BlueExplo_240
+  - first:
+      213: -1286946292536554978
+    second: BlueExplo_241
+  - first:
+      213: 5808589511348980415
+    second: BlueExplo_242
+  - first:
+      213: 703813551079468925
+    second: BlueExplo_243
+  - first:
+      213: 9041536603242011095
+    second: BlueExplo_244
+  - first:
+      213: 5592699068672729559
+    second: BlueExplo_245
+  - first:
+      213: 4000386138087545094
+    second: BlueExplo_246
+  - first:
+      213: -3555349674050584138
+    second: BlueExplo_247
+  - first:
+      213: -664947498163632236
+    second: BlueExplo_248
+  - first:
+      213: 486120301150335383
+    second: BlueExplo_249
+  - first:
+      213: 6863918282387671000
+    second: BlueExplo_250
+  - first:
+      213: 1949862423652064837
+    second: BlueExplo_251
+  - first:
+      213: -1077087297812314345
+    second: BlueExplo_252
+  - first:
+      213: 6347219942613568792
+    second: BlueExplo_253
+  - first:
+      213: -8251225397981280648
+    second: BlueExplo_254
+  - first:
+      213: 8551765722972530134
+    second: BlueExplo_255
+  - first:
+      213: -4103239431898638972
+    second: BlueExplo_256
+  - first:
+      213: 1576297129670063502
+    second: BlueExplo_257
+  - first:
+      213: 2924326715897009673
+    second: BlueExplo_258
+  - first:
+      213: -8780232740095947471
+    second: BlueExplo_259
+  - first:
+      213: 7582874069792289578
+    second: BlueExplo_260
+  - first:
+      213: 7771932917786569559
+    second: BlueExplo_261
+  - first:
+      213: 8896419699060196355
+    second: BlueExplo_262
+  - first:
+      213: -584106368218123192
+    second: BlueExplo_263
+  - first:
+      213: -3096509503234295000
+    second: BlueExplo_264
+  - first:
+      213: 933470654596086985
+    second: BlueExplo_265
+  - first:
+      213: -8450065605488824195
+    second: BlueExplo_266
+  - first:
+      213: 5973966434483935581
+    second: BlueExplo_267
+  - first:
+      213: -365557963952376934
+    second: BlueExplo_268
+  - first:
+      213: 631446635839570029
+    second: BlueExplo_269
+  - first:
+      213: -4402072000285906125
+    second: BlueExplo_270
+  - first:
+      213: -23605619123547775
+    second: BlueExplo_271
+  - first:
+      213: 2123376542982062903
+    second: BlueExplo_272
+  - first:
+      213: 4225451404640652959
+    second: BlueExplo_273
+  - first:
+      213: -8021823015303689585
+    second: BlueExplo_274
+  - first:
+      213: -3086341677986883772
+    second: BlueExplo_275
+  - first:
+      213: -9138792729065957583
+    second: BlueExplo_276
+  - first:
+      213: -4181499698056927560
+    second: BlueExplo_277
+  - first:
+      213: 3667750772280896236
+    second: BlueExplo_278
+  - first:
+      213: 999959069007422029
+    second: BlueExplo_279
+  - first:
+      213: 4281946876490746903
+    second: BlueExplo_280
+  - first:
+      213: 3949672715465352289
+    second: BlueExplo_281
+  - first:
+      213: -2382493203925110773
+    second: BlueExplo_282
+  - first:
+      213: 515340997296841727
+    second: BlueExplo_283
+  - first:
+      213: 2242050707061293763
+    second: BlueExplo_284
+  - first:
+      213: 2541251320176872401
+    second: BlueExplo_285
+  - first:
+      213: -3859597483855485501
+    second: BlueExplo_286
+  - first:
+      213: 3671378407879039402
+    second: BlueExplo_287
+  - first:
+      213: -1083261859093193063
+    second: BlueExplo_288
+  - first:
+      213: -3787175301184421669
+    second: BlueExplo_289
+  - first:
+      213: -2594630273491028287
+    second: BlueExplo_290
+  - first:
+      213: -7475651943576151850
+    second: BlueExplo_291
+  - first:
+      213: -1819549762248184422
+    second: BlueExplo_292
+  - first:
+      213: -5424766810388030890
+    second: BlueExplo_293
+  - first:
+      213: -4248264466134518083
+    second: BlueExplo_294
+  - first:
+      213: 6457687821634587446
+    second: BlueExplo_295
+  - first:
+      213: 7049668212465315636
+    second: BlueExplo_296
+  - first:
+      213: -4865430831501536053
+    second: BlueExplo_297
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlueExplo_0
+      rect:
+        serializedVersion: 2
+        x: 1552
+        y: 4974
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f999f85503ce6890800000000000000
+      internalID: -7462813104771327498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_1
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 5014
+        width: 81
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c02cfd035ea1940800000000000000
+      internalID: 5267774712238443593
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_2
+      rect:
+        serializedVersion: 2
+        x: 3631
+        y: 5056
+        width: 48
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d32c8d2a3ce055450800000000000000
+      internalID: 6076779505619878461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_3
+      rect:
+        serializedVersion: 2
+        x: 4324
+        y: 5054
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 460240424d8256710800000000000000
+      internalID: 1685798527122546788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_4
+      rect:
+        serializedVersion: 2
+        x: 4427
+        y: 5022
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ecabe4a3e1d2bcff0800000000000000
+      internalID: -14868565915157810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_5
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 4933
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f482c358ff6249d20800000000000000
+      internalID: 3284292907153762383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_6
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 4910
+        width: 188
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5660ba5e577292bc0800000000000000
+      internalID: -3807468622647196059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_7
+      rect:
+        serializedVersion: 2
+        x: 2287
+        y: 4955
+        width: 82
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d489a5c3b588fcb60800000000000000
+      internalID: 7768577807673366605
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_8
+      rect:
+        serializedVersion: 2
+        x: 2382
+        y: 4947
+        width: 90
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4526f729cedec6960800000000000000
+      internalID: 7596708271793070676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_9
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 4992
+        width: 50
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b6b5b6eb28c1ce40800000000000000
+      internalID: 5675037096343353009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_10
+      rect:
+        serializedVersion: 2
+        x: 3399
+        y: 4984
+        width: 82
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3184c1a34accf8020800000000000000
+      internalID: 2346318936604952595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_11
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 4721
+        width: 150
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc211d16c20146830800000000000000
+      internalID: 4063390546600727244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_12
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 4874
+        width: 187
+        height: 104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cb8a1ffd6924fb10800000000000000
+      internalID: 2014280485749558208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_13
+      rect:
+        serializedVersion: 2
+        x: 3177
+        y: 4869
+        width: 51
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd14ab74c62add2a0800000000000000
+      internalID: -6711029283768614436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_14
+      rect:
+        serializedVersion: 2
+        x: 4177
+        y: 4915
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 166f82f6fc046dfe0800000000000000
+      internalID: -1164672193961331103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_15
+      rect:
+        serializedVersion: 2
+        x: 923
+        y: 4899
+        width: 11
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15726d8da360d05b0800000000000000
+      internalID: -5400653528331573423
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_16
+      rect:
+        serializedVersion: 2
+        x: 1103
+        y: 4739
+        width: 147
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad5491a4f07462030800000000000000
+      internalID: 3469538693928797658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_17
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 4758
+        width: 136
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec71faf3cbf11f660800000000000000
+      internalID: 7417744954638669774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_18
+      rect:
+        serializedVersion: 2
+        x: 4367
+        y: 4340
+        width: 483
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d55fb883e7e7edaa0800000000000000
+      internalID: -6134326561852361379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_19
+      rect:
+        serializedVersion: 2
+        x: 1266
+        y: 4408
+        width: 458
+        height: 438
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f63f4109ed85c9f0800000000000000
+      internalID: -448796555964631307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_20
+      rect:
+        serializedVersion: 2
+        x: 2320
+        y: 4384
+        width: 447
+        height: 478
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3035b983a175d0b40800000000000000
+      internalID: 5408074497672303363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_21
+      rect:
+        serializedVersion: 2
+        x: 3109
+        y: 4789
+        width: 47
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8fe6d356bfaa6a0800000000000000
+      internalID: -6437056305131751237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_22
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 4362
+        width: 449
+        height: 521
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbe3cdce3afeeb0a0800000000000000
+      internalID: -6863785294733492545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_23
+      rect:
+        serializedVersion: 2
+        x: 4106
+        y: 4829
+        width: 14
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a9b0fbdd60ed56e0800000000000000
+      internalID: -1847073509705991768
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_24
+      rect:
+        serializedVersion: 2
+        x: 268
+        y: 4435
+        width: 503
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 087a3e505557a5080800000000000000
+      internalID: -9197910280919341184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_25
+      rect:
+        serializedVersion: 2
+        x: 986
+        y: 4807
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6777bd92c80036a00800000000000000
+      internalID: 748442565071304566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_26
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 4654
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 854089847aac765c0800000000000000
+      internalID: -4222183305810279336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_27
+      rect:
+        serializedVersion: 2
+        x: 1212
+        y: 4670
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 108d8982b1fca99b0800000000000000
+      internalID: -5072514314727270399
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_28
+      rect:
+        serializedVersion: 2
+        x: 2214
+        y: 4689
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa3b42bc97d7e470800000000000000
+      internalID: 8423938696025946798
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_29
+      rect:
+        serializedVersion: 2
+        x: 3220
+        y: 4712
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c58d1c6c18936fa0800000000000000
+      internalID: -5808631846537427511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_30
+      rect:
+        serializedVersion: 2
+        x: 4212
+        y: 4721
+        width: 18
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aaee216ee1c1f760800000000000000
+      internalID: 7489980884870687394
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_31
+      rect:
+        serializedVersion: 2
+        x: 806
+        y: 4591
+        width: 87
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ec610f508ee4e20800000000000000
+      internalID: 3336859486128623224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_32
+      rect:
+        serializedVersion: 2
+        x: 899
+        y: 4558
+        width: 87
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 320a08f609343a190800000000000000
+      internalID: -7952438229381111773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_33
+      rect:
+        serializedVersion: 2
+        x: 1871
+        y: 4599
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 892fb56ce900760c0800000000000000
+      internalID: -4582693413893442920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_34
+      rect:
+        serializedVersion: 2
+        x: 1969
+        y: 4566
+        width: 72
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee2fb2f87cb234900800000000000000
+      internalID: 667425305881473774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_35
+      rect:
+        serializedVersion: 2
+        x: 2937
+        y: 4608
+        width: 61
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb94fb2d9538a00a0800000000000000
+      internalID: -6914569856062895681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_36
+      rect:
+        serializedVersion: 2
+        x: 4006
+        y: 4621
+        width: 42
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b71e2630386636ac0800000000000000
+      internalID: -3863131342470192773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_37
+      rect:
+        serializedVersion: 2
+        x: 5077
+        y: 4635
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f3d42730b07ae60800000000000000
+      internalID: 7973353774713225036
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_38
+      rect:
+        serializedVersion: 2
+        x: 2266
+        y: 4480
+        width: 185
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ace0a06edee8dfd40800000000000000
+      internalID: 5619805062446059210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_39
+      rect:
+        serializedVersion: 2
+        x: 3045
+        y: 4577
+        width: 28
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca62fa47c154ebfe0800000000000000
+      internalID: -1171422864550713684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_40
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 4468
+        width: 107
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fd52eed22a6a7da0800000000000000
+      internalID: -5946323659988509192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_41
+      rect:
+        serializedVersion: 2
+        x: 4344
+        y: 4457
+        width: 108
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e73c083ce35ece5a0800000000000000
+      internalID: -6490560905216998530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_42
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 4537
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b18bc79ceb333f060800000000000000
+      internalID: 6985984341498968091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_43
+      rect:
+        serializedVersion: 2
+        x: 87
+        y: 4476
+        width: 86
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 84a0e4a5bd2bfdc00800000000000000
+      internalID: 927656703444257352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_44
+      rect:
+        serializedVersion: 2
+        x: 1059
+        y: 4471
+        width: 97
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3f7bddd7f1a76eb0800000000000000
+      internalID: -4726631197950902467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_45
+      rect:
+        serializedVersion: 2
+        x: 1723
+        y: 4468
+        width: 100
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70182ba2a67d969d0800000000000000
+      internalID: -2780454443941723897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_46
+      rect:
+        serializedVersion: 2
+        x: 2778
+        y: 4458
+        width: 96
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f314a612f10e8880800000000000000
+      internalID: -8606939698584873993
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_47
+      rect:
+        serializedVersion: 2
+        x: 3267
+        y: 4481
+        width: 66
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786f43c3e32d0ae40800000000000000
+      internalID: 5665759495971993223
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_48
+      rect:
+        serializedVersion: 2
+        x: 3833
+        y: 4448
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: faa76e63d3499dff0800000000000000
+      internalID: -10814533456725329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_49
+      rect:
+        serializedVersion: 2
+        x: 2082
+        y: 4472
+        width: 56
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 12a163fb3effcc720800000000000000
+      internalID: 2867948416358816289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_50
+      rect:
+        serializedVersion: 2
+        x: 3079
+        y: 4479
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33e998a270408c7b0800000000000000
+      internalID: -5203904940601663949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_51
+      rect:
+        serializedVersion: 2
+        x: 4271
+        y: 4482
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9628bf61e7ff4b750800000000000000
+      internalID: 6319957094124192361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_52
+      rect:
+        serializedVersion: 2
+        x: 4889
+        y: 4439
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4096b944481899f30800000000000000
+      internalID: 4582836500912892164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_53
+      rect:
+        serializedVersion: 2
+        x: 686
+        y: 4299
+        width: 137
+        height: 135
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf83b6c5a3d5d7e60800000000000000
+      internalID: 7961622221500922108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_54
+      rect:
+        serializedVersion: 2
+        x: 845
+        y: 4426
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffee63f5aa0c487d0800000000000000
+      internalID: -2916994820654829825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_55
+      rect:
+        serializedVersion: 2
+        x: 277
+        y: 4202
+        width: 22
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1eab2dcca98298d0800000000000000
+      internalID: -2841057039647789540
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_56
+      rect:
+        serializedVersion: 2
+        x: 315
+        y: 4235
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59b20b1879e3d7380800000000000000
+      internalID: -8971946062215369835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_57
+      rect:
+        serializedVersion: 2
+        x: 710
+        y: 4201
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29b45c3796ff20600800000000000000
+      internalID: 433189342559947666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_58
+      rect:
+        serializedVersion: 2
+        x: 1289
+        y: 4175
+        width: 101
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b27edbbf00984b30800000000000000
+      internalID: 4271822643811742386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_59
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 4172
+        width: 174
+        height: 246
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ac241ca6e3b1040800000000000000
+      internalID: 4619354471028411037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_60
+      rect:
+        serializedVersion: 2
+        x: 2344
+        y: 4184
+        width: 44
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fb210fad67493ace0800000000000000
+      internalID: -1395108221354503489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_61
+      rect:
+        serializedVersion: 2
+        x: 2788
+        y: 4273
+        width: 180
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53dad67c6724e2f10800000000000000
+      internalID: 2246806342023884085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_62
+      rect:
+        serializedVersion: 2
+        x: 3363
+        y: 4158
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07652b3350f3f4170800000000000000
+      internalID: 8164813941020710512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_63
+      rect:
+        serializedVersion: 2
+        x: 3839
+        y: 4252
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06179cccbf770a8d0800000000000000
+      internalID: -2837135841887162016
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_64
+      rect:
+        serializedVersion: 2
+        x: 4892
+        y: 4238
+        width: 84
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f28b50ebf41416c70800000000000000
+      internalID: 8962516544190265391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_65
+      rect:
+        serializedVersion: 2
+        x: 334
+        y: 4058
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4385261243fd7c60800000000000000
+      internalID: 7817671993349997389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_66
+      rect:
+        serializedVersion: 2
+        x: 2336
+        y: 3332
+        width: 390
+        height: 630
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba3ad56d11ce8b0c0800000000000000
+      internalID: -4559635061357567061
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_67
+      rect:
+        serializedVersion: 2
+        x: 4309
+        y: 3957
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4926aabeabe93f90800000000000000
+      internalID: -6973283412318213812
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_68
+      rect:
+        serializedVersion: 2
+        x: 1330
+        y: 3341
+        width: 363
+        height: 593
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce1ffc42247f21d10800000000000000
+      internalID: 2095008640138211820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_69
+      rect:
+        serializedVersion: 2
+        x: 3301
+        y: 3929
+        width: 21
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 051a99e3978655530800000000000000
+      internalID: 3843092726981173584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_70
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 3295
+        width: 416
+        height: 611
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac0ed43e424c96860800000000000000
+      internalID: 7523760315210522826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_71
+      rect:
+        serializedVersion: 2
+        x: 1083
+        y: 3722
+        width: 259
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc027cf5e8974ce10800000000000000
+      internalID: 2217030568972329167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_72
+      rect:
+        serializedVersion: 2
+        x: 2269
+        y: 3810
+        width: 73
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eb9ba2f6a14ead70800000000000000
+      internalID: 9056248085980355557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_73
+      rect:
+        serializedVersion: 2
+        x: 3277
+        y: 3834
+        width: 64
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82cafe0accd027060800000000000000
+      internalID: 6949632347510647848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_74
+      rect:
+        serializedVersion: 2
+        x: 4287
+        y: 3859
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44367c306176690c0800000000000000
+      internalID: -4569351427670449340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_75
+      rect:
+        serializedVersion: 2
+        x: 1607
+        y: 3691
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3be6efd8840d23a50800000000000000
+      internalID: 6499486222287531699
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_76
+      rect:
+        serializedVersion: 2
+        x: 2645
+        y: 3710
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f30d3c1464427b990800000000000000
+      internalID: -7370382380998864833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_77
+      rect:
+        serializedVersion: 2
+        x: 3361
+        y: 3744
+        width: 158
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46a16db0fa5944dd0800000000000000
+      internalID: -2502710913860756892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_78
+      rect:
+        serializedVersion: 2
+        x: 3684
+        y: 3728
+        width: 90
+        height: 90
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1041f984386238940800000000000000
+      internalID: 5297119932018791425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_79
+      rect:
+        serializedVersion: 2
+        x: 4351
+        y: 3295
+        width: 442
+        height: 483
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b27e6c5d23ada4f90800000000000000
+      internalID: -6968517561532618965
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_80
+      rect:
+        serializedVersion: 2
+        x: 4373
+        y: 3769
+        width: 157
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e1e95d7ddcd3eef0800000000000000
+      internalID: -79977524513611288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_81
+      rect:
+        serializedVersion: 2
+        x: 4723
+        y: 3747
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58a6f13f1869c3140800000000000000
+      internalID: 4700797595941825157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_82
+      rect:
+        serializedVersion: 2
+        x: 4910
+        y: 3777
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba77f6c165b14d270800000000000000
+      internalID: 8274268472044648363
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_83
+      rect:
+        serializedVersion: 2
+        x: 1747
+        y: 3707
+        width: 63
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 391b712e7d2105e60800000000000000
+      internalID: 7948874060729397651
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_84
+      rect:
+        serializedVersion: 2
+        x: 2801
+        y: 3730
+        width: 45
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfedc1b4cb037a4e0800000000000000
+      internalID: -1970552726679134467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_85
+      rect:
+        serializedVersion: 2
+        x: 3343
+        y: 3314
+        width: 417
+        height: 455
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd51b62f70a7e0680800000000000000
+      internalID: -8786951648402795044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_86
+      rect:
+        serializedVersion: 2
+        x: 3864
+        y: 3762
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f448b1473b18ab450800000000000000
+      internalID: 6105334852601218127
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_87
+      rect:
+        serializedVersion: 2
+        x: 84
+        y: 3706
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a1eb5ccaff309d00800000000000000
+      internalID: 977351465542345128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_88
+      rect:
+        serializedVersion: 2
+        x: 695
+        y: 3686
+        width: 75
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4293018eefb8c40800000000000000
+      internalID: 5515782441303352499
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_89
+      rect:
+        serializedVersion: 2
+        x: 225
+        y: 3423
+        width: 107
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fc906a4e0b3085a0800000000000000
+      internalID: -6521147327869051662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_90
+      rect:
+        serializedVersion: 2
+        x: 648
+        y: 3435
+        width: 119
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95dc35363e32064b0800000000000000
+      internalID: -5449316089587315367
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_91
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 3414
+        width: 105
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e3229c0279758c70800000000000000
+      internalID: 8972711363349717984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_92
+      rect:
+        serializedVersion: 2
+        x: 1699
+        y: 3420
+        width: 111
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bedcddc03b9f88b80800000000000000
+      internalID: -8392183358194594325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_93
+      rect:
+        serializedVersion: 2
+        x: 2227
+        y: 3405
+        width: 102
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8821769f31bab32c0800000000000000
+      internalID: -4450775704448593272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_94
+      rect:
+        serializedVersion: 2
+        x: 2748
+        y: 3448
+        width: 105
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 416605d8d26536f40800000000000000
+      internalID: 5720510705335035412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_95
+      rect:
+        serializedVersion: 2
+        x: 3797
+        y: 3443
+        width: 100
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf42acd1331524cb0800000000000000
+      internalID: -4881249766131227396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_96
+      rect:
+        serializedVersion: 2
+        x: 4906
+        y: 3578
+        width: 15
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 970c4970a2fdc6840800000000000000
+      internalID: 5218791439824371833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_97
+      rect:
+        serializedVersion: 2
+        x: 3229
+        y: 3397
+        width: 99
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e666c4d8b88c0a7d0800000000000000
+      internalID: -2909104857584736658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_98
+      rect:
+        serializedVersion: 2
+        x: 4232
+        y: 3491
+        width: 72
+        height: 73
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ca7a066524c3aa0800000000000000
+      internalID: -6179991649902941089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_99
+      rect:
+        serializedVersion: 2
+        x: 4846
+        y: 3439
+        width: 94
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ac50fee9911faa70800000000000000
+      internalID: 8840303946387971232
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_100
+      rect:
+        serializedVersion: 2
+        x: 161
+        y: 3464
+        width: 13
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ccb9ad18b9e22b00800000000000000
+      internalID: 802460660606287043
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_101
+      rect:
+        serializedVersion: 2
+        x: 825
+        y: 3406
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99b79c5620609f660800000000000000
+      internalID: 7419968468437007257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_102
+      rect:
+        serializedVersion: 2
+        x: 1154
+        y: 3454
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71477f40f6bd2c0d0800000000000000
+      internalID: -3403917098467494889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_103
+      rect:
+        serializedVersion: 2
+        x: 1881
+        y: 3399
+        width: 69
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65edefc8264a3fb80800000000000000
+      internalID: -8362159339917615530
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_104
+      rect:
+        serializedVersion: 2
+        x: 4145
+        y: 3389
+        width: 181
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb62488971aa1520800000000000000
+      internalID: 2673626872146979765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_105
+      rect:
+        serializedVersion: 2
+        x: 2148
+        y: 3446
+        width: 6
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9beefb96ee4abdcd0800000000000000
+      internalID: -2532249021582414151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_106
+      rect:
+        serializedVersion: 2
+        x: 2153
+        y: 3450
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c0daa6b5449ff7c0800000000000000
+      internalID: -4035343713962372924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_107
+      rect:
+        serializedVersion: 2
+        x: 2939
+        y: 3393
+        width: 57
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f9f9c55a195875d0800000000000000
+      internalID: -3064601576782300681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_108
+      rect:
+        serializedVersion: 2
+        x: 3149
+        y: 3442
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a757af81db14d15e0800000000000000
+      internalID: -1937319984275753606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_109
+      rect:
+        serializedVersion: 2
+        x: 3999
+        y: 3397
+        width: 34
+        height: 32
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d869518e807a652b0800000000000000
+      internalID: -5596101830265956723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_110
+      rect:
+        serializedVersion: 2
+        x: 5064
+        y: 3388
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98e1281552f6c3ae0800000000000000
+      internalID: -1568256364159820151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_111
+      rect:
+        serializedVersion: 2
+        x: 1537
+        y: 3276
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b68083d0196d15a60800000000000000
+      internalID: 7661140359614302315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_112
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 3259
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47b04f4f88667c6c0800000000000000
+      internalID: -4123214195423179916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_113
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 3205
+        width: 53
+        height: 56
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a842db56349f19e20800000000000000
+      internalID: 3355737265232749706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_114
+      rect:
+        serializedVersion: 2
+        x: 3619
+        y: 3252
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f99f4b6811dd34f0800000000000000
+      internalID: -847291252065986064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_115
+      rect:
+        serializedVersion: 2
+        x: 4647
+        y: 3227
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8457bf1ed39777460800000000000000
+      internalID: 7239388232712680776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_116
+      rect:
+        serializedVersion: 2
+        x: 1910
+        y: 3195
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 72eb032588fdd96a0800000000000000
+      internalID: -6440746115482468825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_117
+      rect:
+        serializedVersion: 2
+        x: 2198
+        y: 2914
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 061a074475a11ff10800000000000000
+      internalID: 2301649846675743072
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_118
+      rect:
+        serializedVersion: 2
+        x: 180
+        y: 2864
+        width: 33
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f24b19d3669c5e610800000000000000
+      internalID: 1649946279457961007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_119
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 2890
+        width: 21
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf9f4d50d0cc7da10800000000000000
+      internalID: 1934238921283402235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_120
+      rect:
+        serializedVersion: 2
+        x: 4326
+        y: 2861
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1e5608b782a29db0800000000000000
+      internalID: -4786584750149706214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_121
+      rect:
+        serializedVersion: 2
+        x: 4439
+        y: 2876
+        width: 10
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78bb75f7c0960c1e0800000000000000
+      internalID: -2179626717250339961
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_122
+      rect:
+        serializedVersion: 2
+        x: 1278
+        y: 2788
+        width: 65
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2c8fa6b65e540fe0800000000000000
+      internalID: -1223749472212775892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_123
+      rect:
+        serializedVersion: 2
+        x: 1369
+        y: 2795
+        width: 61
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 396197d5bdc9e8d60800000000000000
+      internalID: 7894419662807045779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_124
+      rect:
+        serializedVersion: 2
+        x: 2292
+        y: 2811
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b1985592624bc000800000000000000
+      internalID: 57212411452101045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_125
+      rect:
+        serializedVersion: 2
+        x: 2392
+        y: 2820
+        width: 46
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 879be0f1a1c1a2a60800000000000000
+      internalID: 7649957815557994872
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_126
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 2836
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11593991ccfe32430800000000000000
+      internalID: 3757110174038594833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_127
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 2851
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ad043dd887e869e0800000000000000
+      internalID: -1627796690281689687
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_128
+      rect:
+        serializedVersion: 2
+        x: 3764
+        y: 2805
+        width: 212
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb5a05cd9b1ffb900800000000000000
+      internalID: 702545847460603324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_129
+      rect:
+        serializedVersion: 2
+        x: 4808
+        y: 2829
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3973f96f6ebba4cf0800000000000000
+      internalID: -267194627220621421
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_130
+      rect:
+        serializedVersion: 2
+        x: 265
+        y: 2766
+        width: 156
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d62c7cd9755834e0800000000000000
+      internalID: -2001756052487657773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_131
+      rect:
+        serializedVersion: 2
+        x: 642
+        y: 2742
+        width: 79
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf9433b18705d6cc0800000000000000
+      internalID: -3716225640728147460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_132
+      rect:
+        serializedVersion: 2
+        x: 1682
+        y: 2762
+        width: 205
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a83c2e9660e16c90800000000000000
+      internalID: -7178209599706875738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_133
+      rect:
+        serializedVersion: 2
+        x: 2722
+        y: 2783
+        width: 210
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d19f5a572ca3fb830800000000000000
+      internalID: 4089051593547577629
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_134
+      rect:
+        serializedVersion: 2
+        x: 3465
+        y: 2706
+        width: 80
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e89a3a1cb15a87e00800000000000000
+      internalID: 1042764852367698318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_135
+      rect:
+        serializedVersion: 2
+        x: 3589
+        y: 2780
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77ec3d2c99f676de0800000000000000
+      internalID: -1339979657930092937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_136
+      rect:
+        serializedVersion: 2
+        x: 4487
+        y: 2727
+        width: 132
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c04e88df957d9120800000000000000
+      internalID: 2422221503988646086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_137
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 2769
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65feb8e1303195190800000000000000
+      internalID: -7973320761164435626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_138
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 2129
+        width: 410
+        height: 645
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bb3ef6aba671b640800000000000000
+      internalID: 5093983133145906101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_139
+      rect:
+        serializedVersion: 2
+        x: 304
+        y: 2253
+        width: 401
+        height: 507
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce5756b6b3a57380800000000000000
+      internalID: -8974086677327290676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_140
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 2650
+        width: 83
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88db550236d96dec0800000000000000
+      internalID: -3542471007810503288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_141
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 2153
+        width: 418
+        height: 610
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7845837265a2cca30800000000000000
+      internalID: 4236807898962351239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_142
+      rect:
+        serializedVersion: 2
+        x: 2255
+        y: 2662
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10ce659d70e361a90800000000000000
+      internalID: -7343613938948969471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_143
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 2674
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c949a2b629ab1fed0800000000000000
+      internalID: -2381917589876337508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_144
+      rect:
+        serializedVersion: 2
+        x: 4273
+        y: 2687
+        width: 62
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a046df940461aeba0800000000000000
+      internalID: -6059005883298520054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_145
+      rect:
+        serializedVersion: 2
+        x: 4555
+        y: 2728
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b195e76c3b7571310800000000000000
+      internalID: 1375664640825907483
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_146
+      rect:
+        serializedVersion: 2
+        x: 238
+        y: 2638
+        width: 88
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 086c0eeb4bbdeba50800000000000000
+      internalID: 6538905278331537024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_147
+      rect:
+        serializedVersion: 2
+        x: 2329
+        y: 2564
+        width: 80
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb9d15685e8372b80800000000000000
+      internalID: -8419698419893675586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_148
+      rect:
+        serializedVersion: 2
+        x: 3342
+        y: 2572
+        width: 67
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6939136d2a0095ad0800000000000000
+      internalID: -2713136601135737962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_149
+      rect:
+        serializedVersion: 2
+        x: 3434
+        y: 2506
+        width: 158
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4272386cf82cebab0800000000000000
+      internalID: -4990337414313335004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_150
+      rect:
+        serializedVersion: 2
+        x: 3606
+        y: 2511
+        width: 188
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2075f9b5e18373d0800000000000000
+      internalID: -3210079285717667794
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_151
+      rect:
+        serializedVersion: 2
+        x: 4435
+        y: 2502
+        width: 169
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3536f37b05828c170800000000000000
+      internalID: 8198847448764867411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_152
+      rect:
+        serializedVersion: 2
+        x: 4649
+        y: 2515
+        width: 138
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e562d1c06a313e110800000000000000
+      internalID: 1288895522246829662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_153
+      rect:
+        serializedVersion: 2
+        x: 4357
+        y: 2581
+        width: 54
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 714918acd87d46b40800000000000000
+      internalID: 5432704054503511063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_154
+      rect:
+        serializedVersion: 2
+        x: 4758
+        y: 2540
+        width: 75
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c854ed05dc3746690800000000000000
+      internalID: -7609830144687061620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_155
+      rect:
+        serializedVersion: 2
+        x: 834
+        y: 2568
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab12c797ebcc74f0800000000000000
+      internalID: -829564035799049307
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_156
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 2410
+        width: 78
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ede8df16ae4e5a10800000000000000
+      internalID: 1900042568202776033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_157
+      rect:
+        serializedVersion: 2
+        x: 2881
+        y: 2411
+        width: 65
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a526a01476d15a0800000000000000
+      internalID: -6548964754082080097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_158
+      rect:
+        serializedVersion: 2
+        x: 3937
+        y: 2413
+        width: 48
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47e8ebd8535d71240800000000000000
+      internalID: 4762509556955647604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_159
+      rect:
+        serializedVersion: 2
+        x: 5002
+        y: 2456
+        width: 24
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9b54e218844b160800000000000000
+      internalID: 7040331837151230401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_160
+      rect:
+        serializedVersion: 2
+        x: 3423
+        y: 2559
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b4f31e2df120de00800000000000000
+      internalID: 1067390482970309811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_161
+      rect:
+        serializedVersion: 2
+        x: 115
+        y: 2468
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a2dadc3e95e320c0800000000000000
+      internalID: -4601581926453947737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_162
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 2412
+        width: 87
+        height: 115
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91ca0a79f5c92d110800000000000000
+      internalID: 1284260778133728281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_163
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2469
+        width: 52
+        height: 53
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0d69d8eca2293590800000000000000
+      internalID: -7694080362349499124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_164
+      rect:
+        serializedVersion: 2
+        x: 2128
+        y: 2474
+        width: 35
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f3d5c4a1a46ffe30800000000000000
+      internalID: 4539457594829689845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_165
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 2475
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cae43f1dac8ca75e0800000000000000
+      internalID: -1910994318434021716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_166
+      rect:
+        serializedVersion: 2
+        x: 3601
+        y: 2403
+        width: 85
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2baece627ae149d10800000000000000
+      internalID: 2131362226914519730
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_167
+      rect:
+        serializedVersion: 2
+        x: 4133
+        y: 2473
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a5c26c79dcc8a680800000000000000
+      internalID: -8743513442073000542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_168
+      rect:
+        serializedVersion: 2
+        x: 4633
+        y: 2397
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38fd11fa822e7a590800000000000000
+      internalID: -7662907576583856253
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_169
+      rect:
+        serializedVersion: 2
+        x: 130
+        y: 2357
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 328085dbdff6cb6d0800000000000000
+      internalID: -2973378518377297885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_170
+      rect:
+        serializedVersion: 2
+        x: 1135
+        y: 2351
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca9e57d8761587c20800000000000000
+      internalID: 3204400640070904236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_171
+      rect:
+        serializedVersion: 2
+        x: 3367
+        y: 2104
+        width: 277
+        height: 367
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15e287786b03e7bb0800000000000000
+      internalID: -4936454581036503471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_172
+      rect:
+        serializedVersion: 2
+        x: 4383
+        y: 2396
+        width: 60
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bcaed8fed97626780800000000000000
+      internalID: -8691270402845054261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_173
+      rect:
+        serializedVersion: 2
+        x: 4506
+        y: 2408
+        width: 46
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 938fa655d7c1ae2a0800000000000000
+      internalID: -6707517370385369031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_174
+      rect:
+        serializedVersion: 2
+        x: 4983
+        y: 2405
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9734780f21bd47180800000000000000
+      internalID: -9118422471127121031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_175
+      rect:
+        serializedVersion: 2
+        x: 2140
+        y: 2345
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb80d7a1e8da02950800000000000000
+      internalID: 6422323894471690430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_176
+      rect:
+        serializedVersion: 2
+        x: 3156
+        y: 2344
+        width: 34
+        height: 40
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85e12d746c546ff0800000000000000
+      internalID: -43808509701003893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_177
+      rect:
+        serializedVersion: 2
+        x: 4453
+        y: 2372
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25cbddea765fcaf30800000000000000
+      internalID: 4588311946047896658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_178
+      rect:
+        serializedVersion: 2
+        x: 4560
+        y: 2342
+        width: 54
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5fd6c5ba44539a00800000000000000
+      internalID: 762045441809768286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_179
+      rect:
+        serializedVersion: 2
+        x: 4158
+        y: 2340
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70730e0594cfbd5f0800000000000000
+      internalID: -730713122697890041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_180
+      rect:
+        serializedVersion: 2
+        x: 4395
+        y: 1946
+        width: 276
+        height: 380
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9e2a6c7d6cc4390800000000000000
+      internalID: -7832667021851301425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_181
+      rect:
+        serializedVersion: 2
+        x: 4446
+        y: 2269
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9974b7ade50305660800000000000000
+      internalID: 7372445773956073369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_182
+      rect:
+        serializedVersion: 2
+        x: 555
+        y: 2178
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3aca292a01f353b60800000000000000
+      internalID: 7725150076503501987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_183
+      rect:
+        serializedVersion: 2
+        x: 3379
+        y: 1927
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32730936bf9ec3580800000000000000
+      internalID: -8845938302146037981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_184
+      rect:
+        serializedVersion: 2
+        x: 2236
+        y: 1894
+        width: 134
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88ac1681ce3c16400800000000000000
+      internalID: 315748867681405576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_185
+      rect:
+        serializedVersion: 2
+        x: 4883
+        y: 1900
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4c4a4465036246e0800000000000000
+      internalID: -1854811221714645937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_186
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 1873
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76563cfcdd3249e80800000000000000
+      internalID: -8172867988190173849
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_187
+      rect:
+        serializedVersion: 2
+        x: 1347
+        y: 1886
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6fb0bf8afa997e4f0800000000000000
+      internalID: -799501429101622282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_188
+      rect:
+        serializedVersion: 2
+        x: 3843
+        y: 1879
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73a207275fff61f50800000000000000
+      internalID: 6851945312742812215
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_189
+      rect:
+        serializedVersion: 2
+        x: 214
+        y: 1854
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e88629396f9acf20800000000000000
+      internalID: 3443740139357374697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_190
+      rect:
+        serializedVersion: 2
+        x: 332
+        y: 1870
+        width: 13
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3443f682e94185460800000000000000
+      internalID: 7230551871259096131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_191
+      rect:
+        serializedVersion: 2
+        x: 2808
+        y: 1864
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48393c3bd1eb47a90800000000000000
+      internalID: -7317014459790945404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_192
+      rect:
+        serializedVersion: 2
+        x: 734
+        y: 1831
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8786fa0b57a4060d0800000000000000
+      internalID: -3431661046720403336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_193
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1846
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c4cb9c77c4e5b0a0800000000000000
+      internalID: -6866330511416245051
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_194
+      rect:
+        serializedVersion: 2
+        x: 390
+        y: 1717
+        width: 132
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec599b2ad475b70a0800000000000000
+      internalID: -6882811614551501362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_195
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 1730
+        width: 131
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bccaa47e3061123e0800000000000000
+      internalID: -2080357346847314741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_196
+      rect:
+        serializedVersion: 2
+        x: 2443
+        y: 1743
+        width: 127
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3e88096455db9cef0800000000000000
+      internalID: -87330543803266845
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_197
+      rect:
+        serializedVersion: 2
+        x: 3470
+        y: 1756
+        width: 124
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40abc5ae3054c0e80800000000000000
+      internalID: -8211112137484092924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_198
+      rect:
+        serializedVersion: 2
+        x: 4489
+        y: 1768
+        width: 54
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e723d5cb11ee5d70800000000000000
+      internalID: 9033905411951110116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_199
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 1677
+        width: 52
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bf564f72d7e132130800000000000000
+      internalID: 3540707254933415419
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_200
+      rect:
+        serializedVersion: 2
+        x: 1176
+        y: 1693
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d0c9318a21d05ae0800000000000000
+      internalID: -1562519090210684718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_201
+      rect:
+        serializedVersion: 2
+        x: 2190
+        y: 1710
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ee59df75fe4af480800000000000000
+      internalID: -8864686100206493984
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_202
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 1720
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1ba987db285a1d930800000000000000
+      internalID: 4166293111237548721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_203
+      rect:
+        serializedVersion: 2
+        x: 4201
+        y: 1728
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6cfc5c067b82220800000000000000
+      internalID: 2461418822621447843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_204
+      rect:
+        serializedVersion: 2
+        x: 326
+        y: 1473
+        width: 172
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7219541a71653ae80800000000000000
+      internalID: -8168590639630020313
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_205
+      rect:
+        serializedVersion: 2
+        x: 569
+        y: 1495
+        width: 127
+        height: 172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85c576c2fee525dd0800000000000000
+      internalID: -2498830461902037928
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_206
+      rect:
+        serializedVersion: 2
+        x: 1452
+        y: 1609
+        width: 59
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 118cf4914bb319540800000000000000
+      internalID: 5012853504944883729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_207
+      rect:
+        serializedVersion: 2
+        x: 1606
+        y: 1501
+        width: 116
+        height: 165
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6f42e18ed13ea400800000000000000
+      internalID: 337261853830958958
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_208
+      rect:
+        serializedVersion: 2
+        x: 2482
+        y: 1629
+        width: 37
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c203ca9e5614ad30800000000000000
+      internalID: 4441699728073360071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_209
+      rect:
+        serializedVersion: 2
+        x: 2629
+        y: 1516
+        width: 85
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbed81da22ff73bf0800000000000000
+      internalID: -344526322072494401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_210
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 1652
+        width: 20
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cce4adff1a43de450800000000000000
+      internalID: 6119605339053248204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_211
+      rect:
+        serializedVersion: 2
+        x: 3658
+        y: 1563
+        width: 83
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 300a123ed814dc770800000000000000
+      internalID: 8632628138395934723
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_212
+      rect:
+        serializedVersion: 2
+        x: 3768
+        y: 1657
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b49465a81e17453a0800000000000000
+      internalID: -6677587133981111989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_213
+      rect:
+        serializedVersion: 2
+        x: 4524
+        y: 1661
+        width: 19
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af09320709d194680800000000000000
+      internalID: -8770446293133455110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_214
+      rect:
+        serializedVersion: 2
+        x: 4686
+        y: 1546
+        width: 174
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c0c12b80a23c34d0800000000000000
+      internalID: -3153589973955788600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_215
+      rect:
+        serializedVersion: 2
+        x: 4803
+        y: 1665
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db941ff4523d4f2b0800000000000000
+      internalID: -5551580283432515139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_216
+      rect:
+        serializedVersion: 2
+        x: 1599
+        y: 1658
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd92f44f27761020800000000000000
+      internalID: 2312166503605247412
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_217
+      rect:
+        serializedVersion: 2
+        x: 2733
+        y: 1650
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cdbd2753a85fcc0e0800000000000000
+      internalID: -2248152140013708324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_218
+      rect:
+        serializedVersion: 2
+        x: 3728
+        y: 1627
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 29a2cab089aa5be40800000000000000
+      internalID: 5671626875750591122
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_219
+      rect:
+        serializedVersion: 2
+        x: 254
+        y: 1568
+        width: 37
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2cf8f379d79220320800000000000000
+      internalID: 2522624360666075074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_220
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 1584
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4712db2ce32c000800000000000000
+      internalID: 54675151599531263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_221
+      rect:
+        serializedVersion: 2
+        x: 1338
+        y: 1469
+        width: 125
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de226db9f52090370800000000000000
+      internalID: 8289159198811759341
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_222
+      rect:
+        serializedVersion: 2
+        x: 2286
+        y: 1587
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ca28c6f41cd406e00800000000000000
+      internalID: 1035913406951752364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_223
+      rect:
+        serializedVersion: 2
+        x: 2349
+        y: 1531
+        width: 125
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b5edf98c14ffc50f0800000000000000
+      internalID: -1126745148745589157
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_224
+      rect:
+        serializedVersion: 2
+        x: 3296
+        y: 1590
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e2a65fc0303f1d50800000000000000
+      internalID: 6710134956000453346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_225
+      rect:
+        serializedVersion: 2
+        x: 3361
+        y: 1534
+        width: 125
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23d75cb958c1adb80800000000000000
+      internalID: -8369345597345006286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_226
+      rect:
+        serializedVersion: 2
+        x: 4305
+        y: 1593
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1c15fa0935882de0800000000000000
+      internalID: -1357688807608738787
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_227
+      rect:
+        serializedVersion: 2
+        x: 4425
+        y: 1544
+        width: 71
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a62a75b520cce440800000000000000
+      internalID: 4966555757273818789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_228
+      rect:
+        serializedVersion: 2
+        x: 687
+        y: 1523
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae6d3c2e1859781d0800000000000000
+      internalID: -3348543412838869270
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_229
+      rect:
+        serializedVersion: 2
+        x: 928
+        y: 1426
+        width: 25
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31942420a5fe49f50800000000000000
+      internalID: 6887392900020324627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_230
+      rect:
+        serializedVersion: 2
+        x: 1737
+        y: 1537
+        width: 52
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f019f29a2eb98c4a0800000000000000
+      internalID: -6572832258343857905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_231
+      rect:
+        serializedVersion: 2
+        x: 2780
+        y: 1544
+        width: 47
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e2d2b5dea3afa00d0800000000000000
+      internalID: -3455674633056211666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_232
+      rect:
+        serializedVersion: 2
+        x: 3817
+        y: 1545
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bd908803efb485f0800000000000000
+      internalID: -755267855670272588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_233
+      rect:
+        serializedVersion: 2
+        x: 3720
+        y: 1517
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd00a8a67054d6a30800000000000000
+      internalID: 4210097124815798492
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_234
+      rect:
+        serializedVersion: 2
+        x: 4755
+        y: 1516
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638fe367c2f4ec1d0800000000000000
+      internalID: -3328636022199224266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_235
+      rect:
+        serializedVersion: 2
+        x: 15
+        y: 1449
+        width: 13
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb8253de885fdc7c0800000000000000
+      internalID: -4049310521492166468
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_236
+      rect:
+        serializedVersion: 2
+        x: 545
+        y: 1368
+        width: 73
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a60f7f94536804a0800000000000000
+      internalID: -6626937636571380063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_237
+      rect:
+        serializedVersion: 2
+        x: 1579
+        y: 1363
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6141646ea87714330800000000000000
+      internalID: 3693364607873061910
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_238
+      rect:
+        serializedVersion: 2
+        x: 1975
+        y: 1421
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d521c3ad5c078b90800000000000000
+      internalID: -7239804279655946799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_239
+      rect:
+        serializedVersion: 2
+        x: 3007
+        y: 1366
+        width: 30
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd70c81ffe530ff00800000000000000
+      internalID: 1148477209645418461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_240
+      rect:
+        serializedVersion: 2
+        x: 280
+        y: 1372
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4bbf6a6b9b62acbf0800000000000000
+      internalID: -303387445818885196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_241
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1401
+        width: 8
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e1a4a5c5a29d32ee0800000000000000
+      internalID: -1286946292536554978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_242
+      rect:
+        serializedVersion: 2
+        x: 2613
+        y: 1360
+        width: 53
+        height: 52
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba0406a2614c9050800000000000000
+      internalID: 5808589511348980415
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_243
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 1373
+        width: 18
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d7fa23c12b274c900800000000000000
+      internalID: 703813551079468925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_244
+      rect:
+        serializedVersion: 2
+        x: 1302
+        y: 1376
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d99ee3f2adf97d70800000000000000
+      internalID: 9041536603242011095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_245
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 1393
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d165ebeb224d9d40800000000000000
+      internalID: 5592699068672729559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_246
+      rect:
+        serializedVersion: 2
+        x: 3650
+        y: 1359
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 609da156ff9348730800000000000000
+      internalID: 4000386138087545094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_247
+      rect:
+        serializedVersion: 2
+        x: 403
+        y: 1375
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b10ae9fe4cd8aec0800000000000000
+      internalID: -3555349674050584138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_248
+      rect:
+        serializedVersion: 2
+        x: 1955
+        y: 1367
+        width: 17
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4970ca106c1a5c6f0800000000000000
+      internalID: -664947498163632236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_249
+      rect:
+        serializedVersion: 2
+        x: 2321
+        y: 1375
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 791fb2c96db0fb600800000000000000
+      internalID: 486120301150335383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_250
+      rect:
+        serializedVersion: 2
+        x: 2379
+        y: 1305
+        width: 160
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d7c60daf49814f50800000000000000
+      internalID: 6863918282387671000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_251
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 1368
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54ed9a22b8d4f0b10800000000000000
+      internalID: 1949862423652064837
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_252
+      rect:
+        serializedVersion: 2
+        x: 3394
+        y: 1293
+        width: 167
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717cfcd2fca6d01f0800000000000000
+      internalID: -1077087297812314345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_253
+      rect:
+        serializedVersion: 2
+        x: 1420
+        y: 1365
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81dc1c6a8ead51850800000000000000
+      internalID: 6347219942613568792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_254
+      rect:
+        serializedVersion: 2
+        x: 4343
+        y: 1281
+        width: 240
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87605a7a732cd7d80800000000000000
+      internalID: -8251225397981280648
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_255
+      rect:
+        serializedVersion: 2
+        x: 4693
+        y: 1364
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d5a328ad99fda670800000000000000
+      internalID: 8551765722972530134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_256
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1336
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4855e410a7d5e07c0800000000000000
+      internalID: -4103239431898638972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_257
+      rect:
+        serializedVersion: 2
+        x: 472
+        y: 1316
+        width: 36
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e85b37a43e120e510800000000000000
+      internalID: 1576297129670063502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_258
+      rect:
+        serializedVersion: 2
+        x: 1364
+        y: 1325
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906d93487ab459820800000000000000
+      internalID: 2924326715897009673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_259
+      rect:
+        serializedVersion: 2
+        x: 1508
+        y: 1317
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13d8351b7d8562680800000000000000
+      internalID: -8780232740095947471
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_260
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 1309
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a237d7a6ac7cb3960800000000000000
+      internalID: 7582874069792289578
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_261
+      rect:
+        serializedVersion: 2
+        x: 349
+        y: 1235
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75b65deafc37bdb60800000000000000
+      internalID: 7771932917786569559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_262
+      rect:
+        serializedVersion: 2
+        x: 431
+        y: 1216
+        width: 59
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 304454fb49e667b70800000000000000
+      internalID: 8896419699060196355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_263
+      rect:
+        serializedVersion: 2
+        x: 1375
+        y: 1228
+        width: 26
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844b0535a56d4e7f0800000000000000
+      internalID: -584106368218123192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_264
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1207
+        width: 46
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82b3918430df605d0800000000000000
+      internalID: -3096509503234295000
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_265
+      rect:
+        serializedVersion: 2
+        x: 2400
+        y: 1221
+        width: 17
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9cc73775d9a54fc00800000000000000
+      internalID: 933470654596086985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_266
+      rect:
+        serializedVersion: 2
+        x: 2489
+        y: 1199
+        width: 28
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d70b7182a165bba80800000000000000
+      internalID: -8450065605488824195
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_267
+      rect:
+        serializedVersion: 2
+        x: 3416
+        y: 1205
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d59958b12dac7e250800000000000000
+      internalID: 5973966434483935581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_268
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 1147
+        width: 47
+        height: 50
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a93bdc5f7f64deaf0800000000000000
+      internalID: -365557963952376934
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_269
+      rect:
+        serializedVersion: 2
+        x: 3520
+        y: 1191
+        width: 9
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6045d7ae5953c800800000000000000
+      internalID: 631446635839570029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_270
+      rect:
+        serializedVersion: 2
+        x: 4431
+        y: 1188
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33be343c6d2b8e2c0800000000000000
+      internalID: -4402072000285906125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_271
+      rect:
+        serializedVersion: 2
+        x: 4541
+        y: 1173
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 181107180d22caff0800000000000000
+      internalID: -23605619123547775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_272
+      rect:
+        serializedVersion: 2
+        x: 1471
+        y: 1136
+        width: 27
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 733c7d837bfb77d10800000000000000
+      internalID: 2123376542982062903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_273
+      rect:
+        serializedVersion: 2
+        x: 2495
+        y: 1119
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9e08454aa1d3aa30800000000000000
+      internalID: 4225451404640652959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_274
+      rect:
+        serializedVersion: 2
+        x: 290
+        y: 757
+        width: 154
+        height: 187
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8a45c11872cca090800000000000000
+      internalID: -8021823015303689585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_275
+      rect:
+        serializedVersion: 2
+        x: 718
+        y: 649
+        width: 89
+        height: 250
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 447db14989c1b25d0800000000000000
+      internalID: -3086341677986883772
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_276
+      rect:
+        serializedVersion: 2
+        x: 3443
+        y: 839
+        width: 94
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 137d91cae6c7c2180800000000000000
+      internalID: -9138792729065957583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_277
+      rect:
+        serializedVersion: 2
+        x: 4537
+        y: 1079
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b6e9ecdd2458f5c0800000000000000
+      internalID: -4181499698056927560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_278
+      rect:
+        serializedVersion: 2
+        x: 1406
+        y: 810
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ceaa77215e776e230800000000000000
+      internalID: 3667750772280896236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_279
+      rect:
+        serializedVersion: 2
+        x: 2213
+        y: 546
+        width: 266
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d422e1aa97190ed00800000000000000
+      internalID: 999959069007422029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_280
+      rect:
+        serializedVersion: 2
+        x: 88
+        y: 715
+        width: 19
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71c03585ff78c6b30800000000000000
+      internalID: 4281946876490746903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_281
+      rect:
+        serializedVersion: 2
+        x: 1100
+        y: 730
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1646d50986e00d630800000000000000
+      internalID: 3949672715465352289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_282
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 647
+        width: 18
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b00f244dd0fafeed0800000000000000
+      internalID: -2382493203925110773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_283
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 491
+        width: 182
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff3e21a18ebd62700800000000000000
+      internalID: 515340997296841727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_284
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 536
+        width: 256
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c24dca3d3d5d1f10800000000000000
+      internalID: 2242050707061293763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_285
+      rect:
+        serializedVersion: 2
+        x: 1624
+        y: 490
+        width: 189
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1db82209c96544320800000000000000
+      internalID: 2541251320176872401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_286
+      rect:
+        serializedVersion: 2
+        x: 2720
+        y: 489
+        width: 130
+        height: 179
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c56dc69984ff6ac0800000000000000
+      internalID: -3859597483855485501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_287
+      rect:
+        serializedVersion: 2
+        x: 3222
+        y: 101
+        width: 330
+        height: 577
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa95badc53b53f230800000000000000
+      internalID: 3671378407879039402
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_288
+      rect:
+        serializedVersion: 2
+        x: 3690
+        y: 306
+        width: 197
+        height: 369
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99e550a141b77f0f0800000000000000
+      internalID: -1083261859093193063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_289
+      rect:
+        serializedVersion: 2
+        x: 194
+        y: 527
+        width: 193
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd005cef020417bc0800000000000000
+      internalID: -3787175301184421669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_290
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 245
+        width: 376
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6b71163850efbd0800000000000000
+      internalID: -2594630273491028287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_291
+      rect:
+        serializedVersion: 2
+        x: 1246
+        y: 133
+        width: 393
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d85fae3a26214890800000000000000
+      internalID: -7475651943576151850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_292
+      rect:
+        serializedVersion: 2
+        x: 2257
+        y: 99
+        width: 410
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9dec02b129afb6e0800000000000000
+      internalID: -1819549762248184422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_293
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 147
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65a1e7dd35b57b4b0800000000000000
+      internalID: -5424766810388030890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_294
+      rect:
+        serializedVersion: 2
+        x: 441
+        y: 131
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db63320f9f12b05c0800000000000000
+      internalID: -4248264466134518083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_295
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 37
+        width: 15
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63b45e60cd05e9950800000000000000
+      internalID: 6457687821634587446
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_296
+      rect:
+        serializedVersion: 2
+        x: 1462
+        y: 22
+        width: 12
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43fab5473e375d160800000000000000
+      internalID: 7049668212465315636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueExplo_297
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 79
+        width: 10
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc41e19df648a7cb0800000000000000
+      internalID: -4865430831501536053
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BlueExplo_0: -7462813104771327498
+      BlueExplo_1: 5267774712238443593
+      BlueExplo_10: 2346318936604952595
+      BlueExplo_100: 802460660606287043
+      BlueExplo_101: 7419968468437007257
+      BlueExplo_102: -3403917098467494889
+      BlueExplo_103: -8362159339917615530
+      BlueExplo_104: 2673626872146979765
+      BlueExplo_105: -2532249021582414151
+      BlueExplo_106: -4035343713962372924
+      BlueExplo_107: -3064601576782300681
+      BlueExplo_108: -1937319984275753606
+      BlueExplo_109: -5596101830265956723
+      BlueExplo_11: 4063390546600727244
+      BlueExplo_110: -1568256364159820151
+      BlueExplo_111: 7661140359614302315
+      BlueExplo_112: -4123214195423179916
+      BlueExplo_113: 3355737265232749706
+      BlueExplo_114: -847291252065986064
+      BlueExplo_115: 7239388232712680776
+      BlueExplo_116: -6440746115482468825
+      BlueExplo_117: 2301649846675743072
+      BlueExplo_118: 1649946279457961007
+      BlueExplo_119: 1934238921283402235
+      BlueExplo_12: 2014280485749558208
+      BlueExplo_120: -4786584750149706214
+      BlueExplo_121: -2179626717250339961
+      BlueExplo_122: -1223749472212775892
+      BlueExplo_123: 7894419662807045779
+      BlueExplo_124: 57212411452101045
+      BlueExplo_125: 7649957815557994872
+      BlueExplo_126: 3757110174038594833
+      BlueExplo_127: -1627796690281689687
+      BlueExplo_128: 702545847460603324
+      BlueExplo_129: -267194627220621421
+      BlueExplo_13: -6711029283768614436
+      BlueExplo_130: -2001756052487657773
+      BlueExplo_131: -3716225640728147460
+      BlueExplo_132: -7178209599706875738
+      BlueExplo_133: 4089051593547577629
+      BlueExplo_134: 1042764852367698318
+      BlueExplo_135: -1339979657930092937
+      BlueExplo_136: 2422221503988646086
+      BlueExplo_137: -7973320761164435626
+      BlueExplo_138: 5093983133145906101
+      BlueExplo_139: -8974086677327290676
+      BlueExplo_14: -1164672193961331103
+      BlueExplo_140: -3542471007810503288
+      BlueExplo_141: 4236807898962351239
+      BlueExplo_142: -7343613938948969471
+      BlueExplo_143: -2381917589876337508
+      BlueExplo_144: -6059005883298520054
+      BlueExplo_145: 1375664640825907483
+      BlueExplo_146: 6538905278331537024
+      BlueExplo_147: -8419698419893675586
+      BlueExplo_148: -2713136601135737962
+      BlueExplo_149: -4990337414313335004
+      BlueExplo_15: -5400653528331573423
+      BlueExplo_150: -3210079285717667794
+      BlueExplo_151: 8198847448764867411
+      BlueExplo_152: 1288895522246829662
+      BlueExplo_153: 5432704054503511063
+      BlueExplo_154: -7609830144687061620
+      BlueExplo_155: -829564035799049307
+      BlueExplo_156: 1900042568202776033
+      BlueExplo_157: -6548964754082080097
+      BlueExplo_158: 4762509556955647604
+      BlueExplo_159: 7040331837151230401
+      BlueExplo_16: 3469538693928797658
+      BlueExplo_160: 1067390482970309811
+      BlueExplo_161: -4601581926453947737
+      BlueExplo_162: 1284260778133728281
+      BlueExplo_163: -7694080362349499124
+      BlueExplo_164: 4539457594829689845
+      BlueExplo_165: -1910994318434021716
+      BlueExplo_166: 2131362226914519730
+      BlueExplo_167: -8743513442073000542
+      BlueExplo_168: -7662907576583856253
+      BlueExplo_169: -2973378518377297885
+      BlueExplo_17: 7417744954638669774
+      BlueExplo_170: 3204400640070904236
+      BlueExplo_171: -4936454581036503471
+      BlueExplo_172: -8691270402845054261
+      BlueExplo_173: -6707517370385369031
+      BlueExplo_174: -9118422471127121031
+      BlueExplo_175: 6422323894471690430
+      BlueExplo_176: -43808509701003893
+      BlueExplo_177: 4588311946047896658
+      BlueExplo_178: 762045441809768286
+      BlueExplo_179: -730713122697890041
+      BlueExplo_18: -6134326561852361379
+      BlueExplo_180: -7832667021851301425
+      BlueExplo_181: 7372445773956073369
+      BlueExplo_182: 7725150076503501987
+      BlueExplo_183: -8845938302146037981
+      BlueExplo_184: 315748867681405576
+      BlueExplo_185: -1854811221714645937
+      BlueExplo_186: -8172867988190173849
+      BlueExplo_187: -799501429101622282
+      BlueExplo_188: 6851945312742812215
+      BlueExplo_189: 3443740139357374697
+      BlueExplo_19: -448796555964631307
+      BlueExplo_190: 7230551871259096131
+      BlueExplo_191: -7317014459790945404
+      BlueExplo_192: -3431661046720403336
+      BlueExplo_193: -6866330511416245051
+      BlueExplo_194: -6882811614551501362
+      BlueExplo_195: -2080357346847314741
+      BlueExplo_196: -87330543803266845
+      BlueExplo_197: -8211112137484092924
+      BlueExplo_198: 9033905411951110116
+      BlueExplo_199: 3540707254933415419
+      BlueExplo_2: 6076779505619878461
+      BlueExplo_20: 5408074497672303363
+      BlueExplo_200: -1562519090210684718
+      BlueExplo_201: -8864686100206493984
+      BlueExplo_202: 4166293111237548721
+      BlueExplo_203: 2461418822621447843
+      BlueExplo_204: -8168590639630020313
+      BlueExplo_205: -2498830461902037928
+      BlueExplo_206: 5012853504944883729
+      BlueExplo_207: 337261853830958958
+      BlueExplo_208: 4441699728073360071
+      BlueExplo_209: -344526322072494401
+      BlueExplo_21: -6437056305131751237
+      BlueExplo_210: 6119605339053248204
+      BlueExplo_211: 8632628138395934723
+      BlueExplo_212: -6677587133981111989
+      BlueExplo_213: -8770446293133455110
+      BlueExplo_214: -3153589973955788600
+      BlueExplo_215: -5551580283432515139
+      BlueExplo_216: 2312166503605247412
+      BlueExplo_217: -2248152140013708324
+      BlueExplo_218: 5671626875750591122
+      BlueExplo_219: 2522624360666075074
+      BlueExplo_22: -6863785294733492545
+      BlueExplo_220: 54675151599531263
+      BlueExplo_221: 8289159198811759341
+      BlueExplo_222: 1035913406951752364
+      BlueExplo_223: -1126745148745589157
+      BlueExplo_224: 6710134956000453346
+      BlueExplo_225: -8369345597345006286
+      BlueExplo_226: -1357688807608738787
+      BlueExplo_227: 4966555757273818789
+      BlueExplo_228: -3348543412838869270
+      BlueExplo_229: 6887392900020324627
+      BlueExplo_23: -1847073509705991768
+      BlueExplo_230: -6572832258343857905
+      BlueExplo_231: -3455674633056211666
+      BlueExplo_232: -755267855670272588
+      BlueExplo_233: 4210097124815798492
+      BlueExplo_234: -3328636022199224266
+      BlueExplo_235: -4049310521492166468
+      BlueExplo_236: -6626937636571380063
+      BlueExplo_237: 3693364607873061910
+      BlueExplo_238: -7239804279655946799
+      BlueExplo_239: 1148477209645418461
+      BlueExplo_24: -9197910280919341184
+      BlueExplo_240: -303387445818885196
+      BlueExplo_241: -1286946292536554978
+      BlueExplo_242: 5808589511348980415
+      BlueExplo_243: 703813551079468925
+      BlueExplo_244: 9041536603242011095
+      BlueExplo_245: 5592699068672729559
+      BlueExplo_246: 4000386138087545094
+      BlueExplo_247: -3555349674050584138
+      BlueExplo_248: -664947498163632236
+      BlueExplo_249: 486120301150335383
+      BlueExplo_25: 748442565071304566
+      BlueExplo_250: 6863918282387671000
+      BlueExplo_251: 1949862423652064837
+      BlueExplo_252: -1077087297812314345
+      BlueExplo_253: 6347219942613568792
+      BlueExplo_254: -8251225397981280648
+      BlueExplo_255: 8551765722972530134
+      BlueExplo_256: -4103239431898638972
+      BlueExplo_257: 1576297129670063502
+      BlueExplo_258: 2924326715897009673
+      BlueExplo_259: -8780232740095947471
+      BlueExplo_26: -4222183305810279336
+      BlueExplo_260: 7582874069792289578
+      BlueExplo_261: 7771932917786569559
+      BlueExplo_262: 8896419699060196355
+      BlueExplo_263: -584106368218123192
+      BlueExplo_264: -3096509503234295000
+      BlueExplo_265: 933470654596086985
+      BlueExplo_266: -8450065605488824195
+      BlueExplo_267: 5973966434483935581
+      BlueExplo_268: -365557963952376934
+      BlueExplo_269: 631446635839570029
+      BlueExplo_27: -5072514314727270399
+      BlueExplo_270: -4402072000285906125
+      BlueExplo_271: -23605619123547775
+      BlueExplo_272: 2123376542982062903
+      BlueExplo_273: 4225451404640652959
+      BlueExplo_274: -8021823015303689585
+      BlueExplo_275: -3086341677986883772
+      BlueExplo_276: -9138792729065957583
+      BlueExplo_277: -4181499698056927560
+      BlueExplo_278: 3667750772280896236
+      BlueExplo_279: 999959069007422029
+      BlueExplo_28: 8423938696025946798
+      BlueExplo_280: 4281946876490746903
+      BlueExplo_281: 3949672715465352289
+      BlueExplo_282: -2382493203925110773
+      BlueExplo_283: 515340997296841727
+      BlueExplo_284: 2242050707061293763
+      BlueExplo_285: 2541251320176872401
+      BlueExplo_286: -3859597483855485501
+      BlueExplo_287: 3671378407879039402
+      BlueExplo_288: -1083261859093193063
+      BlueExplo_289: -3787175301184421669
+      BlueExplo_29: -5808631846537427511
+      BlueExplo_290: -2594630273491028287
+      BlueExplo_291: -7475651943576151850
+      BlueExplo_292: -1819549762248184422
+      BlueExplo_293: -5424766810388030890
+      BlueExplo_294: -4248264466134518083
+      BlueExplo_295: 6457687821634587446
+      BlueExplo_296: 7049668212465315636
+      BlueExplo_297: -4865430831501536053
+      BlueExplo_3: 1685798527122546788
+      BlueExplo_30: 7489980884870687394
+      BlueExplo_31: 3336859486128623224
+      BlueExplo_32: -7952438229381111773
+      BlueExplo_33: -4582693413893442920
+      BlueExplo_34: 667425305881473774
+      BlueExplo_35: -6914569856062895681
+      BlueExplo_36: -3863131342470192773
+      BlueExplo_37: 7973353774713225036
+      BlueExplo_38: 5619805062446059210
+      BlueExplo_39: -1171422864550713684
+      BlueExplo_4: -14868565915157810
+      BlueExplo_40: -5946323659988509192
+      BlueExplo_41: -6490560905216998530
+      BlueExplo_42: 6985984341498968091
+      BlueExplo_43: 927656703444257352
+      BlueExplo_44: -4726631197950902467
+      BlueExplo_45: -2780454443941723897
+      BlueExplo_46: -8606939698584873993
+      BlueExplo_47: 5665759495971993223
+      BlueExplo_48: -10814533456725329
+      BlueExplo_49: 2867948416358816289
+      BlueExplo_5: 3284292907153762383
+      BlueExplo_50: -5203904940601663949
+      BlueExplo_51: 6319957094124192361
+      BlueExplo_52: 4582836500912892164
+      BlueExplo_53: 7961622221500922108
+      BlueExplo_54: -2916994820654829825
+      BlueExplo_55: -2841057039647789540
+      BlueExplo_56: -8971946062215369835
+      BlueExplo_57: 433189342559947666
+      BlueExplo_58: 4271822643811742386
+      BlueExplo_59: 4619354471028411037
+      BlueExplo_6: -3807468622647196059
+      BlueExplo_60: -1395108221354503489
+      BlueExplo_61: 2246806342023884085
+      BlueExplo_62: 8164813941020710512
+      BlueExplo_63: -2837135841887162016
+      BlueExplo_64: 8962516544190265391
+      BlueExplo_65: 7817671993349997389
+      BlueExplo_66: -4559635061357567061
+      BlueExplo_67: -6973283412318213812
+      BlueExplo_68: 2095008640138211820
+      BlueExplo_69: 3843092726981173584
+      BlueExplo_7: 7768577807673366605
+      BlueExplo_70: 7523760315210522826
+      BlueExplo_71: 2217030568972329167
+      BlueExplo_72: 9056248085980355557
+      BlueExplo_73: 6949632347510647848
+      BlueExplo_74: -4569351427670449340
+      BlueExplo_75: 6499486222287531699
+      BlueExplo_76: -7370382380998864833
+      BlueExplo_77: -2502710913860756892
+      BlueExplo_78: 5297119932018791425
+      BlueExplo_79: -6968517561532618965
+      BlueExplo_8: 7596708271793070676
+      BlueExplo_80: -79977524513611288
+      BlueExplo_81: 4700797595941825157
+      BlueExplo_82: 8274268472044648363
+      BlueExplo_83: 7948874060729397651
+      BlueExplo_84: -1970552726679134467
+      BlueExplo_85: -8786951648402795044
+      BlueExplo_86: 6105334852601218127
+      BlueExplo_87: 977351465542345128
+      BlueExplo_88: 5515782441303352499
+      BlueExplo_89: -6521147327869051662
+      BlueExplo_9: 5675037096343353009
+      BlueExplo_90: -5449316089587315367
+      BlueExplo_91: 8972711363349717984
+      BlueExplo_92: -8392183358194594325
+      BlueExplo_93: -4450775704448593272
+      BlueExplo_94: 5720510705335035412
+      BlueExplo_95: -4881249766131227396
+      BlueExplo_96: 5218791439824371833
+      BlueExplo_97: -2909104857584736658
+      BlueExplo_98: -6179991649902941089
+      BlueExplo_99: 8840303946387971232
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

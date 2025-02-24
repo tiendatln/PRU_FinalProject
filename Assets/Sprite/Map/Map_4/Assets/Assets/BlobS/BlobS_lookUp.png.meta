@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 987244ea9caafb44fa4af3468df36a93
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -7065209589801326260
+    second: BlobS_lookUp_0
+  - first:
+      213: 6482735669766791533
+    second: BlobS_lookUp_1
+  - first:
+      213: 2286657805600890889
+    second: BlobS_lookUp_2
+  - first:
+      213: -8536465044123448198
+    second: BlobS_lookUp_3
+  - first:
+      213: 232099118944204451
+    second: BlobS_lookUp_4
+  - first:
+      213: 116463591541432583
+    second: BlobS_lookUp_5
+  - first:
+      213: -8205460333052853086
+    second: BlobS_lookUp_6
+  - first:
+      213: 6935144691372969309
+    second: BlobS_lookUp_7
+  - first:
+      213: -2267945458728488823
+    second: BlobS_lookUp_8
+  - first:
+      213: 8212622502138361475
+    second: BlobS_lookUp_9
+  - first:
+      213: 3098033131317998987
+    second: BlobS_lookUp_10
+  - first:
+      213: -2010435882919752257
+    second: BlobS_lookUp_11
+  - first:
+      213: -334600185091648396
+    second: BlobS_lookUp_12
+  - first:
+      213: 1150837486745268808
+    second: BlobS_lookUp_13
+  - first:
+      213: -1178647447619812065
+    second: BlobS_lookUp_14
+  - first:
+      213: 8573025587036292538
+    second: BlobS_lookUp_15
+  - first:
+      213: -844019687086501208
+    second: BlobS_lookUp_16
+  - first:
+      213: 3077732659698985746
+    second: BlobS_lookUp_17
+  - first:
+      213: -7608849115980219916
+    second: BlobS_lookUp_18
+  - first:
+      213: -5672290741911035045
+    second: BlobS_lookUp_19
+  - first:
+      213: 1170315424817075524
+    second: BlobS_lookUp_20
+  - first:
+      213: 4188821257476533457
+    second: BlobS_lookUp_21
+  - first:
+      213: -8586399436897111862
+    second: BlobS_lookUp_22
+  - first:
+      213: 1291381846424197164
+    second: BlobS_lookUp_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlobS_lookUp_0
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2141
+        width: 258
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c496538af4553fd90800000000000000
+      internalID: -7065209589801326260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_lookUp_1
+      rect:
+        serializedVersion: 2
+        x: 637
+        y: 2141
+        width: 268
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d612431aebd47f950800000000000000
+      internalID: 6482735669766791533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_lookUp_2
+      rect:
+        serializedVersion: 2
+        x: 1148
+        y: 2141
+        width: 279
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90027b1b827dbbf10800000000000000
+      internalID: 2286657805600890889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_lookUp_3
+      rect:
+        serializedVersion: 2
+        x: 1658
+        y: 2142
+        width: 289
+        height: 302
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7c8b7f3542688980800000000000000
+      internalID: -8536465044123448198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_lookUp_4
+      rect:
+        serializedVersion: 2
+        x: 2169
+        y: 2142
+        width: 296
+        height: 294
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a6b9514be4983300800000000000000
+      internalID: 232099118944204451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_lookUp_5
+      rect:
+        serializedVersion: 2
+        x: 119
+        y: 1630
+        width: 301
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 701e71bf403cd9100800000000000000
+      internalID: 116463591541432583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_lookUp_6
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 1631
+        width: 305
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a483dd2d49502e80800000000000000
+      internalID: -8205460333052853086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_lookUp_7
+      rect:
+        serializedVersion: 2
+        x: 1141
+        y: 1631
+        width: 307
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5dc8335a559e3060800000000000000
+      internalID: 6935144691372969309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_lookUp_8
+      rect:
+        serializedVersion: 2
+        x: 1648
+        y: 1632
+        width: 310
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 98037821f93a680e0800000000000000
+      internalID: -2267945458728488823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_lookUp_9
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 1632
+        width: 312
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 386365247a819f170800000000000000
+      internalID: 8212622502138361475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_lookUp_10
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 1120
+        width: 315
+        height: 262
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b85b99608bc6efa20800000000000000
+      internalID: 3098033131317998987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_lookUp_11
+      rect:
+        serializedVersion: 2
+        x: 621
+        y: 1120
+        width: 317
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fbd8eda573f7914e0800000000000000
+      internalID: -2010435882919752257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_lookUp_12
+      rect:
+        serializedVersion: 2
+        x: 1133
+        y: 1120
+        width: 319
+        height: 261
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47415d987e24b5bf0800000000000000
+      internalID: -334600185091648396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_lookUp_13
+      rect:
+        serializedVersion: 2
+        x: 1644
+        y: 1120
+        width: 321
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 842b7a7c89898ff00800000000000000
+      internalID: 1150837486745268808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_lookUp_14
+      rect:
+        serializedVersion: 2
+        x: 2155
+        y: 1120
+        width: 323
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f154331246a94afe0800000000000000
+      internalID: -1178647447619812065
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_lookUp_15
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 608
+        width: 323
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab502ad795189f670800000000000000
+      internalID: 8573025587036292538
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_lookUp_16
+      rect:
+        serializedVersion: 2
+        x: 618
+        y: 608
+        width: 325
+        height: 259
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a2d5cff0907944f0800000000000000
+      internalID: -844019687086501208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_lookUp_17
+      rect:
+        serializedVersion: 2
+        x: 1129
+        y: 608
+        width: 326
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21be9f62c8d46ba20800000000000000
+      internalID: 3077732659698985746
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_lookUp_18
+      rect:
+        serializedVersion: 2
+        x: 1641
+        y: 608
+        width: 327
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f9347cda00f76690800000000000000
+      internalID: -7608849115980219916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_lookUp_19
+      rect:
+        serializedVersion: 2
+        x: 2152
+        y: 608
+        width: 328
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b53e7a19f99f741b0800000000000000
+      internalID: -5672290741911035045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_lookUp_20
+      rect:
+        serializedVersion: 2
+        x: 110
+        y: 95
+        width: 311
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 445d163adabcd3010800000000000000
+      internalID: 1170315424817075524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_lookUp_21
+      rect:
+        serializedVersion: 2
+        x: 630
+        y: 94
+        width: 287
+        height: 301
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dc6e778dbea12a30800000000000000
+      internalID: 4188821257476533457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_lookUp_22
+      rect:
+        serializedVersion: 2
+        x: 1151
+        y: 93
+        width: 258
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac03220743bf6d880800000000000000
+      internalID: -8586399436897111862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobS_lookUp_23
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 93
+        width: 258
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c28908182f8ebe110800000000000000
+      internalID: 1291381846424197164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BlobS_lookUp_0: -7065209589801326260
+      BlobS_lookUp_1: 6482735669766791533
+      BlobS_lookUp_10: 3098033131317998987
+      BlobS_lookUp_11: -2010435882919752257
+      BlobS_lookUp_12: -334600185091648396
+      BlobS_lookUp_13: 1150837486745268808
+      BlobS_lookUp_14: -1178647447619812065
+      BlobS_lookUp_15: 8573025587036292538
+      BlobS_lookUp_16: -844019687086501208
+      BlobS_lookUp_17: 3077732659698985746
+      BlobS_lookUp_18: -7608849115980219916
+      BlobS_lookUp_19: -5672290741911035045
+      BlobS_lookUp_2: 2286657805600890889
+      BlobS_lookUp_20: 1170315424817075524
+      BlobS_lookUp_21: 4188821257476533457
+      BlobS_lookUp_22: -8586399436897111862
+      BlobS_lookUp_23: 1291381846424197164
+      BlobS_lookUp_3: -8536465044123448198
+      BlobS_lookUp_4: 232099118944204451
+      BlobS_lookUp_5: 116463591541432583
+      BlobS_lookUp_6: -8205460333052853086
+      BlobS_lookUp_7: 6935144691372969309
+      BlobS_lookUp_8: -2267945458728488823
+      BlobS_lookUp_9: 8212622502138361475
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

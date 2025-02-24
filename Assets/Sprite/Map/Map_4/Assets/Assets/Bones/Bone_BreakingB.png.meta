@@ -1,0 +1,1365 @@
+fileFormatVersion: 2
+guid: 0cfe9d18961711342ac32888a96c1d54
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 4998643997783841484
+    second: Bone_BreakingB_0
+  - first:
+      213: -8967313440590575992
+    second: Bone_BreakingB_1
+  - first:
+      213: -376637628592353212
+    second: Bone_BreakingB_2
+  - first:
+      213: -7002477806384207737
+    second: Bone_BreakingB_3
+  - first:
+      213: 7290985976119863260
+    second: Bone_BreakingB_4
+  - first:
+      213: 1327145969197122301
+    second: Bone_BreakingB_5
+  - first:
+      213: -7395252270550107345
+    second: Bone_BreakingB_6
+  - first:
+      213: 5568962507028930377
+    second: Bone_BreakingB_7
+  - first:
+      213: 1505386391186037737
+    second: Bone_BreakingB_8
+  - first:
+      213: 5434843027067649217
+    second: Bone_BreakingB_9
+  - first:
+      213: -3138600985714013655
+    second: Bone_BreakingB_10
+  - first:
+      213: 6971667154775903623
+    second: Bone_BreakingB_11
+  - first:
+      213: 4858246774272356377
+    second: Bone_BreakingB_12
+  - first:
+      213: 3765076999305730981
+    second: Bone_BreakingB_13
+  - first:
+      213: -5378037152879483294
+    second: Bone_BreakingB_14
+  - first:
+      213: 8146159258121903300
+    second: Bone_BreakingB_15
+  - first:
+      213: 2576084835840524881
+    second: Bone_BreakingB_16
+  - first:
+      213: 2986963374387830802
+    second: Bone_BreakingB_17
+  - first:
+      213: 6232506321685051379
+    second: Bone_BreakingB_18
+  - first:
+      213: 6637244690171291063
+    second: Bone_BreakingB_19
+  - first:
+      213: 8822205455700606023
+    second: Bone_BreakingB_20
+  - first:
+      213: -4507607351306868892
+    second: Bone_BreakingB_21
+  - first:
+      213: -6055369232837367005
+    second: Bone_BreakingB_22
+  - first:
+      213: 881038988337415528
+    second: Bone_BreakingB_23
+  - first:
+      213: 1405450073902776604
+    second: Bone_BreakingB_24
+  - first:
+      213: -5641713583431928388
+    second: Bone_BreakingB_25
+  - first:
+      213: -3627799985609173835
+    second: Bone_BreakingB_26
+  - first:
+      213: 126659434488318874
+    second: Bone_BreakingB_27
+  - first:
+      213: -7722108937252381931
+    second: Bone_BreakingB_28
+  - first:
+      213: -3168570121485177633
+    second: Bone_BreakingB_29
+  - first:
+      213: 7725789670630513645
+    second: Bone_BreakingB_30
+  - first:
+      213: -514888569440541405
+    second: Bone_BreakingB_31
+  - first:
+      213: -6901568717061910385
+    second: Bone_BreakingB_32
+  - first:
+      213: -8377567042161560333
+    second: Bone_BreakingB_33
+  - first:
+      213: -1742670206438496752
+    second: Bone_BreakingB_34
+  - first:
+      213: -7059735420866286777
+    second: Bone_BreakingB_35
+  - first:
+      213: -3575276812948371532
+    second: Bone_BreakingB_36
+  - first:
+      213: 1546552444322441957
+    second: Bone_BreakingB_37
+  - first:
+      213: 7428717643602344432
+    second: Bone_BreakingB_38
+  - first:
+      213: -1235724099807117555
+    second: Bone_BreakingB_39
+  - first:
+      213: 6362416876767655469
+    second: Bone_BreakingB_40
+  - first:
+      213: 4504392112250383200
+    second: Bone_BreakingB_41
+  - first:
+      213: -3293831421523414898
+    second: Bone_BreakingB_42
+  - first:
+      213: 1383791270491098735
+    second: Bone_BreakingB_43
+  - first:
+      213: 854231229152062112
+    second: Bone_BreakingB_44
+  - first:
+      213: -2832403982241799905
+    second: Bone_BreakingB_45
+  - first:
+      213: -772466639768941449
+    second: Bone_BreakingB_46
+  - first:
+      213: -5447046608541292563
+    second: Bone_BreakingB_47
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Bone_BreakingB_0
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 976
+        width: 707
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cca5b866b30ce5540800000000000000
+      internalID: 4998643997783841484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_1
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 976
+        width: 707
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8864308cfe3bd8380800000000000000
+      internalID: -8967313440590575992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_2
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 976
+        width: 707
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44015b2821ae5caf0800000000000000
+      internalID: -376637628592353212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_3
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 976
+        width: 707
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 788a9ea298332de90800000000000000
+      internalID: -7002477806384207737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_4
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 976
+        width: 707
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd7aaf0bd19ce2560800000000000000
+      internalID: 7290985976119863260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_5
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 745
+        width: 707
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df2061b3a38fa6210800000000000000
+      internalID: 1327145969197122301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_6
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 745
+        width: 707
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2bb57ddd39ce5990800000000000000
+      internalID: -7395252270550107345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_7
+      rect:
+        serializedVersion: 2
+        x: 1738
+        y: 745
+        width: 707
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94f9deef4ede84d40800000000000000
+      internalID: 5568962507028930377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_8
+      rect:
+        serializedVersion: 2
+        x: 2573
+        y: 745
+        width: 707
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ebd95862f434e410800000000000000
+      internalID: 1505386391186037737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_9
+      rect:
+        serializedVersion: 2
+        x: 3408
+        y: 745
+        width: 707
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cc306620f07c6b40800000000000000
+      internalID: 5434843027067649217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_10
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 514
+        width: 707
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92a43d258037174d0800000000000000
+      internalID: -3138600985714013655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_11
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 514
+        width: 707
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78d0dacf65650c060800000000000000
+      internalID: 6971667154775903623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_12
+      rect:
+        serializedVersion: 2
+        x: 1731
+        y: 518
+        width: 721
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 910f0bb73b5fb6340800000000000000
+      internalID: 4858246774272356377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_13
+      rect:
+        serializedVersion: 2
+        x: 2559
+        y: 521
+        width: 734
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ab9c97259d304430800000000000000
+      internalID: 3765076999305730981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_14
+      rect:
+        serializedVersion: 2
+        x: 3387
+        y: 520
+        width: 748
+        height: 130
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 266e3c914bf5d55b0800000000000000
+      internalID: -5378037152879483294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_15
+      rect:
+        serializedVersion: 2
+        x: 42
+        y: 281
+        width: 759
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cc9d106fa8fc0170800000000000000
+      internalID: 8146159258121903300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_16
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 274
+        width: 357
+        height: 138
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1528b8f628710c320800000000000000
+      internalID: 2576084835840524881
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_17
+      rect:
+        serializedVersion: 2
+        x: 1210
+        y: 305
+        width: 42
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2102d770d53d37920800000000000000
+      internalID: 2986963374387830802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_18
+      rect:
+        serializedVersion: 2
+        x: 1228
+        y: 296
+        width: 31
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f7f9647a7f4e7650800000000000000
+      internalID: 6232506321685051379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_19
+      rect:
+        serializedVersion: 2
+        x: 1253
+        y: 296
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5e10d41ea3c1c50800000000000000
+      internalID: 6637244690171291063
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_20
+      rect:
+        serializedVersion: 2
+        x: 1274
+        y: 290
+        width: 367
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74c3c82be15ce6a70800000000000000
+      internalID: 8822205455700606023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_21
+      rect:
+        serializedVersion: 2
+        x: 1701
+        y: 266
+        width: 356
+        height: 149
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4672a6e0ff2c171c0800000000000000
+      internalID: -4507607351306868892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_22
+      rect:
+        serializedVersion: 2
+        x: 2042
+        y: 295
+        width: 41
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32b26e4f3c107fba0800000000000000
+      internalID: -6055369232837367005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_23
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 286
+        width: 372
+        height: 148
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8650f1dba441a3c00800000000000000
+      internalID: 881038988337415528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_24
+      rect:
+        serializedVersion: 2
+        x: 2531
+        y: 260
+        width: 349
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1185845569218310800000000000000
+      internalID: 1405450073902776604
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_25
+      rect:
+        serializedVersion: 2
+        x: 2884
+        y: 284
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb53b0f036b94b1b0800000000000000
+      internalID: -5641713583431928388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_26
+      rect:
+        serializedVersion: 2
+        x: 2929
+        y: 281
+        width: 393
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5b4199d422777adc0800000000000000
+      internalID: -3627799985609173835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_27
+      rect:
+        serializedVersion: 2
+        x: 3359
+        y: 253
+        width: 347
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9bc028a51cf1c100800000000000000
+      internalID: 126659434488318874
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_28
+      rect:
+        serializedVersion: 2
+        x: 3737
+        y: 270
+        width: 424
+        height: 174
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51bd336c5de85d490800000000000000
+      internalID: -7722108937252381931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_29
+      rect:
+        serializedVersion: 2
+        x: 2059
+        y: 286
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdca5f6234af604d0800000000000000
+      internalID: -3168570121485177633
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_30
+      rect:
+        serializedVersion: 2
+        x: 2087
+        y: 282
+        width: 23
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deb505fb5c4873b60800000000000000
+      internalID: 7725789670630513645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_31
+      rect:
+        serializedVersion: 2
+        x: 2902
+        y: 269
+        width: 42
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3256697f29fbad8f0800000000000000
+      internalID: -514888569440541405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_32
+      rect:
+        serializedVersion: 2
+        x: 3754
+        y: 255
+        width: 23
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f80939261d3b830a0800000000000000
+      internalID: -6901568717061910385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_33
+      rect:
+        serializedVersion: 2
+        x: 3783
+        y: 239
+        width: 42
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f4b0f15927ecbb80800000000000000
+      internalID: -8377567042161560333
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_34
+      rect:
+        serializedVersion: 2
+        x: 2988
+        y: 29
+        width: 353
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 016a3982eaac0d7e0800000000000000
+      internalID: -1742670206438496752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_35
+      rect:
+        serializedVersion: 2
+        x: 3801
+        y: 230
+        width: 30
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74ba50fe908c60e90800000000000000
+      internalID: -7059735420866286777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_36
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 15
+        width: 343
+        height: 180
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b785866ea0126ec0800000000000000
+      internalID: -3575276812948371532
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_37
+      rect:
+        serializedVersion: 2
+        x: 392
+        y: 11
+        width: 433
+        height: 207
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5eae95e0145767510800000000000000
+      internalID: 1546552444322441957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_38
+      rect:
+        serializedVersion: 2
+        x: 844
+        y: 8
+        width: 340
+        height: 190
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f9389b765b181760800000000000000
+      internalID: 7428717643602344432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_39
+      rect:
+        serializedVersion: 2
+        x: 1224
+        y: 0
+        width: 78
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0f7b967a73d9dee0800000000000000
+      internalID: -1235724099807117555
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_40
+      rect:
+        serializedVersion: 2
+        x: 1306
+        y: 38
+        width: 358
+        height: 185
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d26bfac9078db4850800000000000000
+      internalID: 6362416876767655469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_41
+      rect:
+        serializedVersion: 2
+        x: 1674
+        y: 2
+        width: 336
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06b61c3c2c0d28e30800000000000000
+      internalID: 4504392112250383200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_42
+      rect:
+        serializedVersion: 2
+        x: 2147
+        y: 33
+        width: 356
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80b31a06c5f942d0800000000000000
+      internalID: -3293831421523414898
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_43
+      rect:
+        serializedVersion: 2
+        x: 2504
+        y: 0
+        width: 334
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6e88e034d6343310800000000000000
+      internalID: 1383791270491098735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_44
+      rect:
+        serializedVersion: 2
+        x: 453
+        y: 0
+        width: 41
+        height: 31
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0aa67a9e6c6dadb00800000000000000
+      internalID: 854231229152062112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_45
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 0
+        width: 38
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f11631ab59741b8d0800000000000000
+      internalID: -2832403982241799905
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_46
+      rect:
+        serializedVersion: 2
+        x: 2073
+        y: 0
+        width: 57
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77c8bbf0fa5a745f0800000000000000
+      internalID: -772466639768941449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Bone_BreakingB_47
+      rect:
+        serializedVersion: 2
+        x: 2149
+        y: 0
+        width: 25
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de766ee18f33864b0800000000000000
+      internalID: -5447046608541292563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Bone_BreakingB_0: 4998643997783841484
+      Bone_BreakingB_1: -8967313440590575992
+      Bone_BreakingB_10: -3138600985714013655
+      Bone_BreakingB_11: 6971667154775903623
+      Bone_BreakingB_12: 4858246774272356377
+      Bone_BreakingB_13: 3765076999305730981
+      Bone_BreakingB_14: -5378037152879483294
+      Bone_BreakingB_15: 8146159258121903300
+      Bone_BreakingB_16: 2576084835840524881
+      Bone_BreakingB_17: 2986963374387830802
+      Bone_BreakingB_18: 6232506321685051379
+      Bone_BreakingB_19: 6637244690171291063
+      Bone_BreakingB_2: -376637628592353212
+      Bone_BreakingB_20: 8822205455700606023
+      Bone_BreakingB_21: -4507607351306868892
+      Bone_BreakingB_22: -6055369232837367005
+      Bone_BreakingB_23: 881038988337415528
+      Bone_BreakingB_24: 1405450073902776604
+      Bone_BreakingB_25: -5641713583431928388
+      Bone_BreakingB_26: -3627799985609173835
+      Bone_BreakingB_27: 126659434488318874
+      Bone_BreakingB_28: -7722108937252381931
+      Bone_BreakingB_29: -3168570121485177633
+      Bone_BreakingB_3: -7002477806384207737
+      Bone_BreakingB_30: 7725789670630513645
+      Bone_BreakingB_31: -514888569440541405
+      Bone_BreakingB_32: -6901568717061910385
+      Bone_BreakingB_33: -8377567042161560333
+      Bone_BreakingB_34: -1742670206438496752
+      Bone_BreakingB_35: -7059735420866286777
+      Bone_BreakingB_36: -3575276812948371532
+      Bone_BreakingB_37: 1546552444322441957
+      Bone_BreakingB_38: 7428717643602344432
+      Bone_BreakingB_39: -1235724099807117555
+      Bone_BreakingB_4: 7290985976119863260
+      Bone_BreakingB_40: 6362416876767655469
+      Bone_BreakingB_41: 4504392112250383200
+      Bone_BreakingB_42: -3293831421523414898
+      Bone_BreakingB_43: 1383791270491098735
+      Bone_BreakingB_44: 854231229152062112
+      Bone_BreakingB_45: -2832403982241799905
+      Bone_BreakingB_46: -772466639768941449
+      Bone_BreakingB_47: -5447046608541292563
+      Bone_BreakingB_5: 1327145969197122301
+      Bone_BreakingB_6: -7395252270550107345
+      Bone_BreakingB_7: 5568962507028930377
+      Bone_BreakingB_8: 1505386391186037737
+      Bone_BreakingB_9: 5434843027067649217
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

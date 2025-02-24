@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: b837019fa9a8c284f8ce358b2c88b46e
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -2653926935802058308
+    second: BlobBossTri_idle02_0
+  - first:
+      213: 3162549681761206238
+    second: BlobBossTri_idle02_1
+  - first:
+      213: -5818713586917086488
+    second: BlobBossTri_idle02_2
+  - first:
+      213: -7276978166045822741
+    second: BlobBossTri_idle02_3
+  - first:
+      213: 6016909958648770726
+    second: BlobBossTri_idle02_4
+  - first:
+      213: 2913354272383466387
+    second: BlobBossTri_idle02_5
+  - first:
+      213: 5463451415502332610
+    second: BlobBossTri_idle02_6
+  - first:
+      213: -3076397212739898644
+    second: BlobBossTri_idle02_7
+  - first:
+      213: -1270846356145506342
+    second: BlobBossTri_idle02_8
+  - first:
+      213: -3517832664364639083
+    second: BlobBossTri_idle02_9
+  - first:
+      213: -6209498137300923943
+    second: BlobBossTri_idle02_10
+  - first:
+      213: -3661265510779444885
+    second: BlobBossTri_idle02_11
+  - first:
+      213: 5596787034067304431
+    second: BlobBossTri_idle02_12
+  - first:
+      213: -4565306358958316709
+    second: BlobBossTri_idle02_13
+  - first:
+      213: 8153185775305942537
+    second: BlobBossTri_idle02_14
+  - first:
+      213: -6733516166212093930
+    second: BlobBossTri_idle02_15
+  - first:
+      213: -3990341368656040763
+    second: BlobBossTri_idle02_16
+  - first:
+      213: 1435910663359746607
+    second: BlobBossTri_idle02_17
+  - first:
+      213: -1585381312190340332
+    second: BlobBossTri_idle02_18
+  - first:
+      213: 1892933300206675113
+    second: BlobBossTri_idle02_19
+  - first:
+      213: 8442616399681855847
+    second: BlobBossTri_idle02_20
+  - first:
+      213: 4000923781843530777
+    second: BlobBossTri_idle02_21
+  - first:
+      213: -4817686548323071528
+    second: BlobBossTri_idle02_22
+  - first:
+      213: 2830642002384065962
+    second: BlobBossTri_idle02_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 16
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlobBossTri_idle02_0
+      rect:
+        serializedVersion: 2
+        x: 97
+        y: 2085
+        width: 329
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb96da3538b5b2bd0800000000000000
+      internalID: -2653926935802058308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_idle02_1
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 2085
+        width: 347
+        height: 405
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: edfb6edfd22a3eb20800000000000000
+      internalID: 3162549681761206238
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_idle02_2
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 2084
+        width: 363
+        height: 393
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea611252d6cf3fa0800000000000000
+      internalID: -5818713586917086488
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_idle02_3
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 2084
+        width: 375
+        height: 378
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be0b09eb9eaf20b90800000000000000
+      internalID: -7276978166045822741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_idle02_4
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 2084
+        width: 384
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a035ca7abb508350800000000000000
+      internalID: 6016909958648770726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_idle02_5
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1572
+        width: 389
+        height: 358
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b784e66405e6820800000000000000
+      internalID: 2913354272383466387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_idle02_6
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1572
+        width: 380
+        height: 364
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c22f94ad1412db40800000000000000
+      internalID: 5463451415502332610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_idle02_7
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1572
+        width: 368
+        height: 368
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce2f2a2d8017e45d0800000000000000
+      internalID: -3076397212739898644
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_idle02_8
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1572
+        width: 355
+        height: 371
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad7f8d9e8fb0d5ee0800000000000000
+      internalID: -1270846356145506342
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_idle02_9
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 1572
+        width: 342
+        height: 377
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59c974d74d52e2fc0800000000000000
+      internalID: -3517832664364639083
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_idle02_10
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 1061
+        width: 327
+        height: 382
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d98abce75e63d9a0800000000000000
+      internalID: -6209498137300923943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_idle02_11
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 1061
+        width: 311
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b612a998a62903dc0800000000000000
+      internalID: -3661265510779444885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_idle02_12
+      rect:
+        serializedVersion: 2
+        x: 1120
+        y: 1061
+        width: 298
+        height: 399
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: feff7198728cbad40800000000000000
+      internalID: 5596787034067304431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_idle02_13
+      rect:
+        serializedVersion: 2
+        x: 1632
+        y: 1061
+        width: 298
+        height: 409
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b532577fd06c4a0c0800000000000000
+      internalID: -4565306358958316709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_idle02_14
+      rect:
+        serializedVersion: 2
+        x: 2144
+        y: 1061
+        width: 297
+        height: 419
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 906e0e4e34fe52170800000000000000
+      internalID: 8153185775305942537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_idle02_15
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 549
+        width: 298
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 618f397f8bebd82a0800000000000000
+      internalID: -6733516166212093930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_idle02_16
+      rect:
+        serializedVersion: 2
+        x: 586
+        y: 549
+        width: 319
+        height: 444
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cce5bcbaa57f98c0800000000000000
+      internalID: -3990341368656040763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_idle02_17
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 550
+        width: 353
+        height: 383
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f22d0caf3216de310800000000000000
+      internalID: 1435910663359746607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_idle02_18
+      rect:
+        serializedVersion: 2
+        x: 1597
+        y: 550
+        width: 332
+        height: 420
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4132a55a8189ff9e0800000000000000
+      internalID: -1585381312190340332
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_idle02_19
+      rect:
+        serializedVersion: 2
+        x: 2117
+        y: 549
+        width: 324
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a4a35eaecc054a10800000000000000
+      internalID: 1892933300206675113
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_idle02_20
+      rect:
+        serializedVersion: 2
+        x: 78
+        y: 37
+        width: 315
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 761ace572e23a2570800000000000000
+      internalID: 8442616399681855847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_idle02_21
+      rect:
+        serializedVersion: 2
+        x: 598
+        y: 37
+        width: 307
+        height: 476
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 91432365bf2268730800000000000000
+      internalID: 4000923781843530777
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_idle02_22
+      rect:
+        serializedVersion: 2
+        x: 1118
+        y: 37
+        width: 299
+        height: 472
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d986080c93242db0800000000000000
+      internalID: -4817686548323071528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobBossTri_idle02_23
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 37
+        width: 329
+        height: 425
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5176e57e5784720800000000000000
+      internalID: 2830642002384065962
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BlobBossTri_idle02_0: -2653926935802058308
+      BlobBossTri_idle02_1: 3162549681761206238
+      BlobBossTri_idle02_10: -6209498137300923943
+      BlobBossTri_idle02_11: -3661265510779444885
+      BlobBossTri_idle02_12: 5596787034067304431
+      BlobBossTri_idle02_13: -4565306358958316709
+      BlobBossTri_idle02_14: 8153185775305942537
+      BlobBossTri_idle02_15: -6733516166212093930
+      BlobBossTri_idle02_16: -3990341368656040763
+      BlobBossTri_idle02_17: 1435910663359746607
+      BlobBossTri_idle02_18: -1585381312190340332
+      BlobBossTri_idle02_19: 1892933300206675113
+      BlobBossTri_idle02_2: -5818713586917086488
+      BlobBossTri_idle02_20: 8442616399681855847
+      BlobBossTri_idle02_21: 4000923781843530777
+      BlobBossTri_idle02_22: -4817686548323071528
+      BlobBossTri_idle02_23: 2830642002384065962
+      BlobBossTri_idle02_3: -7276978166045822741
+      BlobBossTri_idle02_4: 6016909958648770726
+      BlobBossTri_idle02_5: 2913354272383466387
+      BlobBossTri_idle02_6: 5463451415502332610
+      BlobBossTri_idle02_7: -3076397212739898644
+      BlobBossTri_idle02_8: -1270846356145506342
+      BlobBossTri_idle02_9: -3517832664364639083
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

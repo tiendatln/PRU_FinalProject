@@ -1,0 +1,1339 @@
+fileFormatVersion: 2
+guid: 7d9717b9ed0395c48a90125f8f451597
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 445291471594676477
+    second: PoulpeBoss_Idle_0
+  - first:
+      213: -2916112257608165630
+    second: PoulpeBoss_Idle_1
+  - first:
+      213: 6200102629376327102
+    second: PoulpeBoss_Idle_2
+  - first:
+      213: -4943854936894937476
+    second: PoulpeBoss_Idle_3
+  - first:
+      213: -4372311377319270541
+    second: PoulpeBoss_Idle_4
+  - first:
+      213: 5026859479507591094
+    second: PoulpeBoss_Idle_5
+  - first:
+      213: -5019864224072748330
+    second: PoulpeBoss_Idle_6
+  - first:
+      213: 1908198543833886597
+    second: PoulpeBoss_Idle_7
+  - first:
+      213: 7582928200015239042
+    second: PoulpeBoss_Idle_8
+  - first:
+      213: 4686396673328650038
+    second: PoulpeBoss_Idle_9
+  - first:
+      213: -819272946018910187
+    second: PoulpeBoss_Idle_10
+  - first:
+      213: 2208946319508581297
+    second: PoulpeBoss_Idle_11
+  - first:
+      213: -6506093946517557380
+    second: PoulpeBoss_Idle_12
+  - first:
+      213: 9117344191230187526
+    second: PoulpeBoss_Idle_13
+  - first:
+      213: -4986781937164961624
+    second: PoulpeBoss_Idle_14
+  - first:
+      213: 6372673690289718346
+    second: PoulpeBoss_Idle_15
+  - first:
+      213: -7388598564138323076
+    second: PoulpeBoss_Idle_16
+  - first:
+      213: -4188213119567189654
+    second: PoulpeBoss_Idle_17
+  - first:
+      213: -8747010696013407887
+    second: PoulpeBoss_Idle_18
+  - first:
+      213: -9175560402257514520
+    second: PoulpeBoss_Idle_19
+  - first:
+      213: 7269566109629145737
+    second: PoulpeBoss_Idle_20
+  - first:
+      213: -7006031482972663437
+    second: PoulpeBoss_Idle_21
+  - first:
+      213: -3685851155875791480
+    second: PoulpeBoss_Idle_22
+  - first:
+      213: -3538139327807611697
+    second: PoulpeBoss_Idle_23
+  - first:
+      213: 3581668521574292796
+    second: PoulpeBoss_Idle_24
+  - first:
+      213: -4916746291355755376
+    second: PoulpeBoss_Idle_25
+  - first:
+      213: 5092819241889685354
+    second: PoulpeBoss_Idle_26
+  - first:
+      213: -6445769101684269603
+    second: PoulpeBoss_Idle_27
+  - first:
+      213: -1350656535024267259
+    second: PoulpeBoss_Idle_28
+  - first:
+      213: 1710610989137867536
+    second: PoulpeBoss_Idle_29
+  - first:
+      213: -8490069844085380090
+    second: PoulpeBoss_Idle_30
+  - first:
+      213: -8535843297029270475
+    second: PoulpeBoss_Idle_31
+  - first:
+      213: -7086132282657481121
+    second: PoulpeBoss_Idle_32
+  - first:
+      213: 2725857111564779319
+    second: PoulpeBoss_Idle_33
+  - first:
+      213: -1531723851059706401
+    second: PoulpeBoss_Idle_34
+  - first:
+      213: -877157510995776426
+    second: PoulpeBoss_Idle_35
+  - first:
+      213: 3821921471084022618
+    second: PoulpeBoss_Idle_36
+  - first:
+      213: 5930598399659522004
+    second: PoulpeBoss_Idle_37
+  - first:
+      213: -1168584817883479867
+    second: PoulpeBoss_Idle_38
+  - first:
+      213: 5262815226720596437
+    second: PoulpeBoss_Idle_39
+  - first:
+      213: 1931062495322287265
+    second: PoulpeBoss_Idle_40
+  - first:
+      213: 2982411575158752225
+    second: PoulpeBoss_Idle_41
+  - first:
+      213: 3519595175456809484
+    second: PoulpeBoss_Idle_42
+  - first:
+      213: -8374447183680196503
+    second: PoulpeBoss_Idle_43
+  - first:
+      213: 6952924401906954977
+    second: PoulpeBoss_Idle_44
+  - first:
+      213: 360024968005192521
+    second: PoulpeBoss_Idle_45
+  - first:
+      213: -4975181192730986435
+    second: PoulpeBoss_Idle_46
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 5163
+        width: 1008
+        height: 1104
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df069e1fb3efd2600800000000000000
+      internalID: 445291471594676477
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 6255
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2075a181a53e787d0800000000000000
+      internalID: -2916112257608165630
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1096
+        y: 5185
+        width: 982
+        height: 1084
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebdf0faed703b0650800000000000000
+      internalID: 6200102629376327102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 2174
+        y: 5211
+        width: 948
+        height: 1098
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c76e059e026e36bb0800000000000000
+      internalID: -4943854936894937476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 3259
+        y: 5239
+        width: 907
+        height: 1113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3776c73c7fd6253c0800000000000000
+      internalID: -4372311377319270541
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 4334
+        y: 5270
+        width: 844
+        height: 1121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bfdadb201ef2c540800000000000000
+      internalID: 5026859479507591094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 5381
+        y: 5303
+        width: 831
+        height: 1123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d2b377a51cd55ab0800000000000000
+      internalID: -5019864224072748330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 455
+        y: 6232
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58fe22e27784b7a10800000000000000
+      internalID: 1908198543833886597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 4135
+        y: 5892
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28753379509fb3960800000000000000
+      internalID: 7582928200015239042
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 5179
+        y: 5888
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 637935ed1fc690140800000000000000
+      internalID: 4686396673328650038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 6216
+        y: 5883
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5108476a89b51a4f0800000000000000
+      internalID: -819272946018910187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 4049
+        width: 813
+        height: 1116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb273e59f0c7ae10800000000000000
+      internalID: 2208946319508581297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 996
+        y: 4592
+        width: 38
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7f6082c606b5b5a0800000000000000
+      internalID: -6506093946517557380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 3975
+        width: 835
+        height: 1172
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6081f357c30578e70800000000000000
+      internalID: 9117344191230187526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 4597
+        width: 31
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a8b2fecf346bcab0800000000000000
+      internalID: -4986781937164961624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 2251
+        y: 3936
+        width: 871
+        height: 1188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44423b15f8407850800000000000000
+      internalID: 6372673690289718346
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 3293
+        y: 3932
+        width: 873
+        height: 1167
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c73f29c90cc667990800000000000000
+      internalID: -7388598564138323076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 4335
+        y: 3962
+        width: 882
+        height: 1110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69219c9b5a70e5c0800000000000000
+      internalID: -4188213119567189654
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 5381
+        y: 3908
+        width: 883
+        height: 1154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17914999d106c9680800000000000000
+      internalID: -8747010696013407887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 160
+        y: 2599
+        width: 885
+        height: 1166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8efec48ad6cd9a080800000000000000
+      internalID: -9175560402257514520
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 1171
+        y: 2620
+        width: 917
+        height: 1136
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 982e9a36cdfa2e460800000000000000
+      internalID: 7269566109629145737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 2679
+        width: 970
+        height: 1068
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 371163c5c7395ce90800000000000000
+      internalID: -7006031482972663437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 3163
+        y: 2752
+        width: 1006
+        height: 983
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d7f07f6e939dcc0800000000000000
+      internalID: -3685851155875791480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 4185
+        y: 2762
+        width: 1025
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcc1038f60106eec0800000000000000
+      internalID: -3538139327807611697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_24
+      rect:
+        serializedVersion: 2
+        x: 5227
+        y: 2775
+        width: 1027
+        height: 933
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c3d52ab3b84a4b130800000000000000
+      internalID: 3581668521574292796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_25
+      rect:
+        serializedVersion: 2
+        x: 3
+        y: 1471
+        width: 1031
+        height: 942
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 09c550d4c4534cbb0800000000000000
+      internalID: -4916746291355755376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_26
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1458
+        width: 1033
+        height: 950
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a6fdb1a1e145da640800000000000000
+      internalID: 5092819241889685354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_27
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 1445
+        width: 1034
+        height: 958
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd9be537270c86a0800000000000000
+      internalID: -6445769101684269603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_28
+      rect:
+        serializedVersion: 2
+        x: 3131
+        y: 1433
+        width: 1035
+        height: 966
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50091589901814de0800000000000000
+      internalID: -1350656535024267259
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_29
+      rect:
+        serializedVersion: 2
+        x: 4175
+        y: 1421
+        width: 1035
+        height: 973
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0133174a1af4db710800000000000000
+      internalID: 1710610989137867536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_30
+      rect:
+        serializedVersion: 2
+        x: 5220
+        y: 1410
+        width: 1034
+        height: 984
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ce80985763d2a80800000000000000
+      internalID: -8490069844085380090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_31
+      rect:
+        serializedVersion: 2
+        x: 5809
+        y: 2382
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 534db260fb79a8980800000000000000
+      internalID: -8535843297029270475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_32
+      rect:
+        serializedVersion: 2
+        x: 2
+        y: 107
+        width: 1032
+        height: 996
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5ed5cc9b3009ad90800000000000000
+      internalID: -7086132282657481121
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_33
+      rect:
+        serializedVersion: 2
+        x: 589
+        y: 1091
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73f7a4bc99034d520800000000000000
+      internalID: 2725857111564779319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_34
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 97
+        width: 1029
+        height: 1006
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd5c79bd5493ebae0800000000000000
+      internalID: -1531723851059706401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_35
+      rect:
+        serializedVersion: 2
+        x: 1633
+        y: 1091
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ce70124e5b3d3f0800000000000000
+      internalID: -877157510995776426
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_36
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 86
+        width: 1025
+        height: 1017
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5bc66b14513a0530800000000000000
+      internalID: 3821921471084022618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_37
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 1091
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d7b435a2d7bd4250800000000000000
+      internalID: 5930598399659522004
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_38
+      rect:
+        serializedVersion: 2
+        x: 3146
+        y: 57
+        width: 1020
+        height: 1046
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c00420bc4a58cfe0800000000000000
+      internalID: -1168584817883479867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_39
+      rect:
+        serializedVersion: 2
+        x: 3721
+        y: 1091
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d1b23ba096490940800000000000000
+      internalID: 5262815226720596437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_40
+      rect:
+        serializedVersion: 2
+        x: 4195
+        y: 27
+        width: 1015
+        height: 1076
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1aca3c8bb138cca10800000000000000
+      internalID: 1931062495322287265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_41
+      rect:
+        serializedVersion: 2
+        x: 4765
+        y: 1091
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e3c95fa687a36920800000000000000
+      internalID: 2982411575158752225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_42
+      rect:
+        serializedVersion: 2
+        x: 5246
+        y: 0
+        width: 1008
+        height: 1103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c02284a1a2d18d030800000000000000
+      internalID: 3519595175456809484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_43
+      rect:
+        serializedVersion: 2
+        x: 5809
+        y: 1091
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 960b87af7acf7cb80800000000000000
+      internalID: -8374447183680196503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_44
+      rect:
+        serializedVersion: 2
+        x: 3587
+        y: 1068
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e23fc5c7efbd7060800000000000000
+      internalID: 6952924401906954977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_45
+      rect:
+        serializedVersion: 2
+        x: 4631
+        y: 1068
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b88380dc01ff400800000000000000
+      internalID: 360024968005192521
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoulpeBoss_Idle_46
+      rect:
+        serializedVersion: 2
+        x: 5675
+        y: 1068
+        width: 7
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38b01a901b94fab0800000000000000
+      internalID: -4975181192730986435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PoulpeBoss_Idle_0: 445291471594676477
+      PoulpeBoss_Idle_1: -2916112257608165630
+      PoulpeBoss_Idle_10: -819272946018910187
+      PoulpeBoss_Idle_11: 2208946319508581297
+      PoulpeBoss_Idle_12: -6506093946517557380
+      PoulpeBoss_Idle_13: 9117344191230187526
+      PoulpeBoss_Idle_14: -4986781937164961624
+      PoulpeBoss_Idle_15: 6372673690289718346
+      PoulpeBoss_Idle_16: -7388598564138323076
+      PoulpeBoss_Idle_17: -4188213119567189654
+      PoulpeBoss_Idle_18: -8747010696013407887
+      PoulpeBoss_Idle_19: -9175560402257514520
+      PoulpeBoss_Idle_2: 6200102629376327102
+      PoulpeBoss_Idle_20: 7269566109629145737
+      PoulpeBoss_Idle_21: -7006031482972663437
+      PoulpeBoss_Idle_22: -3685851155875791480
+      PoulpeBoss_Idle_23: -3538139327807611697
+      PoulpeBoss_Idle_24: 3581668521574292796
+      PoulpeBoss_Idle_25: -4916746291355755376
+      PoulpeBoss_Idle_26: 5092819241889685354
+      PoulpeBoss_Idle_27: -6445769101684269603
+      PoulpeBoss_Idle_28: -1350656535024267259
+      PoulpeBoss_Idle_29: 1710610989137867536
+      PoulpeBoss_Idle_3: -4943854936894937476
+      PoulpeBoss_Idle_30: -8490069844085380090
+      PoulpeBoss_Idle_31: -8535843297029270475
+      PoulpeBoss_Idle_32: -7086132282657481121
+      PoulpeBoss_Idle_33: 2725857111564779319
+      PoulpeBoss_Idle_34: -1531723851059706401
+      PoulpeBoss_Idle_35: -877157510995776426
+      PoulpeBoss_Idle_36: 3821921471084022618
+      PoulpeBoss_Idle_37: 5930598399659522004
+      PoulpeBoss_Idle_38: -1168584817883479867
+      PoulpeBoss_Idle_39: 5262815226720596437
+      PoulpeBoss_Idle_4: -4372311377319270541
+      PoulpeBoss_Idle_40: 1931062495322287265
+      PoulpeBoss_Idle_41: 2982411575158752225
+      PoulpeBoss_Idle_42: 3519595175456809484
+      PoulpeBoss_Idle_43: -8374447183680196503
+      PoulpeBoss_Idle_44: 6952924401906954977
+      PoulpeBoss_Idle_45: 360024968005192521
+      PoulpeBoss_Idle_46: -4975181192730986435
+      PoulpeBoss_Idle_5: 5026859479507591094
+      PoulpeBoss_Idle_6: -5019864224072748330
+      PoulpeBoss_Idle_7: 1908198543833886597
+      PoulpeBoss_Idle_8: 7582928200015239042
+      PoulpeBoss_Idle_9: 4686396673328650038
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

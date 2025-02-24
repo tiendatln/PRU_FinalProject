@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 7802aec5223d04049bf03d3851f0a68a
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4125186490919840613
+    second: jellyfishTriV3_Idle_0
+  - first:
+      213: -7813161022385560451
+    second: jellyfishTriV3_Idle_1
+  - first:
+      213: -1023433792991788358
+    second: jellyfishTriV3_Idle_2
+  - first:
+      213: 4527984838736318047
+    second: jellyfishTriV3_Idle_3
+  - first:
+      213: 7595939765059920861
+    second: jellyfishTriV3_Idle_4
+  - first:
+      213: 4637264774499136557
+    second: jellyfishTriV3_Idle_5
+  - first:
+      213: 619233156323318799
+    second: jellyfishTriV3_Idle_6
+  - first:
+      213: -5361100631833656585
+    second: jellyfishTriV3_Idle_7
+  - first:
+      213: 3655991488901666396
+    second: jellyfishTriV3_Idle_8
+  - first:
+      213: -5891774622020685349
+    second: jellyfishTriV3_Idle_9
+  - first:
+      213: -5240318925529488167
+    second: jellyfishTriV3_Idle_10
+  - first:
+      213: -6618551904824397025
+    second: jellyfishTriV3_Idle_11
+  - first:
+      213: -8342499018529260769
+    second: jellyfishTriV3_Idle_12
+  - first:
+      213: 3009908887623802780
+    second: jellyfishTriV3_Idle_13
+  - first:
+      213: 4106839589395025705
+    second: jellyfishTriV3_Idle_14
+  - first:
+      213: 3928961858000331242
+    second: jellyfishTriV3_Idle_15
+  - first:
+      213: 1306036162150192267
+    second: jellyfishTriV3_Idle_16
+  - first:
+      213: -4701575755035854228
+    second: jellyfishTriV3_Idle_17
+  - first:
+      213: 7360509036685475064
+    second: jellyfishTriV3_Idle_18
+  - first:
+      213: 197511053448670395
+    second: jellyfishTriV3_Idle_19
+  - first:
+      213: -5877296229903844252
+    second: jellyfishTriV3_Idle_20
+  - first:
+      213: 6208132541718582903
+    second: jellyfishTriV3_Idle_21
+  - first:
+      213: 9180811617121058855
+    second: jellyfishTriV3_Idle_22
+  - first:
+      213: -931719288312278435
+    second: jellyfishTriV3_Idle_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: jellyfishTriV3_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 147
+        y: 2194
+        width: 216
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b949b702eb460c6c0800000000000000
+      internalID: -4125186490919840613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyfishTriV3_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 655
+        y: 2197
+        width: 223
+        height: 224
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d74e7cf2273129390800000000000000
+      internalID: -7813161022385560451
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyfishTriV3_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1162
+        y: 2200
+        width: 232
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab2089d33680cc1f0800000000000000
+      internalID: -1023433792991788358
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyfishTriV3_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1670
+        y: 2203
+        width: 239
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5e8b357832a6de30800000000000000
+      internalID: 4527984838736318047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyfishTriV3_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 2177
+        y: 2205
+        width: 247
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd329a7a8f23a6960800000000000000
+      internalID: 7595939765059920861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyfishTriV3_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1696
+        width: 255
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d24f37d3ebfda5040800000000000000
+      internalID: 4637264774499136557
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyfishTriV3_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 635
+        y: 1696
+        width: 260
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0c9bcb5645f79800800000000000000
+      internalID: 619233156323318799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyfishTriV3_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 1146
+        y: 1697
+        width: 263
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f2ce62316b8995b0800000000000000
+      internalID: -5361100631833656585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyfishTriV3_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 1659
+        y: 1698
+        width: 269
+        height: 265
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c56d5dd83e0bcb230800000000000000
+      internalID: 3655991488901666396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyfishTriV3_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 2173
+        y: 1698
+        width: 274
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bd1bbcd72363c3ea0800000000000000
+      internalID: -5891774622020685349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyfishTriV3_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 125
+        y: 1187
+        width: 280
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d4ee0e93b5a647b0800000000000000
+      internalID: -5240318925529488167
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyfishTriV3_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 634
+        y: 1188
+        width: 288
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f13f471fb1e2624a0800000000000000
+      internalID: -6618551904824397025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyfishTriV3_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 1191
+        width: 255
+        height: 267
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f1bb485d75d793c80800000000000000
+      internalID: -8342499018529260769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyfishTriV3_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 1665
+        y: 1195
+        width: 240
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f9b15af2855c920800000000000000
+      internalID: 3009908887623802780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyfishTriV3_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 2180
+        y: 1199
+        width: 229
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92fc66bf8dc6ef830800000000000000
+      internalID: 4106839589395025705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyfishTriV3_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 140
+        y: 687
+        width: 217
+        height: 229
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae12b2a4ef9768630800000000000000
+      internalID: 3928961858000331242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyfishTriV3_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 665
+        y: 687
+        width: 203
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b84d6c448f8ff1210800000000000000
+      internalID: 1306036162150192267
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyfishTriV3_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 688
+        width: 200
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6abf74c2c5a0ceb0800000000000000
+      internalID: -4701575755035854228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyfishTriV3_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 1692
+        y: 683
+        width: 200
+        height: 217
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8fcb0b1a8f7c52660800000000000000
+      internalID: 7360509036685475064
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyfishTriV3_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 2202
+        y: 678
+        width: 203
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bbc6504b143bdb200800000000000000
+      internalID: 197511053448670395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyfishTriV3_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 152
+        y: 161
+        width: 207
+        height: 218
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46cb6d8d736af6ea0800000000000000
+      internalID: -5877296229903844252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyfishTriV3_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 663
+        y: 156
+        width: 209
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 776dda397a7b72650800000000000000
+      internalID: 6208132541718582903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyfishTriV3_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 1173
+        y: 151
+        width: 212
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720c744168bc86f70800000000000000
+      internalID: 9180811617121058855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: jellyfishTriV3_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 1683
+        y: 146
+        width: 216
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5254c56e3ed113f0800000000000000
+      internalID: -931719288312278435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      jellyfishTriV3_Idle_0: -4125186490919840613
+      jellyfishTriV3_Idle_1: -7813161022385560451
+      jellyfishTriV3_Idle_10: -5240318925529488167
+      jellyfishTriV3_Idle_11: -6618551904824397025
+      jellyfishTriV3_Idle_12: -8342499018529260769
+      jellyfishTriV3_Idle_13: 3009908887623802780
+      jellyfishTriV3_Idle_14: 4106839589395025705
+      jellyfishTriV3_Idle_15: 3928961858000331242
+      jellyfishTriV3_Idle_16: 1306036162150192267
+      jellyfishTriV3_Idle_17: -4701575755035854228
+      jellyfishTriV3_Idle_18: 7360509036685475064
+      jellyfishTriV3_Idle_19: 197511053448670395
+      jellyfishTriV3_Idle_2: -1023433792991788358
+      jellyfishTriV3_Idle_20: -5877296229903844252
+      jellyfishTriV3_Idle_21: 6208132541718582903
+      jellyfishTriV3_Idle_22: 9180811617121058855
+      jellyfishTriV3_Idle_23: -931719288312278435
+      jellyfishTriV3_Idle_3: 4527984838736318047
+      jellyfishTriV3_Idle_4: 7595939765059920861
+      jellyfishTriV3_Idle_5: 4637264774499136557
+      jellyfishTriV3_Idle_6: 619233156323318799
+      jellyfishTriV3_Idle_7: -5361100631833656585
+      jellyfishTriV3_Idle_8: 3655991488901666396
+      jellyfishTriV3_Idle_9: -5891774622020685349
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

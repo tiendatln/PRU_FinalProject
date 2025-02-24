@@ -1,0 +1,1469 @@
+fileFormatVersion: 2
+guid: a8e1136319ceafe40893856d0b28d512
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -1180910583522139706
+    second: Fish_DeathV3_0
+  - first:
+      213: -916620344560730330
+    second: Fish_DeathV3_1
+  - first:
+      213: 5349069380459765162
+    second: Fish_DeathV3_2
+  - first:
+      213: -1850258394355303159
+    second: Fish_DeathV3_3
+  - first:
+      213: -2942908971106449111
+    second: Fish_DeathV3_4
+  - first:
+      213: 898087465793934560
+    second: Fish_DeathV3_5
+  - first:
+      213: -4135966819256929186
+    second: Fish_DeathV3_6
+  - first:
+      213: 9210114677680465481
+    second: Fish_DeathV3_7
+  - first:
+      213: 632028772668769982
+    second: Fish_DeathV3_8
+  - first:
+      213: -7237482728781532009
+    second: Fish_DeathV3_9
+  - first:
+      213: 5098367952139188101
+    second: Fish_DeathV3_10
+  - first:
+      213: 3641877033372456286
+    second: Fish_DeathV3_11
+  - first:
+      213: -2719247451747598194
+    second: Fish_DeathV3_12
+  - first:
+      213: -1979262633466985290
+    second: Fish_DeathV3_13
+  - first:
+      213: -9066692337673643311
+    second: Fish_DeathV3_14
+  - first:
+      213: -2514124508335308462
+    second: Fish_DeathV3_15
+  - first:
+      213: -1956587603027148599
+    second: Fish_DeathV3_16
+  - first:
+      213: -5490708826768882108
+    second: Fish_DeathV3_17
+  - first:
+      213: 6451970171197000556
+    second: Fish_DeathV3_18
+  - first:
+      213: -8800911091643006482
+    second: Fish_DeathV3_19
+  - first:
+      213: 275023434527985261
+    second: Fish_DeathV3_20
+  - first:
+      213: 8239142645849115636
+    second: Fish_DeathV3_21
+  - first:
+      213: 769397419598757750
+    second: Fish_DeathV3_22
+  - first:
+      213: -5608709146735832183
+    second: Fish_DeathV3_23
+  - first:
+      213: 1436068416780231512
+    second: Fish_DeathV3_24
+  - first:
+      213: -5457303262429186999
+    second: Fish_DeathV3_25
+  - first:
+      213: -4707889467399684048
+    second: Fish_DeathV3_26
+  - first:
+      213: 325771130623000744
+    second: Fish_DeathV3_27
+  - first:
+      213: -4224993530097493355
+    second: Fish_DeathV3_28
+  - first:
+      213: 4062722215951448533
+    second: Fish_DeathV3_29
+  - first:
+      213: -3423107935851614673
+    second: Fish_DeathV3_30
+  - first:
+      213: 8303499412120960320
+    second: Fish_DeathV3_31
+  - first:
+      213: 2068638217625327327
+    second: Fish_DeathV3_32
+  - first:
+      213: 2086159416371168542
+    second: Fish_DeathV3_33
+  - first:
+      213: 1367925528187026145
+    second: Fish_DeathV3_34
+  - first:
+      213: 500343067293924623
+    second: Fish_DeathV3_35
+  - first:
+      213: 2998197991243999866
+    second: Fish_DeathV3_36
+  - first:
+      213: 2559385547532494727
+    second: Fish_DeathV3_37
+  - first:
+      213: -5558597331254601200
+    second: Fish_DeathV3_38
+  - first:
+      213: -4905730910509401117
+    second: Fish_DeathV3_39
+  - first:
+      213: 133375822937644306
+    second: Fish_DeathV3_40
+  - first:
+      213: 4874500236052760459
+    second: Fish_DeathV3_41
+  - first:
+      213: 4797165309834057001
+    second: Fish_DeathV3_42
+  - first:
+      213: -6355414432797716951
+    second: Fish_DeathV3_43
+  - first:
+      213: 181757039631971692
+    second: Fish_DeathV3_44
+  - first:
+      213: 939454034633342707
+    second: Fish_DeathV3_45
+  - first:
+      213: 388039705196652339
+    second: Fish_DeathV3_46
+  - first:
+      213: -1114247149458980989
+    second: Fish_DeathV3_47
+  - first:
+      213: 171440040219843425
+    second: Fish_DeathV3_48
+  - first:
+      213: -412808727683077908
+    second: Fish_DeathV3_49
+  - first:
+      213: -2521248228435387329
+    second: Fish_DeathV3_50
+  - first:
+      213: -8592533062379250427
+    second: Fish_DeathV3_51
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fish_DeathV3_0
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 3124
+        width: 334
+        height: 280
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6c1e9adb4109c9fe0800000000000000
+      internalID: -1180910583522139706
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_1
+      rect:
+        serializedVersion: 2
+        x: 566
+        y: 3127
+        width: 342
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62fbf8037a28743f0800000000000000
+      internalID: -916620344560730330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_2
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 3129
+        width: 342
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aad193dc246bb3a40800000000000000
+      internalID: 5349069380459765162
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_3
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 3127
+        width: 351
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d74cd1bcf8256e0800000000000000
+      internalID: -1850258394355303159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_4
+      rect:
+        serializedVersion: 2
+        x: 2093
+        y: 3126
+        width: 353
+        height: 260
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 929c3ea02efa827d0800000000000000
+      internalID: -2942908971106449111
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_5
+      rect:
+        serializedVersion: 2
+        x: 2605
+        y: 3128
+        width: 353
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e4d0e7bac5a67c00800000000000000
+      internalID: 898087465793934560
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_6
+      rect:
+        serializedVersion: 2
+        x: 3117
+        y: 3128
+        width: 356
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e54736757181a96c0800000000000000
+      internalID: -4135966819256929186
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_7
+      rect:
+        serializedVersion: 2
+        x: 46
+        y: 2614
+        width: 356
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94661c78086e0df70800000000000000
+      internalID: 9210114677680465481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_8
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 2606
+        width: 356
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb68fb2f1da65c800800000000000000
+      internalID: 632028772668769982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_9
+      rect:
+        serializedVersion: 2
+        x: 1071
+        y: 2607
+        width: 360
+        height: 270
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794b3f2ddcb4f8b90800000000000000
+      internalID: -7237482728781532009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_10
+      rect:
+        serializedVersion: 2
+        x: 1583
+        y: 2608
+        width: 360
+        height: 277
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587fd71e3aa01c640800000000000000
+      internalID: 5098367952139188101
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_11
+      rect:
+        serializedVersion: 2
+        x: 2095
+        y: 2610
+        width: 360
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5591d9cddb8a8230800000000000000
+      internalID: 3641877033372456286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_12
+      rect:
+        serializedVersion: 2
+        x: 2607
+        y: 2610
+        width: 366
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e80c23e89da434ad0800000000000000
+      internalID: -2719247451747598194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_13
+      rect:
+        serializedVersion: 2
+        x: 3125
+        y: 2608
+        width: 360
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b40ff61f1f3884e0800000000000000
+      internalID: -1979262633466985290
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_14
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 2097
+        width: 359
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dad4353b53ac2280800000000000000
+      internalID: -9066692337673643311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_15
+      rect:
+        serializedVersion: 2
+        x: 567
+        y: 2098
+        width: 357
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 251029f74190c1dd0800000000000000
+      internalID: -2514124508335308462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_16
+      rect:
+        serializedVersion: 2
+        x: 1079
+        y: 2101
+        width: 358
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c042a501fdc8d4e0800000000000000
+      internalID: -1956587603027148599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_17
+      rect:
+        serializedVersion: 2
+        x: 1591
+        y: 2098
+        width: 357
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446c65fb9651dc3b0800000000000000
+      internalID: -5490708826768882108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_18
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 2098
+        width: 358
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6b0d9bcfa00a8950800000000000000
+      internalID: 6451970171197000556
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_19
+      rect:
+        serializedVersion: 2
+        x: 2615
+        y: 2095
+        width: 358
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee1c2dacdf1ecd580800000000000000
+      internalID: -8800911091643006482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_20
+      rect:
+        serializedVersion: 2
+        x: 3126
+        y: 2096
+        width: 357
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6ec2f74b5411d300800000000000000
+      internalID: 275023434527985261
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_21
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 1587
+        width: 357
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4fbcb936590575270800000000000000
+      internalID: 8239142645849115636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_22
+      rect:
+        serializedVersion: 2
+        x: 561
+        y: 1588
+        width: 364
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67f394e60e27daa00800000000000000
+      internalID: 769397419598757750
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_23
+      rect:
+        serializedVersion: 2
+        x: 1075
+        y: 1586
+        width: 363
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983935c4fbcd922b0800000000000000
+      internalID: -5608709146735832183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_24
+      rect:
+        serializedVersion: 2
+        x: 1588
+        y: 1586
+        width: 368
+        height: 240
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 853e75fcd90fde310800000000000000
+      internalID: 1436068416780231512
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_25
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 1584
+        width: 370
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 944f35bc893c344b0800000000000000
+      internalID: -5457303262429186999
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_26
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 1584
+        width: 371
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 030c6dd09773aaeb0800000000000000
+      internalID: -4707889467399684048
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_27
+      rect:
+        serializedVersion: 2
+        x: 3121
+        y: 1587
+        width: 372
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a08cd60e1f558400800000000000000
+      internalID: 325771130623000744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_28
+      rect:
+        serializedVersion: 2
+        x: 48
+        y: 1077
+        width: 372
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 59a1734f4cecd55c0800000000000000
+      internalID: -4224993530097493355
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_29
+      rect:
+        serializedVersion: 2
+        x: 559
+        y: 1076
+        width: 372
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d9bfd68450b16830800000000000000
+      internalID: 4062722215951448533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_30
+      rect:
+        serializedVersion: 2
+        x: 1073
+        y: 1078
+        width: 368
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2e6ebff77dae70d0800000000000000
+      internalID: -3423107935851614673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_31
+      rect:
+        serializedVersion: 2
+        x: 1584
+        y: 1077
+        width: 366
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d7224b8b4fb3370800000000000000
+      internalID: 8303499412120960320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_32
+      rect:
+        serializedVersion: 2
+        x: 2098
+        y: 1081
+        width: 364
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd6da52bf7745bc10800000000000000
+      internalID: 2068638217625327327
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_33
+      rect:
+        serializedVersion: 2
+        x: 2610
+        y: 1073
+        width: 358
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e15c3adafe683fc10800000000000000
+      internalID: 2086159416371168542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_34
+      rect:
+        serializedVersion: 2
+        x: 3123
+        y: 1078
+        width: 355
+        height: 236
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1eab6c23509dbf210800000000000000
+      internalID: 1367925528187026145
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_35
+      rect:
+        serializedVersion: 2
+        x: 53
+        y: 569
+        width: 353
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0d32e76e5391f600800000000000000
+      internalID: 500343067293924623
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_36
+      rect:
+        serializedVersion: 2
+        x: 568
+        y: 565
+        width: 351
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a636a103dbb9920800000000000000
+      internalID: 2998197991243999866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_37
+      rect:
+        serializedVersion: 2
+        x: 1080
+        y: 561
+        width: 351
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 78761f36893c48320800000000000000
+      internalID: 2559385547532494727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_38
+      rect:
+        serializedVersion: 2
+        x: 1598
+        y: 565
+        width: 340
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01a922d8d25ebd2b0800000000000000
+      internalID: -5558597331254601200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_39
+      rect:
+        serializedVersion: 2
+        x: 2110
+        y: 564
+        width: 338
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ebfe638ab75bebb0800000000000000
+      internalID: -4905730910509401117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_40
+      rect:
+        serializedVersion: 2
+        x: 2622
+        y: 566
+        width: 339
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21dd2d3ba98d9d100800000000000000
+      internalID: 133375822937644306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_41
+      rect:
+        serializedVersion: 2
+        x: 3132
+        y: 567
+        width: 341
+        height: 231
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b878b737324b5a340800000000000000
+      internalID: 4874500236052760459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_42
+      rect:
+        serializedVersion: 2
+        x: 60
+        y: 54
+        width: 340
+        height: 232
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9255c7dce64f29240800000000000000
+      internalID: 4797165309834057001
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_43
+      rect:
+        serializedVersion: 2
+        x: 576
+        y: 60
+        width: 332
+        height: 220
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 92e83bcee380dc7a0800000000000000
+      internalID: -6355414432797716951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_44
+      rect:
+        serializedVersion: 2
+        x: 1088
+        y: 61
+        width: 334
+        height: 219
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c65b0b6801bb58200800000000000000
+      internalID: 181757039631971692
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_45
+      rect:
+        serializedVersion: 2
+        x: 1602
+        y: 65
+        width: 329
+        height: 212
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3feb021977c990d00800000000000000
+      internalID: 939454034633342707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_46
+      rect:
+        serializedVersion: 2
+        x: 2121
+        y: 70
+        width: 317
+        height: 200
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3376ef25e08926500800000000000000
+      internalID: 388039705196652339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_47
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 262
+        width: 7
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38f71800f166980f0800000000000000
+      internalID: -1114247149458980989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_48
+      rect:
+        serializedVersion: 2
+        x: 2619
+        y: 78
+        width: 327
+        height: 182
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16b1599eec3116200800000000000000
+      internalID: 171440040219843425
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_49
+      rect:
+        serializedVersion: 2
+        x: 2941
+        y: 168
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce8e44a36a8654af0800000000000000
+      internalID: -412808727683077908
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_50
+      rect:
+        serializedVersion: 2
+        x: 2951
+        y: 165
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c9689281ab20dd0800000000000000
+      internalID: -2521248228435387329
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_DeathV3_51
+      rect:
+        serializedVersion: 2
+        x: 2830
+        y: 74
+        width: 8
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dd51874b031c880800000000000000
+      internalID: -8592533062379250427
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fish_DeathV3_0: -1180910583522139706
+      Fish_DeathV3_1: -916620344560730330
+      Fish_DeathV3_10: 5098367952139188101
+      Fish_DeathV3_11: 3641877033372456286
+      Fish_DeathV3_12: -2719247451747598194
+      Fish_DeathV3_13: -1979262633466985290
+      Fish_DeathV3_14: -9066692337673643311
+      Fish_DeathV3_15: -2514124508335308462
+      Fish_DeathV3_16: -1956587603027148599
+      Fish_DeathV3_17: -5490708826768882108
+      Fish_DeathV3_18: 6451970171197000556
+      Fish_DeathV3_19: -8800911091643006482
+      Fish_DeathV3_2: 5349069380459765162
+      Fish_DeathV3_20: 275023434527985261
+      Fish_DeathV3_21: 8239142645849115636
+      Fish_DeathV3_22: 769397419598757750
+      Fish_DeathV3_23: -5608709146735832183
+      Fish_DeathV3_24: 1436068416780231512
+      Fish_DeathV3_25: -5457303262429186999
+      Fish_DeathV3_26: -4707889467399684048
+      Fish_DeathV3_27: 325771130623000744
+      Fish_DeathV3_28: -4224993530097493355
+      Fish_DeathV3_29: 4062722215951448533
+      Fish_DeathV3_3: -1850258394355303159
+      Fish_DeathV3_30: -3423107935851614673
+      Fish_DeathV3_31: 8303499412120960320
+      Fish_DeathV3_32: 2068638217625327327
+      Fish_DeathV3_33: 2086159416371168542
+      Fish_DeathV3_34: 1367925528187026145
+      Fish_DeathV3_35: 500343067293924623
+      Fish_DeathV3_36: 2998197991243999866
+      Fish_DeathV3_37: 2559385547532494727
+      Fish_DeathV3_38: -5558597331254601200
+      Fish_DeathV3_39: -4905730910509401117
+      Fish_DeathV3_4: -2942908971106449111
+      Fish_DeathV3_40: 133375822937644306
+      Fish_DeathV3_41: 4874500236052760459
+      Fish_DeathV3_42: 4797165309834057001
+      Fish_DeathV3_43: -6355414432797716951
+      Fish_DeathV3_44: 181757039631971692
+      Fish_DeathV3_45: 939454034633342707
+      Fish_DeathV3_46: 388039705196652339
+      Fish_DeathV3_47: -1114247149458980989
+      Fish_DeathV3_48: 171440040219843425
+      Fish_DeathV3_49: -412808727683077908
+      Fish_DeathV3_5: 898087465793934560
+      Fish_DeathV3_50: -2521248228435387329
+      Fish_DeathV3_51: -8592533062379250427
+      Fish_DeathV3_6: -4135966819256929186
+      Fish_DeathV3_7: 9210114677680465481
+      Fish_DeathV3_8: 632028772668769982
+      Fish_DeathV3_9: -7237482728781532009
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,1885 @@
+fileFormatVersion: 2
+guid: b1c0753ae2f49f04b9fa2971fcaabbb9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7478972464442155361
+    second: BlueTread_0
+  - first:
+      213: -7116703579769033385
+    second: BlueTread_1
+  - first:
+      213: 4060070540758171972
+    second: BlueTread_2
+  - first:
+      213: -2333439263608099373
+    second: BlueTread_3
+  - first:
+      213: -7185830787739373719
+    second: BlueTread_4
+  - first:
+      213: 1110517261769007523
+    second: BlueTread_5
+  - first:
+      213: 3821710098540407296
+    second: BlueTread_6
+  - first:
+      213: 6143685460290598525
+    second: BlueTread_7
+  - first:
+      213: -2197855576949015853
+    second: BlueTread_8
+  - first:
+      213: -5741519410150574198
+    second: BlueTread_9
+  - first:
+      213: -1666100422178387828
+    second: BlueTread_10
+  - first:
+      213: 2776295779683915103
+    second: BlueTread_11
+  - first:
+      213: -5014604030615179028
+    second: BlueTread_12
+  - first:
+      213: -7987804825162847281
+    second: BlueTread_13
+  - first:
+      213: 3875797502614380439
+    second: BlueTread_14
+  - first:
+      213: -7982918406953930652
+    second: BlueTread_15
+  - first:
+      213: -8040151232010715675
+    second: BlueTread_16
+  - first:
+      213: -6732104026204744171
+    second: BlueTread_17
+  - first:
+      213: -6474864146050006120
+    second: BlueTread_18
+  - first:
+      213: -3316303112621915690
+    second: BlueTread_19
+  - first:
+      213: 4532251275770251509
+    second: BlueTread_20
+  - first:
+      213: -2283383138208633007
+    second: BlueTread_21
+  - first:
+      213: 2495250818169461878
+    second: BlueTread_22
+  - first:
+      213: -5123026540691240143
+    second: BlueTread_23
+  - first:
+      213: 7372173085089201558
+    second: BlueTread_24
+  - first:
+      213: -4108594745206241938
+    second: BlueTread_25
+  - first:
+      213: -8270192445301579188
+    second: BlueTread_26
+  - first:
+      213: 6494391425642227636
+    second: BlueTread_27
+  - first:
+      213: -5387014420638565577
+    second: BlueTread_28
+  - first:
+      213: -5109225977341672959
+    second: BlueTread_29
+  - first:
+      213: -1346121117328010636
+    second: BlueTread_30
+  - first:
+      213: 2588589056686178565
+    second: BlueTread_31
+  - first:
+      213: 8928151915502944830
+    second: BlueTread_32
+  - first:
+      213: -3666592032782374319
+    second: BlueTread_33
+  - first:
+      213: 4087266656287223460
+    second: BlueTread_34
+  - first:
+      213: 2970301368699388842
+    second: BlueTread_35
+  - first:
+      213: 6499622955814450893
+    second: BlueTread_36
+  - first:
+      213: -1311022042915146581
+    second: BlueTread_37
+  - first:
+      213: 8315442495059838023
+    second: BlueTread_38
+  - first:
+      213: 719659481968861843
+    second: BlueTread_39
+  - first:
+      213: -3273075064372735482
+    second: BlueTread_40
+  - first:
+      213: 1652525485829666438
+    second: BlueTread_41
+  - first:
+      213: 6949568984301078713
+    second: BlueTread_42
+  - first:
+      213: -7935991531849612230
+    second: BlueTread_43
+  - first:
+      213: -2843745139886132044
+    second: BlueTread_44
+  - first:
+      213: -8709442335993870116
+    second: BlueTread_45
+  - first:
+      213: -2466077663564863241
+    second: BlueTread_46
+  - first:
+      213: 8144200659578664219
+    second: BlueTread_47
+  - first:
+      213: -267654258071156455
+    second: BlueTread_48
+  - first:
+      213: -7924745274537926854
+    second: BlueTread_49
+  - first:
+      213: 4984862116944863856
+    second: BlueTread_50
+  - first:
+      213: -2438273001155837031
+    second: BlueTread_51
+  - first:
+      213: 6752688451896394484
+    second: BlueTread_52
+  - first:
+      213: -5399594173277007187
+    second: BlueTread_53
+  - first:
+      213: 6272087993392409559
+    second: BlueTread_54
+  - first:
+      213: -7080403957206138295
+    second: BlueTread_55
+  - first:
+      213: -8537687284344289946
+    second: BlueTread_56
+  - first:
+      213: 2323142634734613744
+    second: BlueTread_57
+  - first:
+      213: 66157812091262803
+    second: BlueTread_58
+  - first:
+      213: -6415540639357310620
+    second: BlueTread_59
+  - first:
+      213: -1493812417079671177
+    second: BlueTread_60
+  - first:
+      213: 8648133727646346774
+    second: BlueTread_61
+  - first:
+      213: -3483224252536917384
+    second: BlueTread_62
+  - first:
+      213: 1441277104857040192
+    second: BlueTread_63
+  - first:
+      213: -543320253856648682
+    second: BlueTread_64
+  - first:
+      213: 3892148460721355857
+    second: BlueTread_65
+  - first:
+      213: 3008745900415804241
+    second: BlueTread_66
+  - first:
+      213: 5775488893288830496
+    second: BlueTread_67
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlueTread_0
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 4135
+        width: 161
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 161a004c4d5aac760800000000000000
+      internalID: 7478972464442155361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_1
+      rect:
+        serializedVersion: 2
+        x: 1456
+        y: 4162
+        width: 159
+        height: 311
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75dad14dcc36c3d90800000000000000
+      internalID: -7116703579769033385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_2
+      rect:
+        serializedVersion: 2
+        x: 2478
+        y: 4154
+        width: 164
+        height: 423
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4414be845a4485830800000000000000
+      internalID: 4060070540758171972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_3
+      rect:
+        serializedVersion: 2
+        x: 3494
+        y: 4136
+        width: 174
+        height: 545
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dda0b35a55fd9fd0800000000000000
+      internalID: -2333439263608099373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_4
+      rect:
+        serializedVersion: 2
+        x: 4517
+        y: 4143
+        width: 177
+        height: 641
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96faab088fcc64c90800000000000000
+      internalID: -7185830787739373719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_5
+      rect:
+        serializedVersion: 2
+        x: 5545
+        y: 4154
+        width: 174
+        height: 733
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a16ea8d099596f00800000000000000
+      internalID: 1110517261769007523
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_6
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 3119
+        width: 175
+        height: 846
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00a260a1611790530800000000000000
+      internalID: 3821710098540407296
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_7
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 3802
+        width: 171
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d767a502061c24550800000000000000
+      internalID: 6143685460290598525
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_8
+      rect:
+        serializedVersion: 2
+        x: 2477
+        y: 3913
+        width: 158
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3dab75c5ff5af71e0800000000000000
+      internalID: -2197855576949015853
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_9
+      rect:
+        serializedVersion: 2
+        x: 2550
+        y: 3900
+        width: 6
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a87f6fe24860250b0800000000000000
+      internalID: -5741519410150574198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_10
+      rect:
+        serializedVersion: 2
+        x: 3512
+        y: 3834
+        width: 109
+        height: 263
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c88cdef4e72d0e8e0800000000000000
+      internalID: -1666100422178387828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_11
+      rect:
+        serializedVersion: 2
+        x: 4570
+        y: 3765
+        width: 100
+        height: 201
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f55d97b5d42678620800000000000000
+      internalID: 2776295779683915103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_12
+      rect:
+        serializedVersion: 2
+        x: 5537
+        y: 3118
+        width: 189
+        height: 814
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ce0b0f1e33c886ab0800000000000000
+      internalID: -5014604030615179028
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_13
+      rect:
+        serializedVersion: 2
+        x: 2534
+        y: 3776
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcb640d25dd952190800000000000000
+      internalID: -7987804825162847281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_14
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 3763
+        width: 35
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f1da43b4999c530800000000000000
+      internalID: 3875797502614380439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_15
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 3788
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4607592110af63190800000000000000
+      internalID: -7982918406953930652
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_16
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 3782
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5edf4939d05ab6090800000000000000
+      internalID: -8040151232010715675
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_17
+      rect:
+        serializedVersion: 2
+        x: 3542
+        y: 3697
+        width: 108
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 516d61f6e03c292a0800000000000000
+      internalID: -6732104026204744171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_18
+      rect:
+        serializedVersion: 2
+        x: 1483
+        y: 3562
+        width: 126
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 893c6cd4d59a426a0800000000000000
+      internalID: -6474864146050006120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_19
+      rect:
+        serializedVersion: 2
+        x: 2514
+        y: 3630
+        width: 116
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d106acb3ef1af1d0800000000000000
+      internalID: -3316303112621915690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_20
+      rect:
+        serializedVersion: 2
+        x: 3493
+        y: 3127
+        width: 170
+        height: 520
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f8c81db58ac5ee30800000000000000
+      internalID: 4532251275770251509
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_21
+      rect:
+        serializedVersion: 2
+        x: 4515
+        y: 3137
+        width: 181
+        height: 604
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15f25f8322bcf40e0800000000000000
+      internalID: -2283383138208633007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_22
+      rect:
+        serializedVersion: 2
+        x: 1451
+        y: 3121
+        width: 160
+        height: 421
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67c5e721669e0a220800000000000000
+      internalID: 2495250818169461878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_23
+      rect:
+        serializedVersion: 2
+        x: 2470
+        y: 3119
+        width: 168
+        height: 467
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13b4333118a57e8b0800000000000000
+      internalID: -5123026540691240143
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_24
+      rect:
+        serializedVersion: 2
+        x: 1440
+        y: 2101
+        width: 188
+        height: 925
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69dff678c583f4660800000000000000
+      internalID: 7372173085089201558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_25
+      rect:
+        serializedVersion: 2
+        x: 2464
+        y: 2155
+        width: 189
+        height: 918
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6502f5f8d65bf6c0800000000000000
+      internalID: -4108594745206241938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_26
+      rect:
+        serializedVersion: 2
+        x: 3489
+        y: 2181
+        width: 188
+        height: 850
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c422ea1d9cf5a3d80800000000000000
+      internalID: -8270192445301579188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_27
+      rect:
+        serializedVersion: 2
+        x: 4536
+        y: 2882
+        width: 136
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b76fb5c796b02a50800000000000000
+      internalID: 6494391425642227636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_28
+      rect:
+        serializedVersion: 2
+        x: 5567
+        y: 2966
+        width: 100
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73b7ee11dea7d35b0800000000000000
+      internalID: -5387014420638565577
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_29
+      rect:
+        serializedVersion: 2
+        x: 416
+        y: 2095
+        width: 189
+        height: 869
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1020a5f1b026819b0800000000000000
+      internalID: -5109225977341672959
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_30
+      rect:
+        serializedVersion: 2
+        x: 4515
+        y: 2399
+        width: 186
+        height: 462
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4721301d9fd915de0800000000000000
+      internalID: -1346121117328010636
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_31
+      rect:
+        serializedVersion: 2
+        x: 5541
+        y: 2453
+        width: 184
+        height: 495
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5014e3938048ce320800000000000000
+      internalID: 2588589056686178565
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_32
+      rect:
+        serializedVersion: 2
+        x: 4538
+        y: 2197
+        width: 150
+        height: 191
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e32c6402dda27eb70800000000000000
+      internalID: 8928151915502944830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_33
+      rect:
+        serializedVersion: 2
+        x: 5565
+        y: 2213
+        width: 144
+        height: 199
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15aaabdf8f5ad1dc0800000000000000
+      internalID: -3666592032782374319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_34
+      rect:
+        serializedVersion: 2
+        x: 1450
+        y: 1854
+        width: 167
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ae6c4e5e53e8b830800000000000000
+      internalID: 4087266656287223460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_35
+      rect:
+        serializedVersion: 2
+        x: 2486
+        y: 1930
+        width: 135
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa30f258b51a83920800000000000000
+      internalID: 2970301368699388842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_36
+      rect:
+        serializedVersion: 2
+        x: 3580
+        y: 2013
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc67b4f44ac433a50800000000000000
+      internalID: 6499622955814450893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_37
+      rect:
+        serializedVersion: 2
+        x: 4538
+        y: 1855
+        width: 134
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba4f557e5605ecde0800000000000000
+      internalID: -1311022042915146581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_38
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1474
+        width: 179
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 744ca3464e2666370800000000000000
+      internalID: 8315442495059838023
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_39
+      rect:
+        serializedVersion: 2
+        x: 1459
+        y: 1520
+        width: 148
+        height: 315
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 392eef56c7ebcf900800000000000000
+      internalID: 719659481968861843
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_40
+      rect:
+        serializedVersion: 2
+        x: 2484
+        y: 1740
+        width: 146
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 602dfd80293b392d0800000000000000
+      internalID: -3273075064372735482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_41
+      rect:
+        serializedVersion: 2
+        x: 3510
+        y: 1817
+        width: 142
+        height: 184
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68638258c23fee610800000000000000
+      internalID: 1652525485829666438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_42
+      rect:
+        serializedVersion: 2
+        x: 5572
+        y: 1556
+        width: 82
+        height: 357
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b8865bbb24d17060800000000000000
+      internalID: 6949568984301078713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_43
+      rect:
+        serializedVersion: 2
+        x: 2488
+        y: 1550
+        width: 108
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a34889b9fb1bdd190800000000000000
+      internalID: -7935991531849612230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_44
+      rect:
+        serializedVersion: 2
+        x: 3515
+        y: 1573
+        width: 101
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b4f751bcdcf888d0800000000000000
+      internalID: -2843745139886132044
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_45
+      rect:
+        serializedVersion: 2
+        x: 4543
+        y: 1596
+        width: 92
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cd8465b0758d12780800000000000000
+      internalID: -8709442335993870116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_46
+      rect:
+        serializedVersion: 2
+        x: 3558
+        y: 1354
+        width: 87
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f8e0ba4e6bb6cdd0800000000000000
+      internalID: -2466077663564863241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_47
+      rect:
+        serializedVersion: 2
+        x: 4590
+        y: 1380
+        width: 74
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1530bd9953060170800000000000000
+      internalID: 8144200659578664219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_48
+      rect:
+        serializedVersion: 2
+        x: 5636
+        y: 1481
+        width: 6
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9194c01ded9194cf0800000000000000
+      internalID: -267654258071156455
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_49
+      rect:
+        serializedVersion: 2
+        x: 449
+        y: 1206
+        width: 136
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a3f16bfe826a50290800000000000000
+      internalID: -7924745274537926854
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_50
+      rect:
+        serializedVersion: 2
+        x: 1476
+        y: 1224
+        width: 128
+        height: 221
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 072ecc63fa9cd2540800000000000000
+      internalID: 4984862116944863856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_51
+      rect:
+        serializedVersion: 2
+        x: 2527
+        y: 1328
+        width: 98
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9934eacbf93892ed0800000000000000
+      internalID: -2438273001155837031
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_52
+      rect:
+        serializedVersion: 2
+        x: 5621
+        y: 1406
+        width: 61
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f2ca26ae5e56bd50800000000000000
+      internalID: 6752688451896394484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_53
+      rect:
+        serializedVersion: 2
+        x: 457
+        y: 735
+        width: 70
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da21e8a25b9c015b0800000000000000
+      internalID: -5399594173277007187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_54
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 411
+        width: 46
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7dba52e8cceea0750800000000000000
+      internalID: 6272087993392409559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_55
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 484
+        width: 11
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94245705d1a5dbd90800000000000000
+      internalID: -7080403957206138295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_56
+      rect:
+        serializedVersion: 2
+        x: 1489
+        y: 774
+        width: 54
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6650a4546aa048980800000000000000
+      internalID: -8537687284344289946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_57
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 299
+        width: 52
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4fbe1fae57d3020800000000000000
+      internalID: 2323142634734613744
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_58
+      rect:
+        serializedVersion: 2
+        x: 2505
+        y: 1245
+        width: 92
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35711d8fd2a0be000800000000000000
+      internalID: 66157812091262803
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_59
+      rect:
+        serializedVersion: 2
+        x: 2526
+        y: 809
+        width: 32
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 469660d87cb67f6a0800000000000000
+      internalID: -6415540639357310620
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_60
+      rect:
+        serializedVersion: 2
+        x: 2535
+        y: 311
+        width: 48
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77606ee6589e44be0800000000000000
+      internalID: -1493812417079671177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_61
+      rect:
+        serializedVersion: 2
+        x: 3536
+        y: 1269
+        width: 69
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61e6f663ec7540870800000000000000
+      internalID: 8648133727646346774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_62
+      rect:
+        serializedVersion: 2
+        x: 3556
+        y: 849
+        width: 26
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 872f28a4ff919afc0800000000000000
+      internalID: -3483224252536917384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_63
+      rect:
+        serializedVersion: 2
+        x: 3560
+        y: 323
+        width: 47
+        height: 258
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04548e104e1700410800000000000000
+      internalID: 1441277104857040192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_64
+      rect:
+        serializedVersion: 2
+        x: 4569
+        y: 1287
+        width: 57
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 61279959b1db578f0800000000000000
+      internalID: -543320253856648682
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_65
+      rect:
+        serializedVersion: 2
+        x: 4579
+        y: 363
+        width: 51
+        height: 597
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c316e4760b30630800000000000000
+      internalID: 3892148460721355857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_66
+      rect:
+        serializedVersion: 2
+        x: 5606
+        y: 377
+        width: 48
+        height: 956
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15362b5947631c920800000000000000
+      internalID: 3008745900415804241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueTread_67
+      rect:
+        serializedVersion: 2
+        x: 487
+        y: 287
+        width: 42
+        height: 35
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026d1b07c88a62050800000000000000
+      internalID: 5775488893288830496
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BlueTread_0: 7478972464442155361
+      BlueTread_1: -7116703579769033385
+      BlueTread_10: -1666100422178387828
+      BlueTread_11: 2776295779683915103
+      BlueTread_12: -5014604030615179028
+      BlueTread_13: -7987804825162847281
+      BlueTread_14: 3875797502614380439
+      BlueTread_15: -7982918406953930652
+      BlueTread_16: -8040151232010715675
+      BlueTread_17: -6732104026204744171
+      BlueTread_18: -6474864146050006120
+      BlueTread_19: -3316303112621915690
+      BlueTread_2: 4060070540758171972
+      BlueTread_20: 4532251275770251509
+      BlueTread_21: -2283383138208633007
+      BlueTread_22: 2495250818169461878
+      BlueTread_23: -5123026540691240143
+      BlueTread_24: 7372173085089201558
+      BlueTread_25: -4108594745206241938
+      BlueTread_26: -8270192445301579188
+      BlueTread_27: 6494391425642227636
+      BlueTread_28: -5387014420638565577
+      BlueTread_29: -5109225977341672959
+      BlueTread_3: -2333439263608099373
+      BlueTread_30: -1346121117328010636
+      BlueTread_31: 2588589056686178565
+      BlueTread_32: 8928151915502944830
+      BlueTread_33: -3666592032782374319
+      BlueTread_34: 4087266656287223460
+      BlueTread_35: 2970301368699388842
+      BlueTread_36: 6499622955814450893
+      BlueTread_37: -1311022042915146581
+      BlueTread_38: 8315442495059838023
+      BlueTread_39: 719659481968861843
+      BlueTread_4: -7185830787739373719
+      BlueTread_40: -3273075064372735482
+      BlueTread_41: 1652525485829666438
+      BlueTread_42: 6949568984301078713
+      BlueTread_43: -7935991531849612230
+      BlueTread_44: -2843745139886132044
+      BlueTread_45: -8709442335993870116
+      BlueTread_46: -2466077663564863241
+      BlueTread_47: 8144200659578664219
+      BlueTread_48: -267654258071156455
+      BlueTread_49: -7924745274537926854
+      BlueTread_5: 1110517261769007523
+      BlueTread_50: 4984862116944863856
+      BlueTread_51: -2438273001155837031
+      BlueTread_52: 6752688451896394484
+      BlueTread_53: -5399594173277007187
+      BlueTread_54: 6272087993392409559
+      BlueTread_55: -7080403957206138295
+      BlueTread_56: -8537687284344289946
+      BlueTread_57: 2323142634734613744
+      BlueTread_58: 66157812091262803
+      BlueTread_59: -6415540639357310620
+      BlueTread_6: 3821710098540407296
+      BlueTread_60: -1493812417079671177
+      BlueTread_61: 8648133727646346774
+      BlueTread_62: -3483224252536917384
+      BlueTread_63: 1441277104857040192
+      BlueTread_64: -543320253856648682
+      BlueTread_65: 3892148460721355857
+      BlueTread_66: 3008745900415804241
+      BlueTread_67: 5775488893288830496
+      BlueTread_7: 6143685460290598525
+      BlueTread_8: -2197855576949015853
+      BlueTread_9: -5741519410150574198
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

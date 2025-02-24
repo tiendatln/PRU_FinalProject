@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 782ac06dc309c2548915f14ebe83dc80
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4435146581308569152
+    second: Fish_Loop_0
+  - first:
+      213: -3902741435118907696
+    second: Fish_Loop_1
+  - first:
+      213: 20329235018732851
+    second: Fish_Loop_2
+  - first:
+      213: 1703347979531455372
+    second: Fish_Loop_3
+  - first:
+      213: -495247214115472754
+    second: Fish_Loop_4
+  - first:
+      213: -591967517166767731
+    second: Fish_Loop_5
+  - first:
+      213: 8351768701769961519
+    second: Fish_Loop_6
+  - first:
+      213: 2804410521001870862
+    second: Fish_Loop_7
+  - first:
+      213: -4810043358239983536
+    second: Fish_Loop_8
+  - first:
+      213: 57274902112550564
+    second: Fish_Loop_9
+  - first:
+      213: 6548440516790652135
+    second: Fish_Loop_10
+  - first:
+      213: -1404524494862117033
+    second: Fish_Loop_11
+  - first:
+      213: 4443554307725690245
+    second: Fish_Loop_12
+  - first:
+      213: -8873264701707006027
+    second: Fish_Loop_13
+  - first:
+      213: -6555352161106050897
+    second: Fish_Loop_14
+  - first:
+      213: 3585415736470784916
+    second: Fish_Loop_15
+  - first:
+      213: -3488413815298040825
+    second: Fish_Loop_16
+  - first:
+      213: -3544101933362538515
+    second: Fish_Loop_17
+  - first:
+      213: -945119630201773957
+    second: Fish_Loop_18
+  - first:
+      213: 1542076076604357077
+    second: Fish_Loop_19
+  - first:
+      213: 9213832173593354084
+    second: Fish_Loop_20
+  - first:
+      213: -6398005068022408985
+    second: Fish_Loop_21
+  - first:
+      213: 4158668434957534012
+    second: Fish_Loop_22
+  - first:
+      213: -9128799144097087658
+    second: Fish_Loop_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Fish_Loop_0
+      rect:
+        serializedVersion: 2
+        x: 127
+        y: 2227
+        width: 258
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0c98056cea13372c0800000000000000
+      internalID: -4435146581308569152
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_Loop_1
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 2225
+        width: 270
+        height: 141
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0de0a85a75da6d9c0800000000000000
+      internalID: -3902741435118907696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_Loop_2
+      rect:
+        serializedVersion: 2
+        x: 1109
+        y: 2234
+        width: 260
+        height: 155
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 335d8dfd459384000800000000000000
+      internalID: 20329235018732851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_Loop_3
+      rect:
+        serializedVersion: 2
+        x: 1629
+        y: 2232
+        width: 228
+        height: 183
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8b0ad076f183a710800000000000000
+      internalID: 1703347979531455372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_Loop_4
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 2229
+        width: 185
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e8a35ae58478029f0800000000000000
+      internalID: -495247214115472754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_Loop_5
+      rect:
+        serializedVersion: 2
+        x: 132
+        y: 1719
+        width: 142
+        height: 266
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d8174b4fda8e8c7f0800000000000000
+      internalID: -591967517166767731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_Loop_6
+      rect:
+        serializedVersion: 2
+        x: 641
+        y: 1726
+        width: 151
+        height: 283
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f20593b726177e370800000000000000
+      internalID: 8351768701769961519
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_Loop_7
+      rect:
+        serializedVersion: 2
+        x: 1165
+        y: 1756
+        width: 164
+        height: 252
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e064faca2844be620800000000000000
+      internalID: 2804410521001870862
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_Loop_8
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 1804
+        width: 224
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 058f0e5ec0b4f3db0800000000000000
+      internalID: -4810043358239983536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_Loop_9
+      rect:
+        serializedVersion: 2
+        x: 2176
+        y: 1814
+        width: 265
+        height: 162
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4aeb6f2583b7bc000800000000000000
+      internalID: 57274902112550564
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_Loop_10
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 1302
+        width: 267
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ec051474fbb0ea50800000000000000
+      internalID: 6548440516790652135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_Loop_11
+      rect:
+        serializedVersion: 2
+        x: 702
+        y: 1285
+        width: 227
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7579865d960228ce0800000000000000
+      internalID: -1404524494862117033
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_Loop_12
+      rect:
+        serializedVersion: 2
+        x: 1248
+        y: 1238
+        width: 180
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5858524991daaad30800000000000000
+      internalID: 4443554307725690245
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_Loop_13
+      rect:
+        serializedVersion: 2
+        x: 1770
+        y: 1197
+        width: 159
+        height: 251
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bfcdb034c4dbd480800000000000000
+      internalID: -8873264701707006027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_Loop_14
+      rect:
+        serializedVersion: 2
+        x: 2282
+        y: 1177
+        width: 162
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa04fa3f0f5b605a0800000000000000
+      internalID: -6555352161106050897
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_Loop_15
+      rect:
+        serializedVersion: 2
+        x: 211
+        y: 654
+        width: 171
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 49bcf60bd94f1c130800000000000000
+      internalID: 3585415736470784916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_Loop_16
+      rect:
+        serializedVersion: 2
+        x: 681
+        y: 667
+        width: 205
+        height: 175
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70c589d0e1aa69fc0800000000000000
+      internalID: -3488413815298040825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_Loop_17
+      rect:
+        serializedVersion: 2
+        x: 1155
+        y: 671
+        width: 217
+        height: 159
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de7962ea112d0dec0800000000000000
+      internalID: -3544101933362538515
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_Loop_18
+      rect:
+        serializedVersion: 2
+        x: 1668
+        y: 673
+        width: 227
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b70239b24b242e2f0800000000000000
+      internalID: -945119630201773957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_Loop_19
+      rect:
+        serializedVersion: 2
+        x: 2178
+        y: 676
+        width: 236
+        height: 157
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5d971aa750e866510800000000000000
+      internalID: 1542076076604357077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_Loop_20
+      rect:
+        serializedVersion: 2
+        x: 128
+        y: 170
+        width: 244
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 46fd81f7b8b1edf70800000000000000
+      internalID: 9213832173593354084
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_Loop_21
+      rect:
+        serializedVersion: 2
+        x: 639
+        y: 173
+        width: 250
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e81069e948b537a0800000000000000
+      internalID: -6398005068022408985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_Loop_22
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 176
+        width: 255
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c33064478ee86b930800000000000000
+      internalID: 4158668434957534012
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Fish_Loop_23
+      rect:
+        serializedVersion: 2
+        x: 1663
+        y: 179
+        width: 258
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65ff33e7b8dff4180800000000000000
+      internalID: -9128799144097087658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Fish_Loop_0: -4435146581308569152
+      Fish_Loop_1: -3902741435118907696
+      Fish_Loop_10: 6548440516790652135
+      Fish_Loop_11: -1404524494862117033
+      Fish_Loop_12: 4443554307725690245
+      Fish_Loop_13: -8873264701707006027
+      Fish_Loop_14: -6555352161106050897
+      Fish_Loop_15: 3585415736470784916
+      Fish_Loop_16: -3488413815298040825
+      Fish_Loop_17: -3544101933362538515
+      Fish_Loop_18: -945119630201773957
+      Fish_Loop_19: 1542076076604357077
+      Fish_Loop_2: 20329235018732851
+      Fish_Loop_20: 9213832173593354084
+      Fish_Loop_21: -6398005068022408985
+      Fish_Loop_22: 4158668434957534012
+      Fish_Loop_23: -9128799144097087658
+      Fish_Loop_3: 1703347979531455372
+      Fish_Loop_4: -495247214115472754
+      Fish_Loop_5: -591967517166767731
+      Fish_Loop_6: 8351768701769961519
+      Fish_Loop_7: 2804410521001870862
+      Fish_Loop_8: -4810043358239983536
+      Fish_Loop_9: 57274902112550564
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,5629 @@
+fileFormatVersion: 2
+guid: 4fa007e38cd737540b2cdb93e7beb848
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -5244512423202073018
+    second: CrossExplo_0
+  - first:
+      213: 8442210335117339139
+    second: CrossExplo_1
+  - first:
+      213: 9088067472900901567
+    second: CrossExplo_2
+  - first:
+      213: 4159240448095143514
+    second: CrossExplo_3
+  - first:
+      213: 3029922631965231591
+    second: CrossExplo_4
+  - first:
+      213: 3859588829815255387
+    second: CrossExplo_5
+  - first:
+      213: 6325666554204494739
+    second: CrossExplo_6
+  - first:
+      213: -8792008815664618480
+    second: CrossExplo_7
+  - first:
+      213: -4433974338312977142
+    second: CrossExplo_8
+  - first:
+      213: -2431152595049576098
+    second: CrossExplo_9
+  - first:
+      213: 9190033831850101449
+    second: CrossExplo_10
+  - first:
+      213: -7657727269111600681
+    second: CrossExplo_11
+  - first:
+      213: 1695887218799653117
+    second: CrossExplo_12
+  - first:
+      213: -7516119123372627985
+    second: CrossExplo_13
+  - first:
+      213: 6889970043179581886
+    second: CrossExplo_14
+  - first:
+      213: 1480097815413857222
+    second: CrossExplo_15
+  - first:
+      213: 1899096737828955326
+    second: CrossExplo_16
+  - first:
+      213: -7656035138414507683
+    second: CrossExplo_17
+  - first:
+      213: 862498141576785761
+    second: CrossExplo_18
+  - first:
+      213: 6160040144861182726
+    second: CrossExplo_19
+  - first:
+      213: 1108811787161143407
+    second: CrossExplo_20
+  - first:
+      213: -8483787862956599941
+    second: CrossExplo_21
+  - first:
+      213: 4144154717957081124
+    second: CrossExplo_22
+  - first:
+      213: 7585550174766714501
+    second: CrossExplo_23
+  - first:
+      213: 6605706695557612366
+    second: CrossExplo_24
+  - first:
+      213: 8394404763434268549
+    second: CrossExplo_25
+  - first:
+      213: 2307324483238598068
+    second: CrossExplo_26
+  - first:
+      213: 6958296719810256428
+    second: CrossExplo_27
+  - first:
+      213: 5420332866429680807
+    second: CrossExplo_28
+  - first:
+      213: -2120704749274101009
+    second: CrossExplo_29
+  - first:
+      213: -8275276678386126800
+    second: CrossExplo_30
+  - first:
+      213: -8991342266504674343
+    second: CrossExplo_31
+  - first:
+      213: -1292063892983834380
+    second: CrossExplo_32
+  - first:
+      213: -7363161679600828586
+    second: CrossExplo_33
+  - first:
+      213: 3046150075896219865
+    second: CrossExplo_34
+  - first:
+      213: 7066235154006182462
+    second: CrossExplo_35
+  - first:
+      213: -2472812448583958054
+    second: CrossExplo_36
+  - first:
+      213: 6353776283007778383
+    second: CrossExplo_37
+  - first:
+      213: 3538810993320849864
+    second: CrossExplo_38
+  - first:
+      213: 4574366718024660971
+    second: CrossExplo_39
+  - first:
+      213: 2215507336614650840
+    second: CrossExplo_40
+  - first:
+      213: 4094917507595213045
+    second: CrossExplo_41
+  - first:
+      213: 4273902186319823049
+    second: CrossExplo_42
+  - first:
+      213: 4539956349400254467
+    second: CrossExplo_43
+  - first:
+      213: -7746589208057231786
+    second: CrossExplo_44
+  - first:
+      213: -5966418036069606600
+    second: CrossExplo_45
+  - first:
+      213: -6530831348169686196
+    second: CrossExplo_46
+  - first:
+      213: -6280037921571928495
+    second: CrossExplo_47
+  - first:
+      213: 3823124321499803134
+    second: CrossExplo_48
+  - first:
+      213: 2147326911433384257
+    second: CrossExplo_49
+  - first:
+      213: -4829943224222583821
+    second: CrossExplo_50
+  - first:
+      213: -4749649529437302831
+    second: CrossExplo_51
+  - first:
+      213: 8498464558112114181
+    second: CrossExplo_52
+  - first:
+      213: 3249233448327890386
+    second: CrossExplo_53
+  - first:
+      213: -3595691665159635712
+    second: CrossExplo_54
+  - first:
+      213: -4601569112797795963
+    second: CrossExplo_55
+  - first:
+      213: 8523432798739592359
+    second: CrossExplo_56
+  - first:
+      213: 651678230836236354
+    second: CrossExplo_57
+  - first:
+      213: -1257366809819248295
+    second: CrossExplo_58
+  - first:
+      213: -8869733316449117150
+    second: CrossExplo_59
+  - first:
+      213: 7205013008609955459
+    second: CrossExplo_60
+  - first:
+      213: 8844296996195522116
+    second: CrossExplo_61
+  - first:
+      213: -4575853860645876395
+    second: CrossExplo_62
+  - first:
+      213: 4698125761101466369
+    second: CrossExplo_63
+  - first:
+      213: 2751309809966369309
+    second: CrossExplo_64
+  - first:
+      213: 5574022243997577548
+    second: CrossExplo_65
+  - first:
+      213: 6541434469388977931
+    second: CrossExplo_66
+  - first:
+      213: -6725057664105216930
+    second: CrossExplo_67
+  - first:
+      213: -4350547620823545864
+    second: CrossExplo_68
+  - first:
+      213: 210655527575893773
+    second: CrossExplo_69
+  - first:
+      213: -5616662999249969438
+    second: CrossExplo_70
+  - first:
+      213: -2153557905626624491
+    second: CrossExplo_71
+  - first:
+      213: -6853499218098225359
+    second: CrossExplo_72
+  - first:
+      213: 2177367362518182154
+    second: CrossExplo_73
+  - first:
+      213: -3964612125856844649
+    second: CrossExplo_74
+  - first:
+      213: 6505352183997875824
+    second: CrossExplo_75
+  - first:
+      213: 2253024837878394079
+    second: CrossExplo_76
+  - first:
+      213: -3947061357631628235
+    second: CrossExplo_77
+  - first:
+      213: -8499219413879858018
+    second: CrossExplo_78
+  - first:
+      213: -8562805270311487576
+    second: CrossExplo_79
+  - first:
+      213: 6177510584036221524
+    second: CrossExplo_80
+  - first:
+      213: -5443652399806509359
+    second: CrossExplo_81
+  - first:
+      213: 6778051898180027632
+    second: CrossExplo_82
+  - first:
+      213: -7945726920503511804
+    second: CrossExplo_83
+  - first:
+      213: 5726455655792378664
+    second: CrossExplo_84
+  - first:
+      213: -8027655214120640373
+    second: CrossExplo_85
+  - first:
+      213: 5199778865871463120
+    second: CrossExplo_86
+  - first:
+      213: 4122029553860117034
+    second: CrossExplo_87
+  - first:
+      213: 8947289223632005611
+    second: CrossExplo_88
+  - first:
+      213: 3792378586841409632
+    second: CrossExplo_89
+  - first:
+      213: -768482322839393502
+    second: CrossExplo_90
+  - first:
+      213: -5713516838550196179
+    second: CrossExplo_91
+  - first:
+      213: -2156615924142128659
+    second: CrossExplo_92
+  - first:
+      213: -2399446931252230733
+    second: CrossExplo_93
+  - first:
+      213: 8476642111288396404
+    second: CrossExplo_94
+  - first:
+      213: -2641539569265322243
+    second: CrossExplo_95
+  - first:
+      213: -3524809884399280017
+    second: CrossExplo_96
+  - first:
+      213: 8662982076488008310
+    second: CrossExplo_97
+  - first:
+      213: 5932999680319855553
+    second: CrossExplo_98
+  - first:
+      213: -2780114217942346018
+    second: CrossExplo_99
+  - first:
+      213: -2817297664157941851
+    second: CrossExplo_100
+  - first:
+      213: 6533367958521848526
+    second: CrossExplo_101
+  - first:
+      213: -6517677648540980403
+    second: CrossExplo_102
+  - first:
+      213: -2102245612314436410
+    second: CrossExplo_103
+  - first:
+      213: 5723125379609687056
+    second: CrossExplo_104
+  - first:
+      213: 7062379422607286199
+    second: CrossExplo_105
+  - first:
+      213: 8716611565032352960
+    second: CrossExplo_106
+  - first:
+      213: 6537633576152223185
+    second: CrossExplo_107
+  - first:
+      213: 4957055909495807158
+    second: CrossExplo_108
+  - first:
+      213: 7710106540463506727
+    second: CrossExplo_109
+  - first:
+      213: 5556019819259022535
+    second: CrossExplo_110
+  - first:
+      213: -5073152423721854135
+    second: CrossExplo_111
+  - first:
+      213: 1467875734302009721
+    second: CrossExplo_112
+  - first:
+      213: 693687183981373966
+    second: CrossExplo_113
+  - first:
+      213: -6357245174078857850
+    second: CrossExplo_114
+  - first:
+      213: 1452863315829100159
+    second: CrossExplo_115
+  - first:
+      213: 4238204302115319563
+    second: CrossExplo_116
+  - first:
+      213: 8009548672704869632
+    second: CrossExplo_117
+  - first:
+      213: 7013286308204818038
+    second: CrossExplo_118
+  - first:
+      213: 8298097761289794518
+    second: CrossExplo_119
+  - first:
+      213: 6840949337138335830
+    second: CrossExplo_120
+  - first:
+      213: 1500053452928504473
+    second: CrossExplo_121
+  - first:
+      213: 3281123607399473852
+    second: CrossExplo_122
+  - first:
+      213: 2282165408243548700
+    second: CrossExplo_123
+  - first:
+      213: 5660329528904685236
+    second: CrossExplo_124
+  - first:
+      213: -5702855651146814792
+    second: CrossExplo_125
+  - first:
+      213: -2731853819060373893
+    second: CrossExplo_126
+  - first:
+      213: -6076350544963949107
+    second: CrossExplo_127
+  - first:
+      213: 4465097225697013919
+    second: CrossExplo_128
+  - first:
+      213: 7436719592573517298
+    second: CrossExplo_129
+  - first:
+      213: -5970079631974516722
+    second: CrossExplo_130
+  - first:
+      213: 4643390536489528647
+    second: CrossExplo_131
+  - first:
+      213: -276623516870713320
+    second: CrossExplo_132
+  - first:
+      213: -3124488840250112444
+    second: CrossExplo_133
+  - first:
+      213: 4870574142858046220
+    second: CrossExplo_134
+  - first:
+      213: 4245806094674896562
+    second: CrossExplo_135
+  - first:
+      213: 7130623942150366566
+    second: CrossExplo_136
+  - first:
+      213: -7414429962668600436
+    second: CrossExplo_137
+  - first:
+      213: -5559545482453764584
+    second: CrossExplo_138
+  - first:
+      213: 5422413985068903741
+    second: CrossExplo_139
+  - first:
+      213: -2105296619256895712
+    second: CrossExplo_140
+  - first:
+      213: 3347081304700714376
+    second: CrossExplo_141
+  - first:
+      213: 4109647174071176439
+    second: CrossExplo_142
+  - first:
+      213: 2116998898337283599
+    second: CrossExplo_143
+  - first:
+      213: -1983890192930259437
+    second: CrossExplo_144
+  - first:
+      213: 449151404946639482
+    second: CrossExplo_145
+  - first:
+      213: 4381588844670261941
+    second: CrossExplo_146
+  - first:
+      213: 610970010133702129
+    second: CrossExplo_147
+  - first:
+      213: -3822505812962745804
+    second: CrossExplo_148
+  - first:
+      213: 5953304184076351376
+    second: CrossExplo_149
+  - first:
+      213: -2909443472938986646
+    second: CrossExplo_150
+  - first:
+      213: 3685526482657954545
+    second: CrossExplo_151
+  - first:
+      213: 2638176938781071925
+    second: CrossExplo_152
+  - first:
+      213: 2529947145707523696
+    second: CrossExplo_153
+  - first:
+      213: -7425851185143885161
+    second: CrossExplo_154
+  - first:
+      213: 9134432881558135252
+    second: CrossExplo_155
+  - first:
+      213: 3716215361305347300
+    second: CrossExplo_156
+  - first:
+      213: 6176364225886213287
+    second: CrossExplo_157
+  - first:
+      213: -1331670177028887725
+    second: CrossExplo_158
+  - first:
+      213: -8181493091628414217
+    second: CrossExplo_159
+  - first:
+      213: -47588768430721595
+    second: CrossExplo_160
+  - first:
+      213: 8939152764310454433
+    second: CrossExplo_161
+  - first:
+      213: -5453966477755645645
+    second: CrossExplo_162
+  - first:
+      213: 9158001157044643823
+    second: CrossExplo_163
+  - first:
+      213: 8177480973159899080
+    second: CrossExplo_164
+  - first:
+      213: 7384266274523830937
+    second: CrossExplo_165
+  - first:
+      213: -7396211888996051508
+    second: CrossExplo_166
+  - first:
+      213: -6888039225143736588
+    second: CrossExplo_167
+  - first:
+      213: 8266772979736894559
+    second: CrossExplo_168
+  - first:
+      213: -1976157359510325846
+    second: CrossExplo_169
+  - first:
+      213: 6391855955499790388
+    second: CrossExplo_170
+  - first:
+      213: -6639328297044723960
+    second: CrossExplo_171
+  - first:
+      213: 7694365643919490737
+    second: CrossExplo_172
+  - first:
+      213: 7778076427018810684
+    second: CrossExplo_173
+  - first:
+      213: -5593296294428780206
+    second: CrossExplo_174
+  - first:
+      213: 3221254292469751502
+    second: CrossExplo_175
+  - first:
+      213: 3086264317027802511
+    second: CrossExplo_176
+  - first:
+      213: -2123853065820252039
+    second: CrossExplo_177
+  - first:
+      213: 7238096872168094810
+    second: CrossExplo_178
+  - first:
+      213: 5647236059717768673
+    second: CrossExplo_179
+  - first:
+      213: 9068586497058716288
+    second: CrossExplo_180
+  - first:
+      213: -4593594096523962106
+    second: CrossExplo_181
+  - first:
+      213: -175520742808751924
+    second: CrossExplo_182
+  - first:
+      213: -7918884733493385140
+    second: CrossExplo_183
+  - first:
+      213: 7259770991840133164
+    second: CrossExplo_184
+  - first:
+      213: 7199101123665711825
+    second: CrossExplo_185
+  - first:
+      213: 6589067995968635311
+    second: CrossExplo_186
+  - first:
+      213: -2369410444956804345
+    second: CrossExplo_187
+  - first:
+      213: 7454262559080504516
+    second: CrossExplo_188
+  - first:
+      213: 664743408279944685
+    second: CrossExplo_189
+  - first:
+      213: 6772721136460737147
+    second: CrossExplo_190
+  - first:
+      213: -5407779564203181057
+    second: CrossExplo_191
+  - first:
+      213: 7765391892815874384
+    second: CrossExplo_192
+  - first:
+      213: 8756203277001919656
+    second: CrossExplo_193
+  - first:
+      213: -3465062002357762840
+    second: CrossExplo_194
+  - first:
+      213: -5199380719928954464
+    second: CrossExplo_195
+  - first:
+      213: -5628425887811960025
+    second: CrossExplo_196
+  - first:
+      213: -6698092760817500321
+    second: CrossExplo_197
+  - first:
+      213: 1763093026235037684
+    second: CrossExplo_198
+  - first:
+      213: 3050556001136127133
+    second: CrossExplo_199
+  - first:
+      213: -4526451075597539645
+    second: CrossExplo_200
+  - first:
+      213: 3095776660035278918
+    second: CrossExplo_201
+  - first:
+      213: 2310631225226265608
+    second: CrossExplo_202
+  - first:
+      213: 7256075615931230805
+    second: CrossExplo_203
+  - first:
+      213: -1602640917808182271
+    second: CrossExplo_204
+  - first:
+      213: 5848356643614875216
+    second: CrossExplo_205
+  - first:
+      213: -2035601338494727010
+    second: CrossExplo_206
+  - first:
+      213: 1837774624223478793
+    second: CrossExplo_207
+  - first:
+      213: 5912203568298328208
+    second: CrossExplo_208
+  - first:
+      213: 7803759622711151537
+    second: CrossExplo_209
+  - first:
+      213: 6275432408456015191
+    second: CrossExplo_210
+  - first:
+      213: 8482131375460720737
+    second: CrossExplo_211
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: CrossExplo_0
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 4161
+        width: 988
+        height: 911
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 646daeadcbfb737b0800000000000000
+      internalID: -5244512423202073018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_1
+      rect:
+        serializedVersion: 2
+        x: 286
+        y: 5039
+        width: 92
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30aeccf2291c82570800000000000000
+      internalID: 8442210335117339139
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_2
+      rect:
+        serializedVersion: 2
+        x: 1058
+        y: 4253
+        width: 1127
+        height: 848
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fba4a09473d4f1e70800000000000000
+      internalID: 9088067472900901567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_3
+      rect:
+        serializedVersion: 2
+        x: 2061
+        y: 4232
+        width: 928
+        height: 843
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a56c524a62798b930800000000000000
+      internalID: 4159240448095143514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_4
+      rect:
+        serializedVersion: 2
+        x: 2537
+        y: 4969
+        width: 175
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e9443f94927c0a20800000000000000
+      internalID: 3029922631965231591
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_5
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 4938
+        width: 267
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b51343c7793009530800000000000000
+      internalID: 3859588829815255387
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_6
+      rect:
+        serializedVersion: 2
+        x: 3576
+        y: 5011
+        width: 155
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 39b9dea573849c750800000000000000
+      internalID: 6325666554204494739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_7
+      rect:
+        serializedVersion: 2
+        x: 4284
+        y: 4977
+        width: 251
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 014253070928cf580800000000000000
+      internalID: -8792008815664618480
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_8
+      rect:
+        serializedVersion: 2
+        x: 4620
+        y: 5053
+        width: 126
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a0548add4db5772c0800000000000000
+      internalID: -4433974338312977142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_9
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4803
+        width: 60
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e590d49789fc24ed0800000000000000
+      internalID: -2431152595049576098
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_10
+      rect:
+        serializedVersion: 2
+        x: 3071
+        y: 4657
+        width: 222
+        height: 310
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca4f35441f898f70800000000000000
+      internalID: 9190033831850101449
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_11
+      rect:
+        serializedVersion: 2
+        x: 3223
+        y: 4215
+        width: 753
+        height: 711
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d9e7c10f994ab590800000000000000
+      internalID: -7657727269111600681
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_12
+      rect:
+        serializedVersion: 2
+        x: 4095
+        y: 4761
+        width: 168
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0bda7b070098710800000000000000
+      internalID: 1695887218799653117
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_13
+      rect:
+        serializedVersion: 2
+        x: 4223
+        y: 4303
+        width: 791
+        height: 640
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7aad9ba7161b790800000000000000
+      internalID: -7516119123372627985
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_14
+      rect:
+        serializedVersion: 2
+        x: 2890
+        y: 4429
+        width: 276
+        height: 287
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb14dc8ef371e9f50800000000000000
+      internalID: 6889970043179581886
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_15
+      rect:
+        serializedVersion: 2
+        x: 3955
+        y: 4571
+        width: 133
+        height: 142
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cb13980f1d5a8410800000000000000
+      internalID: 1480097815413857222
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_16
+      rect:
+        serializedVersion: 2
+        x: 4164
+        y: 4673
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb4e564db62fa5a10800000000000000
+      internalID: 1899096737828955326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_17
+      rect:
+        serializedVersion: 2
+        x: 5021
+        y: 4584
+        width: 99
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5905e2ea9c40c590800000000000000
+      internalID: -7656035138414507683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_18
+      rect:
+        serializedVersion: 2
+        x: 1038
+        y: 4426
+        width: 165
+        height: 170
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16f6e147d7538fb00800000000000000
+      internalID: 862498141576785761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_19
+      rect:
+        serializedVersion: 2
+        x: 4013
+        y: 4369
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60bb89cdfdbdc7550800000000000000
+      internalID: 6160040144861182726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_20
+      rect:
+        serializedVersion: 2
+        x: 4850
+        y: 4201
+        width: 164
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f688188127a436f00800000000000000
+      internalID: 1108811787161143407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_21
+      rect:
+        serializedVersion: 2
+        x: 519
+        y: 4095
+        width: 145
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7593be33e7834a80800000000000000
+      internalID: -8483787862956599941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_22
+      rect:
+        serializedVersion: 2
+        x: 1254
+        y: 4146
+        width: 183
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 428471262cef28930800000000000000
+      internalID: 4144154717957081124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_23
+      rect:
+        serializedVersion: 2
+        x: 1720
+        y: 4149
+        width: 75
+        height: 72
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58e4fd8a1b9454960800000000000000
+      internalID: 7585550174766714501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_24
+      rect:
+        serializedVersion: 2
+        x: 2285
+        y: 4132
+        width: 21
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e438127bd3f2cab50800000000000000
+      internalID: 6605706695557612366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_25
+      rect:
+        serializedVersion: 2
+        x: 2298
+        y: 4141
+        width: 141
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 587b85928aaee7470800000000000000
+      internalID: 8394404763434268549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_26
+      rect:
+        serializedVersion: 2
+        x: 3318
+        y: 4123
+        width: 121
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b59ffc8463450020800000000000000
+      internalID: 2307324483238598068
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_27
+      rect:
+        serializedVersion: 2
+        x: 4346
+        y: 4112
+        width: 84
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2e5e020006d09060800000000000000
+      internalID: 6958296719810256428
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_28
+      rect:
+        serializedVersion: 2
+        x: 2798
+        y: 4129
+        width: 18
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ac7aeb1604e83b40800000000000000
+      internalID: 5420332866429680807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_29
+      rect:
+        serializedVersion: 2
+        x: 197
+        y: 3991
+        width: 219
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fea880a344eb192e0800000000000000
+      internalID: -2120704749274101009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_30
+      rect:
+        serializedVersion: 2
+        x: 1316
+        y: 4036
+        width: 93
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03078be84bf482d80800000000000000
+      internalID: -8275276678386126800
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_31
+      rect:
+        serializedVersion: 2
+        x: 43
+        y: 3866
+        width: 77
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d38807c8d5583380800000000000000
+      internalID: -8991342266504674343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_32
+      rect:
+        serializedVersion: 2
+        x: 104
+        y: 3257
+        width: 839
+        height: 683
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f817972cbaa11ee0800000000000000
+      internalID: -1292063892983834380
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_33
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 3236
+        width: 743
+        height: 724
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 65fbf9fc67bc0d990800000000000000
+      internalID: -7363161679600828586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_34
+      rect:
+        serializedVersion: 2
+        x: 2228
+        y: 3215
+        width: 662
+        height: 763
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8c256da59164a20800000000000000
+      internalID: 3046150075896219865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_35
+      rect:
+        serializedVersion: 2
+        x: 3236
+        y: 3194
+        width: 698
+        height: 798
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3a8aed1f6f401260800000000000000
+      internalID: 7066235154006182462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_36
+      rect:
+        serializedVersion: 2
+        x: 4246
+        y: 3175
+        width: 597
+        height: 827
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad14df5fd2eceadd0800000000000000
+      internalID: -2472812448583958054
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_37
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3794
+        width: 43
+        height: 49
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4efafa9dd52d2850800000000000000
+      internalID: 6353776283007778383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_38
+      rect:
+        serializedVersion: 2
+        x: 4856
+        y: 3725
+        width: 114
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c1f22859d16c1130800000000000000
+      internalID: 3538810993320849864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_39
+      rect:
+        serializedVersion: 2
+        x: 54
+        y: 3667
+        width: 87
+        height: 95
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be7ba344b4a6b7f30800000000000000
+      internalID: 4574366718024660971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_40
+      rect:
+        serializedVersion: 2
+        x: 1063
+        y: 3689
+        width: 57
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8d320343f201fbe10800000000000000
+      internalID: 2215507336614650840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_41
+      rect:
+        serializedVersion: 2
+        x: 2067
+        y: 3723
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f89db007c114d830800000000000000
+      internalID: 4094917507595213045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_42
+      rect:
+        serializedVersion: 2
+        x: 967
+        y: 3571
+        width: 58
+        height: 102
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c0cb54f463ff4b30800000000000000
+      internalID: 4273902186319823049
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_43
+      rect:
+        serializedVersion: 2
+        x: 2111
+        y: 3366
+        width: 258
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30808cdfe3a210f30800000000000000
+      internalID: 4539956349400254467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_44
+      rect:
+        serializedVersion: 2
+        x: 3124
+        y: 3358
+        width: 243
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 656cfd098269e7490800000000000000
+      internalID: -7746589208057231786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_45
+      rect:
+        serializedVersion: 2
+        x: 4192
+        y: 3350
+        width: 172
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 83b569a5866033da0800000000000000
+      internalID: -5966418036069606600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_46
+      rect:
+        serializedVersion: 2
+        x: 4809
+        y: 3403
+        width: 168
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c434c5c9d73dd55a0800000000000000
+      internalID: -6530831348169686196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_47
+      rect:
+        serializedVersion: 2
+        x: 1838
+        y: 3356
+        width: 148
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15609bc88c2d8d8a0800000000000000
+      internalID: -6280037921571928495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_48
+      rect:
+        serializedVersion: 2
+        x: 2894
+        y: 3350
+        width: 137
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: efde62b80577e0530800000000000000
+      internalID: 3823124321499803134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_49
+      rect:
+        serializedVersion: 2
+        x: 3951
+        y: 3347
+        width: 122
+        height: 131
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 141af9ce276dccd10800000000000000
+      internalID: 2147326911433384257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_50
+      rect:
+        serializedVersion: 2
+        x: 4136
+        y: 3425
+        width: 23
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f378ea4a3898fcb0800000000000000
+      internalID: -4829943224222583821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_51
+      rect:
+        serializedVersion: 2
+        x: 5008
+        y: 3347
+        width: 103
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dfc94eeaead51eb0800000000000000
+      internalID: -4749649529437302831
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_52
+      rect:
+        serializedVersion: 2
+        x: 782
+        y: 3165
+        width: 147
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50605822d7c90f570800000000000000
+      internalID: 8498464558112114181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_53
+      rect:
+        serializedVersion: 2
+        x: 1841
+        y: 3160
+        width: 118
+        height: 121
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d5c6e72b98971d20800000000000000
+      internalID: 3249233448327890386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_54
+      rect:
+        serializedVersion: 2
+        x: 2906
+        y: 3164
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00db3583b79891ec0800000000000000
+      internalID: -3595691665159635712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_55
+      rect:
+        serializedVersion: 2
+        x: 259
+        y: 3071
+        width: 16
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5892746a541f320c0800000000000000
+      internalID: -4601569112797795963
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_56
+      rect:
+        serializedVersion: 2
+        x: 1200
+        y: 2982
+        width: 15
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a479cba8f0594670800000000000000
+      internalID: 8523432798739592359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_57
+      rect:
+        serializedVersion: 2
+        x: 138
+        y: 2219
+        width: 597
+        height: 762
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 24059d0f5e93b0900800000000000000
+      internalID: 651678230836236354
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_58
+      rect:
+        serializedVersion: 2
+        x: 1153
+        y: 2201
+        width: 615
+        height: 750
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9598b5c5c8fec8ee0800000000000000
+      internalID: -1257366809819248295
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_59
+      rect:
+        serializedVersion: 2
+        x: 2171
+        y: 2866
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22c5a94ea8068e480800000000000000
+      internalID: -8869733316449117150
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_60
+      rect:
+        serializedVersion: 2
+        x: 2218
+        y: 2183
+        width: 582
+        height: 725
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38ec34458295df360800000000000000
+      internalID: 7205013008609955459
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_61
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 2902
+        width: 50
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446d94a42414dba70800000000000000
+      internalID: 8844296996195522116
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_62
+      rect:
+        serializedVersion: 2
+        x: 3226
+        y: 2166
+        width: 605
+        height: 757
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55d4a1c582d4f70c0800000000000000
+      internalID: -4575853860645876395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_63
+      rect:
+        serializedVersion: 2
+        x: 4276
+        y: 2811
+        width: 224
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10b809cec78133140800000000000000
+      internalID: 4698125761101466369
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_64
+      rect:
+        serializedVersion: 2
+        x: 4764
+        y: 2784
+        width: 125
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d1ac712f1bd9e2620800000000000000
+      internalID: 2751309809966369309
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_65
+      rect:
+        serializedVersion: 2
+        x: 606
+        y: 2706
+        width: 150
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c41f99fc2b7ea5d40800000000000000
+      internalID: 5574022243997577548
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_66
+      rect:
+        serializedVersion: 2
+        x: 789
+        y: 2722
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b070d6dedf7d7ca50800000000000000
+      internalID: 6541434469388977931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_67
+      rect:
+        serializedVersion: 2
+        x: 1645
+        y: 2725
+        width: 144
+        height: 145
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e548df47fabcba2a0800000000000000
+      internalID: -6725057664105216930
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_68
+      rect:
+        serializedVersion: 2
+        x: 1843
+        y: 2745
+        width: 81
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f744623dffbf93c0800000000000000
+      internalID: -4350547620823545864
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_69
+      rect:
+        serializedVersion: 2
+        x: 2685
+        y: 2745
+        width: 138
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d07322316166ce200800000000000000
+      internalID: 210655527575893773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_70
+      rect:
+        serializedVersion: 2
+        x: 2900
+        y: 2771
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2ee10a2b2ca9d02b0800000000000000
+      internalID: -5616662999249969438
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_71
+      rect:
+        serializedVersion: 2
+        x: 3724
+        y: 2764
+        width: 132
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51e04efae760d12e0800000000000000
+      internalID: -2153557905626624491
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_72
+      rect:
+        serializedVersion: 2
+        x: 3962
+        y: 2802
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 13f76d4c5ca73e0a0800000000000000
+      internalID: -6853499218098225359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_73
+      rect:
+        serializedVersion: 2
+        x: 4235
+        y: 2148
+        width: 627
+        height: 682
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a09ec6c7410973e10800000000000000
+      internalID: 2177367362518182154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_74
+      rect:
+        serializedVersion: 2
+        x: 5010
+        y: 2820
+        width: 20
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 794b816e64edaf8c0800000000000000
+      internalID: -3964612125856844649
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_75
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 2318
+        width: 168
+        height: 255
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07641023857a74a50800000000000000
+      internalID: 6505352183997875824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_76
+      rect:
+        serializedVersion: 2
+        x: 738
+        y: 2374
+        width: 162
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdcafdb272a544f10800000000000000
+      internalID: 2253024837878394079
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_77
+      rect:
+        serializedVersion: 2
+        x: 1787
+        y: 2370
+        width: 157
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53c12bf8b983939c0800000000000000
+      internalID: -3947061357631628235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_78
+      rect:
+        serializedVersion: 2
+        x: 2836
+        y: 2366
+        width: 151
+        height: 228
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c569f49f4bc0a80800000000000000
+      internalID: -8499219413879858018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_79
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 2565
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7bd3e69fdca2980800000000000000
+      internalID: -8562805270311487576
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_80
+      rect:
+        serializedVersion: 2
+        x: 5015
+        y: 2568
+        width: 18
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 452e1b5752deab550800000000000000
+      internalID: 6177510584036221524
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_81
+      rect:
+        serializedVersion: 2
+        x: 1078
+        y: 2311
+        width: 162
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1de84dcebf24474b0800000000000000
+      internalID: -5443652399806509359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_82
+      rect:
+        serializedVersion: 2
+        x: 2085
+        y: 2305
+        width: 153
+        height: 253
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f4ce2c2a4a701e50800000000000000
+      internalID: 6778051898180027632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_83
+      rect:
+        serializedVersion: 2
+        x: 3093
+        y: 2302
+        width: 142
+        height: 247
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 405312dc67b1bb190800000000000000
+      internalID: -7945726920503511804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_84
+      rect:
+        serializedVersion: 2
+        x: 3886
+        y: 2362
+        width: 143
+        height: 177
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82308813415787f40800000000000000
+      internalID: 5726455655792378664
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_85
+      rect:
+        serializedVersion: 2
+        x: 4101
+        y: 2432
+        width: 99
+        height: 107
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b80e6077d1a089090800000000000000
+      internalID: -8027655214120640373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_86
+      rect:
+        serializedVersion: 2
+        x: 4936
+        y: 2359
+        width: 131
+        height: 169
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0d22ad23453592840800000000000000
+      internalID: 5199778865871463120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_87
+      rect:
+        serializedVersion: 2
+        x: 14
+        y: 2396
+        width: 16
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a228e7f2a04643930800000000000000
+      internalID: 4122029553860117034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_88
+      rect:
+        serializedVersion: 2
+        x: 952
+        y: 2330
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be92445e4282b2c70800000000000000
+      internalID: 8947289223632005611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_89
+      rect:
+        serializedVersion: 2
+        x: 4126
+        y: 2300
+        width: 106
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 068ea7a5b3c31a430800000000000000
+      internalID: 3792378586841409632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_90
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 2133
+        width: 99
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 22badf2266dc555f0800000000000000
+      internalID: -768482322839393502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_91
+      rect:
+        serializedVersion: 2
+        x: 1545
+        y: 2116
+        width: 83
+        height: 81
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d20b004f4b285b0b0800000000000000
+      internalID: -5713516838550196179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_92
+      rect:
+        serializedVersion: 2
+        x: 2585
+        y: 2102
+        width: 58
+        height: 59
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de1ce844e392212e0800000000000000
+      internalID: -2156615924142128659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_93
+      rect:
+        serializedVersion: 2
+        x: 3629
+        y: 2093
+        width: 26
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3b54f459ab373bed0800000000000000
+      internalID: -2399446931252230733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_94
+      rect:
+        serializedVersion: 2
+        x: 4660
+        y: 2070
+        width: 20
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47a467bc61513a570800000000000000
+      internalID: 8476642111288396404
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_95
+      rect:
+        serializedVersion: 2
+        x: 1308
+        y: 1847
+        width: 91
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df65dc9d1cd575bd0800000000000000
+      internalID: -2641539569265322243
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_96
+      rect:
+        serializedVersion: 2
+        x: 2330
+        y: 1873
+        width: 76
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f60689bd51c551fc0800000000000000
+      internalID: -3524809884399280017
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_97
+      rect:
+        serializedVersion: 2
+        x: 3354
+        y: 1901
+        width: 57
+        height: 55
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 672c4a4dc48193870800000000000000
+      internalID: 8662982076488008310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_98
+      rect:
+        serializedVersion: 2
+        x: 4251
+        y: 1926
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1cb98fd56cf365250800000000000000
+      internalID: 5932999680319855553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_99
+      rect:
+        serializedVersion: 2
+        x: 4385
+        y: 1933
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed6988439dc0b69d0800000000000000
+      internalID: -2780114217942346018
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_100
+      rect:
+        serializedVersion: 2
+        x: 172
+        y: 1808
+        width: 218
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5aff35d73b2f6e8d0800000000000000
+      internalID: -2817297664157941851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_101
+      rect:
+        serializedVersion: 2
+        x: 684
+        y: 1780
+        width: 118
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec22d920b8f2baa50800000000000000
+      internalID: 6533367958521848526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_102
+      rect:
+        serializedVersion: 2
+        x: 1190
+        y: 1831
+        width: 95
+        height: 94
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4b2636f5be8c85a0800000000000000
+      internalID: -6517677648540980403
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_103
+      rect:
+        serializedVersion: 2
+        x: 1724
+        y: 1800
+        width: 110
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6ccdf57f0c253d2e0800000000000000
+      internalID: -2102245612314436410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_104
+      rect:
+        serializedVersion: 2
+        x: 2212
+        y: 1854
+        width: 76
+        height: 75
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01478a8d530ac6f40800000000000000
+      internalID: 5723125379609687056
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_105
+      rect:
+        serializedVersion: 2
+        x: 2765
+        y: 1821
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7bf1981baac920260800000000000000
+      internalID: 7062379422607286199
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_106
+      rect:
+        serializedVersion: 2
+        x: 3238
+        y: 1889
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0cca0da2900a7f870800000000000000
+      internalID: 8716611565032352960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_107
+      rect:
+        serializedVersion: 2
+        x: 3807
+        y: 1843
+        width: 87
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1dd483289175aba50800000000000000
+      internalID: 6537633576152223185
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_108
+      rect:
+        serializedVersion: 2
+        x: 4851
+        y: 1867
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6bc9f3906100bc440800000000000000
+      internalID: 4957055909495807158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_109
+      rect:
+        serializedVersion: 2
+        x: 123
+        y: 1637
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7254eb47c0dcffa60800000000000000
+      internalID: 7710106540463506727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_110
+      rect:
+        serializedVersion: 2
+        x: 212
+        y: 1106
+        width: 561
+        height: 711
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ccc6fba692fa1d40800000000000000
+      internalID: 5556019819259022535
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_111
+      rect:
+        serializedVersion: 2
+        x: 1131
+        y: 1649
+        width: 127
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94b95a4dfba8899b0800000000000000
+      internalID: -5073152423721854135
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_112
+      rect:
+        serializedVersion: 2
+        x: 1225
+        y: 1497
+        width: 322
+        height: 331
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 979ac750431fe5410800000000000000
+      internalID: 1467875734302009721
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_113
+      rect:
+        serializedVersion: 2
+        x: 2141
+        y: 1661
+        width: 119
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0a637a81d870a900800000000000000
+      internalID: 693687183981373966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_114
+      rect:
+        serializedVersion: 2
+        x: 2397
+        y: 1721
+        width: 174
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68d96f0423786c7a0800000000000000
+      internalID: -6357245174078857850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_115
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 1673
+        width: 107
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f7e8037fc7b992410800000000000000
+      internalID: 1452863315829100159
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_116
+      rect:
+        serializedVersion: 2
+        x: 3419
+        y: 1740
+        width: 175
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b0fad199b5021da30800000000000000
+      internalID: 4238204302115319563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_117
+      rect:
+        serializedVersion: 2
+        x: 4167
+        y: 1687
+        width: 97
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00576c7d412a72f60800000000000000
+      internalID: 8009548672704869632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_118
+      rect:
+        serializedVersion: 2
+        x: 4442
+        y: 1758
+        width: 102
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67ea8a44db2345160800000000000000
+      internalID: 7013286308204818038
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_119
+      rect:
+        serializedVersion: 2
+        x: 942
+        y: 1545
+        width: 19
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d3742dd2f3c82370800000000000000
+      internalID: 8298097761289794518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_120
+      rect:
+        serializedVersion: 2
+        x: 1562
+        y: 1466
+        width: 243
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 650139e5d2fefee50800000000000000
+      internalID: 6840949337138335830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_121
+      rect:
+        serializedVersion: 2
+        x: 1918
+        y: 1335
+        width: 105
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 992d6e5faa241d410800000000000000
+      internalID: 1500053452928504473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_122
+      rect:
+        serializedVersion: 2
+        x: 2238
+        y: 1534
+        width: 115
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cb2a13b6984e88d20800000000000000
+      internalID: 3281123607399473852
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_123
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 1503
+        width: 197
+        height: 205
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c128a0de851ebaf10800000000000000
+      internalID: 2282165408243548700
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_124
+      rect:
+        serializedVersion: 2
+        x: 2604
+        y: 1469
+        width: 233
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4b6940287b78d8e40800000000000000
+      internalID: 5660329528904685236
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_125
+      rect:
+        serializedVersion: 2
+        x: 3253
+        y: 1547
+        width: 92
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8baa01410036bd0b0800000000000000
+      internalID: -5702855651146814792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_126
+      rect:
+        serializedVersion: 2
+        x: 3360
+        y: 1508
+        width: 212
+        height: 202
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b76bc90fc61861ad0800000000000000
+      internalID: -2731853819060373893
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_127
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 1473
+        width: 218
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dcd2cac8f577caba0800000000000000
+      internalID: -6076350544963949107
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_128
+      rect:
+        serializedVersion: 2
+        x: 4268
+        y: 1557
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f90b049054637fd30800000000000000
+      internalID: 4465097225697013919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_129
+      rect:
+        serializedVersion: 2
+        x: 4372
+        y: 1514
+        width: 212
+        height: 197
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fd38896119843760800000000000000
+      internalID: 7436719592573517298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_130
+      rect:
+        serializedVersion: 2
+        x: 4685
+        y: 1478
+        width: 166
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e083d5f9434062da0800000000000000
+      internalID: -5970079631974516722
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_131
+      rect:
+        serializedVersion: 2
+        x: 4816
+        y: 1509
+        width: 82
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 74d6ed85713a07040800000000000000
+      internalID: 4643390536489528647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_132
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1415
+        width: 74
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 810e664806c392cf0800000000000000
+      internalID: -276623516870713320
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_133
+      rect:
+        serializedVersion: 2
+        x: 867
+        y: 1334
+        width: 120
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 446483c34f593a4d0800000000000000
+      internalID: -3124488840250112444
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_134
+      rect:
+        serializedVersion: 2
+        x: 1023
+        y: 1419
+        width: 38
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0ba145a061c79340800000000000000
+      internalID: 4870574142858046220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_135
+      rect:
+        serializedVersion: 2
+        x: 1255
+        y: 1090
+        width: 418
+        height: 387
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b6294ad5222cea30800000000000000
+      internalID: 4245806094674896562
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_136
+      rect:
+        serializedVersion: 2
+        x: 2270
+        y: 1074
+        width: 314
+        height: 360
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 665a4ca12b015f260800000000000000
+      internalID: 7130623942150366566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_137
+      rect:
+        serializedVersion: 2
+        x: 2579
+        y: 1326
+        width: 120
+        height: 120
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c8310277b37aa1990800000000000000
+      internalID: -7414429962668600436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_138
+      rect:
+        serializedVersion: 2
+        x: 2972
+        y: 1344
+        width: 85
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81637b5e6d688d2b0800000000000000
+      internalID: -5559545482453764584
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_139
+      rect:
+        serializedVersion: 2
+        x: 3286
+        y: 1321
+        width: 99
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d3d642d4ac8404b40800000000000000
+      internalID: 5422413985068903741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_140
+      rect:
+        serializedVersion: 2
+        x: 3612
+        y: 1321
+        width: 113
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 027ac5e01eb78c2e0800000000000000
+      internalID: -2105296619256895712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_141
+      rect:
+        serializedVersion: 2
+        x: 4048
+        y: 1399
+        width: 42
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88d790986b8337e20800000000000000
+      internalID: 3347081304700714376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_142
+      rect:
+        serializedVersion: 2
+        x: 4644
+        y: 1316
+        width: 106
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fc43bab456680930800000000000000
+      internalID: 4109647174071176439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_143
+      rect:
+        serializedVersion: 2
+        x: 21
+        y: 1277
+        width: 88
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0e794d1847116d10800000000000000
+      internalID: 2116998898337283599
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_144
+      rect:
+        serializedVersion: 2
+        x: 1036
+        y: 1286
+        width: 59
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31eb201716ec774e0800000000000000
+      internalID: -1983890192930259437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_145
+      rect:
+        serializedVersion: 2
+        x: 3368
+        y: 1063
+        width: 232
+        height: 276
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a7a4636b2d4bb3600800000000000000
+      internalID: 449151404946639482
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_146
+      rect:
+        serializedVersion: 2
+        x: 3451
+        y: 1342
+        width: 49
+        height: 42
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5ba926ee6d78ecc30800000000000000
+      internalID: 4381588844670261941
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_147
+      rect:
+        serializedVersion: 2
+        x: 4044
+        y: 1350
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1f5af66bcf99a7800800000000000000
+      internalID: 610970010133702129
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_148
+      rect:
+        serializedVersion: 2
+        x: 4302
+        y: 1319
+        width: 88
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4326d72373bb3fac0800000000000000
+      internalID: -3822505812962745804
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_149
+      rect:
+        serializedVersion: 2
+        x: 4470
+        y: 1334
+        width: 47
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 097b7bb0d926e9250800000000000000
+      internalID: 5953304184076351376
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_150
+      rect:
+        serializedVersion: 2
+        x: 5094
+        y: 1347
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a63946583949f97d0800000000000000
+      internalID: -2909443472938986646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_151
+      rect:
+        serializedVersion: 2
+        x: 2047
+        y: 1286
+        width: 12
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1fa4f192fce952330800000000000000
+      internalID: 3685526482657954545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_152
+      rect:
+        serializedVersion: 2
+        x: 4408
+        y: 1288
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 53a5caab2ffac9420800000000000000
+      internalID: 2638176938781071925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_153
+      rect:
+        serializedVersion: 2
+        x: 4545
+        y: 1249
+        width: 70
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 07e0968568d2c1320800000000000000
+      internalID: 2529947145707523696
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_154
+      rect:
+        serializedVersion: 2
+        x: 4389
+        y: 1048
+        width: 209
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 792d592e0b312f890800000000000000
+      internalID: -7425851185143885161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_155
+      rect:
+        serializedVersion: 2
+        x: 574
+        y: 1027
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d1abe93f4604ce70800000000000000
+      internalID: 9134432881558135252
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_156
+      rect:
+        serializedVersion: 2
+        x: 1300
+        y: 954
+        width: 13
+        height: 13
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e484778e26a29330800000000000000
+      internalID: 3716215361305347300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_157
+      rect:
+        serializedVersion: 2
+        x: 282
+        y: 932
+        width: 20
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a4d0672a8ad6b550800000000000000
+      internalID: 6176364225886213287
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_158
+      rect:
+        serializedVersion: 2
+        x: 2873
+        y: 926
+        width: 9
+        height: 8
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35b263c8705f48de0800000000000000
+      internalID: -1331670177028887725
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_159
+      rect:
+        serializedVersion: 2
+        x: 792
+        y: 884
+        width: 26
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7fa0d2d616f757e80800000000000000
+      internalID: -8181493091628414217
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_160
+      rect:
+        serializedVersion: 2
+        x: 1831
+        y: 903
+        width: 21
+        height: 21
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c5736a644ee65ff0800000000000000
+      internalID: -47588768430721595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_161
+      rect:
+        serializedVersion: 2
+        x: 780
+        y: 870
+        width: 21
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a00da5d3104e0c70800000000000000
+      internalID: 8939152764310454433
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_162
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 753
+        width: 99
+        height: 91
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3318c74826e9f44b0800000000000000
+      internalID: -5453966477755645645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_163
+      rect:
+        serializedVersion: 2
+        x: 1370
+        y: 774
+        width: 78
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fe7234af781c71f70800000000000000
+      internalID: 9158001157044643823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_164
+      rect:
+        serializedVersion: 2
+        x: 2395
+        y: 795
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cf16b27e9f3c7170800000000000000
+      internalID: 8177480973159899080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_165
+      rect:
+        serializedVersion: 2
+        x: 3424
+        y: 819
+        width: 43
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ad3eb9d0f2a7660800000000000000
+      internalID: 7384266274523830937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_166
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 677
+        width: 82
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc59ed849706b5990800000000000000
+      internalID: -7396211888996051508
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_167
+      rect:
+        serializedVersion: 2
+        x: 1081
+        y: 694
+        width: 64
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f6c952b1d4c860a0800000000000000
+      internalID: -6888039225143736588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_168
+      rect:
+        serializedVersion: 2
+        x: 2097
+        y: 727
+        width: 32
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5cd300d93a79b270800000000000000
+      internalID: 8266772979736894559
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_169
+      rect:
+        serializedVersion: 2
+        x: 3105
+        y: 742
+        width: 17
+        height: 18
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa5fc160a574394e0800000000000000
+      internalID: -1976157359510325846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_170
+      rect:
+        serializedVersion: 2
+        x: 402
+        y: 614
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 430b703402f64b850800000000000000
+      internalID: 6391855955499790388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_171
+      rect:
+        serializedVersion: 2
+        x: 595
+        y: 462
+        width: 163
+        height: 227
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 807337b271e5cd3a0800000000000000
+      internalID: -6639328297044723960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_172
+      rect:
+        serializedVersion: 2
+        x: 1433
+        y: 636
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1be7ac169c0e7ca60800000000000000
+      internalID: 7694365643919490737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_173
+      rect:
+        serializedVersion: 2
+        x: 1623
+        y: 529
+        width: 161
+        height: 158
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c35bb44ec4741fb60800000000000000
+      internalID: 7778076427018810684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_174
+      rect:
+        serializedVersion: 2
+        x: 2474
+        y: 665
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 259501f97ae9062b0800000000000000
+      internalID: -5593296294428780206
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_175
+      rect:
+        serializedVersion: 2
+        x: 2652
+        y: 541
+        width: 117
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ece9cd946b134bc20800000000000000
+      internalID: 3221254292469751502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_176
+      rect:
+        serializedVersion: 2
+        x: 2775
+        y: 651
+        width: 29
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8dd76b6b0d94da20800000000000000
+      internalID: 3086264317027802511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_177
+      rect:
+        serializedVersion: 2
+        x: 3344
+        y: 515
+        width: 154
+        height: 164
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 978d8a8a3ee8682e0800000000000000
+      internalID: -2123853065820252039
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_178
+      rect:
+        serializedVersion: 2
+        x: 3822
+        y: 670
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5cf17391c2e27460800000000000000
+      internalID: 7238096872168094810
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_179
+      rect:
+        serializedVersion: 2
+        x: 166
+        y: 543
+        width: 62
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1e51146a6430f5e40800000000000000
+      internalID: 5647236059717768673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_180
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 496
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08ab6142f571add70800000000000000
+      internalID: 9068586497058716288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_181
+      rect:
+        serializedVersion: 2
+        x: 1186
+        y: 558
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6099b52d1864040c0800000000000000
+      internalID: -4593594096523962106
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_182
+      rect:
+        serializedVersion: 2
+        x: 1309
+        y: 502
+        width: 120
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc0fb2a70dc609df0800000000000000
+      internalID: -175520742808751924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_183
+      rect:
+        serializedVersion: 2
+        x: 2211
+        y: 576
+        width: 7
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c48ecda7a487a1290800000000000000
+      internalID: -7918884733493385140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_184
+      rect:
+        serializedVersion: 2
+        x: 2326
+        y: 508
+        width: 114
+        height: 114
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c20015fc043efb460800000000000000
+      internalID: 7259770991840133164
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_185
+      rect:
+        serializedVersion: 2
+        x: 3217
+        y: 578
+        width: 11
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d2d53a545858e360800000000000000
+      internalID: 7199101123665711825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_186
+      rect:
+        serializedVersion: 2
+        x: 3717
+        y: 487
+        width: 171
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa10b949e62117b50800000000000000
+      internalID: 6589067995968635311
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_187
+      rect:
+        serializedVersion: 2
+        x: 743
+        y: 494
+        width: 63
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 70bdf3501c92e1fd0800000000000000
+      internalID: -2369410444956804345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_188
+      rect:
+        serializedVersion: 2
+        x: 1792
+        y: 507
+        width: 39
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ccdc789d4cd27760800000000000000
+      internalID: 7454262559080504516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_189
+      rect:
+        serializedVersion: 2
+        x: 2845
+        y: 524
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dedfe4d9b94a93900800000000000000
+      internalID: 664743408279944685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_190
+      rect:
+        serializedVersion: 2
+        x: 1689
+        y: 475
+        width: 34
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7aa58d7df98dfd50800000000000000
+      internalID: 6772721136460737147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_191
+      rect:
+        serializedVersion: 2
+        x: 2738
+        y: 488
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffb7d045325b3f4b0800000000000000
+      internalID: -5407779564203181057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_192
+      rect:
+        serializedVersion: 2
+        x: 200
+        y: 252
+        width: 108
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0590df0a8c634cb60800000000000000
+      internalID: 7765391892815874384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_193
+      rect:
+        serializedVersion: 2
+        x: 366
+        y: 224
+        width: 140
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ac8fc2fc78448970800000000000000
+      internalID: 8756203277001919656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_194
+      rect:
+        serializedVersion: 2
+        x: 557
+        y: 287
+        width: 98
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8e403c0b770a9efc0800000000000000
+      internalID: -3465062002357762840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_195
+      rect:
+        serializedVersion: 2
+        x: 1220
+        y: 295
+        width: 56
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a1be9068c618d7b0800000000000000
+      internalID: -5199380719928954464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_196
+      rect:
+        serializedVersion: 2
+        x: 1318
+        y: 232
+        width: 190
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7230b58c970d3e1b0800000000000000
+      internalID: -5628425887811960025
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_197
+      rect:
+        serializedVersion: 2
+        x: 1592
+        y: 283
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f5f7bde3f189b03a0800000000000000
+      internalID: -6698092760817500321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_198
+      rect:
+        serializedVersion: 2
+        x: 2244
+        y: 301
+        width: 30
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f735be14c3c77810800000000000000
+      internalID: 1763093026235037684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_199
+      rect:
+        serializedVersion: 2
+        x: 2332
+        y: 219
+        width: 199
+        height: 103
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9ca72f3580c55a20800000000000000
+      internalID: 3050556001136127133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_200
+      rect:
+        serializedVersion: 2
+        x: 2627
+        y: 281
+        width: 74
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3c6e2d99ab0de21c0800000000000000
+      internalID: -4526451075597539645
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_201
+      rect:
+        serializedVersion: 2
+        x: 3260
+        y: 207
+        width: 293
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 648195d587866fa20800000000000000
+      internalID: 3095776660035278918
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_202
+      rect:
+        serializedVersion: 2
+        x: 3664
+        y: 280
+        width: 58
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 804898a6bd2011020800000000000000
+      internalID: 2310631225226265608
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_203
+      rect:
+        serializedVersion: 2
+        x: 292
+        y: 112
+        width: 82
+        height: 82
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 55a64fe0452c2b460800000000000000
+      internalID: 7256075615931230805
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_204
+      rect:
+        serializedVersion: 2
+        x: 397
+        y: 17
+        width: 98
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 10c898f839642c9e0800000000000000
+      internalID: -1602640917808182271
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_205
+      rect:
+        serializedVersion: 2
+        x: 1315
+        y: 103
+        width: 68
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05ed576a169892150800000000000000
+      internalID: 5848356643614875216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_206
+      rect:
+        serializedVersion: 2
+        x: 1424
+        y: 10
+        width: 87
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e9c46b22e5710c3e0800000000000000
+      internalID: -2035601338494727010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_207
+      rect:
+        serializedVersion: 2
+        x: 2341
+        y: 96
+        width: 48
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9044116a846118910800000000000000
+      internalID: 1837774624223478793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_208
+      rect:
+        serializedVersion: 2
+        x: 2453
+        y: 64
+        width: 73
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 090083832dd5c0250800000000000000
+      internalID: 5912203568298328208
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_209
+      rect:
+        serializedVersion: 2
+        x: 3369
+        y: 91
+        width: 24
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb0c30e7068c4c60800000000000000
+      internalID: 7803759622711151537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_210
+      rect:
+        serializedVersion: 2
+        x: 3482
+        y: 55
+        width: 56
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 75daefdd680d61750800000000000000
+      internalID: 6275432408456015191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: CrossExplo_211
+      rect:
+        serializedVersion: 2
+        x: 2479
+        y: 0
+        width: 21
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1602884bb8596b570800000000000000
+      internalID: 8482131375460720737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      CrossExplo_0: -5244512423202073018
+      CrossExplo_1: 8442210335117339139
+      CrossExplo_10: 9190033831850101449
+      CrossExplo_100: -2817297664157941851
+      CrossExplo_101: 6533367958521848526
+      CrossExplo_102: -6517677648540980403
+      CrossExplo_103: -2102245612314436410
+      CrossExplo_104: 5723125379609687056
+      CrossExplo_105: 7062379422607286199
+      CrossExplo_106: 8716611565032352960
+      CrossExplo_107: 6537633576152223185
+      CrossExplo_108: 4957055909495807158
+      CrossExplo_109: 7710106540463506727
+      CrossExplo_11: -7657727269111600681
+      CrossExplo_110: 5556019819259022535
+      CrossExplo_111: -5073152423721854135
+      CrossExplo_112: 1467875734302009721
+      CrossExplo_113: 693687183981373966
+      CrossExplo_114: -6357245174078857850
+      CrossExplo_115: 1452863315829100159
+      CrossExplo_116: 4238204302115319563
+      CrossExplo_117: 8009548672704869632
+      CrossExplo_118: 7013286308204818038
+      CrossExplo_119: 8298097761289794518
+      CrossExplo_12: 1695887218799653117
+      CrossExplo_120: 6840949337138335830
+      CrossExplo_121: 1500053452928504473
+      CrossExplo_122: 3281123607399473852
+      CrossExplo_123: 2282165408243548700
+      CrossExplo_124: 5660329528904685236
+      CrossExplo_125: -5702855651146814792
+      CrossExplo_126: -2731853819060373893
+      CrossExplo_127: -6076350544963949107
+      CrossExplo_128: 4465097225697013919
+      CrossExplo_129: 7436719592573517298
+      CrossExplo_13: -7516119123372627985
+      CrossExplo_130: -5970079631974516722
+      CrossExplo_131: 4643390536489528647
+      CrossExplo_132: -276623516870713320
+      CrossExplo_133: -3124488840250112444
+      CrossExplo_134: 4870574142858046220
+      CrossExplo_135: 4245806094674896562
+      CrossExplo_136: 7130623942150366566
+      CrossExplo_137: -7414429962668600436
+      CrossExplo_138: -5559545482453764584
+      CrossExplo_139: 5422413985068903741
+      CrossExplo_14: 6889970043179581886
+      CrossExplo_140: -2105296619256895712
+      CrossExplo_141: 3347081304700714376
+      CrossExplo_142: 4109647174071176439
+      CrossExplo_143: 2116998898337283599
+      CrossExplo_144: -1983890192930259437
+      CrossExplo_145: 449151404946639482
+      CrossExplo_146: 4381588844670261941
+      CrossExplo_147: 610970010133702129
+      CrossExplo_148: -3822505812962745804
+      CrossExplo_149: 5953304184076351376
+      CrossExplo_15: 1480097815413857222
+      CrossExplo_150: -2909443472938986646
+      CrossExplo_151: 3685526482657954545
+      CrossExplo_152: 2638176938781071925
+      CrossExplo_153: 2529947145707523696
+      CrossExplo_154: -7425851185143885161
+      CrossExplo_155: 9134432881558135252
+      CrossExplo_156: 3716215361305347300
+      CrossExplo_157: 6176364225886213287
+      CrossExplo_158: -1331670177028887725
+      CrossExplo_159: -8181493091628414217
+      CrossExplo_16: 1899096737828955326
+      CrossExplo_160: -47588768430721595
+      CrossExplo_161: 8939152764310454433
+      CrossExplo_162: -5453966477755645645
+      CrossExplo_163: 9158001157044643823
+      CrossExplo_164: 8177480973159899080
+      CrossExplo_165: 7384266274523830937
+      CrossExplo_166: -7396211888996051508
+      CrossExplo_167: -6888039225143736588
+      CrossExplo_168: 8266772979736894559
+      CrossExplo_169: -1976157359510325846
+      CrossExplo_17: -7656035138414507683
+      CrossExplo_170: 6391855955499790388
+      CrossExplo_171: -6639328297044723960
+      CrossExplo_172: 7694365643919490737
+      CrossExplo_173: 7778076427018810684
+      CrossExplo_174: -5593296294428780206
+      CrossExplo_175: 3221254292469751502
+      CrossExplo_176: 3086264317027802511
+      CrossExplo_177: -2123853065820252039
+      CrossExplo_178: 7238096872168094810
+      CrossExplo_179: 5647236059717768673
+      CrossExplo_18: 862498141576785761
+      CrossExplo_180: 9068586497058716288
+      CrossExplo_181: -4593594096523962106
+      CrossExplo_182: -175520742808751924
+      CrossExplo_183: -7918884733493385140
+      CrossExplo_184: 7259770991840133164
+      CrossExplo_185: 7199101123665711825
+      CrossExplo_186: 6589067995968635311
+      CrossExplo_187: -2369410444956804345
+      CrossExplo_188: 7454262559080504516
+      CrossExplo_189: 664743408279944685
+      CrossExplo_19: 6160040144861182726
+      CrossExplo_190: 6772721136460737147
+      CrossExplo_191: -5407779564203181057
+      CrossExplo_192: 7765391892815874384
+      CrossExplo_193: 8756203277001919656
+      CrossExplo_194: -3465062002357762840
+      CrossExplo_195: -5199380719928954464
+      CrossExplo_196: -5628425887811960025
+      CrossExplo_197: -6698092760817500321
+      CrossExplo_198: 1763093026235037684
+      CrossExplo_199: 3050556001136127133
+      CrossExplo_2: 9088067472900901567
+      CrossExplo_20: 1108811787161143407
+      CrossExplo_200: -4526451075597539645
+      CrossExplo_201: 3095776660035278918
+      CrossExplo_202: 2310631225226265608
+      CrossExplo_203: 7256075615931230805
+      CrossExplo_204: -1602640917808182271
+      CrossExplo_205: 5848356643614875216
+      CrossExplo_206: -2035601338494727010
+      CrossExplo_207: 1837774624223478793
+      CrossExplo_208: 5912203568298328208
+      CrossExplo_209: 7803759622711151537
+      CrossExplo_21: -8483787862956599941
+      CrossExplo_210: 6275432408456015191
+      CrossExplo_211: 8482131375460720737
+      CrossExplo_22: 4144154717957081124
+      CrossExplo_23: 7585550174766714501
+      CrossExplo_24: 6605706695557612366
+      CrossExplo_25: 8394404763434268549
+      CrossExplo_26: 2307324483238598068
+      CrossExplo_27: 6958296719810256428
+      CrossExplo_28: 5420332866429680807
+      CrossExplo_29: -2120704749274101009
+      CrossExplo_3: 4159240448095143514
+      CrossExplo_30: -8275276678386126800
+      CrossExplo_31: -8991342266504674343
+      CrossExplo_32: -1292063892983834380
+      CrossExplo_33: -7363161679600828586
+      CrossExplo_34: 3046150075896219865
+      CrossExplo_35: 7066235154006182462
+      CrossExplo_36: -2472812448583958054
+      CrossExplo_37: 6353776283007778383
+      CrossExplo_38: 3538810993320849864
+      CrossExplo_39: 4574366718024660971
+      CrossExplo_4: 3029922631965231591
+      CrossExplo_40: 2215507336614650840
+      CrossExplo_41: 4094917507595213045
+      CrossExplo_42: 4273902186319823049
+      CrossExplo_43: 4539956349400254467
+      CrossExplo_44: -7746589208057231786
+      CrossExplo_45: -5966418036069606600
+      CrossExplo_46: -6530831348169686196
+      CrossExplo_47: -6280037921571928495
+      CrossExplo_48: 3823124321499803134
+      CrossExplo_49: 2147326911433384257
+      CrossExplo_5: 3859588829815255387
+      CrossExplo_50: -4829943224222583821
+      CrossExplo_51: -4749649529437302831
+      CrossExplo_52: 8498464558112114181
+      CrossExplo_53: 3249233448327890386
+      CrossExplo_54: -3595691665159635712
+      CrossExplo_55: -4601569112797795963
+      CrossExplo_56: 8523432798739592359
+      CrossExplo_57: 651678230836236354
+      CrossExplo_58: -1257366809819248295
+      CrossExplo_59: -8869733316449117150
+      CrossExplo_6: 6325666554204494739
+      CrossExplo_60: 7205013008609955459
+      CrossExplo_61: 8844296996195522116
+      CrossExplo_62: -4575853860645876395
+      CrossExplo_63: 4698125761101466369
+      CrossExplo_64: 2751309809966369309
+      CrossExplo_65: 5574022243997577548
+      CrossExplo_66: 6541434469388977931
+      CrossExplo_67: -6725057664105216930
+      CrossExplo_68: -4350547620823545864
+      CrossExplo_69: 210655527575893773
+      CrossExplo_7: -8792008815664618480
+      CrossExplo_70: -5616662999249969438
+      CrossExplo_71: -2153557905626624491
+      CrossExplo_72: -6853499218098225359
+      CrossExplo_73: 2177367362518182154
+      CrossExplo_74: -3964612125856844649
+      CrossExplo_75: 6505352183997875824
+      CrossExplo_76: 2253024837878394079
+      CrossExplo_77: -3947061357631628235
+      CrossExplo_78: -8499219413879858018
+      CrossExplo_79: -8562805270311487576
+      CrossExplo_8: -4433974338312977142
+      CrossExplo_80: 6177510584036221524
+      CrossExplo_81: -5443652399806509359
+      CrossExplo_82: 6778051898180027632
+      CrossExplo_83: -7945726920503511804
+      CrossExplo_84: 5726455655792378664
+      CrossExplo_85: -8027655214120640373
+      CrossExplo_86: 5199778865871463120
+      CrossExplo_87: 4122029553860117034
+      CrossExplo_88: 8947289223632005611
+      CrossExplo_89: 3792378586841409632
+      CrossExplo_9: -2431152595049576098
+      CrossExplo_90: -768482322839393502
+      CrossExplo_91: -5713516838550196179
+      CrossExplo_92: -2156615924142128659
+      CrossExplo_93: -2399446931252230733
+      CrossExplo_94: 8476642111288396404
+      CrossExplo_95: -2641539569265322243
+      CrossExplo_96: -3524809884399280017
+      CrossExplo_97: 8662982076488008310
+      CrossExplo_98: 5932999680319855553
+      CrossExplo_99: -2780114217942346018
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

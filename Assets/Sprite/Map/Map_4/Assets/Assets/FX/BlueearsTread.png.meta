@@ -1,0 +1,1833 @@
+fileFormatVersion: 2
+guid: de10ea667cdf10345b84bf1fbee1e8cb
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -6091856411319423568
+    second: BlueearsTread_0
+  - first:
+      213: -4194986077184219002
+    second: BlueearsTread_1
+  - first:
+      213: 6762439756972921708
+    second: BlueearsTread_2
+  - first:
+      213: 4775427039196529156
+    second: BlueearsTread_3
+  - first:
+      213: 8935025593204952983
+    second: BlueearsTread_4
+  - first:
+      213: 7312468003350559505
+    second: BlueearsTread_5
+  - first:
+      213: -2308574937075436954
+    second: BlueearsTread_6
+  - first:
+      213: 3464990620321359553
+    second: BlueearsTread_7
+  - first:
+      213: 3973095594320614379
+    second: BlueearsTread_8
+  - first:
+      213: 1760604943173329339
+    second: BlueearsTread_9
+  - first:
+      213: 1933461903275163841
+    second: BlueearsTread_10
+  - first:
+      213: 6618403523655752820
+    second: BlueearsTread_11
+  - first:
+      213: -2200971534647064364
+    second: BlueearsTread_12
+  - first:
+      213: 2699817672966895566
+    second: BlueearsTread_13
+  - first:
+      213: 2327981057777077572
+    second: BlueearsTread_14
+  - first:
+      213: 4757913284106135979
+    second: BlueearsTread_15
+  - first:
+      213: -6112141737093889035
+    second: BlueearsTread_16
+  - first:
+      213: 4005579456852580397
+    second: BlueearsTread_17
+  - first:
+      213: -8266446207781760913
+    second: BlueearsTread_18
+  - first:
+      213: -3745015694958702968
+    second: BlueearsTread_19
+  - first:
+      213: 697286744914139239
+    second: BlueearsTread_20
+  - first:
+      213: 5713928220500360424
+    second: BlueearsTread_21
+  - first:
+      213: 5641690672892608379
+    second: BlueearsTread_22
+  - first:
+      213: 5371723566954858160
+    second: BlueearsTread_23
+  - first:
+      213: 7033599678572967289
+    second: BlueearsTread_24
+  - first:
+      213: -8564915437684136302
+    second: BlueearsTread_25
+  - first:
+      213: 9172668590160354779
+    second: BlueearsTread_26
+  - first:
+      213: 6447209792042886583
+    second: BlueearsTread_27
+  - first:
+      213: 8877449037898249566
+    second: BlueearsTread_28
+  - first:
+      213: -8941765258224118829
+    second: BlueearsTread_29
+  - first:
+      213: 5331362139908158839
+    second: BlueearsTread_30
+  - first:
+      213: 654083512034220920
+    second: BlueearsTread_31
+  - first:
+      213: 1121040562888470373
+    second: BlueearsTread_32
+  - first:
+      213: 2129285163148251432
+    second: BlueearsTread_33
+  - first:
+      213: 1157866265534104708
+    second: BlueearsTread_34
+  - first:
+      213: 7785348293025528454
+    second: BlueearsTread_35
+  - first:
+      213: -1638610234676248182
+    second: BlueearsTread_36
+  - first:
+      213: -2663321675879727256
+    second: BlueearsTread_37
+  - first:
+      213: -8716592958666395059
+    second: BlueearsTread_38
+  - first:
+      213: 5692202997235801640
+    second: BlueearsTread_39
+  - first:
+      213: -6586487825435115431
+    second: BlueearsTread_40
+  - first:
+      213: 781517565807448885
+    second: BlueearsTread_41
+  - first:
+      213: -8890142754708003142
+    second: BlueearsTread_42
+  - first:
+      213: 7308939064309373279
+    second: BlueearsTread_43
+  - first:
+      213: -874568335844603058
+    second: BlueearsTread_44
+  - first:
+      213: 8075450023933248037
+    second: BlueearsTread_45
+  - first:
+      213: 4206648604017343059
+    second: BlueearsTread_46
+  - first:
+      213: -1880863195327437902
+    second: BlueearsTread_47
+  - first:
+      213: 5144280734936598705
+    second: BlueearsTread_48
+  - first:
+      213: 3805353642650882168
+    second: BlueearsTread_49
+  - first:
+      213: 960068983958119926
+    second: BlueearsTread_50
+  - first:
+      213: 984719020187901467
+    second: BlueearsTread_51
+  - first:
+      213: -898106066527903510
+    second: BlueearsTread_52
+  - first:
+      213: -6198738008330372554
+    second: BlueearsTread_53
+  - first:
+      213: 2737040080121414558
+    second: BlueearsTread_54
+  - first:
+      213: -3423073002105185170
+    second: BlueearsTread_55
+  - first:
+      213: 7084211995704398395
+    second: BlueearsTread_56
+  - first:
+      213: -8282599522901194590
+    second: BlueearsTread_57
+  - first:
+      213: -7118123024326729710
+    second: BlueearsTread_58
+  - first:
+      213: 400108985504926156
+    second: BlueearsTread_59
+  - first:
+      213: -8956932290521140766
+    second: BlueearsTread_60
+  - first:
+      213: -7638103769232060808
+    second: BlueearsTread_61
+  - first:
+      213: -3644905095743898325
+    second: BlueearsTread_62
+  - first:
+      213: 5049817448965336776
+    second: BlueearsTread_63
+  - first:
+      213: 1703635870769895314
+    second: BlueearsTread_64
+  - first:
+      213: -3551405987238330643
+    second: BlueearsTread_65
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlueearsTread_0
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 5176
+        width: 167
+        height: 188
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0bdae94bed0657ba0800000000000000
+      internalID: -6091856411319423568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_1
+      rect:
+        serializedVersion: 2
+        x: 1435
+        y: 5125
+        width: 233
+        height: 350
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 688a9b7836a68c5c0800000000000000
+      internalID: -4194986077184219002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_2
+      rect:
+        serializedVersion: 2
+        x: 2450
+        y: 5146
+        width: 225
+        height: 407
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c639959412309dd50800000000000000
+      internalID: 6762439756972921708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_3
+      rect:
+        serializedVersion: 2
+        x: 3471
+        y: 5128
+        width: 236
+        height: 540
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 402ca124799b54240800000000000000
+      internalID: 4775427039196529156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_4
+      rect:
+        serializedVersion: 2
+        x: 4480
+        y: 5126
+        width: 257
+        height: 654
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79f410eef669ffb70800000000000000
+      internalID: 8935025593204952983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_5
+      rect:
+        serializedVersion: 2
+        x: 5496
+        y: 5132
+        width: 270
+        height: 758
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11bbe1be7ea1b7560800000000000000
+      internalID: 7312468003350559505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_6
+      rect:
+        serializedVersion: 2
+        x: 2433
+        y: 4116
+        width: 263
+        height: 1005
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 662bf3a735b46ffd0800000000000000
+      internalID: -2308574937075436954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_7
+      rect:
+        serializedVersion: 2
+        x: 3460
+        y: 4102
+        width: 247
+        height: 1019
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c6a0526c9e161030800000000000000
+      internalID: 3464990620321359553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_8
+      rect:
+        serializedVersion: 2
+        x: 4491
+        y: 4968
+        width: 206
+        height: 153
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be356268465432730800000000000000
+      internalID: 3973095594320614379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_9
+      rect:
+        serializedVersion: 2
+        x: 5553
+        y: 5078
+        width: 79
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb1a4a32edcee6810800000000000000
+      internalID: 1760604943173329339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_10
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 4114
+        width: 267
+        height: 959
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c0877b6b5905da10800000000000000
+      internalID: 1933461903275163841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_11
+      rect:
+        serializedVersion: 2
+        x: 5606
+        y: 4991
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47cd1bf50fa49db50800000000000000
+      internalID: 6618403523655752820
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_12
+      rect:
+        serializedVersion: 2
+        x: 5607
+        y: 4997
+        width: 6
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d88d9cec049471e0800000000000000
+      internalID: -2200971534647064364
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_13
+      rect:
+        serializedVersion: 2
+        x: 5606
+        y: 4985
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec7738b8edda77520800000000000000
+      internalID: 2699817672966895566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_14
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 4122
+        width: 263
+        height: 850
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44d04a81076ae4020800000000000000
+      internalID: 2327981057777077572
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_15
+      rect:
+        serializedVersion: 2
+        x: 4491
+        y: 4124
+        width: 237
+        height: 771
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba922436ce0870240800000000000000
+      internalID: 4757913284106135979
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_16
+      rect:
+        serializedVersion: 2
+        x: 4580
+        y: 4890
+        width: 11
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f30eaf397f4d2ba0800000000000000
+      internalID: -6112141737093889035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_17
+      rect:
+        serializedVersion: 2
+        x: 4612
+        y: 4892
+        width: 8
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d28dc452b4da69730800000000000000
+      internalID: 4005579456852580397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_18
+      rect:
+        serializedVersion: 2
+        x: 5514
+        y: 4133
+        width: 244
+        height: 821
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f601b46b8fea74d80800000000000000
+      internalID: -8266446207781760913
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_19
+      rect:
+        serializedVersion: 2
+        x: 393
+        y: 3079
+        width: 252
+        height: 894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 88e49bf3118070cc0800000000000000
+      internalID: -3745015694958702968
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_20
+      rect:
+        serializedVersion: 2
+        x: 1416
+        y: 3088
+        width: 256
+        height: 948
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7681231a9924da900800000000000000
+      internalID: 697286744914139239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_21
+      rect:
+        serializedVersion: 2
+        x: 2439
+        y: 3092
+        width: 258
+        height: 1005
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ecf00f5173fb4f40800000000000000
+      internalID: 5713928220500360424
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_22
+      rect:
+        serializedVersion: 2
+        x: 3464
+        y: 3118
+        width: 261
+        height: 979
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b7ff56aa6cf4b4e40800000000000000
+      internalID: 5641690672892608379
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_23
+      rect:
+        serializedVersion: 2
+        x: 4489
+        y: 3164
+        width: 264
+        height: 933
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b640ff9f123c8a40800000000000000
+      internalID: 5371723566954858160
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_24
+      rect:
+        serializedVersion: 2
+        x: 5515
+        y: 3183
+        width: 264
+        height: 914
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 975b4ad54ad5c9160800000000000000
+      internalID: 7033599678572967289
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_25
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 2177
+        width: 264
+        height: 896
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 296e39dc9ce432980800000000000000
+      internalID: -8564915437684136302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_26
+      rect:
+        serializedVersion: 2
+        x: 1415
+        y: 2194
+        width: 264
+        height: 879
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bdd14eedb7ddb4f70800000000000000
+      internalID: 9172668590160354779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_27
+      rect:
+        serializedVersion: 2
+        x: 2435
+        y: 2212
+        width: 252
+        height: 861
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7b5e227a527197950800000000000000
+      internalID: 6447209792042886583
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_28
+      rect:
+        serializedVersion: 2
+        x: 3457
+        y: 2541
+        width: 248
+        height: 532
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e55fe8f7dd8033b70800000000000000
+      internalID: 8877449037898249566
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_29
+      rect:
+        serializedVersion: 2
+        x: 4483
+        y: 2788
+        width: 243
+        height: 285
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d35f968fd778e380800000000000000
+      internalID: -8941765258224118829
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_30
+      rect:
+        serializedVersion: 2
+        x: 5511
+        y: 2877
+        width: 231
+        height: 196
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 77531369e9dccf940800000000000000
+      internalID: 5331362139908158839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_31
+      rect:
+        serializedVersion: 2
+        x: 4509
+        y: 2585
+        width: 163
+        height: 195
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87b5d3c1d75c31900800000000000000
+      internalID: 654083512034220920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_32
+      rect:
+        serializedVersion: 2
+        x: 5536
+        y: 2648
+        width: 157
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56f65c1d37cbe8f00800000000000000
+      internalID: 1121040562888470373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_33
+      rect:
+        serializedVersion: 2
+        x: 5630
+        y: 2618
+        width: 10
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82116fe039dbc8d10800000000000000
+      internalID: 2129285163148251432
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_34
+      rect:
+        serializedVersion: 2
+        x: 3498
+        y: 2230
+        width: 187
+        height: 308
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 484819edb31911010800000000000000
+      internalID: 1157866265534104708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_35
+      rect:
+        serializedVersion: 2
+        x: 4525
+        y: 2248
+        width: 180
+        height: 318
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68afa72260d1b0c60800000000000000
+      internalID: 7785348293025528454
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_36
+      rect:
+        serializedVersion: 2
+        x: 5552
+        y: 2267
+        width: 172
+        height: 325
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a818dcc5cac7249e0800000000000000
+      internalID: -1638610234676248182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_37
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 1952
+        width: 193
+        height: 97
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86f3792fb0bf90bd0800000000000000
+      internalID: -2663321675879727256
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_38
+      rect:
+        serializedVersion: 2
+        x: 1511
+        y: 1930
+        width: 7
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d42b407f2e0780780800000000000000
+      internalID: -8716592958666395059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_39
+      rect:
+        serializedVersion: 2
+        x: 2476
+        y: 1771
+        width: 131
+        height: 206
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82e57a7a774cefe40800000000000000
+      internalID: 5692202997235801640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_40
+      rect:
+        serializedVersion: 2
+        x: 4534
+        y: 1866
+        width: 109
+        height: 116
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 950418f28381894a0800000000000000
+      internalID: -6586487825435115431
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_41
+      rect:
+        serializedVersion: 2
+        x: 5565
+        y: 1901
+        width: 95
+        height: 109
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5335eafd51288da00800000000000000
+      internalID: 781517565807448885
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_42
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 1892
+        width: 8
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab6ed1f344edf9480800000000000000
+      internalID: -8890142754708003142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_43
+      rect:
+        serializedVersion: 2
+        x: 3505
+        y: 1819
+        width: 120
+        height: 127
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f59d225ca519e6560800000000000000
+      internalID: 7308939064309373279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_44
+      rect:
+        serializedVersion: 2
+        x: 419
+        y: 1675
+        width: 149
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e4b8d227bb8ecd3f0800000000000000
+      internalID: -874568335844603058
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_45
+      rect:
+        serializedVersion: 2
+        x: 1447
+        y: 1723
+        width: 141
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52206fdd203c11070800000000000000
+      internalID: 8075450023933248037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_46
+      rect:
+        serializedVersion: 2
+        x: 1536
+        y: 1640
+        width: 7
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35ab8591e94016a30800000000000000
+      internalID: 4206648604017343059
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_47
+      rect:
+        serializedVersion: 2
+        x: 2560
+        y: 1636
+        width: 16
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b3e66b93e4d5e5e0800000000000000
+      internalID: -1880863195327437902
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_48
+      rect:
+        serializedVersion: 2
+        x: 3550
+        y: 1445
+        width: 107
+        height: 254
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b808c6a218246740800000000000000
+      internalID: 5144280734936598705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_49
+      rect:
+        serializedVersion: 2
+        x: 4609
+        y: 1587
+        width: 11
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 870d1f2f9f45fc430800000000000000
+      internalID: 3805353642650882168
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_50
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 1617
+        width: 8
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f5a1bc77a9d25d00800000000000000
+      internalID: 960068983958119926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_51
+      rect:
+        serializedVersion: 2
+        x: 1547
+        y: 1594
+        width: 6
+        height: 29
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1eded94bbc6aad00800000000000000
+      internalID: 984719020187901467
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_52
+      rect:
+        serializedVersion: 2
+        x: 5635
+        y: 1614
+        width: 8
+        height: 19
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae02bf57a494983f0800000000000000
+      internalID: -898106066527903510
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_53
+      rect:
+        serializedVersion: 2
+        x: 436
+        y: 1264
+        width: 164
+        height: 319
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 63a71cdaf98a9f9a0800000000000000
+      internalID: -6198738008330372554
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_54
+      rect:
+        serializedVersion: 2
+        x: 1464
+        y: 1286
+        width: 155
+        height: 279
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e93c4af837bebf520800000000000000
+      internalID: 2737040080121414558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_55
+      rect:
+        serializedVersion: 2
+        x: 2521
+        y: 1419
+        width: 117
+        height: 161
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6c5a45ad3dce70d0800000000000000
+      internalID: -3423073002105185170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_56
+      rect:
+        serializedVersion: 2
+        x: 4580
+        y: 1471
+        width: 95
+        height: 100
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b32958db64d205260800000000000000
+      internalID: 7084211995704398395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_57
+      rect:
+        serializedVersion: 2
+        x: 5610
+        y: 1498
+        width: 83
+        height: 84
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a887a4fd9b4e0d80800000000000000
+      internalID: -8282599522901194590
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_58
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 1306
+        width: 94
+        height: 93
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 210e973a2d8573d90800000000000000
+      internalID: -7118123024326729710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_59
+      rect:
+        serializedVersion: 2
+        x: 3524
+        y: 1327
+        width: 78
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc98670a0097d8500800000000000000
+      internalID: 400108985504926156
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_60
+      rect:
+        serializedVersion: 2
+        x: 4557
+        y: 1345
+        width: 69
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e1f242a98592b380800000000000000
+      internalID: -8956932290521140766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_61
+      rect:
+        serializedVersion: 2
+        x: 5597
+        y: 1358
+        width: 52
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87ec95d1711000690800000000000000
+      internalID: -7638103769232060808
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_62
+      rect:
+        serializedVersion: 2
+        x: 461
+        y: 913
+        width: 64
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b2d7c208022ba6dc0800000000000000
+      internalID: -3644905095743898325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_63
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 617
+        width: 7
+        height: 17
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cee52af63e841640800000000000000
+      internalID: 5049817448965336776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_64
+      rect:
+        serializedVersion: 2
+        x: 499
+        y: 503
+        width: 65
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2975ad75cc784a710800000000000000
+      internalID: 1703635870769895314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlueearsTread_65
+      rect:
+        serializedVersion: 2
+        x: 486
+        y: 346
+        width: 43
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: deeb67d121fd6bec0800000000000000
+      internalID: -3551405987238330643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BlueearsTread_0: -6091856411319423568
+      BlueearsTread_1: -4194986077184219002
+      BlueearsTread_10: 1933461903275163841
+      BlueearsTread_11: 6618403523655752820
+      BlueearsTread_12: -2200971534647064364
+      BlueearsTread_13: 2699817672966895566
+      BlueearsTread_14: 2327981057777077572
+      BlueearsTread_15: 4757913284106135979
+      BlueearsTread_16: -6112141737093889035
+      BlueearsTread_17: 4005579456852580397
+      BlueearsTread_18: -8266446207781760913
+      BlueearsTread_19: -3745015694958702968
+      BlueearsTread_2: 6762439756972921708
+      BlueearsTread_20: 697286744914139239
+      BlueearsTread_21: 5713928220500360424
+      BlueearsTread_22: 5641690672892608379
+      BlueearsTread_23: 5371723566954858160
+      BlueearsTread_24: 7033599678572967289
+      BlueearsTread_25: -8564915437684136302
+      BlueearsTread_26: 9172668590160354779
+      BlueearsTread_27: 6447209792042886583
+      BlueearsTread_28: 8877449037898249566
+      BlueearsTread_29: -8941765258224118829
+      BlueearsTread_3: 4775427039196529156
+      BlueearsTread_30: 5331362139908158839
+      BlueearsTread_31: 654083512034220920
+      BlueearsTread_32: 1121040562888470373
+      BlueearsTread_33: 2129285163148251432
+      BlueearsTread_34: 1157866265534104708
+      BlueearsTread_35: 7785348293025528454
+      BlueearsTread_36: -1638610234676248182
+      BlueearsTread_37: -2663321675879727256
+      BlueearsTread_38: -8716592958666395059
+      BlueearsTread_39: 5692202997235801640
+      BlueearsTread_4: 8935025593204952983
+      BlueearsTread_40: -6586487825435115431
+      BlueearsTread_41: 781517565807448885
+      BlueearsTread_42: -8890142754708003142
+      BlueearsTread_43: 7308939064309373279
+      BlueearsTread_44: -874568335844603058
+      BlueearsTread_45: 8075450023933248037
+      BlueearsTread_46: 4206648604017343059
+      BlueearsTread_47: -1880863195327437902
+      BlueearsTread_48: 5144280734936598705
+      BlueearsTread_49: 3805353642650882168
+      BlueearsTread_5: 7312468003350559505
+      BlueearsTread_50: 960068983958119926
+      BlueearsTread_51: 984719020187901467
+      BlueearsTread_52: -898106066527903510
+      BlueearsTread_53: -6198738008330372554
+      BlueearsTread_54: 2737040080121414558
+      BlueearsTread_55: -3423073002105185170
+      BlueearsTread_56: 7084211995704398395
+      BlueearsTread_57: -8282599522901194590
+      BlueearsTread_58: -7118123024326729710
+      BlueearsTread_59: 400108985504926156
+      BlueearsTread_6: -2308574937075436954
+      BlueearsTread_60: -8956932290521140766
+      BlueearsTread_61: -7638103769232060808
+      BlueearsTread_62: -3644905095743898325
+      BlueearsTread_63: 5049817448965336776
+      BlueearsTread_64: 1703635870769895314
+      BlueearsTread_65: -3551405987238330643
+      BlueearsTread_7: 3464990620321359553
+      BlueearsTread_8: 3973095594320614379
+      BlueearsTread_9: 1760604943173329339
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,3081 @@
+fileFormatVersion: 2
+guid: 1459c09031cb9b5488750d08ed430fb4
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 2607181868337531347
+    second: RedCrossExplo_0
+  - first:
+      213: -3111600748050288149
+    second: RedCrossExplo_1
+  - first:
+      213: 7240689843507556937
+    second: RedCrossExplo_2
+  - first:
+      213: -1233756514100887439
+    second: RedCrossExplo_3
+  - first:
+      213: -777237555256845047
+    second: RedCrossExplo_4
+  - first:
+      213: 611490413554986832
+    second: RedCrossExplo_5
+  - first:
+      213: -806578147865228568
+    second: RedCrossExplo_6
+  - first:
+      213: 1765902836727761788
+    second: RedCrossExplo_7
+  - first:
+      213: -1182379818347457598
+    second: RedCrossExplo_8
+  - first:
+      213: 2638254761751197757
+    second: RedCrossExplo_9
+  - first:
+      213: 8451857856164512337
+    second: RedCrossExplo_10
+  - first:
+      213: -8096543839210814443
+    second: RedCrossExplo_11
+  - first:
+      213: 7471886812145820220
+    second: RedCrossExplo_12
+  - first:
+      213: -4856065505057680949
+    second: RedCrossExplo_13
+  - first:
+      213: -4253739209090069792
+    second: RedCrossExplo_14
+  - first:
+      213: -8564983332061017372
+    second: RedCrossExplo_15
+  - first:
+      213: -4677778296683784503
+    second: RedCrossExplo_16
+  - first:
+      213: 3809068264956044927
+    second: RedCrossExplo_17
+  - first:
+      213: 4284788413517285926
+    second: RedCrossExplo_18
+  - first:
+      213: 1231321498027675437
+    second: RedCrossExplo_19
+  - first:
+      213: -6047149078815657657
+    second: RedCrossExplo_20
+  - first:
+      213: -6954899399166014029
+    second: RedCrossExplo_21
+  - first:
+      213: -4512212510806982610
+    second: RedCrossExplo_22
+  - first:
+      213: 1164144988650303522
+    second: RedCrossExplo_23
+  - first:
+      213: -4936291388257320863
+    second: RedCrossExplo_24
+  - first:
+      213: 5617121303944826567
+    second: RedCrossExplo_25
+  - first:
+      213: -5446391964473395377
+    second: RedCrossExplo_26
+  - first:
+      213: 3794456061062483667
+    second: RedCrossExplo_27
+  - first:
+      213: 4779887584871481600
+    second: RedCrossExplo_28
+  - first:
+      213: 1709104254642164683
+    second: RedCrossExplo_29
+  - first:
+      213: -946154637530997297
+    second: RedCrossExplo_30
+  - first:
+      213: 903714423440492964
+    second: RedCrossExplo_31
+  - first:
+      213: 4850287782320386673
+    second: RedCrossExplo_32
+  - first:
+      213: 2159501672194754315
+    second: RedCrossExplo_33
+  - first:
+      213: -1994243492135965739
+    second: RedCrossExplo_34
+  - first:
+      213: -5407432643599314178
+    second: RedCrossExplo_35
+  - first:
+      213: 2226891640865635528
+    second: RedCrossExplo_36
+  - first:
+      213: -8266721206648912841
+    second: RedCrossExplo_37
+  - first:
+      213: -7052616902994173247
+    second: RedCrossExplo_38
+  - first:
+      213: -7380998073486168878
+    second: RedCrossExplo_39
+  - first:
+      213: -8739475536340646279
+    second: RedCrossExplo_40
+  - first:
+      213: -4661932004230307411
+    second: RedCrossExplo_41
+  - first:
+      213: -8918641032723739275
+    second: RedCrossExplo_42
+  - first:
+      213: -2469170616520877927
+    second: RedCrossExplo_43
+  - first:
+      213: 1408779938029214310
+    second: RedCrossExplo_44
+  - first:
+      213: -2573628981250438719
+    second: RedCrossExplo_45
+  - first:
+      213: -7184931027022169947
+    second: RedCrossExplo_46
+  - first:
+      213: -8327233885941576737
+    second: RedCrossExplo_47
+  - first:
+      213: 6477596918711657228
+    second: RedCrossExplo_48
+  - first:
+      213: 5370421825774074366
+    second: RedCrossExplo_49
+  - first:
+      213: 4564555060300322437
+    second: RedCrossExplo_50
+  - first:
+      213: -5937957070036643539
+    second: RedCrossExplo_51
+  - first:
+      213: 5975687207789522073
+    second: RedCrossExplo_52
+  - first:
+      213: 6243651634237963717
+    second: RedCrossExplo_53
+  - first:
+      213: -72621465012932836
+    second: RedCrossExplo_54
+  - first:
+      213: 2778469658811585579
+    second: RedCrossExplo_55
+  - first:
+      213: -206648343944021670
+    second: RedCrossExplo_56
+  - first:
+      213: 525906482217260713
+    second: RedCrossExplo_57
+  - first:
+      213: -8897595217308677642
+    second: RedCrossExplo_58
+  - first:
+      213: 4573446381360645389
+    second: RedCrossExplo_59
+  - first:
+      213: 1718335674141513866
+    second: RedCrossExplo_60
+  - first:
+      213: 3843023364964606099
+    second: RedCrossExplo_61
+  - first:
+      213: -4869904833002797967
+    second: RedCrossExplo_62
+  - first:
+      213: -119538320725459460
+    second: RedCrossExplo_63
+  - first:
+      213: 1313863406945231673
+    second: RedCrossExplo_64
+  - first:
+      213: -7483078363684955324
+    second: RedCrossExplo_65
+  - first:
+      213: 8945842631041515183
+    second: RedCrossExplo_66
+  - first:
+      213: -159583783341313549
+    second: RedCrossExplo_67
+  - first:
+      213: 7627045955290159407
+    second: RedCrossExplo_68
+  - first:
+      213: -1784998336137700705
+    second: RedCrossExplo_69
+  - first:
+      213: -120571517007640716
+    second: RedCrossExplo_70
+  - first:
+      213: 4063583957064680866
+    second: RedCrossExplo_71
+  - first:
+      213: 6972610222554075753
+    second: RedCrossExplo_72
+  - first:
+      213: -3815133871265713024
+    second: RedCrossExplo_73
+  - first:
+      213: 4726159720267676177
+    second: RedCrossExplo_74
+  - first:
+      213: -6490931984648244494
+    second: RedCrossExplo_75
+  - first:
+      213: 7641479492023708464
+    second: RedCrossExplo_76
+  - first:
+      213: -3861136294706600690
+    second: RedCrossExplo_77
+  - first:
+      213: -7911975965995613194
+    second: RedCrossExplo_78
+  - first:
+      213: 8927888726804395381
+    second: RedCrossExplo_79
+  - first:
+      213: -7321689061915146502
+    second: RedCrossExplo_80
+  - first:
+      213: 6222763892978959440
+    second: RedCrossExplo_81
+  - first:
+      213: 4546711712642776384
+    second: RedCrossExplo_82
+  - first:
+      213: 3429618175344246066
+    second: RedCrossExplo_83
+  - first:
+      213: 6633800553321682943
+    second: RedCrossExplo_84
+  - first:
+      213: -1838465159305451142
+    second: RedCrossExplo_85
+  - first:
+      213: -3719184418176150950
+    second: RedCrossExplo_86
+  - first:
+      213: 3173395943433462841
+    second: RedCrossExplo_87
+  - first:
+      213: 1271623999101435938
+    second: RedCrossExplo_88
+  - first:
+      213: -92945084261347582
+    second: RedCrossExplo_89
+  - first:
+      213: -6158482656764056782
+    second: RedCrossExplo_90
+  - first:
+      213: 582232320482177187
+    second: RedCrossExplo_91
+  - first:
+      213: 8928373262611540055
+    second: RedCrossExplo_92
+  - first:
+      213: -3907715956513031095
+    second: RedCrossExplo_93
+  - first:
+      213: -1260889559224956389
+    second: RedCrossExplo_94
+  - first:
+      213: -4800863707577121846
+    second: RedCrossExplo_95
+  - first:
+      213: 1318749986230475671
+    second: RedCrossExplo_96
+  - first:
+      213: -76235045116260395
+    second: RedCrossExplo_97
+  - first:
+      213: -8663716827453480055
+    second: RedCrossExplo_98
+  - first:
+      213: 2456458826295827328
+    second: RedCrossExplo_99
+  - first:
+      213: -2186923393924131193
+    second: RedCrossExplo_100
+  - first:
+      213: 2780632898194759450
+    second: RedCrossExplo_101
+  - first:
+      213: 7330572139170169361
+    second: RedCrossExplo_102
+  - first:
+      213: -1448461761719248779
+    second: RedCrossExplo_103
+  - first:
+      213: 5479548048375368408
+    second: RedCrossExplo_104
+  - first:
+      213: 292168974699467720
+    second: RedCrossExplo_105
+  - first:
+      213: 3115070514424912601
+    second: RedCrossExplo_106
+  - first:
+      213: -5150370654646106809
+    second: RedCrossExplo_107
+  - first:
+      213: -5918218876348328132
+    second: RedCrossExplo_108
+  - first:
+      213: 3637971007963151281
+    second: RedCrossExplo_109
+  - first:
+      213: 4800158659824733570
+    second: RedCrossExplo_110
+  - first:
+      213: 2856810910078681707
+    second: RedCrossExplo_111
+  - first:
+      213: 5575238229744804567
+    second: RedCrossExplo_112
+  - first:
+      213: -6421219635175731475
+    second: RedCrossExplo_113
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: RedCrossExplo_0
+      rect:
+        serializedVersion: 2
+        x: 1321
+        y: 4941
+        width: 127
+        height: 117
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d9091788129e2420800000000000000
+      internalID: 2607181868337531347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_1
+      rect:
+        serializedVersion: 2
+        x: 2353
+        y: 4984
+        width: 94
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: be17f990b9f51d4d0800000000000000
+      internalID: -3111600748050288149
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_2
+      rect:
+        serializedVersion: 2
+        x: 3396
+        y: 5053
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 942fb03cc091c7460800000000000000
+      internalID: 7240689843507556937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_3
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 4896
+        width: 148
+        height: 152
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17041b5bcf0d0eee0800000000000000
+      internalID: -1233756514100887439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_4
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 4399
+        width: 792
+        height: 488
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 90d92dcbf82b635f0800000000000000
+      internalID: -777237555256845047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_5
+      rect:
+        serializedVersion: 2
+        x: 2358
+        y: 4877
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05f60839a437c7800800000000000000
+      internalID: 611490413554986832
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_6
+      rect:
+        serializedVersion: 2
+        x: 3327
+        y: 4342
+        width: 683
+        height: 544
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ea86eca2757ec4f0800000000000000
+      internalID: -806578147865228568
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_7
+      rect:
+        serializedVersion: 2
+        x: 4331
+        y: 4327
+        width: 724
+        height: 563
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7b430b164fb18810800000000000000
+      internalID: 1765902836727761788
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_8
+      rect:
+        serializedVersion: 2
+        x: 1219
+        y: 4377
+        width: 817
+        height: 498
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c31fc9d1d7579fe0800000000000000
+      internalID: -1182379818347457598
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_9
+      rect:
+        serializedVersion: 2
+        x: 2225
+        y: 4358
+        width: 739
+        height: 518
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d38b92d4ab6fc9420800000000000000
+      internalID: 2638254761751197757
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_10
+      rect:
+        serializedVersion: 2
+        x: 2911
+        y: 4721
+        width: 162
+        height: 139
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 152c7c8b0f70b4570800000000000000
+      internalID: 8451857856164512337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_11
+      rect:
+        serializedVersion: 2
+        x: 3977
+        y: 4748
+        width: 79
+        height: 88
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 514467b864c43af80800000000000000
+      internalID: -8096543839210814443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_12
+      rect:
+        serializedVersion: 2
+        x: 5075
+        y: 4801
+        width: 22
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c32a0e7c77971b760800000000000000
+      internalID: 7471886812145820220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_13
+      rect:
+        serializedVersion: 2
+        x: 63
+        y: 4563
+        width: 121
+        height: 123
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc15205d62acb9cb0800000000000000
+      internalID: -4856065505057680949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_14
+      rect:
+        serializedVersion: 2
+        x: 1072
+        y: 4582
+        width: 87
+        height: 87
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0ea09030abea7f4c0800000000000000
+      internalID: -4253739209090069792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_15
+      rect:
+        serializedVersion: 2
+        x: 2092
+        y: 4611
+        width: 31
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea8c59e901132980800000000000000
+      internalID: -8564983332061017372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_16
+      rect:
+        serializedVersion: 2
+        x: 3087
+        y: 4619
+        width: 22
+        height: 22
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c691205c61351fb0800000000000000
+      internalID: -4677778296683784503
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_17
+      rect:
+        serializedVersion: 2
+        x: 3232
+        y: 4619
+        width: 155
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f762be9d7678cd430800000000000000
+      internalID: 3809068264956044927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_18
+      rect:
+        serializedVersion: 2
+        x: 4241
+        y: 4636
+        width: 137
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 62a486d3c50a67b30800000000000000
+      internalID: 4284788413517285926
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_19
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 4099
+        width: 292
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2fcd3ee068861110800000000000000
+      internalID: 1231321498027675437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_20
+      rect:
+        serializedVersion: 2
+        x: 600
+        y: 4244
+        width: 132
+        height: 132
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 741bc55b3f5341ca0800000000000000
+      internalID: -6047149078815657657
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_21
+      rect:
+        serializedVersion: 2
+        x: 1654
+        y: 4232
+        width: 101
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3bdc12858db3b7f90800000000000000
+      internalID: -6954899399166014029
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_22
+      rect:
+        serializedVersion: 2
+        x: 2716
+        y: 4230
+        width: 55
+        height: 54
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e20c64ec0a66161c0800000000000000
+      internalID: -4512212510806982610
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_23
+      rect:
+        serializedVersion: 2
+        x: 1372
+        y: 4095
+        width: 276
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2207d8303bfd72010800000000000000
+      internalID: 1164144988650303522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_24
+      rect:
+        serializedVersion: 2
+        x: 3771
+        y: 4215
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1604a1fc225ce7bb0800000000000000
+      internalID: -4936291388257320863
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_25
+      rect:
+        serializedVersion: 2
+        x: 2511
+        y: 4095
+        width: 154
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7ce09eda01604fd40800000000000000
+      internalID: 5617121303944826567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_26
+      rect:
+        serializedVersion: 2
+        x: 4809
+        y: 4190
+        width: 24
+        height: 23
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f4775025d578a64b0800000000000000
+      internalID: -5446391964473395377
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_27
+      rect:
+        serializedVersion: 2
+        x: 654
+        y: 4095
+        width: 116
+        height: 83
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3de05730fad98a430800000000000000
+      internalID: 3794456061062483667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_28
+      rect:
+        serializedVersion: 2
+        x: 2413
+        y: 4099
+        width: 68
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 001809afe62955240800000000000000
+      internalID: 4779887584871481600
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_29
+      rect:
+        serializedVersion: 2
+        x: 1571
+        y: 3858
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc31e0ea345f7b710800000000000000
+      internalID: 1709104254642164683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_30
+      rect:
+        serializedVersion: 2
+        x: 2235
+        y: 3257
+        width: 735
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fcd506fbe559ed2f0800000000000000
+      internalID: -946154637530997297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_31
+      rect:
+        serializedVersion: 2
+        x: 4252
+        y: 3230
+        width: 862
+        height: 628
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4a94193ea73aa8c00800000000000000
+      internalID: 903714423440492964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_32
+      rect:
+        serializedVersion: 2
+        x: 133
+        y: 3631
+        width: 112
+        height: 113
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 172bf934a0faf4340800000000000000
+      internalID: 4850287782320386673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_33
+      rect:
+        serializedVersion: 2
+        x: 218
+        y: 3149
+        width: 680
+        height: 706
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b07c70f445718fd10800000000000000
+      internalID: 2159501672194754315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_34
+      rect:
+        serializedVersion: 2
+        x: 1149
+        y: 3655
+        width: 79
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dbe99f1c160354e0800000000000000
+      internalID: -1994243492135965739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_35
+      rect:
+        serializedVersion: 2
+        x: 1226
+        y: 3272
+        width: 701
+        height: 556
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef2596319a0f4f4b0800000000000000
+      internalID: -5407432643599314178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_36
+      rect:
+        serializedVersion: 2
+        x: 2175
+        y: 3690
+        width: 25
+        height: 24
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cc3517162287ee10800000000000000
+      internalID: 2226891640865635528
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_37
+      rect:
+        serializedVersion: 2
+        x: 3184
+        y: 3243
+        width: 827
+        height: 605
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 734c08c8cd4b64d80800000000000000
+      internalID: -8266721206648912841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_38
+      rect:
+        serializedVersion: 2
+        x: 4174
+        y: 3703
+        width: 24
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c2ed180b42102e90800000000000000
+      internalID: -7052616902994173247
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_39
+      rect:
+        serializedVersion: 2
+        x: 836
+        y: 3542
+        width: 140
+        height: 144
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2dca30ebb5d619990800000000000000
+      internalID: -7380998073486168878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_40
+      rect:
+        serializedVersion: 2
+        x: 1896
+        y: 3554
+        width: 115
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 976033dad4527b680800000000000000
+      internalID: -8739475536340646279
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_41
+      rect:
+        serializedVersion: 2
+        x: 2959
+        y: 3568
+        width: 88
+        height: 101
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da1e3d8ca8d7d4fb0800000000000000
+      internalID: -4661932004230307411
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_42
+      rect:
+        serializedVersion: 2
+        x: 4027
+        y: 3596
+        width: 50
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 57d4745db3f9a3480800000000000000
+      internalID: -8918641032723739275
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_43
+      rect:
+        serializedVersion: 2
+        x: 141
+        y: 2330
+        width: 190
+        height: 192
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 998d070186ebbbdd0800000000000000
+      internalID: -2469170616520877927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_44
+      rect:
+        serializedVersion: 2
+        x: 263
+        y: 2332
+        width: 701
+        height: 511
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66a9decb3edfc8310800000000000000
+      internalID: 1408779938029214310
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_45
+      rect:
+        serializedVersion: 2
+        x: 1150
+        y: 2324
+        width: 183
+        height: 186
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c9cae4c312a84cd0800000000000000
+      internalID: -2573628981250438719
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_46
+      rect:
+        serializedVersion: 2
+        x: 1277
+        y: 2331
+        width: 725
+        height: 522
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a839ae5c4ff94c90800000000000000
+      internalID: -7184931027022169947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_47
+      rect:
+        serializedVersion: 2
+        x: 2158
+        y: 2319
+        width: 177
+        height: 178
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fdb4bda76e8bf6c80800000000000000
+      internalID: -8327233885941576737
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_48
+      rect:
+        serializedVersion: 2
+        x: 2291
+        y: 2335
+        width: 524
+        height: 529
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c0329f9e31c05e950800000000000000
+      internalID: 6477596918711657228
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_49
+      rect:
+        serializedVersion: 2
+        x: 2752
+        y: 2369
+        width: 167
+        height: 166
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ef9b4436232978a40800000000000000
+      internalID: 5370421825774074366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_50
+      rect:
+        serializedVersion: 2
+        x: 2928
+        y: 2338
+        width: 104
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58699eea4ae885f30800000000000000
+      internalID: 4564555060300322437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_51
+      rect:
+        serializedVersion: 2
+        x: 3167
+        y: 2314
+        width: 170
+        height: 171
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d2152f46183289da0800000000000000
+      internalID: -5937957070036643539
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_52
+      rect:
+        serializedVersion: 2
+        x: 3306
+        y: 2320
+        width: 540
+        height: 554
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 99ce32ddad7ede250800000000000000
+      internalID: 5975687207789522073
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_53
+      rect:
+        serializedVersion: 2
+        x: 3799
+        y: 2368
+        width: 157
+        height: 156
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cd7a00c418e5a650800000000000000
+      internalID: 6243651634237963717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_54
+      rect:
+        serializedVersion: 2
+        x: 4178
+        y: 2310
+        width: 161
+        height: 163
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c1fe5de892ffdfef0800000000000000
+      internalID: -72621465012932836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_55
+      rect:
+        serializedVersion: 2
+        x: 4321
+        y: 2428
+        width: 555
+        height: 456
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b245aa80f6b1f8620800000000000000
+      internalID: 2778469658811585579
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_56
+      rect:
+        serializedVersion: 2
+        x: 4846
+        y: 2367
+        width: 146
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a593bc11d66d12df0800000000000000
+      internalID: -206648343944021670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_57
+      rect:
+        serializedVersion: 2
+        x: 484
+        y: 2194
+        width: 127
+        height: 210
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a692a1c8256c4700800000000000000
+      internalID: 525906482217260713
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_58
+      rect:
+        serializedVersion: 2
+        x: 3985
+        y: 2346
+        width: 73
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f90a159a44658480800000000000000
+      internalID: -8897595217308677642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_59
+      rect:
+        serializedVersion: 2
+        x: 5070
+        y: 2357
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d050c40b045287f30800000000000000
+      internalID: 4573446381360645389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_60
+      rect:
+        serializedVersion: 2
+        x: 1522
+        y: 2185
+        width: 105
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8816160131c8d710800000000000000
+      internalID: 1718335674141513866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_61
+      rect:
+        serializedVersion: 2
+        x: 2564
+        y: 2180
+        width: 75
+        height: 74
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 390ed34a369255530800000000000000
+      internalID: 3843023364964606099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_62
+      rect:
+        serializedVersion: 2
+        x: 3615
+        y: 2183
+        width: 27
+        height: 27
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 17409e23b5f9a6cb0800000000000000
+      internalID: -4869904833002797967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_63
+      rect:
+        serializedVersion: 2
+        x: 4652
+        y: 2173
+        width: 7
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cfdbc18d780575ef0800000000000000
+      internalID: -119538320725459460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_64
+      rect:
+        serializedVersion: 2
+        x: 4649
+        y: 2164
+        width: 15
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 933ea56bec7cb3210800000000000000
+      internalID: 1313863406945231673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_65
+      rect:
+        serializedVersion: 2
+        x: 528
+        y: 1435
+        width: 258
+        height: 434
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44b952210e3c62890800000000000000
+      internalID: -7483078363684955324
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_66
+      rect:
+        serializedVersion: 2
+        x: 1667
+        y: 1728
+        width: 148
+        height: 150
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fae76cfc974062c70800000000000000
+      internalID: 8945842631041515183
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_67
+      rect:
+        serializedVersion: 2
+        x: 2707
+        y: 1749
+        width: 136
+        height: 137
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f13702056b09cdf0800000000000000
+      internalID: -159583783341313549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_68
+      rect:
+        serializedVersion: 2
+        x: 3748
+        y: 1770
+        width: 123
+        height: 122
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2956a2f2e5b8d960800000000000000
+      internalID: 7627045955290159407
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_69
+      rect:
+        serializedVersion: 2
+        x: 4790
+        y: 1792
+        width: 106
+        height: 105
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f9a59d978796a37e0800000000000000
+      internalID: -1784998336137700705
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_70
+      rect:
+        serializedVersion: 2
+        x: 216
+        y: 1472
+        width: 308
+        height: 245
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 477cab618d4a35ef0800000000000000
+      internalID: -120571517007640716
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_71
+      rect:
+        serializedVersion: 2
+        x: 1407
+        y: 1591
+        width: 125
+        height: 125
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2a501d34410c46830800000000000000
+      internalID: 4063583957064680866
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_72
+      rect:
+        serializedVersion: 2
+        x: 1568
+        y: 1438
+        width: 207
+        height: 286
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 962d7901e00b3c060800000000000000
+      internalID: 6972610222554075753
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_73
+      rect:
+        serializedVersion: 2
+        x: 2440
+        y: 1613
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08475a025fbed0bc0800000000000000
+      internalID: -3815133871265713024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_74
+      rect:
+        serializedVersion: 2
+        x: 2494
+        y: 1432
+        width: 310
+        height: 292
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11a705ea931b69140800000000000000
+      internalID: 4726159720267676177
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_75
+      rect:
+        serializedVersion: 2
+        x: 3477
+        y: 1642
+        width: 61
+        height: 61
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2f2f1d910c39be5a0800000000000000
+      internalID: -6490931984648244494
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_76
+      rect:
+        serializedVersion: 2
+        x: 3649
+        y: 1447
+        width: 184
+        height: 278
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 03b61889c1dfb0a60800000000000000
+      internalID: 7641479492023708464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_77
+      rect:
+        serializedVersion: 2
+        x: 4523
+        y: 1679
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0525a44ffc7a6ac0800000000000000
+      internalID: -3861136294706600690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_78
+      rect:
+        serializedVersion: 2
+        x: 4691
+        y: 1453
+        width: 169
+        height: 273
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f3476347c3033290800000000000000
+      internalID: -7911975965995613194
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_79
+      rect:
+        serializedVersion: 2
+        x: 1231
+        y: 1468
+        width: 179
+        height: 194
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 575f36bbe7b36eb70800000000000000
+      internalID: 8927888726804395381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_80
+      rect:
+        serializedVersion: 2
+        x: 2247
+        y: 1513
+        width: 147
+        height: 146
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: af64fa41792246a90800000000000000
+      internalID: -7321689061915146502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_81
+      rect:
+        serializedVersion: 2
+        x: 3264
+        y: 1521
+        width: 133
+        height: 134
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 05443228ac2bb5650800000000000000
+      internalID: 6222763892978959440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_82
+      rect:
+        serializedVersion: 2
+        x: 4282
+        y: 1531
+        width: 119
+        height: 118
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 04d3e20963a291f30800000000000000
+      internalID: 4546711712642776384
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_83
+      rect:
+        serializedVersion: 2
+        x: 424
+        y: 1424
+        width: 61
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23dfd904f83789f20800000000000000
+      internalID: 3429618175344246066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_84
+      rect:
+        serializedVersion: 2
+        x: 774
+        y: 1343
+        width: 134
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff75783b47eff0c50800000000000000
+      internalID: 6633800553321682943
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_85
+      rect:
+        serializedVersion: 2
+        x: 1474
+        y: 1440
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a79aaaf9da57c76e0800000000000000
+      internalID: -1838465159305451142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_86
+      rect:
+        serializedVersion: 2
+        x: 1824
+        y: 1344
+        width: 117
+        height: 119
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a52517c0a7dc26cc0800000000000000
+      internalID: -3719184418176150950
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_87
+      rect:
+        serializedVersion: 2
+        x: 2875
+        y: 1348
+        width: 98
+        height: 99
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93464041cca2a0c20800000000000000
+      internalID: 3173395943433462841
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_88
+      rect:
+        serializedVersion: 2
+        x: 74
+        y: 1282
+        width: 146
+        height: 154
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2208d423a47b5a110800000000000000
+      internalID: 1271623999101435938
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_89
+      rect:
+        serializedVersion: 2
+        x: 1086
+        y: 1280
+        width: 135
+        height: 143
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 20fcbf430fac5bef0800000000000000
+      internalID: -92945084261347582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_90
+      rect:
+        serializedVersion: 2
+        x: 2103
+        y: 1282
+        width: 118
+        height: 126
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 23bac2817aca88aa0800000000000000
+      internalID: -6158482656764056782
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_91
+      rect:
+        serializedVersion: 2
+        x: 3121
+        y: 1287
+        width: 99
+        height: 106
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a0771fe531841800800000000000000
+      internalID: 582232320482177187
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_92
+      rect:
+        serializedVersion: 2
+        x: 3928
+        y: 1354
+        width: 75
+        height: 76
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7586e048d24f7eb70800000000000000
+      internalID: 8928373262611540055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_93
+      rect:
+        serializedVersion: 2
+        x: 4145
+        y: 1295
+        width: 72
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 94c3ae0aa0105c9c0800000000000000
+      internalID: -3907715956513031095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_94
+      rect:
+        serializedVersion: 2
+        x: 4985
+        y: 1364
+        width: 44
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b1ac56950ab608ee0800000000000000
+      internalID: -1260889559224956389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_95
+      rect:
+        serializedVersion: 2
+        x: 560
+        y: 791
+        width: 240
+        height: 344
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac30dced4e7ef5db0800000000000000
+      internalID: -4800863707577121846
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_96
+      rect:
+        serializedVersion: 2
+        x: 1587
+        y: 817
+        width: 235
+        height: 297
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b91dc10242d4210800000000000000
+      internalID: 1318749986230475671
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_97
+      rect:
+        serializedVersion: 2
+        x: 2812
+        y: 848
+        width: 29
+        height: 28
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5dfc86061a821fef0800000000000000
+      internalID: -76235045116260395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_98
+      rect:
+        serializedVersion: 2
+        x: 3848
+        y: 863
+        width: 25
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 983af01a27b44c780800000000000000
+      internalID: -8663716827453480055
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_99
+      rect:
+        serializedVersion: 2
+        x: 182
+        y: 519
+        width: 246
+        height: 151
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 08b5cb2a948171220800000000000000
+      internalID: 2456458826295827328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_100
+      rect:
+        serializedVersion: 2
+        x: 615
+        y: 437
+        width: 151
+        height: 264
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 786192292cc76a1e0800000000000000
+      internalID: -2186923393924131193
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_101
+      rect:
+        serializedVersion: 2
+        x: 1204
+        y: 532
+        width: 243
+        height: 147
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1fd9a373eac69620800000000000000
+      internalID: 2780632898194759450
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_102
+      rect:
+        serializedVersion: 2
+        x: 1691
+        y: 591
+        width: 100
+        height: 108
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1120d93858c6bb560800000000000000
+      internalID: 7330572139170169361
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_103
+      rect:
+        serializedVersion: 2
+        x: 2736
+        y: 616
+        width: 77
+        height: 78
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 578dcf5b3b706ebe0800000000000000
+      internalID: -1448461761719248779
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_104
+      rect:
+        serializedVersion: 2
+        x: 3785
+        y: 639
+        width: 47
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8da49190be34b0c40800000000000000
+      internalID: 5479548048375368408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_105
+      rect:
+        serializedVersion: 2
+        x: 1661
+        y: 448
+        width: 91
+        height: 133
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c31a5f622efd0400800000000000000
+      internalID: 292168974699467720
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_106
+      rect:
+        serializedVersion: 2
+        x: 2230
+        y: 550
+        width: 47
+        height: 46
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9da1796e024fa3b20800000000000000
+      internalID: 3115070514424912601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_107
+      rect:
+        serializedVersion: 2
+        x: 3261
+        y: 572
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 745093c6d253688b0800000000000000
+      internalID: -5150370654646106809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_108
+      rect:
+        serializedVersion: 2
+        x: 2742
+        y: 550
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c371f3cb9434edda0800000000000000
+      internalID: -5918218876348328132
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_109
+      rect:
+        serializedVersion: 2
+        x: 3771
+        y: 335
+        width: 286
+        height: 223
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb30d06b5bac7230800000000000000
+      internalID: 3637971007963151281
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_110
+      rect:
+        serializedVersion: 2
+        x: 916
+        y: 342
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28d4e586ed69d9240800000000000000
+      internalID: 4800158659824733570
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_111
+      rect:
+        serializedVersion: 2
+        x: 1959
+        y: 337
+        width: 25
+        height: 25
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6243bdf26e65a720800000000000000
+      internalID: 2856810910078681707
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_112
+      rect:
+        serializedVersion: 2
+        x: 2711
+        y: 340
+        width: 305
+        height: 203
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7d2ed1e81a93f5d40800000000000000
+      internalID: 5575238229744804567
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: RedCrossExplo_113
+      rect:
+        serializedVersion: 2
+        x: 37
+        y: 279
+        width: 27
+        height: 26
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dee469c43ce33e6a0800000000000000
+      internalID: -6421219635175731475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      RedCrossExplo_0: 2607181868337531347
+      RedCrossExplo_1: -3111600748050288149
+      RedCrossExplo_10: 8451857856164512337
+      RedCrossExplo_100: -2186923393924131193
+      RedCrossExplo_101: 2780632898194759450
+      RedCrossExplo_102: 7330572139170169361
+      RedCrossExplo_103: -1448461761719248779
+      RedCrossExplo_104: 5479548048375368408
+      RedCrossExplo_105: 292168974699467720
+      RedCrossExplo_106: 3115070514424912601
+      RedCrossExplo_107: -5150370654646106809
+      RedCrossExplo_108: -5918218876348328132
+      RedCrossExplo_109: 3637971007963151281
+      RedCrossExplo_11: -8096543839210814443
+      RedCrossExplo_110: 4800158659824733570
+      RedCrossExplo_111: 2856810910078681707
+      RedCrossExplo_112: 5575238229744804567
+      RedCrossExplo_113: -6421219635175731475
+      RedCrossExplo_12: 7471886812145820220
+      RedCrossExplo_13: -4856065505057680949
+      RedCrossExplo_14: -4253739209090069792
+      RedCrossExplo_15: -8564983332061017372
+      RedCrossExplo_16: -4677778296683784503
+      RedCrossExplo_17: 3809068264956044927
+      RedCrossExplo_18: 4284788413517285926
+      RedCrossExplo_19: 1231321498027675437
+      RedCrossExplo_2: 7240689843507556937
+      RedCrossExplo_20: -6047149078815657657
+      RedCrossExplo_21: -6954899399166014029
+      RedCrossExplo_22: -4512212510806982610
+      RedCrossExplo_23: 1164144988650303522
+      RedCrossExplo_24: -4936291388257320863
+      RedCrossExplo_25: 5617121303944826567
+      RedCrossExplo_26: -5446391964473395377
+      RedCrossExplo_27: 3794456061062483667
+      RedCrossExplo_28: 4779887584871481600
+      RedCrossExplo_29: 1709104254642164683
+      RedCrossExplo_3: -1233756514100887439
+      RedCrossExplo_30: -946154637530997297
+      RedCrossExplo_31: 903714423440492964
+      RedCrossExplo_32: 4850287782320386673
+      RedCrossExplo_33: 2159501672194754315
+      RedCrossExplo_34: -1994243492135965739
+      RedCrossExplo_35: -5407432643599314178
+      RedCrossExplo_36: 2226891640865635528
+      RedCrossExplo_37: -8266721206648912841
+      RedCrossExplo_38: -7052616902994173247
+      RedCrossExplo_39: -7380998073486168878
+      RedCrossExplo_4: -777237555256845047
+      RedCrossExplo_40: -8739475536340646279
+      RedCrossExplo_41: -4661932004230307411
+      RedCrossExplo_42: -8918641032723739275
+      RedCrossExplo_43: -2469170616520877927
+      RedCrossExplo_44: 1408779938029214310
+      RedCrossExplo_45: -2573628981250438719
+      RedCrossExplo_46: -7184931027022169947
+      RedCrossExplo_47: -8327233885941576737
+      RedCrossExplo_48: 6477596918711657228
+      RedCrossExplo_49: 5370421825774074366
+      RedCrossExplo_5: 611490413554986832
+      RedCrossExplo_50: 4564555060300322437
+      RedCrossExplo_51: -5937957070036643539
+      RedCrossExplo_52: 5975687207789522073
+      RedCrossExplo_53: 6243651634237963717
+      RedCrossExplo_54: -72621465012932836
+      RedCrossExplo_55: 2778469658811585579
+      RedCrossExplo_56: -206648343944021670
+      RedCrossExplo_57: 525906482217260713
+      RedCrossExplo_58: -8897595217308677642
+      RedCrossExplo_59: 4573446381360645389
+      RedCrossExplo_6: -806578147865228568
+      RedCrossExplo_60: 1718335674141513866
+      RedCrossExplo_61: 3843023364964606099
+      RedCrossExplo_62: -4869904833002797967
+      RedCrossExplo_63: -119538320725459460
+      RedCrossExplo_64: 1313863406945231673
+      RedCrossExplo_65: -7483078363684955324
+      RedCrossExplo_66: 8945842631041515183
+      RedCrossExplo_67: -159583783341313549
+      RedCrossExplo_68: 7627045955290159407
+      RedCrossExplo_69: -1784998336137700705
+      RedCrossExplo_7: 1765902836727761788
+      RedCrossExplo_70: -120571517007640716
+      RedCrossExplo_71: 4063583957064680866
+      RedCrossExplo_72: 6972610222554075753
+      RedCrossExplo_73: -3815133871265713024
+      RedCrossExplo_74: 4726159720267676177
+      RedCrossExplo_75: -6490931984648244494
+      RedCrossExplo_76: 7641479492023708464
+      RedCrossExplo_77: -3861136294706600690
+      RedCrossExplo_78: -7911975965995613194
+      RedCrossExplo_79: 8927888726804395381
+      RedCrossExplo_8: -1182379818347457598
+      RedCrossExplo_80: -7321689061915146502
+      RedCrossExplo_81: 6222763892978959440
+      RedCrossExplo_82: 4546711712642776384
+      RedCrossExplo_83: 3429618175344246066
+      RedCrossExplo_84: 6633800553321682943
+      RedCrossExplo_85: -1838465159305451142
+      RedCrossExplo_86: -3719184418176150950
+      RedCrossExplo_87: 3173395943433462841
+      RedCrossExplo_88: 1271623999101435938
+      RedCrossExplo_89: -92945084261347582
+      RedCrossExplo_9: 2638254761751197757
+      RedCrossExplo_90: -6158482656764056782
+      RedCrossExplo_91: 582232320482177187
+      RedCrossExplo_92: 8928373262611540055
+      RedCrossExplo_93: -3907715956513031095
+      RedCrossExplo_94: -1260889559224956389
+      RedCrossExplo_95: -4800863707577121846
+      RedCrossExplo_96: 1318749986230475671
+      RedCrossExplo_97: -76235045116260395
+      RedCrossExplo_98: -8663716827453480055
+      RedCrossExplo_99: 2456458826295827328
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

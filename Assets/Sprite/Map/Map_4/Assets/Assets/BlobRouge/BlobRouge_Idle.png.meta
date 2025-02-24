@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 7ba3af2b482da8c47bff2dd0282a7a5b
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -8048975746544863543
+    second: BlobRouge_Idle_0
+  - first:
+      213: 5466907921142263824
+    second: BlobRouge_Idle_1
+  - first:
+      213: 4088178542718556900
+    second: BlobRouge_Idle_2
+  - first:
+      213: -6394507692061459726
+    second: BlobRouge_Idle_3
+  - first:
+      213: 6087248039914731954
+    second: BlobRouge_Idle_4
+  - first:
+      213: -6072930797257299239
+    second: BlobRouge_Idle_5
+  - first:
+      213: -5547627203473634801
+    second: BlobRouge_Idle_6
+  - first:
+      213: -2920706940740713353
+    second: BlobRouge_Idle_7
+  - first:
+      213: 5830628106769910998
+    second: BlobRouge_Idle_8
+  - first:
+      213: -8921569339818140595
+    second: BlobRouge_Idle_9
+  - first:
+      213: -1050115086271023272
+    second: BlobRouge_Idle_10
+  - first:
+      213: -6933275687443903359
+    second: BlobRouge_Idle_11
+  - first:
+      213: -2663845213699573601
+    second: BlobRouge_Idle_12
+  - first:
+      213: 4552584959292540626
+    second: BlobRouge_Idle_13
+  - first:
+      213: -3760320686348315125
+    second: BlobRouge_Idle_14
+  - first:
+      213: 925841864339518931
+    second: BlobRouge_Idle_15
+  - first:
+      213: -3050997723454374216
+    second: BlobRouge_Idle_16
+  - first:
+      213: 4742555626351759717
+    second: BlobRouge_Idle_17
+  - first:
+      213: -3965226891847126573
+    second: BlobRouge_Idle_18
+  - first:
+      213: 5768535044249316163
+    second: BlobRouge_Idle_19
+  - first:
+      213: -3253374857063356919
+    second: BlobRouge_Idle_20
+  - first:
+      213: -5289142878287492921
+    second: BlobRouge_Idle_21
+  - first:
+      213: -1758776688145908775
+    second: BlobRouge_Idle_22
+  - first:
+      213: -8109908585545883302
+    second: BlobRouge_Idle_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlobRouge_Idle_0
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 4359
+        width: 1026
+        height: 1091
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c6757d243b4c4090800000000000000
+      internalID: -8048975746544863543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobRouge_Idle_1
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 3269
+        width: 1026
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 01034731acb5edb40800000000000000
+      internalID: 5466907921142263824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobRouge_Idle_2
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 4359
+        width: 1027
+        height: 1091
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4ea1d1979b02cb830800000000000000
+      internalID: 4088178542718556900
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobRouge_Idle_3
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3269
+        width: 1027
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fa7c2532252247a0800000000000000
+      internalID: -6394507692061459726
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobRouge_Idle_4
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 4359
+        width: 1027
+        height: 1091
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b97fc637df3a7450800000000000000
+      internalID: 6087248039914731954
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobRouge_Idle_5
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 3269
+        width: 1027
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9dae2fb9d9d98bba0800000000000000
+      internalID: -6072930797257299239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobRouge_Idle_6
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 4359
+        width: 1027
+        height: 1091
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0a09a6737ed203b0800000000000000
+      internalID: -5547627203473634801
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobRouge_Idle_7
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 3269
+        width: 1027
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 774c12013809777d0800000000000000
+      internalID: -2920706940740713353
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobRouge_Idle_8
+      rect:
+        serializedVersion: 2
+        x: 4099
+        y: 4359
+        width: 1026
+        height: 1091
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6dccd610f5d8ae050800000000000000
+      internalID: 5830628106769910998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobRouge_Idle_9
+      rect:
+        serializedVersion: 2
+        x: 4099
+        y: 3269
+        width: 1026
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d4c9f1534f7303480800000000000000
+      internalID: -8921569339818140595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobRouge_Idle_10
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 2179
+        width: 1026
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 857798d84ed3d61f0800000000000000
+      internalID: -1050115086271023272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobRouge_Idle_11
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 1089
+        width: 1026
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18ccd001f7e08cf90800000000000000
+      internalID: -6933275687443903359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobRouge_Idle_12
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 2179
+        width: 1027
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f98ffcc44ee180bd0800000000000000
+      internalID: -2663845213699573601
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobRouge_Idle_13
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 1089
+        width: 1027
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2d60b6c56e70e2f30800000000000000
+      internalID: 4552584959292540626
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobRouge_Idle_14
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 2179
+        width: 1027
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b06d7a04248a0dbc0800000000000000
+      internalID: -3760320686348315125
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobRouge_Idle_15
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 1089
+        width: 1027
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d57422354049dc00800000000000000
+      internalID: 925841864339518931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobRouge_Idle_16
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 2179
+        width: 1027
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bef9f24cbda8a5d0800000000000000
+      internalID: -3050997723454374216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobRouge_Idle_17
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 1089
+        width: 1027
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5611a3c0731f0d140800000000000000
+      internalID: 4742555626351759717
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobRouge_Idle_18
+      rect:
+        serializedVersion: 2
+        x: 4099
+        y: 2179
+        width: 1026
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3d130a9862fa8f8c0800000000000000
+      internalID: -3965226891847126573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobRouge_Idle_19
+      rect:
+        serializedVersion: 2
+        x: 4099
+        y: 1089
+        width: 1026
+        height: 1092
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 34b6fda4f04fd0050800000000000000
+      internalID: 5768535044249316163
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobRouge_Idle_20
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 0
+        width: 1026
+        height: 1091
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9062d8bfdc0b9d2d0800000000000000
+      internalID: -3253374857063356919
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobRouge_Idle_21
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 0
+        width: 1027
+        height: 1091
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c8036543903996b0800000000000000
+      internalID: -5289142878287492921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobRouge_Idle_22
+      rect:
+        serializedVersion: 2
+        x: 2049
+        y: 0
+        width: 1027
+        height: 1091
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9db33d7abe19797e0800000000000000
+      internalID: -1758776688145908775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobRouge_Idle_23
+      rect:
+        serializedVersion: 2
+        x: 3074
+        y: 0
+        width: 1027
+        height: 1091
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a51a5ad0c11d37f80800000000000000
+      internalID: -8109908585545883302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BlobRouge_Idle_0: -8048975746544863543
+      BlobRouge_Idle_1: 5466907921142263824
+      BlobRouge_Idle_10: -1050115086271023272
+      BlobRouge_Idle_11: -6933275687443903359
+      BlobRouge_Idle_12: -2663845213699573601
+      BlobRouge_Idle_13: 4552584959292540626
+      BlobRouge_Idle_14: -3760320686348315125
+      BlobRouge_Idle_15: 925841864339518931
+      BlobRouge_Idle_16: -3050997723454374216
+      BlobRouge_Idle_17: 4742555626351759717
+      BlobRouge_Idle_18: -3965226891847126573
+      BlobRouge_Idle_19: 5768535044249316163
+      BlobRouge_Idle_2: 4088178542718556900
+      BlobRouge_Idle_20: -3253374857063356919
+      BlobRouge_Idle_21: -5289142878287492921
+      BlobRouge_Idle_22: -1758776688145908775
+      BlobRouge_Idle_23: -8109908585545883302
+      BlobRouge_Idle_3: -6394507692061459726
+      BlobRouge_Idle_4: 6087248039914731954
+      BlobRouge_Idle_5: -6072930797257299239
+      BlobRouge_Idle_6: -5547627203473634801
+      BlobRouge_Idle_7: -2920706940740713353
+      BlobRouge_Idle_8: 5830628106769910998
+      BlobRouge_Idle_9: -8921569339818140595
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,741 @@
+fileFormatVersion: 2
+guid: 0f89992db32f1ad479ef95300da71eaa
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 8115484473682043718
+    second: BlobGirl_Moving_0
+  - first:
+      213: -3945181828195284775
+    second: BlobGirl_Moving_1
+  - first:
+      213: 234556917574634081
+    second: BlobGirl_Moving_2
+  - first:
+      213: -1075983979382639282
+    second: BlobGirl_Moving_3
+  - first:
+      213: 947764229535769518
+    second: BlobGirl_Moving_4
+  - first:
+      213: 261000608245788292
+    second: BlobGirl_Moving_5
+  - first:
+      213: 8637420710046483134
+    second: BlobGirl_Moving_6
+  - first:
+      213: 6993825220071692497
+    second: BlobGirl_Moving_7
+  - first:
+      213: 6336593312611343615
+    second: BlobGirl_Moving_8
+  - first:
+      213: 4513184175144954102
+    second: BlobGirl_Moving_9
+  - first:
+      213: -5836547987904033266
+    second: BlobGirl_Moving_10
+  - first:
+      213: -771066740216389865
+    second: BlobGirl_Moving_11
+  - first:
+      213: 8072370676014493702
+    second: BlobGirl_Moving_12
+  - first:
+      213: -7280987613926177888
+    second: BlobGirl_Moving_13
+  - first:
+      213: 8927671875688180237
+    second: BlobGirl_Moving_14
+  - first:
+      213: -3149305779823705755
+    second: BlobGirl_Moving_15
+  - first:
+      213: 7649451294216845536
+    second: BlobGirl_Moving_16
+  - first:
+      213: -2455742870029226340
+    second: BlobGirl_Moving_17
+  - first:
+      213: 5132207543658783325
+    second: BlobGirl_Moving_18
+  - first:
+      213: 7257562647552506791
+    second: BlobGirl_Moving_19
+  - first:
+      213: 305342684376853674
+    second: BlobGirl_Moving_20
+  - first:
+      213: 3365654933709550839
+    second: BlobGirl_Moving_21
+  - first:
+      213: 3526023427185446334
+    second: BlobGirl_Moving_22
+  - first:
+      213: 7679646438412428543
+    second: BlobGirl_Moving_23
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: BlobGirl_Moving_0
+      rect:
+        serializedVersion: 2
+        x: 10
+        y: 972
+        width: 258
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6432402912eff9070800000000000000
+      internalID: 8115484473682043718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGirl_Moving_1
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 970
+        width: 266
+        height: 237
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d8081c9706ef39c0800000000000000
+      internalID: -3945181828195284775
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGirl_Moving_2
+      rect:
+        serializedVersion: 2
+        x: 605
+        y: 969
+        width: 276
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 16a85a71640514300800000000000000
+      internalID: 234556917574634081
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGirl_Moving_3
+      rect:
+        serializedVersion: 2
+        x: 903
+        y: 968
+        width: 284
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e45f2e485465111f0800000000000000
+      internalID: -1075983979382639282
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGirl_Moving_4
+      rect:
+        serializedVersion: 2
+        x: 1201
+        y: 967
+        width: 293
+        height: 243
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea32d489b82272d00800000000000000
+      internalID: 947764229535769518
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGirl_Moving_5
+      rect:
+        serializedVersion: 2
+        x: 0
+        y: 725
+        width: 301
+        height: 244
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48ea6ac9ba24f9300800000000000000
+      internalID: 261000608245788292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGirl_Moving_6
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 725
+        width: 297
+        height: 242
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb24ced6f584ed770800000000000000
+      internalID: 8637420710046483134
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGirl_Moving_7
+      rect:
+        serializedVersion: 2
+        x: 603
+        y: 725
+        width: 292
+        height: 241
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1d89a879bfe0f0160800000000000000
+      internalID: 6993825220071692497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGirl_Moving_8
+      rect:
+        serializedVersion: 2
+        x: 905
+        y: 725
+        width: 287
+        height: 239
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffc905c8b0a10f750800000000000000
+      internalID: 6336593312611343615
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGirl_Moving_9
+      rect:
+        serializedVersion: 2
+        x: 1207
+        y: 725
+        width: 282
+        height: 238
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f8ed6d681d02ae30800000000000000
+      internalID: 4513184175144954102
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGirl_Moving_10
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 484
+        width: 278
+        height: 235
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e8572478a600fa0800000000000000
+      internalID: -5836547987904033266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGirl_Moving_11
+      rect:
+        serializedVersion: 2
+        x: 311
+        y: 484
+        width: 273
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71f984392ee9c45f0800000000000000
+      internalID: -771066740216389865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGirl_Moving_12
+      rect:
+        serializedVersion: 2
+        x: 611
+        y: 485
+        width: 272
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 600bf1f4c52d60070800000000000000
+      internalID: 8072370676014493702
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGirl_Moving_13
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 485
+        width: 271
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a349e9675cb4fa90800000000000000
+      internalID: -7280987613926177888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGirl_Moving_14
+      rect:
+        serializedVersion: 2
+        x: 1209
+        y: 485
+        width: 271
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d0aa3a5254675eb70800000000000000
+      internalID: 8927671875688180237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGirl_Moving_15
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 243
+        width: 270
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5610688341b6b44d0800000000000000
+      internalID: -3149305779823705755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGirl_Moving_16
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 244
+        width: 269
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0e8727e6c6f482a60800000000000000
+      internalID: 7649451294216845536
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGirl_Moving_17
+      rect:
+        serializedVersion: 2
+        x: 608
+        y: 244
+        width: 268
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9ea53ceed27bedd0800000000000000
+      internalID: -2455742870029226340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGirl_Moving_18
+      rect:
+        serializedVersion: 2
+        x: 908
+        y: 244
+        width: 266
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d52ac51c193493740800000000000000
+      internalID: 5132207543658783325
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGirl_Moving_19
+      rect:
+        serializedVersion: 2
+        x: 1208
+        y: 245
+        width: 265
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7abb28696ca08b460800000000000000
+      internalID: 7257562647552506791
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGirl_Moving_20
+      rect:
+        serializedVersion: 2
+        x: 9
+        y: 3
+        width: 263
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aaceb0dbd8bcc3400800000000000000
+      internalID: 305342684376853674
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGirl_Moving_21
+      rect:
+        serializedVersion: 2
+        x: 309
+        y: 3
+        width: 261
+        height: 234
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f47c48845535be20800000000000000
+      internalID: 3365654933709550839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGirl_Moving_22
+      rect:
+        serializedVersion: 2
+        x: 609
+        y: 4
+        width: 260
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ebd081710a3fee030800000000000000
+      internalID: 3526023427185446334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: BlobGirl_Moving_23
+      rect:
+        serializedVersion: 2
+        x: 910
+        y: 4
+        width: 258
+        height: 233
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ff4aa2a4fb5939a60800000000000000
+      internalID: 7679646438412428543
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      BlobGirl_Moving_0: 8115484473682043718
+      BlobGirl_Moving_1: -3945181828195284775
+      BlobGirl_Moving_10: -5836547987904033266
+      BlobGirl_Moving_11: -771066740216389865
+      BlobGirl_Moving_12: 8072370676014493702
+      BlobGirl_Moving_13: -7280987613926177888
+      BlobGirl_Moving_14: 8927671875688180237
+      BlobGirl_Moving_15: -3149305779823705755
+      BlobGirl_Moving_16: 7649451294216845536
+      BlobGirl_Moving_17: -2455742870029226340
+      BlobGirl_Moving_18: 5132207543658783325
+      BlobGirl_Moving_19: 7257562647552506791
+      BlobGirl_Moving_2: 234556917574634081
+      BlobGirl_Moving_20: 305342684376853674
+      BlobGirl_Moving_21: 3365654933709550839
+      BlobGirl_Moving_22: 3526023427185446334
+      BlobGirl_Moving_23: 7679646438412428543
+      BlobGirl_Moving_3: -1075983979382639282
+      BlobGirl_Moving_4: 947764229535769518
+      BlobGirl_Moving_5: 261000608245788292
+      BlobGirl_Moving_6: 8637420710046483134
+      BlobGirl_Moving_7: 6993825220071692497
+      BlobGirl_Moving_8: 6336593312611343615
+      BlobGirl_Moving_9: 4513184175144954102
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

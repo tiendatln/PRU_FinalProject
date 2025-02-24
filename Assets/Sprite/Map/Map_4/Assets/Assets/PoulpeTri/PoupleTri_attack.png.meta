@@ -1,0 +1,3575 @@
+fileFormatVersion: 2
+guid: 67ec818d8f21cb64d85c93a996f93508
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -289707670089867666
+    second: PoupleTri_attack_0
+  - first:
+      213: 2641186075743915973
+    second: PoupleTri_attack_1
+  - first:
+      213: 8734171331444544933
+    second: PoupleTri_attack_2
+  - first:
+      213: 8762903806861018391
+    second: PoupleTri_attack_3
+  - first:
+      213: -5792372380217505983
+    second: PoupleTri_attack_4
+  - first:
+      213: -4932203029163913343
+    second: PoupleTri_attack_5
+  - first:
+      213: -5684054389009819226
+    second: PoupleTri_attack_6
+  - first:
+      213: -5981133222320429277
+    second: PoupleTri_attack_7
+  - first:
+      213: 8943303413172913634
+    second: PoupleTri_attack_8
+  - first:
+      213: 2277695144163607997
+    second: PoupleTri_attack_9
+  - first:
+      213: 2345706932588658534
+    second: PoupleTri_attack_10
+  - first:
+      213: -1521431615433247188
+    second: PoupleTri_attack_11
+  - first:
+      213: 5205679489280979917
+    second: PoupleTri_attack_12
+  - first:
+      213: 3480584773876345937
+    second: PoupleTri_attack_13
+  - first:
+      213: 6316574374456142735
+    second: PoupleTri_attack_14
+  - first:
+      213: 924781631284895178
+    second: PoupleTri_attack_15
+  - first:
+      213: 2885335497606515318
+    second: PoupleTri_attack_16
+  - first:
+      213: -6974642912925047811
+    second: PoupleTri_attack_17
+  - first:
+      213: -3966064412862148802
+    second: PoupleTri_attack_18
+  - first:
+      213: -8045752086516145611
+    second: PoupleTri_attack_19
+  - first:
+      213: -1986170997127673625
+    second: PoupleTri_attack_20
+  - first:
+      213: 5290058460020709991
+    second: PoupleTri_attack_21
+  - first:
+      213: -699470238597266294
+    second: PoupleTri_attack_22
+  - first:
+      213: 691949683422232836
+    second: PoupleTri_attack_23
+  - first:
+      213: 5212405722621235142
+    second: PoupleTri_attack_24
+  - first:
+      213: 8777740750537392115
+    second: PoupleTri_attack_25
+  - first:
+      213: -3769682488465873677
+    second: PoupleTri_attack_26
+  - first:
+      213: 9114861768824342071
+    second: PoupleTri_attack_27
+  - first:
+      213: -6174862944205814697
+    second: PoupleTri_attack_28
+  - first:
+      213: 6545418294959809858
+    second: PoupleTri_attack_29
+  - first:
+      213: -4217063088343690752
+    second: PoupleTri_attack_30
+  - first:
+      213: 5261578256742863641
+    second: PoupleTri_attack_31
+  - first:
+      213: 5622496322370591813
+    second: PoupleTri_attack_32
+  - first:
+      213: 5243870488845807211
+    second: PoupleTri_attack_33
+  - first:
+      213: -2043908327395162996
+    second: PoupleTri_attack_34
+  - first:
+      213: 6519007726896625007
+    second: PoupleTri_attack_35
+  - first:
+      213: -1339705684210477192
+    second: PoupleTri_attack_36
+  - first:
+      213: 5453311872347273010
+    second: PoupleTri_attack_37
+  - first:
+      213: 1053307612623059093
+    second: PoupleTri_attack_38
+  - first:
+      213: -4585923327097717835
+    second: PoupleTri_attack_39
+  - first:
+      213: 969804409983883685
+    second: PoupleTri_attack_40
+  - first:
+      213: 1105846787825149294
+    second: PoupleTri_attack_41
+  - first:
+      213: -2469644740222548949
+    second: PoupleTri_attack_42
+  - first:
+      213: 4230710660637389037
+    second: PoupleTri_attack_43
+  - first:
+      213: -1562861777886163351
+    second: PoupleTri_attack_44
+  - first:
+      213: 2296750282348730057
+    second: PoupleTri_attack_45
+  - first:
+      213: -6256788827472555250
+    second: PoupleTri_attack_46
+  - first:
+      213: 4651584418194249931
+    second: PoupleTri_attack_47
+  - first:
+      213: 9193016910207919175
+    second: PoupleTri_attack_48
+  - first:
+      213: 3289058760832224861
+    second: PoupleTri_attack_49
+  - first:
+      213: 3829127432759795546
+    second: PoupleTri_attack_50
+  - first:
+      213: 7957668134223810230
+    second: PoupleTri_attack_51
+  - first:
+      213: -8938120660711596388
+    second: PoupleTri_attack_52
+  - first:
+      213: 8437968629419314285
+    second: PoupleTri_attack_53
+  - first:
+      213: -3550890771392931821
+    second: PoupleTri_attack_54
+  - first:
+      213: -5494658433558823214
+    second: PoupleTri_attack_55
+  - first:
+      213: -6436660082969298481
+    second: PoupleTri_attack_56
+  - first:
+      213: -4645569766287066235
+    second: PoupleTri_attack_57
+  - first:
+      213: -1847916643336577789
+    second: PoupleTri_attack_58
+  - first:
+      213: 8582164326697649955
+    second: PoupleTri_attack_59
+  - first:
+      213: 9055028796152214761
+    second: PoupleTri_attack_60
+  - first:
+      213: -1707912260224779473
+    second: PoupleTri_attack_61
+  - first:
+      213: 4524948798012322207
+    second: PoupleTri_attack_62
+  - first:
+      213: -4623911581353028966
+    second: PoupleTri_attack_63
+  - first:
+      213: -939340852173610970
+    second: PoupleTri_attack_64
+  - first:
+      213: 4002320612675503806
+    second: PoupleTri_attack_65
+  - first:
+      213: 3794037299590581103
+    second: PoupleTri_attack_66
+  - first:
+      213: -2432414604467912514
+    second: PoupleTri_attack_67
+  - first:
+      213: 7287543661715580606
+    second: PoupleTri_attack_68
+  - first:
+      213: -2270607685379468531
+    second: PoupleTri_attack_69
+  - first:
+      213: 8029492879372389987
+    second: PoupleTri_attack_70
+  - first:
+      213: -5041774418591743182
+    second: PoupleTri_attack_71
+  - first:
+      213: 8026277368342616067
+    second: PoupleTri_attack_72
+  - first:
+      213: 2763067314376061834
+    second: PoupleTri_attack_73
+  - first:
+      213: 2537780468306838776
+    second: PoupleTri_attack_74
+  - first:
+      213: 571785006103186246
+    second: PoupleTri_attack_75
+  - first:
+      213: -6655840372286363461
+    second: PoupleTri_attack_76
+  - first:
+      213: 8967360773034268190
+    second: PoupleTri_attack_77
+  - first:
+      213: 6319387252354873848
+    second: PoupleTri_attack_78
+  - first:
+      213: -3308163754306620946
+    second: PoupleTri_attack_79
+  - first:
+      213: 9208385226293600661
+    second: PoupleTri_attack_80
+  - first:
+      213: 2960048334715786080
+    second: PoupleTri_attack_81
+  - first:
+      213: 7727584648609097921
+    second: PoupleTri_attack_82
+  - first:
+      213: -4308260527092362668
+    second: PoupleTri_attack_83
+  - first:
+      213: 7550319648784231410
+    second: PoupleTri_attack_84
+  - first:
+      213: 4891594348262651553
+    second: PoupleTri_attack_85
+  - first:
+      213: -4217651416653619260
+    second: PoupleTri_attack_86
+  - first:
+      213: -1545591378657868622
+    second: PoupleTri_attack_87
+  - first:
+      213: 7394875529453217690
+    second: PoupleTri_attack_88
+  - first:
+      213: -5380746825697510865
+    second: PoupleTri_attack_89
+  - first:
+      213: -3262829921580185925
+    second: PoupleTri_attack_90
+  - first:
+      213: 6676942286734072470
+    second: PoupleTri_attack_91
+  - first:
+      213: -570729533583442766
+    second: PoupleTri_attack_92
+  - first:
+      213: -356110357699208783
+    second: PoupleTri_attack_93
+  - first:
+      213: -5880615366661845460
+    second: PoupleTri_attack_94
+  - first:
+      213: -7274982741749501435
+    second: PoupleTri_attack_95
+  - first:
+      213: 267105515242129833
+    second: PoupleTri_attack_96
+  - first:
+      213: 4200408925621644264
+    second: PoupleTri_attack_97
+  - first:
+      213: -3882225360613237839
+    second: PoupleTri_attack_98
+  - first:
+      213: -6191620021511825047
+    second: PoupleTri_attack_99
+  - first:
+      213: 2211359445105140014
+    second: PoupleTri_attack_100
+  - first:
+      213: 1019408863976657268
+    second: PoupleTri_attack_101
+  - first:
+      213: 9011249752102973090
+    second: PoupleTri_attack_102
+  - first:
+      213: 5900777202466714895
+    second: PoupleTri_attack_103
+  - first:
+      213: -5860787394386807219
+    second: PoupleTri_attack_104
+  - first:
+      213: -3192894498913434422
+    second: PoupleTri_attack_105
+  - first:
+      213: -8374947875742125244
+    second: PoupleTri_attack_106
+  - first:
+      213: 7173586433030533314
+    second: PoupleTri_attack_107
+  - first:
+      213: -1569361573354361470
+    second: PoupleTri_attack_108
+  - first:
+      213: 3598823692978387545
+    second: PoupleTri_attack_109
+  - first:
+      213: 6800989770476946632
+    second: PoupleTri_attack_110
+  - first:
+      213: 3582546180671030198
+    second: PoupleTri_attack_111
+  - first:
+      213: 7648208801755501469
+    second: PoupleTri_attack_112
+  - first:
+      213: 2192044507785862170
+    second: PoupleTri_attack_113
+  - first:
+      213: 6834298147267839229
+    second: PoupleTri_attack_114
+  - first:
+      213: -2730461167679521973
+    second: PoupleTri_attack_115
+  - first:
+      213: 8659712823911563594
+    second: PoupleTri_attack_116
+  - first:
+      213: 3376399284574401551
+    second: PoupleTri_attack_117
+  - first:
+      213: -6300626067420605884
+    second: PoupleTri_attack_118
+  - first:
+      213: 31914838299291826
+    second: PoupleTri_attack_119
+  - first:
+      213: 4848295050367818323
+    second: PoupleTri_attack_120
+  - first:
+      213: -5872646186995226890
+    second: PoupleTri_attack_121
+  - first:
+      213: -3884608317705625086
+    second: PoupleTri_attack_122
+  - first:
+      213: -2804688301016110774
+    second: PoupleTri_attack_123
+  - first:
+      213: -8622149309331679352
+    second: PoupleTri_attack_124
+  - first:
+      213: -3788166152886576989
+    second: PoupleTri_attack_125
+  - first:
+      213: 7041467301101118316
+    second: PoupleTri_attack_126
+  - first:
+      213: -4205526602601768502
+    second: PoupleTri_attack_127
+  - first:
+      213: 2084681480895596254
+    second: PoupleTri_attack_128
+  - first:
+      213: 355758940828870825
+    second: PoupleTri_attack_129
+  - first:
+      213: -1409284024651726096
+    second: PoupleTri_attack_130
+  - first:
+      213: -2358017978013424729
+    second: PoupleTri_attack_131
+  - first:
+      213: -3030852106219628026
+    second: PoupleTri_attack_132
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: PoupleTri_attack_0
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 5355
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6e5693b860cafbf0800000000000000
+      internalID: -289707670089867666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_1
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 5355
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5cf8c660eb067a420800000000000000
+      internalID: 2641186075743915973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_2
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 5355
+        width: 18
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a51722ec82063970800000000000000
+      internalID: 8734171331444544933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_3
+      rect:
+        serializedVersion: 2
+        x: 3162
+        y: 4282
+        width: 1022
+        height: 1079
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7158ed0a5961c9970800000000000000
+      internalID: 8762903806861018391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_4
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 5360
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1470a5e620c5d9fa0800000000000000
+      internalID: -5792372380217505983
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_5
+      rect:
+        serializedVersion: 2
+        x: 4260
+        y: 4313
+        width: 986
+        height: 1048
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 18f44961a7b4d8bb0800000000000000
+      internalID: -4932203029163913343
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_6
+      rect:
+        serializedVersion: 2
+        x: 4807
+        y: 5360
+        width: 6
+        height: 5
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a9d11b06ae2e11b0800000000000000
+      internalID: -5684054389009819226
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_7
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 5348
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327ad41160fbefca0800000000000000
+      internalID: -5981133222320429277
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_8
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 5348
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2e5c5b4121ffc1c70800000000000000
+      internalID: 8943303413172913634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_9
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 5348
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: db501867aaffb9f10800000000000000
+      internalID: 2277695144163607997
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_10
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 5348
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66f3e10f600ad8020800000000000000
+      internalID: 2345706932588658534
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_11
+      rect:
+        serializedVersion: 2
+        x: 4766
+        y: 5348
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c267d04b10ac2eae0800000000000000
+      internalID: -1521431615433247188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_12
+      rect:
+        serializedVersion: 2
+        x: 30
+        y: 4356
+        width: 1015
+        height: 978
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dc331252ae94e3840800000000000000
+      internalID: 5205679489280979917
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_13
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 5079
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 15c688139658d4030800000000000000
+      internalID: 3480584773876345937
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_14
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 5073
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f8b2bca4deaf8a750800000000000000
+      internalID: 6316574374456142735
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_15
+      rect:
+        serializedVersion: 2
+        x: 1089
+        y: 4339
+        width: 1005
+        height: 1003
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: acdda837efb75dc00800000000000000
+      internalID: 924781631284895178
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_16
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 5079
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67a49a01955ca0820800000000000000
+      internalID: 2885335497606515318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_17
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 5073
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df328e35937153f90800000000000000
+      internalID: -6974642912925047811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_18
+      rect:
+        serializedVersion: 2
+        x: 2159
+        y: 4358
+        width: 980
+        height: 989
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e3f880bfd65b5f8c0800000000000000
+      internalID: -3966064412862148802
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_19
+      rect:
+        serializedVersion: 2
+        x: 3139
+        y: 5069
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 532e8540b1fb75090800000000000000
+      internalID: -8045752086516145611
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_20
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 5079
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7e885055004bf64e0800000000000000
+      internalID: -1986170997127673625
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_21
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 5084
+        width: 8
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 76a959634201a6940800000000000000
+      internalID: 5290058460020709991
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_22
+      rect:
+        serializedVersion: 2
+        x: 4194
+        y: 5069
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a84c371268bfa46f0800000000000000
+      internalID: -699470238597266294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_23
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 5079
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40183da229c4a9900800000000000000
+      internalID: 691949683422232836
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_24
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 5073
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6cf4d02636f265840800000000000000
+      internalID: 5212405722621235142
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_25
+      rect:
+        serializedVersion: 2
+        x: 5249
+        y: 5069
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ff7046c4bcc0d970800000000000000
+      internalID: 8777740750537392115
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_26
+      rect:
+        serializedVersion: 2
+        x: 5255
+        y: 5079
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f42bf6dfb56fabc0800000000000000
+      internalID: -3769682488465873677
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_27
+      rect:
+        serializedVersion: 2
+        x: 5265
+        y: 5073
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 73640937c7e7e7e70800000000000000
+      internalID: 9114861768824342071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_28
+      rect:
+        serializedVersion: 2
+        x: 3134
+        y: 5063
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 754c3e93eda7e4aa0800000000000000
+      internalID: -6174862944205814697
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_29
+      rect:
+        serializedVersion: 2
+        x: 3143
+        y: 5065
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2452c69924ff5da50800000000000000
+      internalID: 6545418294959809858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_30
+      rect:
+        serializedVersion: 2
+        x: 4186
+        y: 5059
+        width: 9
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 002dcdfc67bf975c0800000000000000
+      internalID: -4217063088343690752
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_31
+      rect:
+        serializedVersion: 2
+        x: 4198
+        y: 5065
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 913d3172c81e40940800000000000000
+      internalID: 5261578256742863641
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_32
+      rect:
+        serializedVersion: 2
+        x: 5244
+        y: 5063
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 54cd6ddad9e170e40800000000000000
+      internalID: 5622496322370591813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_33
+      rect:
+        serializedVersion: 2
+        x: 5253
+        y: 5065
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b6eeec72d68f5c840800000000000000
+      internalID: 5243870488845807211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_34
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 4275
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c840620943492a3e0800000000000000
+      internalID: -2043908327395162996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_35
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 4282
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6533b90dfa287a50800000000000000
+      internalID: 6519007726896625007
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_36
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 4275
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 877101d37c8686de0800000000000000
+      internalID: -1339705684210477192
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_37
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 4282
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 237fda8414e0eab40800000000000000
+      internalID: 5453311872347273010
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_38
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 4275
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 598bc9961b91e9e00800000000000000
+      internalID: 1053307612623059093
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_39
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 4282
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5bbb92108078b50c0800000000000000
+      internalID: -4585923327097717835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_40
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 4275
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5a952bef8ff657d00800000000000000
+      internalID: 969804409983883685
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_41
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 4287
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e6523546bc1c85f00800000000000000
+      internalID: 1105846787825149294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_42
+      rect:
+        serializedVersion: 2
+        x: 4766
+        y: 4275
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b248f99813f0abdd0800000000000000
+      internalID: -2469644740222548949
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_43
+      rect:
+        serializedVersion: 2
+        x: 4807
+        y: 4282
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de0ffba3ee086ba30800000000000000
+      internalID: 4230710660637389037
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_44
+      rect:
+        serializedVersion: 2
+        x: 80
+        y: 3262
+        width: 949
+        height: 1012
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96e4f005e799f4ae0800000000000000
+      internalID: -1562861777886163351
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_45
+      rect:
+        serializedVersion: 2
+        x: 1029
+        y: 3996
+        width: 9
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9c69c2d8632bfdf10800000000000000
+      internalID: 2296750282348730057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_46
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 4006
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e039dd716bb6b29a0800000000000000
+      internalID: -6256788827472555250
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_47
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 4000
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bc8d539126fbd8040800000000000000
+      internalID: 4651584418194249931
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_48
+      rect:
+        serializedVersion: 2
+        x: 1169
+        y: 3285
+        width: 924
+        height: 987
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7442a135c28249f70800000000000000
+      internalID: 9193016910207919175
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_49
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 4006
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5e8acc448515ad20800000000000000
+      internalID: 3289058760832224861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_50
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 4000
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5fd95dcc1bc32530800000000000000
+      internalID: 3829127432759795546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_51
+      rect:
+        serializedVersion: 2
+        x: 2239
+        y: 3309
+        width: 910
+        height: 960
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6be0bdca1015f6e60800000000000000
+      internalID: 7957668134223810230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_52
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 4006
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9e94b28d9a65f380800000000000000
+      internalID: -8938120660711596388
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_53
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 4000
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d6c8d6e13cfa91570800000000000000
+      internalID: 8437968629419314285
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_54
+      rect:
+        serializedVersion: 2
+        x: 3309
+        y: 3334
+        width: 898
+        height: 932
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 31859e628a3b8bec0800000000000000
+      internalID: -3550890771392931821
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_55
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 4006
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2de3f91444d0fb3b0800000000000000
+      internalID: -5494658433558823214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_56
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 4000
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fc9bda6e1c36ca6a0800000000000000
+      internalID: -6436660082969298481
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_57
+      rect:
+        serializedVersion: 2
+        x: 4379
+        y: 3358
+        width: 886
+        height: 903
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 58b3a2d29ee978fb0800000000000000
+      internalID: -4645569766287066235
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_58
+      rect:
+        serializedVersion: 2
+        x: 5255
+        y: 4006
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30d14638a91ea56e0800000000000000
+      internalID: -1847916643336577789
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_59
+      rect:
+        serializedVersion: 2
+        x: 5265
+        y: 4000
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 327c7d02cf8f91770800000000000000
+      internalID: 8582164326697649955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_60
+      rect:
+        serializedVersion: 2
+        x: 1024
+        y: 3990
+        width: 6
+        height: 7
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e4f599e6bce9ad70800000000000000
+      internalID: 9055028796152214761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_61
+      rect:
+        serializedVersion: 2
+        x: 1033
+        y: 3992
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2b74c529d64c48e0800000000000000
+      internalID: -1707912260224779473
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_62
+      rect:
+        serializedVersion: 2
+        x: 2088
+        y: 3992
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f91fa5425f8dbce30800000000000000
+      internalID: 4524948798012322207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_63
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 3202
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a9253a05ae094dfb0800000000000000
+      internalID: -4623911581353028966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_64
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 3209
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 620ed27c87ac6f2f0800000000000000
+      internalID: -939340852173610970
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_65
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 3202
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb64fbb54691b8730800000000000000
+      internalID: 4002320612675503806
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_66
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 3209
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6bcda282d027a430800000000000000
+      internalID: 3794037299590581103
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_67
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 3202
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb0c7320ec35e3ed0800000000000000
+      internalID: -2432414604467912514
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_68
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 3209
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb6e4b9695e822560800000000000000
+      internalID: 7287543661715580606
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_69
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 3202
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d035fa0275e2d70e0800000000000000
+      internalID: -2270607685379468531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_70
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 3209
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 36e05815b3d7e6f60800000000000000
+      internalID: 8029492879372389987
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_71
+      rect:
+        serializedVersion: 2
+        x: 4766
+        y: 3202
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2330036f0e4080ab0800000000000000
+      internalID: -5041774418591743182
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_72
+      rect:
+        serializedVersion: 2
+        x: 4807
+        y: 3209
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 30891d0ddb0136f60800000000000000
+      internalID: 8026277368342616067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_73
+      rect:
+        serializedVersion: 2
+        x: 139
+        y: 2308
+        width: 906
+        height: 880
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a83b0e34513685620800000000000000
+      internalID: 2763067314376061834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_74
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 2933
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f48a53e3e1083320800000000000000
+      internalID: 2537780468306838776
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_75
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 2927
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 64bcca00f636fe700800000000000000
+      internalID: 571785006103186246
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_76
+      rect:
+        serializedVersion: 2
+        x: 1249
+        y: 2313
+        width: 851
+        height: 875
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb8ea201274b1a3a0800000000000000
+      internalID: -6655840372286363461
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_77
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 2933
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e16da79ac17727c70800000000000000
+      internalID: 8967360773034268190
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_78
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 2927
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8f97eb67939f2b750800000000000000
+      internalID: 6319387252354873848
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_79
+      rect:
+        serializedVersion: 2
+        x: 2361
+        y: 2344
+        width: 794
+        height: 844
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee13bb5c79a0712d0800000000000000
+      internalID: -3308163754306620946
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_80
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 2933
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5916f204391cacf70800000000000000
+      internalID: 9208385226293600661
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_81
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 2927
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 06398b40744341920800000000000000
+      internalID: 2960048334715786080
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_82
+      rect:
+        serializedVersion: 2
+        x: 3430
+        y: 2385
+        width: 780
+        height: 803
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1c86b10ab45ed3b60800000000000000
+      internalID: 7727584648609097921
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_83
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 2933
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 45292d270ebf534c0800000000000000
+      internalID: -4308260527092362668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_84
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 2927
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2fbaf6e97bf18c860800000000000000
+      internalID: 7550319648784231410
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_85
+      rect:
+        serializedVersion: 2
+        x: 4492
+        y: 2410
+        width: 773
+        height: 778
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1a6f089942f62e340800000000000000
+      internalID: 4891594348262651553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_86
+      rect:
+        serializedVersion: 2
+        x: 5255
+        y: 2933
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4cf10f3f164e775c0800000000000000
+      internalID: -4217651416653619260
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_87
+      rect:
+        serializedVersion: 2
+        x: 5265
+        y: 2927
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b4013b74d4fc8ae0800000000000000
+      internalID: -1545591378657868622
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_88
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 2129
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a97a9434d10ef9660800000000000000
+      internalID: 7394875529453217690
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_89
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 2136
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2a3dfb354fb355b0800000000000000
+      internalID: -5380746825697510865
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_90
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 2129
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb682b9397918b2d0800000000000000
+      internalID: -3262829921580185925
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_91
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 2136
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 69a919242a349ac50800000000000000
+      internalID: 6676942286734072470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_92
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 2129
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2bc3fe7538c5418f0800000000000000
+      internalID: -570729533583442766
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_93
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 2136
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1b950843487de0bf0800000000000000
+      internalID: -356110357699208783
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_94
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 2129
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c2eca691b7bd36ea0800000000000000
+      internalID: -5880615366661845460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_95
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 2136
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5027ceaadb11a0b90800000000000000
+      internalID: -7274982741749501435
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_96
+      rect:
+        serializedVersion: 2
+        x: 4766
+        y: 2129
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a90e890d03f4b300800000000000000
+      internalID: 267105515242129833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_97
+      rect:
+        serializedVersion: 2
+        x: 4807
+        y: 2136
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8ebee03c9a9da4a30800000000000000
+      internalID: 4200408925621644264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_98
+      rect:
+        serializedVersion: 2
+        x: 285
+        y: 1361
+        width: 760
+        height: 754
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1bb92aa7a909f1ac0800000000000000
+      internalID: -3882225360613237839
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_99
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 1860
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96957912562f21aa0800000000000000
+      internalID: -6191620021511825047
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_100
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 1854
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e216234f2b350be10800000000000000
+      internalID: 2211359445105140014
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_101
+      rect:
+        serializedVersion: 2
+        x: 1331
+        y: 1350
+        width: 769
+        height: 765
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4719632f5faa52e00800000000000000
+      internalID: 1019408863976657268
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_102
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 1860
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2aeac68e7e36e0d70800000000000000
+      internalID: 9011249752102973090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_103
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 1854
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0570cb1a95c3e150800000000000000
+      internalID: 5900777202466714895
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_104
+      rect:
+        serializedVersion: 2
+        x: 2356
+        y: 1338
+        width: 799
+        height: 777
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46bc75aaec4aaea0800000000000000
+      internalID: -5860787394386807219
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_105
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 1860
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac447f2be5f80b3d0800000000000000
+      internalID: -3192894498913434422
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_106
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 1854
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4437af5874536cb80800000000000000
+      internalID: -8374947875742125244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_107
+      rect:
+        serializedVersion: 2
+        x: 3353
+        y: 1306
+        width: 857
+        height: 809
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c0b8528ad2bd8360800000000000000
+      internalID: 7173586433030533314
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_108
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 1860
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 28da010c6f1883ae0800000000000000
+      internalID: -1569361573354361470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_109
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 1854
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 95a7c35d41791f130800000000000000
+      internalID: 3598823692978387545
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_110
+      rect:
+        serializedVersion: 2
+        x: 4362
+        y: 1260
+        width: 903
+        height: 855
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8c4085eb928f16e50800000000000000
+      internalID: 6800989770476946632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_111
+      rect:
+        serializedVersion: 2
+        x: 5255
+        y: 1860
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6b3445a25c2c7b130800000000000000
+      internalID: 3582546180671030198
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_112
+      rect:
+        serializedVersion: 2
+        x: 5265
+        y: 1854
+        width: 10
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d9317ac1265e32a60800000000000000
+      internalID: 7648208801755501469
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_113
+      rect:
+        serializedVersion: 2
+        x: 546
+        y: 1056
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a1c1c6aadd4bb6e10800000000000000
+      internalID: 2192044507785862170
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_114
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 1063
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df4820d84fd48de50800000000000000
+      internalID: 6834298147267839229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_115
+      rect:
+        serializedVersion: 2
+        x: 1601
+        y: 1056
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b4bb67bd8047b1ad0800000000000000
+      internalID: -2730461167679521973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_116
+      rect:
+        serializedVersion: 2
+        x: 1642
+        y: 1063
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a41c426aeea7d2870800000000000000
+      internalID: 8659712823911563594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_117
+      rect:
+        serializedVersion: 2
+        x: 2656
+        y: 1056
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f04b0f8a2416bde20800000000000000
+      internalID: 3376399284574401551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_118
+      rect:
+        serializedVersion: 2
+        x: 2697
+        y: 1063
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44214dc49fdaf88a0800000000000000
+      internalID: -6300626067420605884
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_119
+      rect:
+        serializedVersion: 2
+        x: 3711
+        y: 1056
+        width: 13
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0b4e75062617000800000000000000
+      internalID: 31914838299291826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_120
+      rect:
+        serializedVersion: 2
+        x: 3752
+        y: 1063
+        width: 18
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 35a557339aa984340800000000000000
+      internalID: 4848295050367818323
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_121
+      rect:
+        serializedVersion: 2
+        x: 107
+        y: 148
+        width: 938
+        height: 894
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6f6e894586b208ea0800000000000000
+      internalID: -5872646186995226890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_122
+      rect:
+        serializedVersion: 2
+        x: 1035
+        y: 787
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 202e0ab0159171ac0800000000000000
+      internalID: -3884608317705625086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_123
+      rect:
+        serializedVersion: 2
+        x: 1045
+        y: 781
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a49ad30a9deb319d0800000000000000
+      internalID: -2804688301016110774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_124
+      rect:
+        serializedVersion: 2
+        x: 1134
+        y: 115
+        width: 966
+        height: 927
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 887d7e0a2e8f75880800000000000000
+      internalID: -8622149309331679352
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_125
+      rect:
+        serializedVersion: 2
+        x: 2090
+        y: 787
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3a8990b54fabd6bc0800000000000000
+      internalID: -3788166152886576989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_126
+      rect:
+        serializedVersion: 2
+        x: 2100
+        y: 781
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6329abf33158b160800000000000000
+      internalID: 7041467301101118316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_127
+      rect:
+        serializedVersion: 2
+        x: 2163
+        y: 87
+        width: 992
+        height: 955
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac9577636d7f2a5c0800000000000000
+      internalID: -4205526602601768502
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_128
+      rect:
+        serializedVersion: 2
+        x: 3145
+        y: 787
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ed60e9203c64eec10800000000000000
+      internalID: 2084681480895596254
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_129
+      rect:
+        serializedVersion: 2
+        x: 3155
+        y: 781
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9a826cd2fd8efe400800000000000000
+      internalID: 355758940828870825
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_130
+      rect:
+        serializedVersion: 2
+        x: 3195
+        y: 64
+        width: 1015
+        height: 978
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0f2400375a7317ce0800000000000000
+      internalID: -1409284024651726096
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_131
+      rect:
+        serializedVersion: 2
+        x: 4200
+        y: 787
+        width: 11
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a3668e6423a64fd0800000000000000
+      internalID: -2358017978013424729
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: PoupleTri_attack_132
+      rect:
+        serializedVersion: 2
+        x: 4210
+        y: 781
+        width: 11
+        height: 20
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 60ad80a411040f5d0800000000000000
+      internalID: -3030852106219628026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      PoupleTri_attack_0: -289707670089867666
+      PoupleTri_attack_1: 2641186075743915973
+      PoupleTri_attack_10: 2345706932588658534
+      PoupleTri_attack_100: 2211359445105140014
+      PoupleTri_attack_101: 1019408863976657268
+      PoupleTri_attack_102: 9011249752102973090
+      PoupleTri_attack_103: 5900777202466714895
+      PoupleTri_attack_104: -5860787394386807219
+      PoupleTri_attack_105: -3192894498913434422
+      PoupleTri_attack_106: -8374947875742125244
+      PoupleTri_attack_107: 7173586433030533314
+      PoupleTri_attack_108: -1569361573354361470
+      PoupleTri_attack_109: 3598823692978387545
+      PoupleTri_attack_11: -1521431615433247188
+      PoupleTri_attack_110: 6800989770476946632
+      PoupleTri_attack_111: 3582546180671030198
+      PoupleTri_attack_112: 7648208801755501469
+      PoupleTri_attack_113: 2192044507785862170
+      PoupleTri_attack_114: 6834298147267839229
+      PoupleTri_attack_115: -2730461167679521973
+      PoupleTri_attack_116: 8659712823911563594
+      PoupleTri_attack_117: 3376399284574401551
+      PoupleTri_attack_118: -6300626067420605884
+      PoupleTri_attack_119: 31914838299291826
+      PoupleTri_attack_12: 5205679489280979917
+      PoupleTri_attack_120: 4848295050367818323
+      PoupleTri_attack_121: -5872646186995226890
+      PoupleTri_attack_122: -3884608317705625086
+      PoupleTri_attack_123: -2804688301016110774
+      PoupleTri_attack_124: -8622149309331679352
+      PoupleTri_attack_125: -3788166152886576989
+      PoupleTri_attack_126: 7041467301101118316
+      PoupleTri_attack_127: -4205526602601768502
+      PoupleTri_attack_128: 2084681480895596254
+      PoupleTri_attack_129: 355758940828870825
+      PoupleTri_attack_13: 3480584773876345937
+      PoupleTri_attack_130: -1409284024651726096
+      PoupleTri_attack_131: -2358017978013424729
+      PoupleTri_attack_132: -3030852106219628026
+      PoupleTri_attack_14: 6316574374456142735
+      PoupleTri_attack_15: 924781631284895178
+      PoupleTri_attack_16: 2885335497606515318
+      PoupleTri_attack_17: -6974642912925047811
+      PoupleTri_attack_18: -3966064412862148802
+      PoupleTri_attack_19: -8045752086516145611
+      PoupleTri_attack_2: 8734171331444544933
+      PoupleTri_attack_20: -1986170997127673625
+      PoupleTri_attack_21: 5290058460020709991
+      PoupleTri_attack_22: -699470238597266294
+      PoupleTri_attack_23: 691949683422232836
+      PoupleTri_attack_24: 5212405722621235142
+      PoupleTri_attack_25: 8777740750537392115
+      PoupleTri_attack_26: -3769682488465873677
+      PoupleTri_attack_27: 9114861768824342071
+      PoupleTri_attack_28: -6174862944205814697
+      PoupleTri_attack_29: 6545418294959809858
+      PoupleTri_attack_3: 8762903806861018391
+      PoupleTri_attack_30: -4217063088343690752
+      PoupleTri_attack_31: 5261578256742863641
+      PoupleTri_attack_32: 5622496322370591813
+      PoupleTri_attack_33: 5243870488845807211
+      PoupleTri_attack_34: -2043908327395162996
+      PoupleTri_attack_35: 6519007726896625007
+      PoupleTri_attack_36: -1339705684210477192
+      PoupleTri_attack_37: 5453311872347273010
+      PoupleTri_attack_38: 1053307612623059093
+      PoupleTri_attack_39: -4585923327097717835
+      PoupleTri_attack_4: -5792372380217505983
+      PoupleTri_attack_40: 969804409983883685
+      PoupleTri_attack_41: 1105846787825149294
+      PoupleTri_attack_42: -2469644740222548949
+      PoupleTri_attack_43: 4230710660637389037
+      PoupleTri_attack_44: -1562861777886163351
+      PoupleTri_attack_45: 2296750282348730057
+      PoupleTri_attack_46: -6256788827472555250
+      PoupleTri_attack_47: 4651584418194249931
+      PoupleTri_attack_48: 9193016910207919175
+      PoupleTri_attack_49: 3289058760832224861
+      PoupleTri_attack_5: -4932203029163913343
+      PoupleTri_attack_50: 3829127432759795546
+      PoupleTri_attack_51: 7957668134223810230
+      PoupleTri_attack_52: -8938120660711596388
+      PoupleTri_attack_53: 8437968629419314285
+      PoupleTri_attack_54: -3550890771392931821
+      PoupleTri_attack_55: -5494658433558823214
+      PoupleTri_attack_56: -6436660082969298481
+      PoupleTri_attack_57: -4645569766287066235
+      PoupleTri_attack_58: -1847916643336577789
+      PoupleTri_attack_59: 8582164326697649955
+      PoupleTri_attack_6: -5684054389009819226
+      PoupleTri_attack_60: 9055028796152214761
+      PoupleTri_attack_61: -1707912260224779473
+      PoupleTri_attack_62: 4524948798012322207
+      PoupleTri_attack_63: -4623911581353028966
+      PoupleTri_attack_64: -939340852173610970
+      PoupleTri_attack_65: 4002320612675503806
+      PoupleTri_attack_66: 3794037299590581103
+      PoupleTri_attack_67: -2432414604467912514
+      PoupleTri_attack_68: 7287543661715580606
+      PoupleTri_attack_69: -2270607685379468531
+      PoupleTri_attack_7: -5981133222320429277
+      PoupleTri_attack_70: 8029492879372389987
+      PoupleTri_attack_71: -5041774418591743182
+      PoupleTri_attack_72: 8026277368342616067
+      PoupleTri_attack_73: 2763067314376061834
+      PoupleTri_attack_74: 2537780468306838776
+      PoupleTri_attack_75: 571785006103186246
+      PoupleTri_attack_76: -6655840372286363461
+      PoupleTri_attack_77: 8967360773034268190
+      PoupleTri_attack_78: 6319387252354873848
+      PoupleTri_attack_79: -3308163754306620946
+      PoupleTri_attack_8: 8943303413172913634
+      PoupleTri_attack_80: 9208385226293600661
+      PoupleTri_attack_81: 2960048334715786080
+      PoupleTri_attack_82: 7727584648609097921
+      PoupleTri_attack_83: -4308260527092362668
+      PoupleTri_attack_84: 7550319648784231410
+      PoupleTri_attack_85: 4891594348262651553
+      PoupleTri_attack_86: -4217651416653619260
+      PoupleTri_attack_87: -1545591378657868622
+      PoupleTri_attack_88: 7394875529453217690
+      PoupleTri_attack_89: -5380746825697510865
+      PoupleTri_attack_9: 2277695144163607997
+      PoupleTri_attack_90: -3262829921580185925
+      PoupleTri_attack_91: 6676942286734072470
+      PoupleTri_attack_92: -570729533583442766
+      PoupleTri_attack_93: -356110357699208783
+      PoupleTri_attack_94: -5880615366661845460
+      PoupleTri_attack_95: -7274982741749501435
+      PoupleTri_attack_96: 267105515242129833
+      PoupleTri_attack_97: 4200408925621644264
+      PoupleTri_attack_98: -3882225360613237839
+      PoupleTri_attack_99: -6191620021511825047
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
