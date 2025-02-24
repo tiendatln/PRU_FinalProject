@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      adventurer-slide-01-1.3_0: 8281799923538912008
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

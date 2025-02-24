@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      adventurer-water-tread-03-1.3_0: 1497912333861224444
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      adventurer-bow-jump-03_0: -5682138595138846666
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
