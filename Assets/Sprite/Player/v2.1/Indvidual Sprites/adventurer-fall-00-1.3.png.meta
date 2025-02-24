@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      adventurer-fall-00-1.3_0: -3874778018827939350
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

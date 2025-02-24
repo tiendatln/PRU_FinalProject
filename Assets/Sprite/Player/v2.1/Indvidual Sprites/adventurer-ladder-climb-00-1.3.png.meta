@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      adventurer-ladder-climb-00-1.3_0: 7323333517608174110
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

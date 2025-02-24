@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      adventurer-swim-02-1.3_0: -8693987878738643819
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

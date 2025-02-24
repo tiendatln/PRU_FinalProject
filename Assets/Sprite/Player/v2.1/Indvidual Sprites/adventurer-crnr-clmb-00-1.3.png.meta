@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      adventurer-crnr-clmb-00-1.3_0: 2238051947428078809
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
