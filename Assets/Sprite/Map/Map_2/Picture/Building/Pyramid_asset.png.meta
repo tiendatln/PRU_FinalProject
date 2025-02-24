@@ -1,0 +1,2192 @@
+fileFormatVersion: 2
+guid: 926d48071a0adf8479c8c0ce42bef156
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4547656831444876778
+    second: Pyramid_asset_0
+  - first:
+      213: -5131462368125257864
+    second: Pyramid_asset_1
+  - first:
+      213: 5775194797953434502
+    second: Pyramid_asset_2
+  - first:
+      213: 563174256507309163
+    second: Pyramid_asset_3
+  - first:
+      213: -6601560169246544395
+    second: Pyramid_asset_4
+  - first:
+      213: 8156122516250901640
+    second: Pyramid_asset_5
+  - first:
+      213: 6202512254155548962
+    second: Pyramid_asset_6
+  - first:
+      213: -8674195610157319149
+    second: Pyramid_asset_7
+  - first:
+      213: 3019670122558285017
+    second: Pyramid_asset_8
+  - first:
+      213: 4980964664409799366
+    second: Pyramid_asset_9
+  - first:
+      213: 7428547293310145230
+    second: Pyramid_asset_10
+  - first:
+      213: 4458117764424917402
+    second: Pyramid_asset_11
+  - first:
+      213: 8563793901657167885
+    second: Pyramid_asset_12
+  - first:
+      213: -5865056149243482398
+    second: Pyramid_asset_13
+  - first:
+      213: -4606000859055264257
+    second: Pyramid_asset_14
+  - first:
+      213: 5920330147132286542
+    second: Pyramid_asset_15
+  - first:
+      213: -2421356936648401771
+    second: Pyramid_asset_16
+  - first:
+      213: 5149808551272141198
+    second: Pyramid_asset_17
+  - first:
+      213: -6687738253740358044
+    second: Pyramid_asset_18
+  - first:
+      213: -4980674675643125444
+    second: Pyramid_asset_19
+  - first:
+      213: 3055053878017521883
+    second: Pyramid_asset_20
+  - first:
+      213: -1761161221661096528
+    second: Pyramid_asset_21
+  - first:
+      213: -3494084231837455709
+    second: Pyramid_asset_22
+  - first:
+      213: 5808522741432378779
+    second: Pyramid_asset_23
+  - first:
+      213: -8988606842315076085
+    second: Pyramid_asset_24
+  - first:
+      213: -7030466529904373720
+    second: Pyramid_asset_25
+  - first:
+      213: -176861568825560686
+    second: Pyramid_asset_26
+  - first:
+      213: 6527749157244830476
+    second: Pyramid_asset_27
+  - first:
+      213: 6330950999246305204
+    second: Pyramid_asset_28
+  - first:
+      213: 6531549867241025027
+    second: Pyramid_asset_29
+  - first:
+      213: 1708665721467519167
+    second: Pyramid_asset_30
+  - first:
+      213: 8484131677007266343
+    second: Pyramid_asset_31
+  - first:
+      213: 2876279356642456779
+    second: Pyramid_asset_32
+  - first:
+      213: -3059321962404033964
+    second: Pyramid_asset_33
+  - first:
+      213: -3020660543419666109
+    second: Pyramid_asset_34
+  - first:
+      213: -2347738073119661318
+    second: Pyramid_asset_35
+  - first:
+      213: 6342465369376086866
+    second: Pyramid_asset_36
+  - first:
+      213: -9207959098411595896
+    second: Pyramid_asset_37
+  - first:
+      213: 4495145071063884949
+    second: Pyramid_asset_38
+  - first:
+      213: -8583786662429997111
+    second: Pyramid_asset_39
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 32
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Pyramid_asset_0
+      rect:
+        serializedVersion: 2
+        x: 336
+        y: 470
+        width: 128
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ffccbafdf5412414dbd04d5bd9b378b3
+      internalID: 210165136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_1
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 426
+        width: 40
+        height: 40
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 1, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d87acc25613cd6b4f9b064d301272c3c
+      internalID: 1394934188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_2
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 428
+        width: 23
+        height: 38
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b6c7a703d8f958043a4ee778f4658b23
+      internalID: 1129867594
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_3
+      rect:
+        serializedVersion: 2
+        x: 324
+        y: 429
+        width: 32
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 841d295942ba6d6408437cbc48c47cd1
+      internalID: 943234408
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_4
+      rect:
+        serializedVersion: 2
+        x: 363
+        y: 428
+        width: 37
+        height: 37
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 989f70a98b9fb9d439b248aab632db80
+      internalID: 1594685529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_5
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 414
+        width: 43
+        height: 50
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7173330f382e1f543a198546b925e639
+      internalID: 970164916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_6
+      rect:
+        serializedVersion: 2
+        x: 458
+        y: 373
+        width: 28
+        height: 95
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 76c06245b145d6745bd8a0e48b08b2f1
+      internalID: -1306851927
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_7
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 341
+        width: 36
+        height: 70
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cfeaa0d14291191488eae98da4faf793
+      internalID: 285400586
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_8
+      rect:
+        serializedVersion: 2
+        x: 346
+        y: 341
+        width: 28
+        height: 70
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0818094e22ac254488bf816ccda53df1
+      internalID: 1439353302
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_9
+      rect:
+        serializedVersion: 2
+        x: 385
+        y: 341
+        width: 27
+        height: 71
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5ad7067008aa0dd409ac2047b30b0cd8
+      internalID: 1869519458
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_10
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 341
+        width: 43
+        height: 30
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6b05a9bf3e87d244da6b807c23a72abe
+      internalID: -1581275338
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_11
+      rect:
+        serializedVersion: 2
+        x: 301
+        y: 315
+        width: 31
+        height: 15
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58a4a3a2a223a24449bfe3f6357b5d56
+      internalID: 179119596
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_12
+      rect:
+        serializedVersion: 2
+        x: 347
+        y: 313
+        width: 30
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8dd89ee8b3f3ad94c849e05866c4bd32
+      internalID: -1157494263
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_13
+      rect:
+        serializedVersion: 2
+        x: 396
+        y: 274
+        width: 33
+        height: 51
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 651b6a27bacfe624ea20b4926745b069
+      internalID: 1378897445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_14
+      rect:
+        serializedVersion: 2
+        x: 439
+        y: 279
+        width: 33
+        height: 43
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9378c50de3aff0c45b5403e2129fc4cb
+      internalID: 598580099
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_15
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 297
+        width: 36
+        height: 14
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77121fa2a941b9147bb57ccca8138ccc
+      internalID: -26626200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_16
+      rect:
+        serializedVersion: 2
+        x: 345
+        y: 272
+        width: 35
+        height: 29
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 78b65f0e83645f84aac2ffaf76fb022a
+      internalID: -1568330834
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_17
+      rect:
+        serializedVersion: 2
+        x: 294
+        y: 234
+        width: 42
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6c34861917117464aba27c55a5735c46
+      internalID: 368025967
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_18
+      rect:
+        serializedVersion: 2
+        x: 337
+        y: 235
+        width: 87
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e2f78d39b885c14eb1c77fcebd8a2f2
+      internalID: -141082640
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_19
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 235
+        width: 42
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dbedaeda3afa4e2429d69fafcb229da9
+      internalID: -271637796
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_20
+      rect:
+        serializedVersion: 2
+        x: 308
+        y: 195
+        width: 27
+        height: 19
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 483417ffeccd0e0429d31645fd15fd05
+      internalID: 1785520383
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_21
+      rect:
+        serializedVersion: 2
+        x: 353
+        y: 195
+        width: 17
+        height: 26
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 45c3b55962771d94e99629c8f6ec04c4
+      internalID: -1559289221
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_22
+      rect:
+        serializedVersion: 2
+        x: 386
+        y: 195
+        width: 20
+        height: 25
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a110005a2d5054540becfbb64df1850b
+      internalID: 469007780
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_23
+      rect:
+        serializedVersion: 2
+        x: 421
+        y: 195
+        width: 28
+        height: 18
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8954159411685bf438e1020fe1fe7695
+      internalID: -606467712
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_24
+      rect:
+        serializedVersion: 2
+        x: 296
+        y: 144
+        width: 71
+        height: 35
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: af029627c5b51c14dbf07a32dfff92f1
+      internalID: 638724306
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_25
+      rect:
+        serializedVersion: 2
+        x: 373
+        y: 144
+        width: 35
+        height: 37
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 774b46a0f0c349847bb5bec385d8e33b
+      internalID: 703726335
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_26
+      rect:
+        serializedVersion: 2
+        x: 413
+        y: 144
+        width: 34
+        height: 37
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbd7b264e75c44547849e8cf947fc205
+      internalID: 4230731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_27
+      rect:
+        serializedVersion: 2
+        x: 23
+        y: 65
+        width: 62
+        height: 61
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9d64e48c01eb314a92062ae6b6fa5b7
+      internalID: 1996148634
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_28
+      rect:
+        serializedVersion: 2
+        x: 103
+        y: 87
+        width: 38
+        height: 39
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3d1ec5fad0ee04d4b9b3d615f5bd43e9
+      internalID: -1793758838
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_29
+      rect:
+        serializedVersion: 2
+        x: 183
+        y: 85
+        width: 35
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c5052b88605c1c64d87c10be339762b9
+      internalID: -1883026224
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_30
+      rect:
+        serializedVersion: 2
+        x: 229
+        y: 31
+        width: 39
+        height: 102
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb9ebe37280fe3448b25ec534cee3f41
+      internalID: -292460475
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_31
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 85
+        width: 34
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 059497d9a014fb0429f4dd628b26efdc
+      internalID: -2053720456
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_32
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 85
+        width: 36
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 07a2159a72d68254089c83ebe515f246
+      internalID: 921027441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_33
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 84
+        width: 36
+        height: 49
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 48b5416f46223784b84081284ca5ee42
+      internalID: -1208657381
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_34
+      rect:
+        serializedVersion: 2
+        x: 428
+        y: 85
+        width: 36
+        height: 48
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a45b5cdd7c04cf41b26524202e3dda5
+      internalID: -117695244
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_35
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 16
+        width: 61
+        height: 61
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5a5d6ff66757c041bfbbcf99e078eb3
+      internalID: 1547316627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_36
+      rect:
+        serializedVersion: 2
+        x: 179
+        y: 31
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b8c46012723cc54dbdc625bc54a91a8
+      internalID: 829310128
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_37
+      rect:
+        serializedVersion: 2
+        x: 279
+        y: 31
+        width: 39
+        height: 51
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49f69eb85d121a04ea7429b20d491a3a
+      internalID: 1060418759
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_38
+      rect:
+        serializedVersion: 2
+        x: 328
+        y: 31
+        width: 40
+        height: 51
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 80aa18313c7ba7e4ebbe32b9ca75dfed
+      internalID: -356706703
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_39
+      rect:
+        serializedVersion: 2
+        x: 378
+        y: 31
+        width: 40
+        height: 51
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e965a032e1d716d4da3cbb095cb14a82
+      internalID: -1916984108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_40
+      rect:
+        serializedVersion: 2
+        x: 429
+        y: 32
+        width: 39
+        height: 50
+      alignment: 9
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0e776168037ab944e8c808f7ba04193b
+      internalID: -17942867
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_41
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 427
+        width: 40
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee228d3fc091914387a6b2a850bc285
+      internalID: -300905057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_42
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 427
+        width: 39
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cb13074cec0e03f45a27328a4ba72d43
+      internalID: -1759398457
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_43
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 427
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 97558ed4f848a7d4d9fa6ba12023285b
+      internalID: -1798028239
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_44
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 425
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5dceba6f13740594aabdfdb4d8aa3156
+      internalID: -93548977
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_45
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 425
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e0f2ae72d1cac441bc454596d0aaa1f
+      internalID: -9932443
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_46
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 385
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 2, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4c72b543b83eead47a2e48a2d92bd495
+      internalID: -275721255
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_47
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 386
+        width: 40
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6523dc3c1ba726f4e84eb8d86133c955
+      internalID: -734325793
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_48
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 385
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cd215eed6c6f1824f95a94822372afb3
+      internalID: 293082347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_49
+      rect:
+        serializedVersion: 2
+        x: 150
+        y: 387
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0d9a295a5a0505d4d8710d2ff7b8424c
+      internalID: 1040686835
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_50
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 385
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 901e4bb1baf787d49b7c1800b9022e11
+      internalID: 750679400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_51
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 385
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 117c3da0a5d3bc64f961724bb7ac04ee
+      internalID: -2047723761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_52
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 345
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 49cbfeeac96ebab41a4ff1efdb5adbc6
+      internalID: -1541806856
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_53
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 345
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 67607ff1dfc7b0f40b10d1a10f9f13f3
+      internalID: -447224485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_54
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 345
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a331ab89934d0024bb85ef28748a8c86
+      internalID: 1899026851
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_55
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 345
+        width: 41
+        height: 39
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ac43ad4566f150043b3d83340121c1e1
+      internalID: -559387733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_56
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 345
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bd474e91a40481a408a1c1dfa14c954a
+      internalID: 39682823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_57
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 345
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9c9fe29bc195f514fb322c86e18bd5c1
+      internalID: 2067473340
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_58
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 305
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e155a53bfcdf3fb40bbc3d40165647af
+      internalID: -634754272
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_59
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 305
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a5f9f2ee4906da346b18f1ec7344ba81
+      internalID: -156970321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_60
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 305
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 04f6edc7e1b607d49aae94814210abcd
+      internalID: -1646142201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_61
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 305
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6ddb1b26215072947a4833890c1c98e1
+      internalID: 567709695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_62
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 305
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: df2e518dee736f2489df0db3e2222558
+      internalID: 1655365529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_63
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 305
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ce59a6d23974df3459f074c36233c33e
+      internalID: -41250024
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_64
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 265
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ade6c2a0f9870bb4abfd76091c15ab64
+      internalID: 1786929078
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_65
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 265
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 850d02efebbd95e47841da9772226121
+      internalID: 1936664658
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_66
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 265
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 551689dc2b1fd1349a78c772a9ac2dff
+      internalID: 1755856588
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_67
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 265
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f94842d344369043878010ab807e1bf
+      internalID: 2064408693
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_68
+      rect:
+        serializedVersion: 2
+        x: 191
+        y: 265
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e94f0591903ae444abf882f7b65b8e53
+      internalID: 524461390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_69
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 265
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf2d7d47ee9af02499b5a5e9f8de1669
+      internalID: -167515077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_70
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 224
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c80dd46bdc1756842b4423bb03ba917e
+      internalID: 817187923
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_71
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 224
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6cade033a8144ef4bb8f7973e85cbf26
+      internalID: 429943501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_72
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 224
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ddf3bd750bfe3cb4f99119fe82942b3c
+      internalID: 1714001738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_73
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 224
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bee3c4efc0ec6914cb49dedf4fe93f12
+      internalID: -720836981
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_74
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 225
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c6378545b642ed4892c3e2a5dac5c59
+      internalID: 978034339
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_75
+      rect:
+        serializedVersion: 2
+        x: 28
+        y: 183
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5cf24d8456b0cb4993dfb854f073bd7
+      internalID: 853406382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_76
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 183
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 06576e735e166674a998ce4209a53b6e
+      internalID: 1247063439
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_77
+      rect:
+        serializedVersion: 2
+        x: 108
+        y: 183
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e432384012eb99b42be14e5abd0a67b7
+      internalID: -529669026
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_78
+      rect:
+        serializedVersion: 2
+        x: 148
+        y: 183
+        width: 41
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5cf5963cc5f3b134ca322848e2bb88ff
+      internalID: 1498588607
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_79
+      rect:
+        serializedVersion: 2
+        x: 192
+        y: 183
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c81af1d358983642b7e199aa8f3e78f
+      internalID: -2084278994
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_80
+      rect:
+        serializedVersion: 2
+        x: 234
+        y: 183
+        width: 40
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: faaebdf25b0fe1d4db916fd72c2c298e
+      internalID: 382280773
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_81
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 143
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 896a0984f6bb67247b2294e763074016
+      internalID: 512886298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_82
+      rect:
+        serializedVersion: 2
+        x: 68
+        y: 143
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a62dab2485005ae4398c7f2a5152311c
+      internalID: 1510069368
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_83
+      rect:
+        serializedVersion: 2
+        x: 109
+        y: 143
+        width: 38
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f0e966fe54113424fa989b3d44f12cd8
+      internalID: 39225257
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Pyramid_asset_84
+      rect:
+        serializedVersion: 2
+        x: 155
+        y: 143
+        width: 29
+        height: 38
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82fa537dc9ef9224caf1360f9d4025a3
+      internalID: -1729315375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 892bbbb90de143c4eab79753531d5053
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Pyramid_asset_0: 210165136
+      Pyramid_asset_1: 1394934188
+      Pyramid_asset_10: -1581275338
+      Pyramid_asset_11: 179119596
+      Pyramid_asset_12: -1157494263
+      Pyramid_asset_13: 1378897445
+      Pyramid_asset_14: 598580099
+      Pyramid_asset_15: -26626200
+      Pyramid_asset_16: -1568330834
+      Pyramid_asset_17: 368025967
+      Pyramid_asset_18: -141082640
+      Pyramid_asset_19: -271637796
+      Pyramid_asset_2: 1129867594
+      Pyramid_asset_20: 1785520383
+      Pyramid_asset_21: -1559289221
+      Pyramid_asset_22: 469007780
+      Pyramid_asset_23: -606467712
+      Pyramid_asset_24: 638724306
+      Pyramid_asset_25: 703726335
+      Pyramid_asset_26: 4230731
+      Pyramid_asset_27: 1996148634
+      Pyramid_asset_28: -1793758838
+      Pyramid_asset_29: -1883026224
+      Pyramid_asset_3: 943234408
+      Pyramid_asset_30: -292460475
+      Pyramid_asset_31: -2053720456
+      Pyramid_asset_32: 921027441
+      Pyramid_asset_33: -1208657381
+      Pyramid_asset_34: -117695244
+      Pyramid_asset_35: 1547316627
+      Pyramid_asset_36: 829310128
+      Pyramid_asset_37: 1060418759
+      Pyramid_asset_38: -356706703
+      Pyramid_asset_39: -1916984108
+      Pyramid_asset_4: 1594685529
+      Pyramid_asset_40: -17942867
+      Pyramid_asset_41: -300905057
+      Pyramid_asset_42: -1759398457
+      Pyramid_asset_43: -1798028239
+      Pyramid_asset_44: -93548977
+      Pyramid_asset_45: -9932443
+      Pyramid_asset_46: -275721255
+      Pyramid_asset_47: -734325793
+      Pyramid_asset_48: 293082347
+      Pyramid_asset_49: 1040686835
+      Pyramid_asset_5: 970164916
+      Pyramid_asset_50: 750679400
+      Pyramid_asset_51: -2047723761
+      Pyramid_asset_52: -1541806856
+      Pyramid_asset_53: -447224485
+      Pyramid_asset_54: 1899026851
+      Pyramid_asset_55: -559387733
+      Pyramid_asset_56: 39682823
+      Pyramid_asset_57: 2067473340
+      Pyramid_asset_58: -634754272
+      Pyramid_asset_59: -156970321
+      Pyramid_asset_6: -1306851927
+      Pyramid_asset_60: -1646142201
+      Pyramid_asset_61: 567709695
+      Pyramid_asset_62: 1655365529
+      Pyramid_asset_63: -41250024
+      Pyramid_asset_64: 1786929078
+      Pyramid_asset_65: 1936664658
+      Pyramid_asset_66: 1755856588
+      Pyramid_asset_67: 2064408693
+      Pyramid_asset_68: 524461390
+      Pyramid_asset_69: -167515077
+      Pyramid_asset_7: 285400586
+      Pyramid_asset_70: 817187923
+      Pyramid_asset_71: 429943501
+      Pyramid_asset_72: 1714001738
+      Pyramid_asset_73: -720836981
+      Pyramid_asset_74: 978034339
+      Pyramid_asset_75: 853406382
+      Pyramid_asset_76: 1247063439
+      Pyramid_asset_77: -529669026
+      Pyramid_asset_78: 1498588607
+      Pyramid_asset_79: -2084278994
+      Pyramid_asset_8: 1439353302
+      Pyramid_asset_80: 382280773
+      Pyramid_asset_81: 512886298
+      Pyramid_asset_82: 1510069368
+      Pyramid_asset_83: 39225257
+      Pyramid_asset_84: -1729315375
+      Pyramid_asset_9: 1869519458
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
