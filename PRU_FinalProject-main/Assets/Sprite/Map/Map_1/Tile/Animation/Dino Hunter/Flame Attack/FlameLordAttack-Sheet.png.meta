@@ -1,0 +1,585 @@
+fileFormatVersion: 2
+guid: f82f11e2c86b65748bbcfb2090b222ce
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4251276805360536071
+    second: FlameLordAttack-Sheet_0
+  - first:
+      213: 9063905590240970792
+    second: FlameLordAttack-Sheet_1
+  - first:
+      213: 8611019100738516718
+    second: FlameLordAttack-Sheet_2
+  - first:
+      213: -2026395773707349396
+    second: FlameLordAttack-Sheet_3
+  - first:
+      213: -7467219317185171974
+    second: FlameLordAttack-Sheet_4
+  - first:
+      213: 1726051150945819391
+    second: FlameLordAttack-Sheet_5
+  - first:
+      213: 7306413075828044975
+    second: FlameLordAttack-Sheet_6
+  - first:
+      213: 8989758084636077989
+    second: FlameLordAttack-Sheet_7
+  - first:
+      213: 6640432731818796316
+    second: FlameLordAttack-Sheet_8
+  - first:
+      213: -5704703506387798666
+    second: FlameLordAttack-Sheet_9
+  - first:
+      213: 3886837803427846691
+    second: FlameLordAttack-Sheet_10
+  - first:
+      213: -6549952578329404672
+    second: FlameLordAttack-Sheet_11
+  - first:
+      213: -7398264439726342109
+    second: FlameLordAttack-Sheet_12
+  - first:
+      213: -3152979140798685441
+    second: FlameLordAttack-Sheet_13
+  - first:
+      213: 1200920522286025181
+    second: FlameLordAttack-Sheet_14
+  - first:
+      213: 4986150356914759498
+    second: FlameLordAttack-Sheet_15
+  - first:
+      213: 3528940173183092114
+    second: FlameLordAttack-Sheet_16
+  - first:
+      213: 7788054472878409990
+    second: FlameLordAttack-Sheet_17
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 49
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: FlameLordAttack-Sheet_0
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 0
+        width: 92
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f5b0ae054e6005c0800000000000000
+      internalID: -4251276805360536071
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameLordAttack-Sheet_1
+      rect:
+        serializedVersion: 2
+        x: 213
+        y: 0
+        width: 90
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8288df79c1679cd70800000000000000
+      internalID: 9063905590240970792
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameLordAttack-Sheet_2
+      rect:
+        serializedVersion: 2
+        x: 379
+        y: 0
+        width: 102
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ee67f9dbf3c708770800000000000000
+      internalID: 8611019100738516718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameLordAttack-Sheet_3
+      rect:
+        serializedVersion: 2
+        x: 547
+        y: 0
+        width: 112
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6212d5b7cbc0e3e0800000000000000
+      internalID: -2026395773707349396
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameLordAttack-Sheet_4
+      rect:
+        serializedVersion: 2
+        x: 715
+        y: 0
+        width: 122
+        height: 71
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: afd2e33189b1f5890800000000000000
+      internalID: -7467219317185171974
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameLordAttack-Sheet_5
+      rect:
+        serializedVersion: 2
+        x: 755
+        y: 63
+        width: 10
+        height: 12
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffa9744706a24f710800000000000000
+      internalID: 1726051150945819391
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameLordAttack-Sheet_6
+      rect:
+        serializedVersion: 2
+        x: 889
+        y: 0
+        width: 122
+        height: 85
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fa4fffe3bf7956560800000000000000
+      internalID: 7306413075828044975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameLordAttack-Sheet_7
+      rect:
+        serializedVersion: 2
+        x: 1067
+        y: 0
+        width: 122
+        height: 110
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5afed63295902cc70800000000000000
+      internalID: 8989758084636077989
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameLordAttack-Sheet_8
+      rect:
+        serializedVersion: 2
+        x: 1247
+        y: 0
+        width: 126
+        height: 89
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c15afe6136e872c50800000000000000
+      internalID: 6640432731818796316
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameLordAttack-Sheet_9
+      rect:
+        serializedVersion: 2
+        x: 1427
+        y: 0
+        width: 170
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 67574d0c262d4d0b0800000000000000
+      internalID: -5704703506387798666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameLordAttack-Sheet_10
+      rect:
+        serializedVersion: 2
+        x: 1639
+        y: 0
+        width: 108
+        height: 79
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32a50ec8362d0f530800000000000000
+      internalID: 3886837803427846691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameLordAttack-Sheet_11
+      rect:
+        serializedVersion: 2
+        x: 1827
+        y: 0
+        width: 82
+        height: 77
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 00b950945d4e915a0800000000000000
+      internalID: -6549952578329404672
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameLordAttack-Sheet_12
+      rect:
+        serializedVersion: 2
+        x: 537
+        y: 33
+        width: 12
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 32005b390b5145990800000000000000
+      internalID: -7398264439726342109
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameLordAttack-Sheet_13
+      rect:
+        serializedVersion: 2
+        x: 535
+        y: 15
+        width: 14
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ffe5a783d2e5e34d0800000000000000
+      internalID: -3152979140798685441
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameLordAttack-Sheet_14
+      rect:
+        serializedVersion: 2
+        x: 713
+        y: 21
+        width: 10
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd9c55e2ad68aa010800000000000000
+      internalID: 1200920522286025181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameLordAttack-Sheet_15
+      rect:
+        serializedVersion: 2
+        x: 27
+        y: 0
+        width: 6
+        height: 9
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a476794f45d523540800000000000000
+      internalID: 4986150356914759498
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameLordAttack-Sheet_16
+      rect:
+        serializedVersion: 2
+        x: 205
+        y: 5
+        width: 6
+        height: 6
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2950f20f36059f030800000000000000
+      internalID: 3528940173183092114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: FlameLordAttack-Sheet_17
+      rect:
+        serializedVersion: 2
+        x: 539
+        y: 0
+        width: 16
+        height: 11
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6094f4bb74ab41c60800000000000000
+      internalID: 7788054472878409990
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      FlameLordAttack-Sheet_0: -4251276805360536071
+      FlameLordAttack-Sheet_1: 9063905590240970792
+      FlameLordAttack-Sheet_10: 3886837803427846691
+      FlameLordAttack-Sheet_11: -6549952578329404672
+      FlameLordAttack-Sheet_12: -7398264439726342109
+      FlameLordAttack-Sheet_13: -3152979140798685441
+      FlameLordAttack-Sheet_14: 1200920522286025181
+      FlameLordAttack-Sheet_15: 4986150356914759498
+      FlameLordAttack-Sheet_16: 3528940173183092114
+      FlameLordAttack-Sheet_17: 7788054472878409990
+      FlameLordAttack-Sheet_2: 8611019100738516718
+      FlameLordAttack-Sheet_3: -2026395773707349396
+      FlameLordAttack-Sheet_4: -7467219317185171974
+      FlameLordAttack-Sheet_5: 1726051150945819391
+      FlameLordAttack-Sheet_6: 7306413075828044975
+      FlameLordAttack-Sheet_7: 8989758084636077989
+      FlameLordAttack-Sheet_8: 6640432731818796316
+      FlameLordAttack-Sheet_9: -5704703506387798666
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
