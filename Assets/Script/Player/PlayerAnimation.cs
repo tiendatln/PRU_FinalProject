@@ -12,24 +12,34 @@ public class PlayerAnimation : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
     }
 
-    private void Update()
-    {
-        if (rb.linearVelocityY < 0)
-        {
-            animator.SetBool("fallen", true);
-        }
-    }
 
     public virtual void NomalMagicSkill()
     {
         animator.SetBool("jump", false);
         animator.SetBool("Skill", true);
         animator.SetBool("fallen", false);
-        Invoke("EndMagicSkill", 0.2f);
+        
+    }
+    public void Fallen(bool active)
+    {
+        animator.SetBool("jump", false);
+        animator.SetBool("fallen", active);
     }
     public void EndMagicSkill()
     {
         animator.SetBool("Skill", false);
     }
 
+    public void BowAttack()
+    {
+        animator.SetBool("jump", false);
+        animator.SetBool("fallen", false);
+        animator.SetBool("Bow Attack", true);
+        
+    }
+    public void EndBowAttack()
+    {
+        animator.SetBool("Bow Attack", false);
+        
+    }
 }

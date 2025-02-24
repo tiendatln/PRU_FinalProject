@@ -20,6 +20,7 @@ public class PlayerAttack : MonoBehaviour
     public LayerMask enemyLayer; // Lớp kẻ địch
     public Transform attackPoint; // Điểm tấn công
     protected Enemy Enemy;
+    protected PlayerController playerController;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -28,6 +29,7 @@ public class PlayerAttack : MonoBehaviour
         PlMove = GetComponent<PlMove>();
         Enemy = GetComponent<Enemy>();
         ememy = GameObject.Find("HP");
+        playerController = GetComponent<PlayerController>();
     }
 
     // Update is called once per frame
@@ -41,12 +43,7 @@ public class PlayerAttack : MonoBehaviour
                 Animation();
             }
         }
-        if (Input.GetKeyDown(KeyCode.K))
-        {
-            animator.SetBool("Bow Attack", true);
-            PlMove.CanMove(0);
-            Invoke("EndBowAttack", 1f);
-        }
+        
     }
 
     #region Animation
@@ -131,12 +128,7 @@ public class PlayerAttack : MonoBehaviour
         
     }
 
-    public void EndBowAttack()
-    {
-        animator.SetBool("Bow Attack", false);
-        PlMove.CanMove(1);
-        PlMove.StopJump(2);
-    }
+    
 
     void Attack()
     {

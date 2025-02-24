@@ -1,4 +1,6 @@
-﻿using System.Threading.Tasks;
+﻿using System.Collections;
+using System.Threading;
+using System.Threading.Tasks;
 using Unity.Mathematics;
 using Unity.VisualScripting;
 using UnityEngine;
@@ -37,10 +39,10 @@ public class PlMove : MonoBehaviour
     private Vector2 _moveInput;
     [Header("Checks")]
     [SerializeField] private Transform _groundCheckPoint;
-    [SerializeField] private Vector2 _groundCheckSize = new Vector2(0.01f, 0.01f);
+    [SerializeField] private Vector2 _groundCheckSize = new Vector2(0.1f, 0.01f);
     [Header("Layers & Tags")]
     [SerializeField] private LayerMask _groundLayer;
-    [SerializeField] private Vector2 _wallCheckSize = new Vector2(0.02f, 0.05f);
+    [SerializeField] private Vector2 _wallCheckSize = new Vector2(0.02f, 0.25f);
     [SerializeField] private Transform _frontWallCheckPoint;
     [SerializeField] private Transform _backWallCheckPoint;
     public float LastOnWallTime { get; private set; }
@@ -125,7 +127,7 @@ public class PlMove : MonoBehaviour
             _isJumpFalling = false;
 
             _wallJumpStartTime = Time.time;
-            _lastWallJumpDir = (LastOnWallRightTime > 0) ? -1 : 1;
+            _lastWallJumpDir = rb.transform.rotation.y >= 0 ? -1 : 1;
             WallJump(_lastWallJumpDir);
         }
         #endregion
@@ -152,23 +154,26 @@ public class PlMove : MonoBehaviour
             _isJumpFalling = false;
         }
 
-        if(rb.linearVelocityY < 0)
+        if (LastOnGroundTime < 0)
         {
-            rb.gravityScale = (Gravity * 1.4f);
-            rb.linearVelocity = new Vector2(rb.linearVelocityX, Mathf.Max(rb.linearVelocityY, -maxFallSpeed));
-        }
-        else if (_isJumpCut)
-        {
-            rb.gravityScale = (Gravity * 2.5f);
-            rb.linearVelocity = new Vector2(rb.linearVelocityX, Mathf.Max(rb.linearVelocityY, -maxFallSpeed));
-        }
-        else if ((isjumping || IsWallJumping || _isJumpFalling) && Mathf.Abs(rb.linearVelocityY) < 0)
-        {
-            rb.gravityScale = (Gravity * 0f);
-        }
-        else
-        {
-            rb.gravityScale = Gravity;
+            if (rb.linearVelocityY < 0)
+            {
+                rb.gravityScale = (Gravity * 2f);
+                rb.linearVelocity = new Vector2(rb.linearVelocityX, Mathf.Max(rb.linearVelocityY, -maxFallSpeed));
+            }
+            else if (_isJumpCut)
+            {
+                rb.gravityScale = (Gravity * 2.5f);
+                rb.linearVelocity = new Vector2(rb.linearVelocityX, Mathf.Max(rb.linearVelocityY, -maxFallSpeed));
+            }
+            else if ((isjumping || IsWallJumping || _isJumpFalling) && Mathf.Abs(rb.linearVelocityY) < 0)
+            {
+                rb.gravityScale = (Gravity * 0f);
+            }
+            else
+            {
+                rb.gravityScale = Gravity;
+            }
         }
         
         #endregion
@@ -191,18 +196,16 @@ public class PlMove : MonoBehaviour
             }
             
             //Right Wall Check
-            if (((Physics2D.OverlapBox(_frontWallCheckPoint.position, _wallCheckSize, 0, _groundLayer) && IsFacingRight)
-                || (Physics2D.OverlapBox(_backWallCheckPoint.position, _wallCheckSize, 0, _groundLayer) && !IsFacingRight)) && !IsWallJumping)
+            if (Physics2D.OverlapBox(_frontWallCheckPoint.position, _wallCheckSize, 0, _groundLayer) && !IsWallJumping)
                 LastOnWallRightTime = 0.1f;
 
             //Right Wall Check
-            if (((Physics2D.OverlapBox(_frontWallCheckPoint.position, _wallCheckSize, 0, _groundLayer) && !IsFacingRight)
-                || (Physics2D.OverlapBox(_backWallCheckPoint.position, _wallCheckSize, 0, _groundLayer) && IsFacingRight)) && !IsWallJumping)
+            if (Physics2D.OverlapBox(_backWallCheckPoint.position, _wallCheckSize, 0, _groundLayer) && !IsWallJumping)
                 LastOnWallLeftTime = 0.1f;
 
 
             LastOnWallTime = Mathf.Max(LastOnWallLeftTime, LastOnWallRightTime);
-            
+            //Debug.Log(LastOnWallTime);
         }
 
     }
@@ -210,23 +213,18 @@ public class PlMove : MonoBehaviour
     {
         if (!CanWallJump())
         {
-            run(canMove);
+            run();
         }
 
-        if (IsSliding)
+        if (IsSliding && LastOnGroundTime > 0 && rb.linearVelocityY > 0)
             Slide();
-
+        
     }
 
     #region Animation
     void Animation()
     {
-        if (rb.linearVelocityY < -1)
-        {
-            animator.SetBool("jump", false);
-            animator.SetBool("fallen", true);
-        }
-        else if (rb.linearVelocityY >= 0)
+        if (rb.linearVelocityY >= 0 && LastOnGroundTime > 0)
         {
             animator.SetBool("fallen", false);
         }
@@ -234,12 +232,9 @@ public class PlMove : MonoBehaviour
     #endregion
 
 
-    void run(int move)
+    void run()
     {
         float targetSpeed = _moveInput.x * runMaxSpeed;
-
-        
-
         float accelRate;
         if (LastOnGroundTime > 0)
         {
@@ -254,12 +249,12 @@ public class PlMove : MonoBehaviour
         //Increase are acceleration and maxSpeed when at the apex of their jump, makes the jump feel a bit more bouncy, responsive and natural
         if ((isjumping || IsWallJumping || _isJumpFalling) && Mathf.Abs(rb.linearVelocityY) < 1)
         {
-            accelRate *= 0.5f;
-            targetSpeed *= 0.5f;
+            accelRate *= 0.25f;
+            targetSpeed *= 0.25f;
         }
         #endregion
         float speedDif = targetSpeed - rb.linearVelocityX;
-        float movement = (speedDif * accelRate) * move;
+        float movement = (speedDif * accelRate);
         rb.AddForce(movement * Vector2.right, ForceMode2D.Force);
         animator.SetFloat("speed", Mathf.Abs(movement));
     }
@@ -274,7 +269,7 @@ public class PlMove : MonoBehaviour
             jumpPower = jumpHeight - rb.linearVelocityY;
         }
         animator.SetBool("jump", true);
-        animator.SetInteger("Next Attack", 0);
+        //animator.SetInteger("Next Attack", 0);
         rb.AddForce(jumpPower * Vector2.up, ForceMode2D.Impulse);
 
     }
@@ -288,7 +283,7 @@ public class PlMove : MonoBehaviour
         LastOnWallLeftTime = 0;
 
         #region Perform Wall Jump
-        Vector2 force = new Vector2(10, 6);
+        Vector2 force = new Vector2(10, 12);
         force.x *= dir; //apply force in opposite direction of wall
 
         if (Mathf.Sign(rb.linearVelocityX) != Mathf.Sign(force.x))
@@ -349,19 +344,19 @@ public class PlMove : MonoBehaviour
         return IsWallJumping && rb.linearVelocityY > 0;
     }
 
-    private bool CanWallJump()
+    public bool CanWallJump()
     {
         return LastPressedJumpTime > 0 && LastOnWallTime > 0 && LastOnGroundTime <= 0 && (!IsWallJumping ||
              (LastOnWallRightTime > 0 && _lastWallJumpDir == 1) || (LastOnWallLeftTime > 0 && _lastWallJumpDir == -1)); ;
     }
 
-    private bool CanJump()
+    public bool CanJump()
     {
         return !isjumping && LastOnGroundTime > 0;
     }
     public bool CanSlide()
     {
-        if (LastOnWallTime > 0 && !isjumping && !IsWallJumping && LastOnGroundTime <= 0)
+        if ( LastOnWallTime > 0 && !IsWallJumping && !isjumping && LastOnGroundTime <= 0)
             return true;
         else
             return false;
@@ -371,9 +366,9 @@ public class PlMove : MonoBehaviour
     private void Turn()
     {
         //stores scale and flips the player along the x axis, 
-        Vector3 scale = transform.localScale;
-        scale.x *= -1;
-        transform.localScale = scale;
+        Vector3 rotation = transform.rotation.eulerAngles;
+        rotation.y -= -180;
+        transform.rotation = Quaternion.Euler(rotation);
 
         IsFacingRight = !IsFacingRight;
     }
@@ -390,8 +385,8 @@ public class PlMove : MonoBehaviour
 
     public virtual float CheckInput()
     {
-        Vector3 scale = transform.localScale;
-        return (scale.x / Mathf.Abs(scale.x));
+        Vector3 scale = transform.rotation.eulerAngles;
+        return (scale.y / Mathf.Abs(scale.y));
     }
 
     public virtual void CanMove(int _canMove)
@@ -403,17 +398,18 @@ public class PlMove : MonoBehaviour
         
     }
 
-    public virtual void StopJump(int gravity)
+    public virtual void StopJump(float time)
     {
-        if (rb.linearVelocityY > 0)
-        {
-            rb.gravityScale = gravity;
-            if (gravity == 0)
-            {
-                _moveInput.x = 0;
-            }
-        }
-        animator.SetBool("jump", false);
-        rb.linearVelocity = Vector3.zero;
+        
+        StartCoroutine(DisableControlTemporarily(time));
     }
+    IEnumerator DisableControlTemporarily(float time)
+    {
+        rb.bodyType = RigidbodyType2D.Static;
+        rb.linearVelocity = Vector3.zero;
+        animator.SetBool("jump", false);
+        yield return new WaitForSeconds(time); // Chờ một khoảng thời gian
+        rb.bodyType = RigidbodyType2D.Dynamic;
+    }
+
 }

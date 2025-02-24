@@ -1,0 +1,31 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 13b75c95f34a00d4e8c04f76b73312e6, type: 3}
+  m_Name: fireTrap
+  m_EditorClassIdentifier: 
+  m_AnimatedSprites:
+  - {fileID: -2676187800237472831, guid: 01ac2bad5f095e444b891f9ade0cdb9e, type: 3}
+  - {fileID: 7675278877727459690, guid: 01ac2bad5f095e444b891f9ade0cdb9e, type: 3}
+  - {fileID: -8463743330742427506, guid: 01ac2bad5f095e444b891f9ade0cdb9e, type: 3}
+  - {fileID: 1794575877749614999, guid: 01ac2bad5f095e444b891f9ade0cdb9e, type: 3}
+  - {fileID: -6917167997020213863, guid: 01ac2bad5f095e444b891f9ade0cdb9e, type: 3}
+  - {fileID: 7181875472218328524, guid: 01ac2bad5f095e444b891f9ade0cdb9e, type: 3}
+  - {fileID: 2136815486, guid: 01ac2bad5f095e444b891f9ade0cdb9e, type: 3}
+  - {fileID: 86291894, guid: 01ac2bad5f095e444b891f9ade0cdb9e, type: 3}
+  - {fileID: 1365876566, guid: 01ac2bad5f095e444b891f9ade0cdb9e, type: 3}
+  - {fileID: -1413959737, guid: 01ac2bad5f095e444b891f9ade0cdb9e, type: 3}
+  m_MinSpeed: 0.5
+  m_MaxSpeed: 1
+  m_AnimationStartTime: 0
+  m_AnimationStartFrame: 0
+  m_TileColliderType: 0
+  m_TileAnimationFlags: 0
