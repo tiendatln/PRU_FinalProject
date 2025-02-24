@@ -1,0 +1,1689 @@
+fileFormatVersion: 2
+guid: d09c3808c55ddda49b149e0002f5644d
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -3053934270334972533
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_0
+  - first:
+      213: 804690167554036090
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_1
+  - first:
+      213: -3107823818363138537
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_2
+  - first:
+      213: -4336888061895625767
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_3
+  - first:
+      213: -8865103627492909603
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_4
+  - first:
+      213: -5125765633192989558
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_5
+  - first:
+      213: -3096166630609025830
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_6
+  - first:
+      213: 369686009445096903
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_7
+  - first:
+      213: 2508678686379563470
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_8
+  - first:
+      213: -9127688464385723628
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_9
+  - first:
+      213: -5485036852511420728
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_10
+  - first:
+      213: 770995443167196495
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_11
+  - first:
+      213: -4518131726416601528
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_12
+  - first:
+      213: 6887611827761226133
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_13
+  - first:
+      213: -2121172958826316389
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_14
+  - first:
+      213: -5810877185847655225
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_15
+  - first:
+      213: 1379830967910899880
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_16
+  - first:
+      213: -1173060632270530373
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_17
+  - first:
+      213: -9169186576381293505
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_18
+  - first:
+      213: 293879625590276319
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_19
+  - first:
+      213: -2601107519935735204
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_20
+  - first:
+      213: -3377540906173167861
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_21
+  - first:
+      213: 1229650463670811763
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_22
+  - first:
+      213: 306164582826219850
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_23
+  - first:
+      213: 5047118542086911767
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_24
+  - first:
+      213: 1497689319054741305
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_25
+  - first:
+      213: -4287512621068230321
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_26
+  - first:
+      213: -5057122348764397756
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_27
+  - first:
+      213: -2922452445293572041
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_28
+  - first:
+      213: 1772340049886256516
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_29
+  - first:
+      213: -8131705511318376249
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_30
+  - first:
+      213: -6444684104732469799
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_31
+  - first:
+      213: 7589645137270748637
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_32
+  - first:
+      213: -8003566464169309076
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_33
+  - first:
+      213: 2926951455746404778
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_34
+  - first:
+      213: -229024857679753440
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_35
+  - first:
+      213: 4950822589290748617
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_36
+  - first:
+      213: 3088547831486730505
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_37
+  - first:
+      213: 3347738870780275656
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_38
+  - first:
+      213: 3719622672217742350
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_39
+  - first:
+      213: 513948364819380501
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_40
+  - first:
+      213: 9170399173699528647
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_41
+  - first:
+      213: 7194606215289546996
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_42
+  - first:
+      213: -5508510934501059417
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_43
+  - first:
+      213: -7229821833714052359
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_44
+  - first:
+      213: -8091305499439450265
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_45
+  - first:
+      213: 6680846324553670551
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_46
+  - first:
+      213: 1133426915590531695
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_47
+  - first:
+      213: 4934412087946708375
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_48
+  - first:
+      213: -2676707539421353741
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_49
+  - first:
+      213: 2481642093593952847
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_50
+  - first:
+      213: 6357559288693375894
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_51
+  - first:
+      213: -4944529853275051973
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_52
+  - first:
+      213: -4650082471230908978
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_53
+  - first:
+      213: 3172725617312843669
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_54
+  - first:
+      213: 2716597012994748423
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_55
+  - first:
+      213: 3458609408169971476
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_56
+  - first:
+      213: 961333680204996973
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_57
+  - first:
+      213: 861398067157488485
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_58
+  - first:
+      213: -2182832119663706266
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_59
+  - first:
+      213: -6347718406030996739
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_60
+  - first:
+      213: -7785351604855062680
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_61
+  - first:
+      213: -483288294997391698
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_62
+  - first:
+      213: -4619130232673528642
+    second: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_63
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 50
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_0
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 709
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b8dca4926fe3e95d0800000000000000
+      internalID: -3053934270334972533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_1
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 709
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a71de47a175da2b00800000000000000
+      internalID: 804690167554036090
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_2
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 709
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71e87f104baced4d0800000000000000
+      internalID: -3107823818363138537
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_3
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 709
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d33418194740d3c0800000000000000
+      internalID: -4336888061895625767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_4
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 709
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddd124a5833d8f480800000000000000
+      internalID: -8865103627492909603
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_5
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 709
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a8c60a7605f9dd8b0800000000000000
+      internalID: -5125765633192989558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_6
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 709
+        width: 39
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ad481298ad43805d0800000000000000
+      internalID: -3096166630609025830
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_7
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 709
+        width: 95
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7cd18678773612500800000000000000
+      internalID: 369686009445096903
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_8
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 709
+        width: 104
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec95f3549fd90d220800000000000000
+      internalID: 2508678686379563470
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_9
+      rect:
+        serializedVersion: 2
+        x: 745
+        y: 709
+        width: 106
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413bbd3c3bfe35180800000000000000
+      internalID: -9127688464385723628
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_11
+      rect:
+        serializedVersion: 2
+        x: 893
+        y: 709
+        width: 131
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f45fc69454023ba00800000000000000
+      internalID: 770995443167196495
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_13
+      rect:
+        serializedVersion: 2
+        x: 1055
+        y: 709
+        width: 141
+        height: 144
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 591ac781776b59f50800000000000000
+      internalID: 6887611827761226133
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_14
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 538
+        width: 50
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b9d3ef1be641092e0800000000000000
+      internalID: -2121172958826316389
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_15
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 538
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c40120acfd9b5fa0800000000000000
+      internalID: -5810877185847655225
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_16
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 538
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a0a96464f4262310800000000000000
+      internalID: 1379830967910899880
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_17
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 538
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bb81581f19378bfe0800000000000000
+      internalID: -1173060632270530373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_18
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 538
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f3c4383a36180c080800000000000000
+      internalID: -9169186576381293505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_19
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 538
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: fd0880266f1141400800000000000000
+      internalID: 293879625590276319
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_20
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 538
+        width: 39
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c5a12abed7207ebd0800000000000000
+      internalID: -2601107519935735204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_21
+      rect:
+        serializedVersion: 2
+        x: 426
+        y: 539
+        width: 86
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b078239d0709021d0800000000000000
+      internalID: -3377540906173167861
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_22
+      rect:
+        serializedVersion: 2
+        x: 602
+        y: 539
+        width: 83
+        height: 143
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37c3efce498901110800000000000000
+      internalID: 1229650463670811763
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_23
+      rect:
+        serializedVersion: 2
+        x: 764
+        y: 539
+        width: 88
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a499922e017bf3400800000000000000
+      internalID: 306164582826219850
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_24
+      rect:
+        serializedVersion: 2
+        x: 875
+        y: 539
+        width: 12
+        height: 20
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 717b060c297fa0640800000000000000
+      internalID: 5047118542086911767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_25
+      rect:
+        serializedVersion: 2
+        x: 929
+        y: 539
+        width: 91
+        height: 142
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 93f8726208cd8c410800000000000000
+      internalID: 1497689319054741305
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_26
+      rect:
+        serializedVersion: 2
+        x: 1046
+        y: 539
+        width: 11
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f416933ccf1bf74c0800000000000000
+      internalID: -4287512621068230321
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_27
+      rect:
+        serializedVersion: 2
+        x: 1098
+        y: 539
+        width: 93
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 44f7530840e71d9b0800000000000000
+      internalID: -5057122348764397756
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_28
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 367
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7301e4d1cfc5177d0800000000000000
+      internalID: -2922452445293572041
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_29
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 367
+        width: 27
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 48d1ba692ed989810800000000000000
+      internalID: 1772340049886256516
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_30
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 367
+        width: 27
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c038cbcbe0662f80800000000000000
+      internalID: -8131705511318376249
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_31
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 367
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9d590dfb3f1ef86a0800000000000000
+      internalID: -6444684104732469799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_32
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 367
+        width: 38
+        height: 50
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd53b4a6a06d35960800000000000000
+      internalID: 7589645137270748637
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_33
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 367
+        width: 45
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c6c85fe94be9de090800000000000000
+      internalID: -8003566464169309076
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_34
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 367
+        width: 39
+        height: 67
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aa1b39267de9e9820800000000000000
+      internalID: 2926951455746404778
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_35
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 367
+        width: 95
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 02f8349fa1752dcf0800000000000000
+      internalID: -229024857679753440
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_36
+      rect:
+        serializedVersion: 2
+        x: 592
+        y: 368
+        width: 93
+        height: 146
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9ca97a41aead4b440800000000000000
+      internalID: 4950822589290748617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_37
+      rect:
+        serializedVersion: 2
+        x: 753
+        y: 367
+        width: 111
+        height: 152
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 901d19f83e9bcda20800000000000000
+      internalID: 3088547831486730505
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_38
+      rect:
+        serializedVersion: 2
+        x: 891
+        y: 367
+        width: 135
+        height: 147
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8cb20a114ce857e20800000000000000
+      internalID: 3347738870780275656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_39
+      rect:
+        serializedVersion: 2
+        x: 1065
+        y: 367
+        width: 127
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0c170cec11ce9330800000000000000
+      internalID: 3719622672217742350
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_40
+      rect:
+        serializedVersion: 2
+        x: 39
+        y: 197
+        width: 50
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 519b3f59059e12700800000000000000
+      internalID: 513948364819380501
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_41
+      rect:
+        serializedVersion: 2
+        x: 92
+        y: 197
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7c765ec267dc34f70800000000000000
+      internalID: 9170399173699528647
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_42
+      rect:
+        serializedVersion: 2
+        x: 121
+        y: 197
+        width: 27
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4f8a621fb3068d360800000000000000
+      internalID: 7194606215289546996
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_43
+      rect:
+        serializedVersion: 2
+        x: 157
+        y: 197
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7a495bb8d76dd83b0800000000000000
+      internalID: -5508510934501059417
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_44
+      rect:
+        serializedVersion: 2
+        x: 204
+        y: 197
+        width: 38
+        height: 48
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9f25c14f8538aab90800000000000000
+      internalID: -7229821833714052359
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_45
+      rect:
+        serializedVersion: 2
+        x: 244
+        y: 197
+        width: 45
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7673fb09488e5bf80800000000000000
+      internalID: -8091305499439450265
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_46
+      rect:
+        serializedVersion: 2
+        x: 297
+        y: 197
+        width: 44
+        height: 65
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79fdef5e55227bc50800000000000000
+      internalID: 6680846324553670551
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_47
+      rect:
+        serializedVersion: 2
+        x: 418
+        y: 197
+        width: 95
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f6ae3aa46cdbabf00800000000000000
+      internalID: 1133426915590531695
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_48
+      rect:
+        serializedVersion: 2
+        x: 593
+        y: 197
+        width: 89
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 795057d76ad8a7440800000000000000
+      internalID: 4934412087946708375
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_49
+      rect:
+        serializedVersion: 2
+        x: 766
+        y: 197
+        width: 89
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3f82e29bcac6adad0800000000000000
+      internalID: -2676707539421353741
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_50
+      rect:
+        serializedVersion: 2
+        x: 914
+        y: 197
+        width: 110
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f420358f550907220800000000000000
+      internalID: 2481642093593952847
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_51
+      rect:
+        serializedVersion: 2
+        x: 417
+        y: 26
+        width: 95
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 693cd014d769a3850800000000000000
+      internalID: 6357559288693375894
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_52
+      rect:
+        serializedVersion: 2
+        x: 590
+        y: 33
+        width: 88
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b38e932bb40816bb0800000000000000
+      internalID: -4944529853275051973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_53
+      rect:
+        serializedVersion: 2
+        x: 763
+        y: 37
+        width: 90
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ec5d20e21a6977fb0800000000000000
+      internalID: -4650082471230908978
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_54
+      rect:
+        serializedVersion: 2
+        x: 935
+        y: 29
+        width: 89
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 597c6bd9329c70c20800000000000000
+      internalID: 3172725617312843669
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_56
+      rect:
+        serializedVersion: 2
+        x: 1106
+        y: 26
+        width: 86
+        height: 145
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 41f8bc6aee27fff20800000000000000
+      internalID: 3458609408169971476
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_58
+      rect:
+        serializedVersion: 2
+        x: 44
+        y: 26
+        width: 51
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 563512b6afc44fb00800000000000000
+      internalID: 861398067157488485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_59
+      rect:
+        serializedVersion: 2
+        x: 102
+        y: 26
+        width: 39
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 66fb12790c505b1e0800000000000000
+      internalID: -2182832119663706266
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_60
+      rect:
+        serializedVersion: 2
+        x: 149
+        y: 26
+        width: 38
+        height: 49
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dfa405acdbf58e7a0800000000000000
+      internalID: -6347718406030996739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_61
+      rect:
+        serializedVersion: 2
+        x: 190
+        y: 26
+        width: 28
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 86fb815c6ffd4f390800000000000000
+      internalID: -7785351604855062680
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_62
+      rect:
+        serializedVersion: 2
+        x: 226
+        y: 26
+        width: 44
+        height: 66
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea683943bd30b49f0800000000000000
+      internalID: -483288294997391698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_63
+      rect:
+        serializedVersion: 2
+        x: 1179
+        y: 37
+        width: 16
+        height: 17
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eb41a3ec68d85efb0800000000000000
+      internalID: -4619130232673528642
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 0aa722c030f99374dba6f4efcb972f7e
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_0: -3053934270334972533
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_1: 804690167554036090
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_11: 770995443167196495
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_13: 6887611827761226133
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_14: -2121172958826316389
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_15: -5810877185847655225
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_16: 1379830967910899880
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_17: -1173060632270530373
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_18: -9169186576381293505
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_19: 293879625590276319
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_2: -3107823818363138537
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_20: -2601107519935735204
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_21: -3377540906173167861
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_22: 1229650463670811763
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_23: 306164582826219850
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_24: 5047118542086911767
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_25: 1497689319054741305
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_26: -4287512621068230321
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_27: -5057122348764397756
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_28: -2922452445293572041
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_29: 1772340049886256516
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_3: -4336888061895625767
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_30: -8131705511318376249
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_31: -6444684104732469799
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_32: 7589645137270748637
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_33: -8003566464169309076
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_34: 2926951455746404778
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_35: -229024857679753440
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_36: 4950822589290748617
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_37: 3088547831486730505
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_38: 3347738870780275656
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_39: 3719622672217742350
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_4: -8865103627492909603
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_40: 513948364819380501
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_41: 9170399173699528647
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_42: 7194606215289546996
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_43: -5508510934501059417
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_44: -7229821833714052359
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_45: -8091305499439450265
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_46: 6680846324553670551
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_47: 1133426915590531695
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_48: 4934412087946708375
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_49: -2676707539421353741
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_5: -5125765633192989558
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_50: 2481642093593952847
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_51: 6357559288693375894
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_52: -4944529853275051973
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_53: -4650082471230908978
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_54: 3172725617312843669
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_56: 3458609408169971476
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_58: 861398067157488485
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_59: -2182832119663706266
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_6: -3096166630609025830
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_60: -6347718406030996739
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_61: -7785351604855062680
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_62: -483288294997391698
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_63: -4619130232673528642
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_7: 369686009445096903
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_8: 2508678686379563470
+      Desert-Bosses-Pixel-Art-Character-Pack02-ezgif_LE_upscale_balanced_x4-Photoroom_9: -9127688464385723628
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
