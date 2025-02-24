@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      lava_texture_by_twister10_d1fy457_0: 7085489835129030353
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

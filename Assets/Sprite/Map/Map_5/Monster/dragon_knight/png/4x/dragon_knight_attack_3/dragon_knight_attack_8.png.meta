@@ -159,7 +159,9 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dragon_knight_attack_8_0: -7723389128312753771
+      dragon_knight_attack_8_1: -3903216967126444098
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dragon_knight_death7_0: 6570658707549377957
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

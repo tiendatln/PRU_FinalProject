@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cover_image_dragon_knight_0: 3384675946179475736
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

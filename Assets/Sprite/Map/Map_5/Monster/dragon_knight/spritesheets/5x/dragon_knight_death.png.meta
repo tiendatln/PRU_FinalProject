@@ -434,7 +434,20 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dragon_knight_death_0: -1366634480330414105
+      dragon_knight_death_1: 6829270595358748894
+      dragon_knight_death_10: -109714031505521971
+      dragon_knight_death_11: 5507398298710893086
+      dragon_knight_death_12: 5244759830923166795
+      dragon_knight_death_2: 2739105750398422905
+      dragon_knight_death_3: 2036315191341207595
+      dragon_knight_death_4: 3293161409699230341
+      dragon_knight_death_5: 5258602629091246359
+      dragon_knight_death_6: 4224297109270762516
+      dragon_knight_death_7: 1723826386391133875
+      dragon_knight_death_8: -54909007137184079
+      dragon_knight_death_9: 1855334321966370206
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

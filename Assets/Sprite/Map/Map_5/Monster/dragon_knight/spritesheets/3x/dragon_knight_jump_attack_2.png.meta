@@ -284,7 +284,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dragon_knight_jump_attack_2_0: -8706442052680421822
+      dragon_knight_jump_attack_2_1: -4419989948555598190
+      dragon_knight_jump_attack_2_2: -2257069834127568281
+      dragon_knight_jump_attack_2_3: 6746415339566238424
+      dragon_knight_jump_attack_2_4: -7038138636352669650
+      dragon_knight_jump_attack_2_5: 5453257469851724044
+      dragon_knight_jump_attack_2_6: 3670491409530717383
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

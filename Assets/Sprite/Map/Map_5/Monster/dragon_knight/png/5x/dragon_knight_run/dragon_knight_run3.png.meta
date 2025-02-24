@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dragon_knight_run3_0: 7177863131190532681
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

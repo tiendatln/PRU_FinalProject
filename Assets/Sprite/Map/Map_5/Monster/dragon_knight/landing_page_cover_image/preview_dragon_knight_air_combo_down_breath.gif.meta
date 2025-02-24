@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      preview_dragon_knight_air_combo_down_breath_0: 4807550369913684526
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

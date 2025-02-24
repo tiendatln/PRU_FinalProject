@@ -209,7 +209,11 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      floating-islands-rocky-land-with-lava-eruption_0: 397858111996686514
+      floating-islands-rocky-land-with-lava-eruption_1: -8690688259388543990
+      floating-islands-rocky-land-with-lava-eruption_2: 6910397074336990589
+      floating-islands-rocky-land-with-lava-eruption_3: -1447563594162187372
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

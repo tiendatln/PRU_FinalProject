@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dragon_knight_prep_dash3_0: -2569676552343891829
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

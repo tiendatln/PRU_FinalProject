@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      preview_dragon_knight_hit_potion_death_0: 5014415701116085698
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

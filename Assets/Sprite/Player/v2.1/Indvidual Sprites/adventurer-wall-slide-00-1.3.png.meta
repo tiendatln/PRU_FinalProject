@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      adventurer-wall-slide-00-1.3_0: -6373557674980401277
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

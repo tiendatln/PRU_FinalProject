@@ -184,7 +184,10 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dragon_knight_firebreath4_0: -7783320898686347889
+      dragon_knight_firebreath4_1: -4392530416140714022
+      dragon_knight_firebreath4_2: 800411020860512083
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

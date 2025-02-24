@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      SCORCHED2_0: 7960420647065374029
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

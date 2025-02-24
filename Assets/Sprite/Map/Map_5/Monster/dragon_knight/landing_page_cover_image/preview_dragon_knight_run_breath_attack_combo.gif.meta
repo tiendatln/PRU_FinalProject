@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      preview_dragon_knight_run_breath_attack_combo_0: -4043491681118436239
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

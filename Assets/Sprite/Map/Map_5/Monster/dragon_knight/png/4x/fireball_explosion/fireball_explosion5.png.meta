@@ -359,7 +359,17 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      fireball_explosion5_0: -3577232725159677323
+      fireball_explosion5_1: -684701191948468267
+      fireball_explosion5_2: -5503546931596485887
+      fireball_explosion5_3: 2525880020245577146
+      fireball_explosion5_4: 4512539658315987603
+      fireball_explosion5_5: 5023521958692955933
+      fireball_explosion5_6: -8417699590172182638
+      fireball_explosion5_7: 5092626200527553630
+      fireball_explosion5_8: -3685108222094016046
+      fireball_explosion5_9: -6078059874350935294
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

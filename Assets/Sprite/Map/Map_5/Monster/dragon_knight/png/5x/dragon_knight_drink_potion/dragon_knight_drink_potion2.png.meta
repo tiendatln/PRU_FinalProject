@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dragon_knight_drink_potion2_0: 3412354721951877896
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

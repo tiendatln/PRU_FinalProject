@@ -284,7 +284,14 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dash_flame_trail1_0: 3960153598372710611
+      dash_flame_trail1_1: 1699309234188368545
+      dash_flame_trail1_2: -6416294649385562185
+      dash_flame_trail1_3: 2510432789733669436
+      dash_flame_trail1_4: 8953065117532413702
+      dash_flame_trail1_5: -6579630721514465190
+      dash_flame_trail1_6: 7590541062502483690
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

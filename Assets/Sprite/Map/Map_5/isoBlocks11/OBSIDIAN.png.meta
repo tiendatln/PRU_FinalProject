@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      OBSIDIAN_0: 5752742293904635894
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

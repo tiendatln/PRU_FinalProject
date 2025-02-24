@@ -534,7 +534,24 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      dragon_knight_firebreath_0: 7491555205939000990
+      dragon_knight_firebreath_1: 3405620953501288002
+      dragon_knight_firebreath_10: -5252983774321578728
+      dragon_knight_firebreath_11: 4518968024865049273
+      dragon_knight_firebreath_12: -330937881272628610
+      dragon_knight_firebreath_13: 6749724028062409148
+      dragon_knight_firebreath_14: 5903259266971790090
+      dragon_knight_firebreath_15: -4184959268926976802
+      dragon_knight_firebreath_16: -2134924436115233397
+      dragon_knight_firebreath_2: 4408673019964958192
+      dragon_knight_firebreath_3: 8668377536312632361
+      dragon_knight_firebreath_4: -3756393572518738828
+      dragon_knight_firebreath_5: -2147386874731192945
+      dragon_knight_firebreath_6: -1895124109701925897
+      dragon_knight_firebreath_7: -8209028882748947365
+      dragon_knight_firebreath_8: -3655348288342558488
+      dragon_knight_firebreath_9: 5724934727089164683
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
