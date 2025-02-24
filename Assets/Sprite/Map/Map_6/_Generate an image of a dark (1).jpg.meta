@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      _Generate an image of a dark (1)_0: -8888844304080284168
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
