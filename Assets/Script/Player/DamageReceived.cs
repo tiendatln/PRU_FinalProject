@@ -2,8 +2,9 @@ using UnityEngine;
 
 public class DamageReceived : MonoBehaviour
 {
-    public int health = 100;
+    public float health = 100;
     public int attack = 5;
+    protected PlayerUI PlayerUI;
     private Rigidbody2D rb;
     private Animator animator;
     private CapsuleCollider2D capsuleCollider;
@@ -14,22 +15,19 @@ public class DamageReceived : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         capsuleCollider = GetComponent<CapsuleCollider2D>();
+        PlayerUI = GetComponent<PlayerUI>();
     }
 
     // Update is called once per frame
     void Update()
     {
         Die();
+        PlayerUI.SetHeath(health);
     }
 
-    public virtual void TakeDamage(float Face)
+    public virtual void TakeDamage(float _damage)
     {
-        health -= attack;
-        rb.AddForce((4f * -Face) * Vector2.left, ForceMode2D.Impulse);
-        rb.AddForce(2f  * Vector2.up, ForceMode2D.Impulse);
-        animator.SetBool("Damage Recived", true);
-        Invoke("StopReceived", 0.11f);
-        capsuleCollider.enabled = false;
+       health -= _damage;
     }
 
     public virtual void SendDamage()

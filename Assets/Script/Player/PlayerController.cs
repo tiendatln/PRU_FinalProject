@@ -9,6 +9,9 @@ public class PlayerController : MonoBehaviour
     protected PlayerAnimation PlayerAnimation;
     [SerializeField] private SpawnMagicSkill SpawnMagicSkill;
     
+
+    public float DashCoolDown;
+    
     void Awake()
     {
         PlayerAttack = GetComponent<PlayerAttack>();
@@ -20,6 +23,9 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
+        #region Time
+        DashCoolDown -= Time.deltaTime;
+        #endregion
         if (Input.GetKeyDown(KeyCode.I) && SpawnMagicSkill.MagicCoolDownSkill < 0)
         {
             PlayerAnimation.NomalMagicSkill();
@@ -40,17 +46,14 @@ public class PlayerController : MonoBehaviour
         {
             PlayerAnimation.Fallen(false);
         }
+        if (Input.GetKeyDown(KeyCode.L) && DashCoolDown < 0)
+        {
+            DashCoolDown = 1f;
+            PlMove.Dash();
+        }
         
     }
 
-
-    private void OnCollisionEnter2D(Collision2D collision)
-    {
-        if (collision.collider.CompareTag("enemy"))
-        {
-            DamageReceived.TakeDamage(PlMove.CheckInput());
-        }
-    }
 
     public void ArrowShoot()
     {
@@ -63,5 +66,8 @@ public class PlayerController : MonoBehaviour
         SpawnMagicSkill.MagicShoot();
         PlayerAnimation.EndMagicSkill();
     }
+
+
+
     
 }

@@ -14,6 +14,7 @@ public class PlMove : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     [Header("run")]
     public float runMaxSpeed;
+    private bool isRunning = true;
     public float LastOnGroundTime { get; private set; }
     public bool IsFacingRight { get; private set; }
     public float runAccelAmount; //The actual force (multiplied with speedDiff) applied to the player.
@@ -22,6 +23,7 @@ public class PlMove : MonoBehaviour
     [Range(0.01f, 1f)] public float deccelInAir;
 
     [Header("Jump")]
+    public float DashPower;
     public float jumpHeight = 20f;
     private bool isjumping;            
     public bool IsWallJumping { get; private set; }
@@ -163,7 +165,7 @@ public class PlMove : MonoBehaviour
             }
             else if (_isJumpCut)
             {
-                rb.gravityScale = (Gravity * 2.5f);
+                rb.gravityScale = (Gravity * 3.5f);
                 rb.linearVelocity = new Vector2(rb.linearVelocityX, Mathf.Max(rb.linearVelocityY, -maxFallSpeed));
             }
             else if ((isjumping || IsWallJumping || _isJumpFalling) && Mathf.Abs(rb.linearVelocityY) < 0)
@@ -211,7 +213,7 @@ public class PlMove : MonoBehaviour
     }
     private void FixedUpdate()
     {
-        if (!CanWallJump())
+        if (!CanWallJump() && isRunning)
         {
             run();
         }
@@ -385,31 +387,49 @@ public class PlMove : MonoBehaviour
 
     public virtual float CheckInput()
     {
-        Vector3 scale = transform.rotation.eulerAngles;
-        return (scale.y / Mathf.Abs(scale.y));
+        Vector3 rota = transform.rotation.eulerAngles;
+        return rota.y > 1? 1 : -1;
     }
 
-    public virtual void CanMove(int _canMove)
+    public virtual void CanMove(float time)
     {
-        if (!isjumping)
-        {
-            canMove = _canMove;
-        }
-        
+        StartCoroutine(DisableControlTemporarily(time));
     }
 
     public virtual void StopJump(float time)
     {
         
         StartCoroutine(DisableControlTemporarily(time));
+
     }
     IEnumerator DisableControlTemporarily(float time)
     {
         rb.bodyType = RigidbodyType2D.Static;
-        rb.linearVelocity = Vector3.zero;
         animator.SetBool("jump", false);
+        isRunning = false;
         yield return new WaitForSeconds(time); // Chờ một khoảng thời gian
         rb.bodyType = RigidbodyType2D.Dynamic;
+        isRunning = true;
     }
 
+    public void Dash()
+    {
+        Debug.Log(CheckInput());
+        
+        StartCoroutine(DashTime());
+        
+    }
+    IEnumerator DashTime()
+    {
+        animator.SetBool("Dash", true);
+        animator.SetBool("jump", false);
+        animator.SetBool("fallen", false);
+        animator.SetFloat("run", 0);
+        rb.linearVelocity = Vector2.zero;
+        rb.AddForce((DashPower * CheckInput()) * Vector2.left, ForceMode2D.Impulse);
+        rb.gravityScale = 0;
+        yield return new WaitForSeconds(0.4f); // Chờ một khoảng thời gian
+        animator.SetBool("Dash", false);
+        rb.gravityScale = 2;
+    }
 }

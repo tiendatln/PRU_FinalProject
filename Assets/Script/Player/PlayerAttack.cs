@@ -6,7 +6,7 @@ public class PlayerAttack : MonoBehaviour
 
 
 
-    public int HP = 100;
+    
     public GameObject ememy;
 
     public Animator animator;
@@ -19,7 +19,7 @@ public class PlayerAttack : MonoBehaviour
     public float attackRange = 1.5f; // Tầm đánh của nhân vật
     public LayerMask enemyLayer; // Lớp kẻ địch
     public Transform attackPoint; // Điểm tấn công
-    protected Enemy Enemy;
+   
     protected PlayerController playerController;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -27,7 +27,7 @@ public class PlayerAttack : MonoBehaviour
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
         PlMove = GetComponent<PlMove>();
-        Enemy = GetComponent<Enemy>();
+        
         ememy = GameObject.Find("HP");
         playerController = GetComponent<PlayerController>();
     }
@@ -49,27 +49,31 @@ public class PlayerAttack : MonoBehaviour
     #region Animation
     void Animation()
     {
-        PlMove.CanMove(0);
+        
         animator.SetBool("jump", false);
         if (AttackCount == 1)
         {
+            
             animator.SetBool("Attack01", true);
-            Invoke("EndAttack01", 0.4f);
-            Invoke("Attack", 0.26f);
-            Attack();
+            PlMove.CanMove(0.18f);
+            Invoke("EndAttack01", 0.18f);
+            Invoke("Attack", 0.04f);
+            
         }
         else if (AttackCount == 2)
         {
             
             animator.SetBool("Attack02", true);
+            PlMove.CanMove(0.6f);
             Invoke("EndAttack02", 0.6f);
             Invoke("Attack", 0.5f);
-            Attack();
+            
         }
         else if (AttackCount == 3)
         {
             
             animator.SetBool("Attack03", true);
+            PlMove.CanMove(0.9f);
             Invoke("EndAttack03", 0.9f);
             Invoke("Attack", 0.8f);
             
@@ -82,7 +86,7 @@ public class PlayerAttack : MonoBehaviour
     public void EndAttack01()
     {
         animator.SetBool("Attack01", false);
-        PlMove.CanMove(1);
+        
         if (AttackCount == 1)
         {
             AttackCount = 0;
@@ -100,7 +104,7 @@ public class PlayerAttack : MonoBehaviour
     public void EndAttack02()
     {
         animator.SetBool("Attack02", false);
-        PlMove.CanMove(1);
+        
         if (AttackCount == 2)
         {
             AttackCount = 0;
@@ -119,7 +123,7 @@ public class PlayerAttack : MonoBehaviour
     public void EndAttack03()
     {
         animator.SetBool("Attack03", false);
-        PlMove.CanMove(1);
+        
         if (AttackCount == 3)
         {
             AttackCount = 0;
@@ -135,18 +139,15 @@ public class PlayerAttack : MonoBehaviour
         Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayer);
         foreach (Collider2D enemy in hitEnemies)
         {
-            HP -= 5;
-            float at = (5f / 100f) * 2; // Sửa lại để phép chia chính xác
+            float at = 10f; // Sát thương tính theo phần trăm
 
-            // Kiểm tra gameObject có được gán chưa
-            if (ememy != null)
+            // Kiểm tra xem enemy có component EnemyAI_2D hay không
+            if (enemy.gameObject.TryGetComponent<EnemyAI_2D>(out EnemyAI_2D _enemy))
             {
-                // Điều chỉnh kích thước gameObject
-                ememy.transform.localScale = new Vector2(ememy.transform.localScale.x - at, ememy.transform.localScale.y);
+                _enemy.TakeDamage(at); // Gây sát thương lên kẻ địch
             }
-            Debug.Log(HP);
+
             Debug.Log("Hit " + enemy.name);
-            // Gọi hàm gây sát thương hoặc xử lý khác ở đây
         }
     }
 
