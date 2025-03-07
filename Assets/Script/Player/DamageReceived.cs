@@ -2,13 +2,16 @@ using UnityEngine;
 
 public class DamageReceived : MonoBehaviour
 {
-    public float health = 100;
-    public int attack = 5;
+    
     protected PlayerUI PlayerUI;
     private Rigidbody2D rb;
     private Animator animator;
     private CapsuleCollider2D capsuleCollider;
     private Vector2 capsuleColliderSize = new Vector2(0.31f, 0.13f);
+    public CapsuleCollider2D CapsuleCollider2D;
+    public PlayerController controller;
+    public GameObject DeadUI;
+    private SpriteRenderer spriteRenderer;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -16,30 +19,41 @@ public class DamageReceived : MonoBehaviour
         animator = GetComponent<Animator>();
         capsuleCollider = GetComponent<CapsuleCollider2D>();
         PlayerUI = GetComponent<PlayerUI>();
+        CapsuleCollider2D = GetComponent<CapsuleCollider2D>();
+        controller = GetComponent<PlayerController>();
+         spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     // Update is called once per frame
     void Update()
     {
         Die();
-        PlayerUI.SetHeath(health);
+        PlayerUI.SetHeath(controller.PlayerMainData.health);
+
     }
 
     public virtual void TakeDamage(float _damage)
     {
-       health -= _damage;
+        controller.PlayerMainData.health -= _damage;
+        spriteRenderer.color = Color.red;
+        Invoke("setDefaulColor", 0.3f);
     }
 
-    public virtual void SendDamage()
+    public void setDefaulColor()
     {
-
+        spriteRenderer.color = Color.white;
     }
+  
 
     void Die()
     {
-        if (health == 0)
+        if (controller.PlayerMainData.health <= 0)
         {
-            animator.SetBool("Damage Recived", true);
+            animator.SetBool("Death", true);
+            controller.SetCanMove();
+            capsuleCollider.isTrigger = true;
+            
+            Invoke("StopGame", 2f);
         }
     }
 
@@ -47,5 +61,11 @@ public class DamageReceived : MonoBehaviour
     {
         capsuleCollider.enabled = true;
         animator.SetBool("Damage Recived", false);
+    }
+
+    void StopGame()
+    {
+        Time.timeScale = 0f;
+        DeadUI.SetActive(true);
     }
 }

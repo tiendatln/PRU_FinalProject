@@ -124,7 +124,7 @@ ScriptedImporter:
   animatedSpriteImportData:
   - name: dragon_knight_dash
     originalName: 
-    pivot: {x: 1.1290321, y: 0}
+    pivot: {x: 0.33819902, y: 0.011713321}
     alignment: 9
     border: {x: 0, y: 0, z: 0, w: 0}
     customData: 

@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using Unity.VisualScripting;
+using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
@@ -8,7 +9,8 @@ public class PlayerController : MonoBehaviour
     protected DamageReceived DamageReceived;
     protected PlayerAnimation PlayerAnimation;
     [SerializeField] private SpawnMagicSkill SpawnMagicSkill;
-    
+    public PlayerMainData PlayerMainData;
+    public PlayerLever PlayerLever;
 
     public float DashCoolDown;
     
@@ -18,7 +20,8 @@ public class PlayerController : MonoBehaviour
         PlMove = GetComponent<PlMove>();
         DamageReceived = GetComponent<DamageReceived>();
         PlayerAnimation = GetComponent<PlayerAnimation>();
-        
+        PlayerLever = GetComponent<PlayerLever>();
+        transform.position = PlayerMainData.GetVectorPLayer();
     }
 
     void Update()
@@ -46,11 +49,7 @@ public class PlayerController : MonoBehaviour
         {
             PlayerAnimation.Fallen(false);
         }
-        if (Input.GetKeyDown(KeyCode.L) && DashCoolDown < 0)
-        {
-            DashCoolDown = 1f;
-            PlMove.Dash();
-        }
+        
         
     }
 
@@ -67,6 +66,11 @@ public class PlayerController : MonoBehaviour
         PlayerAnimation.EndMagicSkill();
     }
 
+    public void SetCanMove()
+    {
+        PlMove.canMove = 0;
+        PlMove._moveInput = Vector2.zero;
+    }
 
 
     

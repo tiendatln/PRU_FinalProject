@@ -38,7 +38,7 @@ public class PlMove : MonoBehaviour
     private float _wallJumpStartTime;
     private int _lastWallJumpDir;
 
-    private Vector2 _moveInput;
+    [HideInInspector]public Vector2 _moveInput;
     [Header("Checks")]
     [SerializeField] private Transform _groundCheckPoint;
     [SerializeField] private Vector2 _groundCheckSize = new Vector2(0.1f, 0.01f);
@@ -49,7 +49,7 @@ public class PlMove : MonoBehaviour
     [SerializeField] private Transform _backWallCheckPoint;
     public float LastOnWallTime { get; private set; }
 
-    private int canMove = 1;
+    [HideInInspector]public int canMove = 1;
     private bool _isJumpCut;
     private bool _isJumpFalling;
     [Header("Slide")]
@@ -198,12 +198,14 @@ public class PlMove : MonoBehaviour
             }
             
             //Right Wall Check
-            if (Physics2D.OverlapBox(_frontWallCheckPoint.position, _wallCheckSize, 0, _groundLayer) && !IsWallJumping)
-                LastOnWallRightTime = 0.1f;
+            if (((Physics2D.OverlapBox(_frontWallCheckPoint.position, _wallCheckSize, 0, _groundLayer) && IsFacingRight)
+					|| (Physics2D.OverlapBox(_backWallCheckPoint.position, _wallCheckSize, 0, _groundLayer) && !IsFacingRight)) && !IsWallJumping)
+				LastOnWallRightTime = 0.1f;
 
-            //Right Wall Check
-            if (Physics2D.OverlapBox(_backWallCheckPoint.position, _wallCheckSize, 0, _groundLayer) && !IsWallJumping)
-                LastOnWallLeftTime = 0.1f;
+			//Right Wall Check
+			if (((Physics2D.OverlapBox(_frontWallCheckPoint.position, _wallCheckSize, 0, _groundLayer) && !IsFacingRight)
+				|| (Physics2D.OverlapBox(_backWallCheckPoint.position, _wallCheckSize, 0, _groundLayer) && IsFacingRight)) && !IsWallJumping)
+				LastOnWallLeftTime = 0.1f;
 
 
             LastOnWallTime = Mathf.Max(LastOnWallLeftTime, LastOnWallRightTime);
@@ -412,24 +414,5 @@ public class PlMove : MonoBehaviour
         isRunning = true;
     }
 
-    public void Dash()
-    {
-        Debug.Log(CheckInput());
-        
-        StartCoroutine(DashTime());
-        
-    }
-    IEnumerator DashTime()
-    {
-        animator.SetBool("Dash", true);
-        animator.SetBool("jump", false);
-        animator.SetBool("fallen", false);
-        animator.SetFloat("run", 0);
-        rb.linearVelocity = Vector2.zero;
-        rb.AddForce((DashPower * CheckInput()) * Vector2.left, ForceMode2D.Impulse);
-        rb.gravityScale = 0;
-        yield return new WaitForSeconds(0.4f); // Chờ một khoảng thời gian
-        animator.SetBool("Dash", false);
-        rb.gravityScale = 2;
-    }
+    
 }

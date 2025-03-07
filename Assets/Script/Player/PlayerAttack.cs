@@ -5,10 +5,6 @@ public class PlayerAttack : MonoBehaviour
 {
 
 
-
-    
-    public GameObject ememy;
-
     public Animator animator;
     private int AttackCount = 0;
     private int MaxAttack = 3;
@@ -27,8 +23,7 @@ public class PlayerAttack : MonoBehaviour
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
         PlMove = GetComponent<PlMove>();
-        
-        ememy = GameObject.Find("HP");
+       
         playerController = GetComponent<PlayerController>();
     }
 
@@ -55,7 +50,7 @@ public class PlayerAttack : MonoBehaviour
         {
             
             animator.SetBool("Attack01", true);
-            PlMove.CanMove(0.18f);
+            
             Invoke("EndAttack01", 0.18f);
             Invoke("Attack", 0.04f);
             
@@ -64,7 +59,7 @@ public class PlayerAttack : MonoBehaviour
         {
             
             animator.SetBool("Attack02", true);
-            PlMove.CanMove(0.6f);
+            
             Invoke("EndAttack02", 0.6f);
             Invoke("Attack", 0.5f);
             
@@ -73,7 +68,7 @@ public class PlayerAttack : MonoBehaviour
         {
             
             animator.SetBool("Attack03", true);
-            PlMove.CanMove(0.9f);
+           
             Invoke("EndAttack03", 0.9f);
             Invoke("Attack", 0.8f);
             
@@ -139,12 +134,14 @@ public class PlayerAttack : MonoBehaviour
         Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayer);
         foreach (Collider2D enemy in hitEnemies)
         {
-            float at = 10f; // Sát thương tính theo phần trăm
 
             // Kiểm tra xem enemy có component EnemyAI_2D hay không
             if (enemy.gameObject.TryGetComponent<EnemyAI_2D>(out EnemyAI_2D _enemy))
             {
-                _enemy.TakeDamage(at); // Gây sát thương lên kẻ địch
+                _enemy.TakeDamage(playerController.PlayerMainData.attack); // Gây sát thương lên kẻ địch
+            }else if (enemy.gameObject.TryGetComponent<Boss>(out Boss boss))
+            {
+                boss.TakeDamage(playerController.PlayerMainData.attack);
             }
 
             Debug.Log("Hit " + enemy.name);
