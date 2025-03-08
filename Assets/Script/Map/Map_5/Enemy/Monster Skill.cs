@@ -17,7 +17,7 @@ public class Skill : MonoBehaviour
         {
             player.TakeDamage(_Damage);
 
-            Invoke("StopAnimation", 0.35f);
+            //Invoke("StopAnimation", 0.35f);
             Destroy(this);
 
         }
@@ -28,10 +28,10 @@ public class Skill : MonoBehaviour
 
     }
 
-    void StopAnimation()
-    {
-        animator.SetBool("Explosion", true);
-        skill.SetActive(false);
-    }
+    //void StopAnimation()
+    //{
+    //    animator.SetBool("Explosion", true);
+    //    skill.SetActive(false);
+    //}
 
 }

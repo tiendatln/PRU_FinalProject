@@ -43,4 +43,5 @@ public class GameManager : MonoBehaviour
             Debug.Log("Player data saved on game quit.");
         }
     }
+    
 }

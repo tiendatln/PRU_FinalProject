@@ -139,7 +139,8 @@ public class PlayerAttack : MonoBehaviour
             if (enemy.gameObject.TryGetComponent<EnemyAI_2D>(out EnemyAI_2D _enemy))
             {
                 _enemy.TakeDamage(playerController.PlayerMainData.attack); // Gây sát thương lên kẻ địch
-            }else if (enemy.gameObject.TryGetComponent<Boss>(out Boss boss))
+            }
+            if (enemy.gameObject.TryGetComponent<Boss>(out Boss boss))
             {
                 boss.TakeDamage(playerController.PlayerMainData.attack);
             }

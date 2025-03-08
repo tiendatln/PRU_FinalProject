@@ -102,15 +102,16 @@ public class PlMove : MonoBehaviour
         {
             OnJumpUpInput();
         }
-
+        Debug.Log(IsSliding);
         #region SLIDE CHECKS
-        if (CanSlide() && ((LastOnWallLeftTime > 0 && _moveInput.x < 0) || (LastOnWallRightTime > 0 && _moveInput.x > 0)))
+        if (CanSlide() && ((LastOnWallRightTime > 0 && _moveInput.x < 0) || (LastOnWallRightTime > 0 && _moveInput.x > 0)))
             IsSliding = true;
         else
             IsSliding = false;
         #endregion
         if (IsSliding)
         {
+            
             rb.gravityScale = 0;
         }
 
@@ -159,7 +160,7 @@ public class PlMove : MonoBehaviour
 
         if (LastOnGroundTime < 0)
         {
-            if (rb.linearVelocityY < 0)
+            if (rb.linearVelocityY < 0 && !IsSliding)
             {
                 rb.gravityScale = (Gravity * 2f);
                 rb.linearVelocity = new Vector2(rb.linearVelocityX, Mathf.Max(rb.linearVelocityY, -maxFallSpeed));
@@ -417,11 +418,11 @@ public class PlMove : MonoBehaviour
     }
     IEnumerator DisableControlTemporarily(float time)
     {
-        rb.bodyType = RigidbodyType2D.Kinematic;
+        rb.linearVelocity = Vector2.zero;
         animator.SetBool("jump", false);
         isRunning = false;
         yield return new WaitForSeconds(time); // Chờ một khoảng thời gian
-        rb.bodyType = RigidbodyType2D.Dynamic;
+        
         isRunning = true;
     }
 

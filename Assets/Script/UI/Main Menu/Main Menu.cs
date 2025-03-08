@@ -1,11 +1,17 @@
-using UnityEngine;
+﻿using UnityEngine;
 using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
     public PlayerMainData playerMainData;
     public string SceneName;
-
+    private void Start()
+    {
+        
+            Cursor.visible = true;
+            Cursor.lockState = CursorLockMode.None;
+        
+    }
     public void StartNew()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);

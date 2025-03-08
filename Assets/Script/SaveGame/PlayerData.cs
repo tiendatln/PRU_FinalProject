@@ -25,12 +25,12 @@ using UnityEngine;
                 monsterPositions = player.MonsterMainData.monsterPositions;
             }    
 
-            if (player != null && player.PLayerPosition != null && player.PLayerPosition.Length >= 3)
+            if (player != null && player.PlayerPosition != null && player.PlayerPosition.Length >= 3)
             {
                 PlayerPosition = new float[3];
-                PlayerPosition[0] = player.PLayerPosition[0];
-                PlayerPosition[1] = player.PLayerPosition[1];
-                PlayerPosition[2] = player.PLayerPosition[2];
+                PlayerPosition[0] = player.PlayerPosition[0];
+                PlayerPosition[1] = player.PlayerPosition[1];
+                PlayerPosition[2] = player.PlayerPosition[2];
             }
             else
             {

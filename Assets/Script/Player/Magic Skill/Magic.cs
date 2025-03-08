@@ -1,16 +1,17 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 public class Magic : MonoBehaviour
 {
     public Animator animator;
     public GameObject skill;
-    public GameObject player;
-    public PlayerController playerController;
+    private GameObject player;
+    private PlayerController playerController;
     
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         animator = GetComponent<Animator>();
+        skill = this.gameObject;
         player = GameObject.Find("Character");
         playerController = player.GetComponent<PlayerController>();
     }
@@ -22,11 +23,19 @@ public class Magic : MonoBehaviour
             enemy.TakeDamage(playerController.PlayerMainData.attackSkill);
             skill.SetActive(false);
         }
-        else if (collision.CompareTag("Ground"))
+        if (collision.CompareTag("Ground"))
         {
-            skill.SetActive(false);
+            if (skill == null)
+            {
+                Debug.LogError("Skill GameObject chưa được gán!");
+            }
+            else
+            {
+                skill.SetActive(false);
+                Debug.Log("Skill đã được tắt khi chạm Ground");
+            }
         }
-        else if (collision.gameObject.TryGetComponent<Boss>(out Boss boss))
+        if (collision.gameObject.TryGetComponent<Boss>(out Boss boss))
         {
             boss.TakeDamage(playerController.PlayerMainData.attackSkill);
             skill.SetActive(false);

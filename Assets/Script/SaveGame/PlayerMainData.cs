@@ -4,14 +4,15 @@ using UnityEngine;
 [CreateAssetMenu(fileName = "PlayerMainData", menuName = "Scriptable Objects/PlayerMainData")]
 public class PlayerMainData : ScriptableObject
 {
-    public float health = 100f;
-    public float attack = 5f;
-    public float attackSkill = 5;
+    public float health;
+    public float attack;
+    public float attackSkill;
     public int leverEX;
     public int leverText;
-    public float[] PLayerPosition = new float[3]; // Khởi tạo mặc định
+    public float[] PlayerPosition = new float[3]; // Khởi tạo mặc định
     public GameObject StartPosition;
     public MonsterMainData MonsterMainData;
+
 
     public void SavePlayer(string filePath = null)
     {
@@ -37,9 +38,9 @@ public class PlayerMainData : ScriptableObject
             }
             if (data.PlayerPosition != null && data.PlayerPosition.Length >= 3)
             {
-                PLayerPosition[0] = data.PlayerPosition[0];
-                PLayerPosition[1] = data.PlayerPosition[1];
-                PLayerPosition[2] = data.PlayerPosition[2];
+                PlayerPosition[0] = data.PlayerPosition[0];
+                PlayerPosition[1] = data.PlayerPosition[1];
+                PlayerPosition[2] = data.PlayerPosition[2];
             }
         }
     }
@@ -66,13 +67,13 @@ public class PlayerMainData : ScriptableObject
 
     public Vector3 GetVectorPLayer()
     {
-        return new Vector3(PLayerPosition[0], PLayerPosition[1], PLayerPosition[2]);
+        return new Vector3(PlayerPosition[0], PlayerPosition[1], PlayerPosition[2]);
     }
 
     public void SetVectorPlayer(Vector3 position)
     {
-        PLayerPosition[0] = position.x;
-        PLayerPosition[1] = position.y;
-        PLayerPosition[2] = position.z;
+        PlayerPosition[0] = position.x;
+        PlayerPosition[1] = position.y;
+        PlayerPosition[2] = position.z;
     }
 }

@@ -7,12 +7,12 @@ public class PlayerController : MonoBehaviour
 
     protected PlMove PlMove;
     protected PlayerAttack PlayerAttack;
-    protected DamageReceived DamageReceived;
-    protected PlayerAnimation PlayerAnimation;
+    public DamageReceived DamageReceived;
+    public PlayerAnimation PlayerAnimation;
     [SerializeField] private SpawnMagicSkill SpawnMagicSkill;
     public PlayerMainData PlayerMainData;
     public PlayerLever PlayerLever;
-
+    public SpawnMagicSkill PlayerSpawnMagicSkill;
     public float DashCoolDown;
     
     void Awake()
@@ -22,14 +22,15 @@ public class PlayerController : MonoBehaviour
         DamageReceived = GetComponent<DamageReceived>();
         PlayerAnimation = GetComponent<PlayerAnimation>();
         PlayerLever = GetComponent<PlayerLever>();
+        PlayerSpawnMagicSkill = GameObject.Find("SpawnSkill").gameObject.GetComponent<SpawnMagicSkill>();
         if (transform.position != null)
         {
-            transform.position = new Vector3(PlayerMainData.PLayerPosition[0], PlayerMainData.PLayerPosition[1], PlayerMainData.PLayerPosition[2]);
+            transform.position = new Vector3(PlayerMainData.PlayerPosition[0], PlayerMainData.PlayerPosition[1], PlayerMainData.PlayerPosition[2]);
         }
         else
         {
             PlayerMainData.NewGame();
-            transform.position = new Vector3(PlayerMainData.PLayerPosition[0], PlayerMainData.PLayerPosition[1], PlayerMainData.PLayerPosition[2]);
+            transform.position = new Vector3(PlayerMainData.PlayerPosition[0], PlayerMainData.PlayerPosition[1], PlayerMainData.PlayerPosition[2]);
         }
         
         Time.timeScale = 1.0f;

@@ -17,23 +17,24 @@ public class EnemyAI_2D : MonoBehaviour
     private bool canAttack = true;
     private bool IsFacingRight = true;
     public Animator animator;
-    public Rigidbody2D rb;
+    
     private float HP;
 
     [Header("Check Attack")]
     public Transform attackPoint;
-    public float _attackRange = 5f;
+   
     public LayerMask enemyLayer;
     public float AttackDamage;
 
     [Header("Time Animation")]
-    public float TimeSendDamage;
+ 
     private float TimeStopAnimation;
 
     [Header("Name Animation")]
+    public bool isFly;
     public string WalkAnimationName;
     public string AttackAnimationName;
-    public string TakeDamageAnimationName;
+  
     public string DeathAnimationName;
 
     public GameObject HpSlider;
@@ -43,6 +44,7 @@ public class EnemyAI_2D : MonoBehaviour
     public MonsterSpawnSKill monsterSpawnSkill;
     public PlayerController playerController;
     private SpriteRenderer spriteRenderer;
+   
 
     void Start()
     {
@@ -52,17 +54,20 @@ public class EnemyAI_2D : MonoBehaviour
         targetPosition = startPosition + Vector2.right * patrolDistance; // Initial target
         spriteRenderer = GetComponent<SpriteRenderer>();
         animator = GetComponent<Animator>();
-        rb = GetComponent<Rigidbody2D>();
+        
         Slider = HpSlider.GetComponent<Slider>();
         playerController = player.GetComponent<PlayerController>();
+        Slider.maxValue = MaxHP;
+        Slider.value = MaxHP;
         HP = MaxHP;
+
     }
 
     void Update()
     {
         if (player == null) return;
         
-        float distanceToPlayer = Vector2.Distance(transform.position, player.position);
+        float distanceToPlayer = Vector2.Distance(attackPoint.position, player.position);
         AnimatorStateInfo animationState = animator.GetCurrentAnimatorStateInfo(0);
         TimeStopAnimation = animationState.length;
         if (HP <= 0)
@@ -93,7 +98,14 @@ public class EnemyAI_2D : MonoBehaviour
 
     void Patrol()
     {
-        animator.SetFloat(WalkAnimationName, 2f);
+        if (!isFly)
+        {
+            if (animator.GetFloat(WalkAnimationName) == 0)
+            {
+                animator.SetFloat(WalkAnimationName, 2f);
+            }
+        }
+        
 
         // Move towards target position
         transform.position = Vector2.MoveTowards(transform.position, targetPosition, speed * Time.deltaTime);
@@ -113,7 +125,13 @@ public class EnemyAI_2D : MonoBehaviour
 
     void ChasePlayer()
     {
-        animator.SetFloat(WalkAnimationName, 2f);
+        if (!isFly)
+        {
+            if (animator.GetFloat(WalkAnimationName) == 0)
+            {
+                animator.SetFloat(WalkAnimationName, 2f);
+            }
+        }
         transform.position = Vector2.MoveTowards(transform.position, player.position, speed * Time.deltaTime);
         CheckDirectionToFace(player.position.x > transform.position.x);
     }
@@ -122,15 +140,27 @@ public class EnemyAI_2D : MonoBehaviour
     {
         CheckDirectionToFace(player.position.x > transform.position.x);
         animator.SetBool(AttackAnimationName, true);
-        animator.SetFloat(WalkAnimationName, 2f);
-        
+        if (!isFly)
+        {
+            if (animator.GetFloat(WalkAnimationName) == 2)
+            {
+                animator.SetFloat(WalkAnimationName, 0f);
+            }
+        }
+
     }
 
     
     public void StopAttack()
     {
-        animator.SetFloat(WalkAnimationName, 0f);
         animator.SetBool(AttackAnimationName, false);
+        if (!isFly)
+        {
+            if (animator.GetFloat(WalkAnimationName) == 0)
+            {
+                animator.SetFloat(WalkAnimationName, 2f);
+            }
+        }
         canAttack = true;
     }
 
@@ -151,6 +181,7 @@ public class EnemyAI_2D : MonoBehaviour
     public void TakeDamage(float damage)
     {
         HP -= damage;
+        canAttack = false;
         Slider.value = HP;
         if (HP > 0)
         {
@@ -161,6 +192,7 @@ public class EnemyAI_2D : MonoBehaviour
 
     void StopTakeDamage()
     {
+        canAttack = true;
         spriteRenderer.color = Color.white;
     }
 
@@ -190,7 +222,7 @@ public class EnemyAI_2D : MonoBehaviour
     void OnDrawGizmosSelected()
     {
         Gizmos.color = Color.red;
-        Gizmos.DrawWireSphere(transform.position, attackRange);
+        Gizmos.DrawWireSphere(attackPoint.position, attackRange);
         Gizmos.color = Color.green;
         Gizmos.DrawWireSphere(transform.position, detectionRange);
         Gizmos.color = Color.blue;
