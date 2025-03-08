@@ -1,5 +1,6 @@
 ﻿using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.Splines;
 
 public class PlayerController : MonoBehaviour
 {
@@ -21,8 +22,19 @@ public class PlayerController : MonoBehaviour
         DamageReceived = GetComponent<DamageReceived>();
         PlayerAnimation = GetComponent<PlayerAnimation>();
         PlayerLever = GetComponent<PlayerLever>();
-        transform.position = PlayerMainData.GetVectorPLayer();
+        if (transform.position != null)
+        {
+            transform.position = new Vector3(PlayerMainData.PLayerPosition[0], PlayerMainData.PLayerPosition[1], PlayerMainData.PLayerPosition[2]);
+        }
+        else
+        {
+            PlayerMainData.NewGame();
+            transform.position = new Vector3(PlayerMainData.PLayerPosition[0], PlayerMainData.PLayerPosition[1], PlayerMainData.PLayerPosition[2]);
+        }
+        
+        Time.timeScale = 1.0f;
     }
+    
 
     void Update()
     {

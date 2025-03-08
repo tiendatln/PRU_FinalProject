@@ -11,7 +11,7 @@ public class PlayerMainData : ScriptableObject
     public int leverText;
     public float[] PLayerPosition = new float[3]; // Khởi tạo mặc định
     public GameObject StartPosition;
-    public GameObject NewPosition;
+    public MonsterMainData MonsterMainData;
 
     public void SavePlayer(string filePath = null)
     {
@@ -42,15 +42,14 @@ public class PlayerMainData : ScriptableObject
 
     public void NewGame()
     {
-        SaveSystem.DeletePlayerSave();
-
+        SaveSystem.DeleteSaveFile();
         CheckPointNew();
     }
 
     public void CheckPointNew()
     {
-        NewPosition = GameObject.Find("StartGate");
-        SetVectorPlayer(NewPosition.transform.position + new Vector3(0, 0, -20));
+        GameObject NewPosition = GameObject.Find("StartGate");
+        SetVectorPlayer(NewPosition.transform.position);
     }
 
     public void leverUP()

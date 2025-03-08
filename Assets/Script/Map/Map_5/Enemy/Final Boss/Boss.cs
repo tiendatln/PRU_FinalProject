@@ -5,7 +5,7 @@ public class Boss : MonoBehaviour
 {
     public Transform player; // Tham chiếu đến người chơi
     public float moveSpeed = 3f; // Tốc độ di chuyển của boss
-    public float maxHealth = 100f; // Máu tối đa
+    public float maxHealth = 200f; // Máu tối đa
     
     public Vector2 checkWallSize;
     public Transform checkWallPoint;
@@ -73,7 +73,7 @@ public class Boss : MonoBehaviour
             else
             {
                 squareAttackSize = new Vector2(2f, 2f); // Giá trị mặc định nếu không tìm thấy sprite
-                Debug.LogWarning("Không tìm thấy SpriteRenderer hoặc sprite!");
+               
             }
 
             // Tính khoảng cách từ trung tâm boss đến người chơi trên trục X
@@ -81,8 +81,7 @@ public class Boss : MonoBehaviour
 
             // Xác định tầm đánh hiện tại dựa trên đòn tấn công tiếp theo
             float currentAttackRange = squareAttackSize.x;
-            Debug.Log("time Attack: " +nextAttackTime);
-            Debug.Log("Time: " + Time.time);
+            
             // Di chuyển tới người chơi nếu ngoài tầm tấn công
             if (distanceToPlayer > currentAttackRange)
             {
@@ -130,7 +129,7 @@ public class Boss : MonoBehaviour
     void ChooseNextAttack()
     {
         nextAttack = (AttackType)Random.Range(0, 3);
-        Debug.Log("Đòn tấn công tiếp theo: " + nextAttack);
+       
     }
 
     //float GetCurrentAttackRange()
@@ -182,7 +181,7 @@ public class Boss : MonoBehaviour
 
     void MeleeAttack()
     {
-        Debug.Log("Boss dùng đòn tấn công cận chiến!");
+        
         if (Mathf.Abs(AttackPoint.x - player.position.x) <= squareAttackSize.x)
         {
             BossAnimation.Attack(isAttackName);
@@ -192,7 +191,7 @@ public class Boss : MonoBehaviour
 
     void RangeAttack()
     {
-        Debug.Log("Boss dùng đòn tấn công tầm xa!");
+        
         GameObject projectile = GameObject.CreatePrimitive(PrimitiveType.Sphere);
         projectile.transform.position = AttackPoint + new Vector3(Mathf.Sign(player.position.x - AttackPoint.x), 0, 0); // Bắn từ trung tâm
         Rigidbody rb = projectile.AddComponent<Rigidbody>();
@@ -203,7 +202,7 @@ public class Boss : MonoBehaviour
 
     void SpecialAttack()
     {
-        Debug.Log("Boss dùng đòn đặc biệt!");
+        
         BossAnimation.Attack(isAttackName);
     }
 
@@ -223,27 +222,27 @@ public class Boss : MonoBehaviour
 
     public void Heal(float amount)
     {
-        float healthPercentage = (currentHealth / maxHealth) * 100f;
+        float healthPercentage = (currentHealth / maxHealth) * 200f;
         float heal = 0;
 
-        if (healthPercentage <= 50f && !hasHealed50)
+        if (healthPercentage <= 100f && !hasHealed50)
         {
             heal = healAmount50;
             hasHealed50 = true;
-            Debug.Log("Boss hồi " + healAmount50 + " máu ở 50% HP!");
+            
         }
-        else if (healthPercentage <= 20f && !hasHealed20)
+        else if (healthPercentage <= 50f && !hasHealed20)
         {
             heal = healAmount20;
             hasHealed20 = true;
-            Debug.Log("Boss hồi " + healAmount20 + " máu ở 20% HP!");
+            
         }
         currentHealth = Mathf.Min(currentHealth + heal, maxHealth);
     }
 
     public void TakeDamage(float damage)
     {
-        Debug.Log("boss: " + currentHealth);
+        
         
 
         currentHealth -= damage;

@@ -8,7 +8,7 @@ public class GameManager : MonoBehaviour
     [SerializeField] private PlayerMainData playerData;  // Gắn ScriptableObject trong Inspector
     private bool isDataLoaded = false;
 
-    private void Awake()
+    private void Start()
     {
         // Singleton logic
         if (_instance != null && _instance != this)

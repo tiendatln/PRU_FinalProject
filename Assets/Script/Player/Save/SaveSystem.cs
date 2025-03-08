@@ -27,13 +27,13 @@ public static class SaveSystem
         }
         return null;
     }
-    public static void DeletePlayerSave(string filePath = null)
+    public static void DeleteSaveFile(string filePath = null)
     {
         string path = filePath ?? defaultSavePath;
         if (File.Exists(path))
         {
             File.Delete(path);
-            Debug.Log("Deleted save file at: " + path);
+            Debug.Log("Save file deleted from: " + path);
         }
         else
         {

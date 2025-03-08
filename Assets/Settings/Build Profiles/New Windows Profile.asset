@@ -20,8 +20,6 @@ MonoBehaviour:
     rid: 2218157370591936512
   m_OverrideGlobalSceneList: 0
   m_Scenes:
-  - m_enabled: 0
-    m_path: Assets/Scenes/SampleScene.unity
   - m_enabled: 1
     m_path: Assets/Scenes/Map/Map_5/Map_5.unity
   m_ScriptingDefines: []

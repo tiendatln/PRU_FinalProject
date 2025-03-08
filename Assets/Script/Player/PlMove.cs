@@ -203,7 +203,7 @@ public class PlMove : MonoBehaviour
 				LastOnWallRightTime = 0.1f;
 
 			//Right Wall Check
-			if (((Physics2D.OverlapBox(_frontWallCheckPoint.position, _wallCheckSize, 0, _groundLayer) && !IsFacingRight)
+			else if (((Physics2D.OverlapBox(_frontWallCheckPoint.position, _wallCheckSize, 0, _groundLayer) && !IsFacingRight)
 				|| (Physics2D.OverlapBox(_backWallCheckPoint.position, _wallCheckSize, 0, _groundLayer) && IsFacingRight)) && !IsWallJumping)
 				LastOnWallLeftTime = 0.1f;
 
@@ -406,7 +406,7 @@ public class PlMove : MonoBehaviour
     }
     IEnumerator DisableControlTemporarily(float time)
     {
-        rb.bodyType = RigidbodyType2D.Static;
+        rb.bodyType = RigidbodyType2D.Kinematic;
         animator.SetBool("jump", false);
         isRunning = false;
         yield return new WaitForSeconds(time); // Chờ một khoảng thời gian

@@ -14,9 +14,13 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   health: 100
   attack: 2
+  attackSkill: 5
   leverEX: 0
   leverText: 1
   PLayerPosition:
   - 0
   - 0
   - 0
+  StartPosition: {fileID: 0}
+  NewPosition: {fileID: 0}
+  MonsterMainData: {fileID: 11400000, guid: b6f20831fcfec0447a0fa9d9551873e5, type: 2}

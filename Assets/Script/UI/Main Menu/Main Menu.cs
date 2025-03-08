@@ -3,17 +3,19 @@ using UnityEngine.SceneManagement;
 
 public class MainMenu : MonoBehaviour
 {
-
+    public PlayerMainData playerMainData;
     public string SceneName;
 
     public void StartNew()
     {
-
+        SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1);
+        playerMainData.NewGame();
+        
     }
     public void LoadGame()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex+1);
-        Time.timeScale = 1.0f;
+        
     }
     public void OptionBtn()
     {

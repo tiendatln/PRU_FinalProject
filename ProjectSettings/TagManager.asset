@@ -9,6 +9,7 @@ TagManager:
   - lever
   - skill
   - HP
+  - StartGate
   layers:
   - Default
   - TransparentFX
