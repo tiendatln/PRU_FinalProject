@@ -49,7 +49,7 @@ public class PlayerMainData : ScriptableObject
     public void CheckPointNew()
     {
         GameObject NewPosition = GameObject.Find("StartGate");
-        SetVectorPlayer(NewPosition.transform.position);
+        SetVectorPlayer(NewPosition.transform.position - new Vector3(0,0, 20));
     }
 
     public void leverUP()

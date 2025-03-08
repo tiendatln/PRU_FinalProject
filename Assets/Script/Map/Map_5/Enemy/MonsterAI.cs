@@ -65,7 +65,6 @@ public class EnemyAI_2D : MonoBehaviour
         float distanceToPlayer = Vector2.Distance(transform.position, player.position);
         AnimatorStateInfo animationState = animator.GetCurrentAnimatorStateInfo(0);
         TimeStopAnimation = animationState.length;
-        Debug.Log(startPosition);
         if (HP <= 0)
         {
             animator.SetBool("Death", true);

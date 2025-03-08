@@ -113,6 +113,7 @@ public class PlMove : MonoBehaviour
         {
             rb.gravityScale = 0;
         }
+
         // Kiểm tra nhấn nút nhảy và còn lượt nhảy
         if (CanJump() && LastPressedJumpTime > 0)
         {
@@ -170,12 +171,22 @@ public class PlMove : MonoBehaviour
             }
             else if ((isjumping || IsWallJumping || _isJumpFalling) && Mathf.Abs(rb.linearVelocityY) < 0)
             {
-                rb.gravityScale = (Gravity * 0f);
+                rb.gravityScale = Gravity;
             }
             else
             {
                 rb.gravityScale = Gravity;
             }
+            
+        }
+        else
+        {
+            if(rb.gravityScale != 2)
+            {
+                rb.gravityScale = Gravity;
+                
+            }
+            
         }
         
         #endregion
