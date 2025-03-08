@@ -5,7 +5,7 @@ public class MonsterSystem : MonoBehaviour
 {
     public MonsterMainData MonsterMainData;
     // Dictionary để lưu vị trí của từng con quái
-    private Dictionary<string, Vector3> monsterPositions = new Dictionary<string, Vector3>();
+    public Dictionary<string, Vector3> monsterPositions = new Dictionary<string, Vector3>();
 
     // Danh sách các con quái trong scene
     public GameObject[] monsters;

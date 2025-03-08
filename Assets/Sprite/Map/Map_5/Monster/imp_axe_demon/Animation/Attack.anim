@@ -22,15 +22,15 @@ AnimationClip:
     curve:
     - time: 0
       value: {fileID: 2922865136255791346, guid: 3ded14a38751b394b8600bec9535fde3, type: 3}
-    - time: 0.16666667
+    - time: 0.2
       value: {fileID: 8565049412974196102, guid: a19c02b9f2542c4459a2b0434389fe7a, type: 3}
-    - time: 0.33333334
+    - time: 0.4
       value: {fileID: -7294019768860201853, guid: c726fac8861240c46a751fbe64a4f790, type: 3}
-    - time: 0.48333332
+    - time: 0.56666666
       value: {fileID: -3451385585727990758, guid: 81fd42336b04b89499243a69d28b45d5, type: 3}
-    - time: 0.6333333
+    - time: 0.75
       value: {fileID: 327260295005602038, guid: bc2899452a6bafb43bd22b74aa1cecff, type: 3}
-    - time: 0.8
+    - time: 0.95
       value: {fileID: -105553976138407445, guid: 1091512f6f2217f439b2114a2a3cae05, type: 3}
     attribute: m_Sprite
     path: 
@@ -65,7 +65,7 @@ AnimationClip:
     m_AdditiveReferencePoseClip: {fileID: 0}
     m_AdditiveReferencePoseTime: 0
     m_StartTime: 0
-    m_StopTime: 0.81666666
+    m_StopTime: 0.96666664
     m_OrientationOffsetY: 0
     m_Level: 0
     m_CycleOffset: 0
@@ -84,4 +84,18 @@ AnimationClip:
   m_EulerEditorCurves: []
   m_HasGenericRootTransform: 0
   m_HasMotionFloatCurves: 0
-  m_Events: []
+  m_Events:
+  - time: 0.65
+    functionName: SeandDamage
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0
+  - time: 0.95
+    functionName: StopAttack
+    data: 
+    objectReferenceParameter: {fileID: 0}
+    floatParameter: 0
+    intParameter: 0
+    messageOptions: 0

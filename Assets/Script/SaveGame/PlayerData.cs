@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System.Collections.Generic;
+using UnityEngine;
 
 
 
@@ -11,14 +12,18 @@
         public int leverEX;
         public int leverText;
         public float[] PlayerPosition;
-
-        public PlayerData(PlayerMainData player)
+        public Dictionary<string, Vector3> monsterPositions = new Dictionary<string, Vector3>();
+    public PlayerData(PlayerMainData player)
         {
             health = player?.health ?? 100f;
             attack = player?.attack ?? 2f;
             leverEX = player?.leverEX ?? 0;
             leverText = player?.leverText ?? 1;
             attackSkill = player?.attackSkill ?? 5;
+            if (player.MonsterMainData.monsterPositions != null)
+            {
+                monsterPositions = player.MonsterMainData.monsterPositions;
+            }    
 
             if (player != null && player.PLayerPosition != null && player.PLayerPosition.Length >= 3)
             {

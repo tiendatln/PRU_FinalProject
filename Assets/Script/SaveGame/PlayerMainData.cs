@@ -31,6 +31,10 @@ public class PlayerMainData : ScriptableObject
             attackSkill = data.attackSkill;
             leverEX = data.leverEX;
             leverText = data.leverText;
+            if (data.monsterPositions != null)
+            {
+                MonsterMainData.monsterPositions = data.monsterPositions;
+            }
             if (data.PlayerPosition != null && data.PlayerPosition.Length >= 3)
             {
                 PLayerPosition[0] = data.PlayerPosition[0];

@@ -10,6 +10,7 @@ TagManager:
   - skill
   - HP
   - StartGate
+  - SpawnRange
   layers:
   - Default
   - TransparentFX
