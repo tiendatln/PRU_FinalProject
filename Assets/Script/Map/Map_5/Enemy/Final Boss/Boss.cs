@@ -24,8 +24,8 @@ public class Boss : MonoBehaviour
 
 
     // Định nghĩa các đòn tấn công với tầm đánh riêng
-    public enum AttackType { Attack1, Attack2, FireBreath, AttackDown }
-    public AttackType nextAttack; // Đòn tấn công tiếp theo
+    public string[] AttackName;
+    private int nextAttack;
     [Header("Attack Range")]
     public Vector2 squareAttackSize; // Kích thước hình vuông tấn công
     
@@ -90,7 +90,7 @@ public class Boss : MonoBehaviour
             // Tấn công nếu trong tầm và hết thời gian chờ
             else if (Time.time >= nextAttackTime)
             {
-                PerformAttack();
+                AttackAnimation();
                 nextAttackTime = Time.time + attackCooldown; // Đặt lại thời gian chờ
                 ChooseNextAttack(); // Chọn đòn tấn công tiếp theo
             }
@@ -128,63 +128,23 @@ public class Boss : MonoBehaviour
 
     void ChooseNextAttack()
     {
-        nextAttack = (AttackType)Random.Range(0, 3);
+        // randome đòn đánh tiếp theo
+        nextAttack = Random.Range(0, AttackName.Length -1);
        
     }
 
-    //float GetCurrentAttackRange()
-    //{
-        
-    //    switch (nextAttack)
-    //    {
-    //        case AttackType.Attack1:
-                
-    //            return Attack1;
-    //        case AttackType.Attack2:
-                
-    //            return Attack2;
-    //        case AttackType.FireBreath:
-                
-    //            return FireBreath;
-    //        default:
-    //            return Attack1; // Mặc định
-    //    }
-    //}
-
-    void PerformAttack()
-    {
-        switch (nextAttack)
-        {
-            case AttackType.Attack1:
-                isAttackName = AttackType.Attack1.ToString();
-                MeleeAttack();
-                break;
-            case AttackType.Attack2:
-                isAttackName = AttackType.Attack2.ToString();
-                RangeAttack();
-                break;
-            case AttackType.FireBreath:
-                isAttackName = AttackType.FireBreath.ToString();
-                SpecialAttack();
-                break;
-            case AttackType.AttackDown:
-                isAttackName = AttackType.AttackDown.ToString();
-                AttackDown();
-                break;
-        }
-    }
 
     public void AttackDown()
     {
         BossAnimation.Attack(isAttackName);
     }
 
-    void MeleeAttack()
+    void AttackAnimation()
     {
         
         if (Mathf.Abs(AttackPoint.x - player.position.x) <= squareAttackSize.x)
         {
-            BossAnimation.Attack(isAttackName);
+            BossAnimation.Attack(AttackName[nextAttack]);
         }
         
     }
@@ -208,13 +168,13 @@ public class Boss : MonoBehaviour
 
     void CheckHealing()
     {
-        float healthPercentage = (currentHealth / maxHealth) * 100f;
+        float healthPercentage = (currentHealth / maxHealth) * maxHealth;
 
-        if (healthPercentage <= 50f && !hasHealed50)
+        if (healthPercentage <= (maxHealth/2) && !hasHealed50)
         {
             BossAnimation.DrinkPotion();
         }
-        else if (healthPercentage <= 20f && !hasHealed20)
+        else if (healthPercentage <= (maxHealth/3) && !hasHealed20)
         {
             BossAnimation.DrinkPotion();
         }

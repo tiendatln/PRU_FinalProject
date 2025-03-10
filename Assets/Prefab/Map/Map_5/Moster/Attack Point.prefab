@@ -47,6 +47,11 @@ MonoBehaviour:
   skil: {fileID: 0}
   SpwanPoint: {fileID: 8629695196342312457}
   SkillSpeed: 20
-  SkillCoodDown: 2
   player: {fileID: 0}
   rotationSpeed: 10
+  fireBall:
+    m_AssetGUID: a97c105638bdf8b4a8650670310a4cd3
+    m_SubObjectName: 
+    m_SubObjectGUID: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0

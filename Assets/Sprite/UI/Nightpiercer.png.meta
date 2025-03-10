@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Nightpiercer_0: -4910605217697002017
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 

@@ -68,4 +68,16 @@ public class DamageReceived : MonoBehaviour
         Time.timeScale = 0f;
         DeadUI.SetActive(true);
     }
+
+    private void OnCollisionEnter2D(Collision2D collision)
+    {
+        if (collision.collider.CompareTag("enemy"))
+        {
+            TakeDamage(5);
+            if (controller.PlMove.IsFacingRight)
+            {
+                //rb.AddForce(Vector2.left +);
+            }
+        }
+    }
 }

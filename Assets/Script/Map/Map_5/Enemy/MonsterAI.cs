@@ -1,6 +1,9 @@
 ﻿using System.Collections;
+using Unity.VisualScripting;
 using UnityEngine;
 using UnityEngine.UI;
+using static UnityEditor.ShaderGraph.Internal.KeywordDependentCollection;
+using static UnityEngine.UI.Image;
 
 public class EnemyAI_2D : MonoBehaviour
 {
@@ -26,6 +29,8 @@ public class EnemyAI_2D : MonoBehaviour
     public LayerMask enemyLayer;
     public float AttackDamage;
 
+
+    public LayerMask groundLayer;
     [Header("Time Animation")]
  
     private float TimeStopAnimation;
@@ -45,7 +50,9 @@ public class EnemyAI_2D : MonoBehaviour
     public PlayerController playerController;
     private SpriteRenderer spriteRenderer;
    
-
+    private bool resetLine = false;
+    private bool canSee = true;
+    [HideInInspector]public float distanceToPlayer;
     void Start()
     {
         player = GameObject.FindGameObjectWithTag("Player")?.transform;
@@ -67,7 +74,8 @@ public class EnemyAI_2D : MonoBehaviour
     {
         if (player == null) return;
         
-        float distanceToPlayer = Vector2.Distance(attackPoint.position, player.position);
+        distanceToPlayer = Vector2.Distance(attackPoint.position, player.position);
+       
         AnimatorStateInfo animationState = animator.GetCurrentAnimatorStateInfo(0);
         TimeStopAnimation = animationState.length;
         if (HP <= 0)
@@ -79,7 +87,8 @@ public class EnemyAI_2D : MonoBehaviour
         {
             if (distanceToPlayer <= attackRange)
             {
-                if (canAttack)
+                findPlayer(distanceToPlayer);
+                if (canAttack && canSee)
                 {
                     canAttack = false;
                     Attack();
@@ -87,14 +96,55 @@ public class EnemyAI_2D : MonoBehaviour
             }
             else if (distanceToPlayer <= detectionRange)
             {
-                ChasePlayer();
+                findPlayer(distanceToPlayer);
+                if (canSee)
+                {
+                    ChasePlayer();
+                }
+
+                resetLine = true;
+            }else if (!isFly && distanceToPlayer >= detectionRange && resetLine)
+            {
+                Vector2 newLine = new Vector2(transform.position.x, transform.position.y);
+                targetPosition = newLine + Vector2.right * patrolDistance;
+                resetLine = false;
             }
-            else
+            else if (canSee)
             {
                 Patrol();
             }
         }
     }
+
+    public void findPlayer(float distanceToPlayer)
+    {
+        int defaultLayer = (1 << 9) - 1; // Bitmask cho layer 0 (Default)
+        LayerMask layerMask = ~defaultLayer; // Đảo ngược để loại trừ layer 0
+
+        RaycastHit2D hit = Physics2D.Raycast(attackPoint.position, Vector2.left * detectionRange, distanceToPlayer, layerMask);
+
+        if (hit.collider != null)
+        {
+            // Kiểm tra xem tia chạm vào cái gì đầu tiên
+            if (hit.collider.gameObject.layer == 9)
+            {
+                canSee = true;
+                Debug.Log(hit.collider.gameObject.name);
+                Debug.Log("Thấy Player trực tiếp!");
+                // Logic khi thấy player (tấn công, đuổi theo, v.v.)
+            }
+            else if (((1 << hit.collider.gameObject.layer) & groundLayer) != 0)
+            {
+                canSee= false;
+                Debug.Log(hit.collider.gameObject.name);
+                Debug.Log("Bị chặn bởi: " + hit.collider.name + " tại " + hit.point);
+                // Logic khi bị chặn (dừng lại, tìm đường khác, v.v.)
+            }
+            Debug.Log(hit.collider.gameObject.name);
+        }
+        Debug.DrawRay(attackPoint.position, Vector2.left * detectionRange, Color.red);
+    }
+ 
 
     void Patrol()
     {
@@ -121,6 +171,8 @@ public class EnemyAI_2D : MonoBehaviour
             else
                 targetPosition = startPosition + Vector2.right * patrolDistance; // Move right
         }
+        
+        
     }
 
     void ChasePlayer()
@@ -166,9 +218,10 @@ public class EnemyAI_2D : MonoBehaviour
 
     private void Turn()
     {
-        Vector3 rotation = transform.rotation.eulerAngles;
-        rotation.y -= -180;
-        transform.rotation = Quaternion.Euler(rotation);
+        Vector3 scale = transform.localScale;
+        scale.x *= -1;
+        transform.localScale = scale;
+
         IsFacingRight = !IsFacingRight;
     }
 

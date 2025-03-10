@@ -1,20 +1,28 @@
-﻿using UnityEngine;
+﻿using System.Collections.Generic;
+using UnityEngine;
+using UnityEngine.AddressableAssets;
+using UnityEngine.ResourceManagement.AsyncOperations;
 
 public class MonsterSpawnSKill : MonoBehaviour
 {
     public GameObject skil;
-    public Transform SpwanPoint;
+    private EnemyAI_2D _enemyAI;
     public float SkillSpeed;
     public Transform player; // Gán Player vào Inspector
     public float rotationSpeed = 5f;
-    //public GameObject Mon
-   
+    public AssetLabelReference fireBall;
+
+
+    private void Start()
+    {
+        _enemyAI = GameObject.FindGameObjectWithTag("enemy").GetComponent<EnemyAI_2D>();
+    }
     // Start is called once before the first execution of Update after the MonoBehaviour is created
 
     void Update()
     {
-
-        if (player != null)
+        
+        if (player != null && _enemyAI.distanceToPlayer <= _enemyAI.detectionRange)
         {
             // Tính hướng quay
             Vector3 direction = (player.position - transform.position).normalized;
@@ -32,19 +40,25 @@ public class MonsterSpawnSKill : MonoBehaviour
 
     }
 
-    public virtual void Shoot()
+     public virtual void Shoot()
     {
-        
-           
-            GameObject magicSkill = Instantiate(skil, SpwanPoint.position, SpwanPoint.rotation);
-            magicSkill.gameObject.SetActive(true);
-            // Lấy Rigidbody2D của đạn để áp dụng lực
-            Rigidbody2D rb = magicSkill.GetComponent<Rigidbody2D>();
+        if (fireBall == null || string.IsNullOrEmpty(fireBall.labelString))
+        {
+         
+            return;
+        }
 
-            // Áp dụng lực cho viên đạn để nó di chuyển theo hướng firePoint
-            rb.AddForce(SpwanPoint.right * SkillSpeed, ForceMode2D.Impulse);
-            Destroy(magicSkill, 1);
-
-        
+        var handle = Addressables.LoadAssetAsync<GameObject>(fireBall.labelString);
+        handle.Completed += (AsyncOperationHandle<GameObject> task) =>
+        {
+             GameObject fire = MyPoolManager.instance.GetFromPool(skil);
+            fire.transform.position = transform.position;
+            fire.transform.rotation = transform.rotation;
+            Rigidbody2D rb = fire.GetComponent<Rigidbody2D>();
+            if (rb != null)
+            {
+                rb.AddForce(transform.right * SkillSpeed, ForceMode2D.Impulse);
+            }
+        };
     }
 }

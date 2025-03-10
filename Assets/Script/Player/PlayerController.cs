@@ -5,8 +5,8 @@ using UnityEngine.Splines;
 public class PlayerController : MonoBehaviour
 {
 
-    protected PlMove PlMove;
-    protected PlayerAttack PlayerAttack;
+    public PlMove PlMove;
+    public PlayerAttack PlayerAttack;
     public DamageReceived DamageReceived;
     public PlayerAnimation PlayerAnimation;
     [SerializeField] private SpawnMagicSkill SpawnMagicSkill;

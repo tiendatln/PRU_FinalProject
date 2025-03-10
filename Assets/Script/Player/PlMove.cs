@@ -102,7 +102,7 @@ public class PlMove : MonoBehaviour
         {
             OnJumpUpInput();
         }
-        Debug.Log(IsSliding);
+        
         #region SLIDE CHECKS
         if (CanSlide() && ((LastOnWallRightTime > 0 && _moveInput.x < 0) || (LastOnWallRightTime > 0 && _moveInput.x > 0)))
             IsSliding = true;

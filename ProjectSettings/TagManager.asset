@@ -15,13 +15,13 @@ TagManager:
   - Default
   - TransparentFX
   - Ignore Raycast
-  - Player
+  - 
   - Water
   - UI
   - 'enemy '
   - Ground
   - background
-  - 
+  - Player
   - 
   - 
   - 
@@ -53,6 +53,12 @@ TagManager:
     locked: 0
   - name: Ground
     uniqueID: 2932562885
+    locked: 0
+  - name: enemy
+    uniqueID: 1252295309
+    locked: 0
+  - name: Player
+    uniqueID: 743450447
     locked: 0
   m_RenderingLayers:
   - Default
