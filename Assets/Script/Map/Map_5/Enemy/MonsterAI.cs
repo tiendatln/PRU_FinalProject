@@ -34,7 +34,6 @@ public class EnemyAI_2D : MonoBehaviour
     public bool isFly;
     public string WalkAnimationName;
     public string AttackAnimationName;
-  
     public string DeathAnimationName;
 
     public GameObject HpSlider;
@@ -72,7 +71,7 @@ public class EnemyAI_2D : MonoBehaviour
         TimeStopAnimation = animationState.length;
         if (HP <= 0)
         {
-            animator.SetBool("Death", true);
+            animator.SetBool(DeathAnimationName, true);
             Invoke("Dead", TimeStopAnimation);
         }
         else

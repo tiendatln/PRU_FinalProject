@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using TMPro;
+using UnityEngine;
 using UnityEngine.UI;
 
 public class Boss : MonoBehaviour
@@ -6,9 +7,10 @@ public class Boss : MonoBehaviour
     public Transform player; // Tham chiếu đến người chơi
     public float moveSpeed = 3f; // Tốc độ di chuyển của boss
     public float maxHealth = 200f; // Máu tối đa
-    
-    public Vector2 checkWallSize;
-    public Transform checkWallPoint;
+
+    public Vector2 checkWallSize; // ko dùng
+    public Transform checkWallPoint; // ko dùng
+
     public LayerMask PlayerMask;
     public Slider slider;
 
@@ -24,11 +26,11 @@ public class Boss : MonoBehaviour
 
 
     // Định nghĩa các đòn tấn công với tầm đánh riêng
-    public enum AttackType { Attack1, Attack2, FireBreath, AttackDown }
-    public AttackType nextAttack; // Đòn tấn công tiếp theo
+    public string[] AttackName;
+    private int nextAttack;
     [Header("Attack Range")]
     public Vector2 squareAttackSize; // Kích thước hình vuông tấn công
-    
+
     public float _damage;
 
     // Trung tâm của boss
@@ -36,6 +38,8 @@ public class Boss : MonoBehaviour
     public GameObject AttackPosition;
     public BossAnimation BossAnimation;
     public GameObject Gate;
+
+    public bool isBoss;
 
     #region Private Value
 
@@ -73,7 +77,7 @@ public class Boss : MonoBehaviour
             else
             {
                 squareAttackSize = new Vector2(2f, 2f); // Giá trị mặc định nếu không tìm thấy sprite
-               
+
             }
 
             // Tính khoảng cách từ trung tâm boss đến người chơi trên trục X
@@ -81,7 +85,7 @@ public class Boss : MonoBehaviour
 
             // Xác định tầm đánh hiện tại dựa trên đòn tấn công tiếp theo
             float currentAttackRange = squareAttackSize.x;
-            
+
             // Di chuyển tới người chơi nếu ngoài tầm tấn công
             if (distanceToPlayer > currentAttackRange)
             {
@@ -90,7 +94,7 @@ public class Boss : MonoBehaviour
             // Tấn công nếu trong tầm và hết thời gian chờ
             else if (Time.time >= nextAttackTime)
             {
-                PerformAttack();
+                AttackAnimation();
                 nextAttackTime = Time.time + attackCooldown; // Đặt lại thời gian chờ
                 ChooseNextAttack(); // Chọn đòn tấn công tiếp theo
             }
@@ -128,70 +132,23 @@ public class Boss : MonoBehaviour
 
     void ChooseNextAttack()
     {
-        nextAttack = (AttackType)Random.Range(0, 3);
-       
+        // randome đòn đánh tiếp theo
+        nextAttack = Random.Range(0, AttackName.Length - 1);
+
     }
 
-    //float GetCurrentAttackRange()
-    //{
-        
-    //    switch (nextAttack)
-    //    {
-    //        case AttackType.Attack1:
-                
-    //            return Attack1;
-    //        case AttackType.Attack2:
-                
-    //            return Attack2;
-    //        case AttackType.FireBreath:
-                
-    //            return FireBreath;
-    //        default:
-    //            return Attack1; // Mặc định
-    //    }
-    //}
-
-    void PerformAttack()
+    void AttackAnimation()
     {
-        switch (nextAttack)
-        {
-            case AttackType.Attack1:
-                isAttackName = AttackType.Attack1.ToString();
-                MeleeAttack();
-                break;
-            case AttackType.Attack2:
-                isAttackName = AttackType.Attack2.ToString();
-                RangeAttack();
-                break;
-            case AttackType.FireBreath:
-                isAttackName = AttackType.FireBreath.ToString();
-                SpecialAttack();
-                break;
-            case AttackType.AttackDown:
-                isAttackName = AttackType.AttackDown.ToString();
-                AttackDown();
-                break;
-        }
-    }
-
-    public void AttackDown()
-    {
-        BossAnimation.Attack(isAttackName);
-    }
-
-    void MeleeAttack()
-    {
-        
         if (Mathf.Abs(AttackPoint.x - player.position.x) <= squareAttackSize.x)
         {
-            BossAnimation.Attack(isAttackName);
+            BossAnimation.Attack(AttackName[nextAttack]);
         }
-        
+
     }
 
     void RangeAttack()
     {
-        
+
         GameObject projectile = GameObject.CreatePrimitive(PrimitiveType.Sphere);
         projectile.transform.position = AttackPoint + new Vector3(Mathf.Sign(player.position.x - AttackPoint.x), 0, 0); // Bắn từ trung tâm
         Rigidbody rb = projectile.AddComponent<Rigidbody>();
@@ -200,21 +157,15 @@ public class Boss : MonoBehaviour
         BossAnimation.Attack(isAttackName);
     }
 
-    void SpecialAttack()
-    {
-        
-        BossAnimation.Attack(isAttackName);
-    }
-
     void CheckHealing()
     {
-        float healthPercentage = (currentHealth / maxHealth) * 100f;
+        float healthPercentage = (currentHealth / maxHealth) * maxHealth;
 
-        if (healthPercentage <= 50f && !hasHealed50)
+        if (healthPercentage <= (maxHealth / 2) && !hasHealed50)
         {
             BossAnimation.DrinkPotion();
         }
-        else if (healthPercentage <= 20f && !hasHealed20)
+        else if (healthPercentage <= (maxHealth / 3) && !hasHealed20)
         {
             BossAnimation.DrinkPotion();
         }
@@ -229,24 +180,21 @@ public class Boss : MonoBehaviour
         {
             heal = healAmount50;
             hasHealed50 = true;
-            
+
         }
         else if (healthPercentage <= 50f && !hasHealed20)
         {
             heal = healAmount20;
             hasHealed20 = true;
-            
+
         }
         currentHealth = Mathf.Min(currentHealth + heal, maxHealth);
     }
 
     public void TakeDamage(float damage)
     {
-        
-        
-
         currentHealth -= damage;
-        
+
 
         if (currentHealth <= 0)
         {
@@ -258,8 +206,8 @@ public class Boss : MonoBehaviour
 
     void Die()
     {
-        GameObject gate = Instantiate(Gate,transform.position + new Vector3(0,0,10),transform.rotation);
-
+        GameObject gate = Instantiate(Gate, transform.position + new Vector3(0, 0, 10), transform.rotation);
+        gate.AddComponent<NextMap>(); // add script chuyển map
         Destroy(gameObject);
     }
 
@@ -283,5 +231,4 @@ public class Boss : MonoBehaviour
 
         }
     }
-    
 }

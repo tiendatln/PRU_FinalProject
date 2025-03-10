@@ -140,6 +140,10 @@ public class PlayerAttack : MonoBehaviour
             {
                 _enemy.TakeDamage(playerController.PlayerMainData.attack); // Gây sát thương lên kẻ địch
             }
+            if(enemy.gameObject.TryGetComponent<Medusa>(out Medusa medusa))
+            {
+                medusa.TakeDamage(playerController.PlayerMainData.attack);
+            }
             if (enemy.gameObject.TryGetComponent<Boss>(out Boss boss))
             {
                 boss.TakeDamage(playerController.PlayerMainData.attack);

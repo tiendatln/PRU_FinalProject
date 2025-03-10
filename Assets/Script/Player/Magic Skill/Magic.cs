@@ -40,6 +40,9 @@ public class Magic : MonoBehaviour
             boss.TakeDamage(playerController.PlayerMainData.attackSkill);
             skill.SetActive(false);
         }
-
+        if (collision.gameObject.TryGetComponent<Medusa>(out Medusa medusa))
+        {
+            medusa.TakeDamage(playerController.PlayerMainData.attack);
+        }
     }
 }

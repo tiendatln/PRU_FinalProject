@@ -6,7 +6,7 @@ public class PlayerController : MonoBehaviour
 {
 
     protected PlMove PlMove;
-    protected PlayerAttack PlayerAttack;
+    public PlayerAttack PlayerAttack;
     public DamageReceived DamageReceived;
     public PlayerAnimation PlayerAnimation;
     [SerializeField] private SpawnMagicSkill SpawnMagicSkill;
@@ -85,6 +85,10 @@ public class PlayerController : MonoBehaviour
         PlMove._moveInput = Vector2.zero;
     }
 
+    void OnDrawGizmosSelected()
+    {
+        Gizmos.color = Color.red;
+        Gizmos.DrawWireSphere(PlayerAttack.attackPoint.position, PlayerAttack.attackRange);
+    }
 
-    
 }
