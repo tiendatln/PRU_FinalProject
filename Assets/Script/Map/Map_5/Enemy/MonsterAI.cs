@@ -39,7 +39,6 @@ public class EnemyAI_2D : MonoBehaviour
     public bool isFly;
     public string WalkAnimationName;
     public string AttackAnimationName;
-  
     public string DeathAnimationName;
 
     public GameObject HpSlider;
@@ -51,7 +50,7 @@ public class EnemyAI_2D : MonoBehaviour
     private SpriteRenderer spriteRenderer;
    
     private bool resetLine = false;
-    private bool canSee = true;
+
     [HideInInspector]public float distanceToPlayer;
     void Start()
     {
@@ -80,27 +79,25 @@ public class EnemyAI_2D : MonoBehaviour
         TimeStopAnimation = animationState.length;
         if (HP <= 0)
         {
-            animator.SetBool("Death", true);
+            animator.SetBool(DeathAnimationName, true);
             Invoke("Dead", TimeStopAnimation);
         }
         else
         {
             if (distanceToPlayer <= attackRange)
             {
-                findPlayer(distanceToPlayer);
-                if (canAttack && canSee)
+                if (canAttack)
                 {
                     canAttack = false;
                     Attack();
                 }
+                
             }
             else if (distanceToPlayer <= detectionRange)
             {
-                findPlayer(distanceToPlayer);
-                if (canSee)
-                {
+                
                     ChasePlayer();
-                }
+                
 
                 resetLine = true;
             }else if (!isFly && distanceToPlayer >= detectionRange && resetLine)
@@ -108,41 +105,11 @@ public class EnemyAI_2D : MonoBehaviour
                 Vector2 newLine = new Vector2(transform.position.x, transform.position.y);
                 targetPosition = newLine + Vector2.right * patrolDistance;
                 resetLine = false;
-            }
-            else if (canSee)
+            }else
             {
                 Patrol();
             }
         }
-    }
-
-    public void findPlayer(float distanceToPlayer)
-    {
-        int defaultLayer = (1 << 9) - 1; // Bitmask cho layer 0 (Default)
-        LayerMask layerMask = ~defaultLayer; // Đảo ngược để loại trừ layer 0
-
-        RaycastHit2D hit = Physics2D.Raycast(attackPoint.position, Vector2.left * detectionRange, distanceToPlayer, layerMask);
-
-        if (hit.collider != null)
-        {
-            // Kiểm tra xem tia chạm vào cái gì đầu tiên
-            if (hit.collider.gameObject.layer == 9)
-            {
-                canSee = true;
-                Debug.Log(hit.collider.gameObject.name);
-                Debug.Log("Thấy Player trực tiếp!");
-                // Logic khi thấy player (tấn công, đuổi theo, v.v.)
-            }
-            else if (((1 << hit.collider.gameObject.layer) & groundLayer) != 0)
-            {
-                canSee= false;
-                Debug.Log(hit.collider.gameObject.name);
-                Debug.Log("Bị chặn bởi: " + hit.collider.name + " tại " + hit.point);
-                // Logic khi bị chặn (dừng lại, tìm đường khác, v.v.)
-            }
-            Debug.Log(hit.collider.gameObject.name);
-        }
-        Debug.DrawRay(attackPoint.position, Vector2.left * detectionRange, Color.red);
     }
  
 
@@ -199,7 +166,6 @@ public class EnemyAI_2D : MonoBehaviour
                 animator.SetFloat(WalkAnimationName, 0f);
             }
         }
-
     }
 
     

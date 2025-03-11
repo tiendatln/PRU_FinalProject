@@ -1,5 +1,6 @@
 ﻿using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.SceneManagement;
 
 [CreateAssetMenu(fileName = "PlayerMainData", menuName = "Scriptable Objects/PlayerMainData")]
 public class PlayerMainData : ScriptableObject
@@ -11,12 +12,12 @@ public class PlayerMainData : ScriptableObject
     public int leverText;
     public float[] PlayerPosition = new float[3]; // Khởi tạo mặc định
     public GameObject StartPosition;
-    public MonsterMainData MonsterMainData;
-
+    public Vector3[] StartGate;
+    public int Mapindex;
 
     public void SavePlayer(string filePath = null)
     {
-
+        Mapindex = SceneManager.GetActiveScene().buildIndex;
         StartPosition = GameObject.Find("Character");
         SetVectorPlayer(StartPosition.transform.position);
         SaveSystem.SavePlayer(this, filePath);
@@ -32,10 +33,8 @@ public class PlayerMainData : ScriptableObject
             attackSkill = data.attackSkill;
             leverEX = data.leverEX;
             leverText = data.leverText;
-            if (data.monsterPositions != null)
-            {
-                MonsterMainData.monsterPositions = data.monsterPositions;
-            }
+            Mapindex = data.MapIndex;
+
             if (data.PlayerPosition != null && data.PlayerPosition.Length >= 3)
             {
                 PlayerPosition[0] = data.PlayerPosition[0];
@@ -45,21 +44,20 @@ public class PlayerMainData : ScriptableObject
         }
     }
 
-    public void NewGame()
+    public void NewGame(int mapIndex)
     {
         SaveSystem.DeleteSaveFile();
-        CheckPointNew();
+        CheckPointNew(mapIndex);
     }
 
-    public void CheckPointNew()
+    public void CheckPointNew(int mapIndex)
     {
-        GameObject NewPosition = GameObject.Find("StartGate");
-        SetVectorPlayer(NewPosition.transform.position - new Vector3(0,0, 20));
+        SetVectorPlayer(StartGate[mapIndex - 1] - new Vector3(0,0, 20));
     }
 
     public void leverUP()
     {
-        if(leverEX >= 100)
+        if(leverEX >= 100)  
         {
             leverText += 1;
         }

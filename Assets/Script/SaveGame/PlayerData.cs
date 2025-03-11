@@ -12,7 +12,7 @@ using UnityEngine;
         public int leverEX;
         public int leverText;
         public float[] PlayerPosition;
-        public Dictionary<string, Vector3> monsterPositions = new Dictionary<string, Vector3>();
+        public int MapIndex;
     public PlayerData(PlayerMainData player)
         {
             health = player?.health ?? 100f;
@@ -20,17 +20,15 @@ using UnityEngine;
             leverEX = player?.leverEX ?? 0;
             leverText = player?.leverText ?? 1;
             attackSkill = player?.attackSkill ?? 5;
-            if (player.MonsterMainData.monsterPositions != null)
-            {
-                monsterPositions = player.MonsterMainData.monsterPositions;
-            }    
+            MapIndex = player?.Mapindex ?? 1;
+
 
             if (player != null && player.PlayerPosition != null && player.PlayerPosition.Length >= 3)
             {
                 PlayerPosition = new float[3];
-                PlayerPosition[0] = player.PlayerPosition[0];
-                PlayerPosition[1] = player.PlayerPosition[1];
-                PlayerPosition[2] = player.PlayerPosition[2];
+                PlayerPosition[0] = player?.PlayerPosition[0] ?? 0;
+                PlayerPosition[1] = player?.PlayerPosition[1] ?? 0;
+                PlayerPosition[2] = player?.PlayerPosition[2] ?? 0;
             }
             else
             {

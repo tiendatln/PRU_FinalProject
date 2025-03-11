@@ -1,5 +1,6 @@
 ﻿using UnityEngine;
 using System.IO;
+using System;
 
 public static class SaveSystem
 {
@@ -29,15 +30,30 @@ public static class SaveSystem
     }
     public static void DeleteSaveFile(string filePath = null)
     {
-        string path = filePath ?? defaultSavePath;
-        if (File.Exists(path))
+        try
         {
-            File.Delete(path);
-            Debug.Log("Save file deleted from: " + path);
+            string path = filePath ?? defaultSavePath;
+
+            if (string.IsNullOrEmpty(path))
+            {
+                Debug.LogError("Invalid file path.");
+                return;
+            }
+
+            if (File.Exists(path))
+            {
+                File.Delete(path);
+                Debug.Log("Save file deleted from: " + path);
+            }
+            else
+            {
+                Debug.Log("No save file found at: " + path);
+            }
         }
-        else
+        catch (Exception ex)
         {
-            Debug.Log("No save file found at: " + path);
+            Debug.LogError("Error deleting save file: " + ex.Message);
         }
     }
+
 }

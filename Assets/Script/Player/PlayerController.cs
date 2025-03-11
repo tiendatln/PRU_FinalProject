@@ -5,7 +5,9 @@ using UnityEngine.Splines;
 public class PlayerController : MonoBehaviour
 {
 
+
     public PlMove PlMove;
+
     public PlayerAttack PlayerAttack;
     public DamageReceived DamageReceived;
     public PlayerAnimation PlayerAnimation;
@@ -23,17 +25,10 @@ public class PlayerController : MonoBehaviour
         PlayerAnimation = GetComponent<PlayerAnimation>();
         PlayerLever = GetComponent<PlayerLever>();
         PlayerSpawnMagicSkill = GameObject.Find("SpawnSkill").gameObject.GetComponent<SpawnMagicSkill>();
-        if (transform.position != null)
-        {
-            transform.position = new Vector3(PlayerMainData.PlayerPosition[0], PlayerMainData.PlayerPosition[1], PlayerMainData.PlayerPosition[2]);
-        }
-        else
-        {
-            PlayerMainData.NewGame();
-            transform.position = new Vector3(PlayerMainData.PlayerPosition[0], PlayerMainData.PlayerPosition[1], PlayerMainData.PlayerPosition[2]);
-        }
-        
-        Time.timeScale = 1.0f;
+
+
+        transform.position = new Vector3(PlayerMainData.PlayerPosition[0], PlayerMainData.PlayerPosition[1], PlayerMainData.PlayerPosition[2]);
+        Time.timeScale = 1f;
     }
     
 
@@ -86,5 +81,4 @@ public class PlayerController : MonoBehaviour
     }
 
 
-    
 }

@@ -2,6 +2,7 @@
 using UnityEngine;
 using UnityEngine.AddressableAssets;
 using UnityEngine.ResourceManagement.AsyncOperations;
+using static UnityEngine.Rendering.VirtualTexturing.Debugging;
 
 public class MonsterSpawnSKill : MonoBehaviour
 {
@@ -11,7 +12,7 @@ public class MonsterSpawnSKill : MonoBehaviour
     public Transform player; // Gán Player vào Inspector
     public float rotationSpeed = 5f;
     public AssetLabelReference fireBall;
-
+    private AsyncOperationHandle<GameObject> Handle;
 
     private void Start()
     {
@@ -22,7 +23,7 @@ public class MonsterSpawnSKill : MonoBehaviour
     void Update()
     {
         
-        if (player != null && _enemyAI.distanceToPlayer <= _enemyAI.detectionRange)
+        if (player != null)
         {
             // Tính hướng quay
             Vector3 direction = (player.position - transform.position).normalized;
@@ -35,6 +36,7 @@ public class MonsterSpawnSKill : MonoBehaviour
 
             // Quay dần về hướng Player 
             transform.rotation = Quaternion.Slerp(transform.rotation, lookRotation, Time.deltaTime * rotationSpeed);
+
         }
 
 
@@ -48,8 +50,8 @@ public class MonsterSpawnSKill : MonoBehaviour
             return;
         }
 
-        var handle = Addressables.LoadAssetAsync<GameObject>(fireBall.labelString);
-        handle.Completed += (AsyncOperationHandle<GameObject> task) =>
+        Handle = Addressables.LoadAssetAsync<GameObject>(fireBall.labelString);
+        Handle.Completed += (AsyncOperationHandle<GameObject> task) =>
         {
              GameObject fire = MyPoolManager.instance.GetFromPool(skil);
             fire.transform.position = transform.position;
@@ -60,5 +62,19 @@ public class MonsterSpawnSKill : MonoBehaviour
                 rb.AddForce(transform.right * SkillSpeed, ForceMode2D.Impulse);
             }
         };
+
+    }
+    void UnloadAsset()
+    {
+        if (Handle.IsValid())
+        {
+            Addressables.Release(Handle); // Releases the asset from memory
+        }
+    }
+
+
+    void OnDestroy()
+    {
+        UnloadAsset(); // Clean up when the object is destroyed
     }
 }
