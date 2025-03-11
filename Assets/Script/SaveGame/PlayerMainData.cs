@@ -47,7 +47,18 @@ public class PlayerMainData : ScriptableObject
     public void NewGame(int mapIndex)
     {
         SaveSystem.DeleteSaveFile();
+        SetDefaultData();
         CheckPointNew(mapIndex);
+
+    }
+    void SetDefaultData()
+    {
+        health = 100f;
+        attack = 2f;
+        attackSkill = 5f;
+        leverEX = 0;
+        leverText = 1;
+        Mapindex = 1;
     }
 
     public void CheckPointNew(int mapIndex)

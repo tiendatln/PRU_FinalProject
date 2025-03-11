@@ -15,20 +15,20 @@ using UnityEngine;
         public int MapIndex;
     public PlayerData(PlayerMainData player)
         {
-            health = player?.health ?? 100f;
-            attack = player?.attack ?? 2f;
-            leverEX = player?.leverEX ?? 0;
-            leverText = player?.leverText ?? 1;
-            attackSkill = player?.attackSkill ?? 5;
-            MapIndex = player?.Mapindex ?? 1;
+            health = player.health;
+            attack = player.attack;
+            leverEX = player.leverEX;
+            leverText = player.leverText;
+            attackSkill = player.attackSkill;
+            MapIndex = player.Mapindex;
 
 
             if (player != null && player.PlayerPosition != null && player.PlayerPosition.Length >= 3)
             {
                 PlayerPosition = new float[3];
-                PlayerPosition[0] = player?.PlayerPosition[0] ?? 0;
-                PlayerPosition[1] = player?.PlayerPosition[1] ?? 0;
-                PlayerPosition[2] = player?.PlayerPosition[2] ?? 0;
+                PlayerPosition[0] = player.PlayerPosition[0];
+                PlayerPosition[1] = player.PlayerPosition[1];
+                PlayerPosition[2] = player.PlayerPosition[2];
             }
             else
             {
