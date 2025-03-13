@@ -23,6 +23,7 @@ public class PauseMenu : MonoBehaviour
 
     public void BackToMenuBtn()
     {
+        GameManager.Instance.GetPlayerData().SavePlayer();
         SceneManager.LoadScene("Main Menu Game");
     }
 
