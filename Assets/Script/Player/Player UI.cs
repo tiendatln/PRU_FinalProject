@@ -5,7 +5,7 @@ public class PlayerUI : MonoBehaviour
 {
     public Slider Slider;
     public PlayerController controller;
-    public GameObject PauseMenu;
+    
 
     private void Awake()
     {
@@ -18,11 +18,11 @@ public class PlayerUI : MonoBehaviour
         {
             Time.timeScale = 0f;
             MouseOn();
-            PauseMenu.SetActive(true);
+            UIController.Instance.GetPauseMenu().SetActive(true);
         }else if (Input.GetKeyDown(KeyCode.Escape) && Time.timeScale.Equals(0f))
         {
             Time.timeScale = 1f;
-            PauseMenu.SetActive(false);
+            UIController.Instance.GetPauseMenu().SetActive(false);
         }
     }
     void MouseOn()

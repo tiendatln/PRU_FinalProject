@@ -3,14 +3,14 @@ using UnityEngine;
 public class DamageReceived : MonoBehaviour
 {
     
-    protected PlayerUI PlayerUI;
+   
     private Rigidbody2D rb;
     private Animator animator;
     private CapsuleCollider2D capsuleCollider;
     private Vector2 capsuleColliderSize = new Vector2(0.31f, 0.13f);
     public CapsuleCollider2D CapsuleCollider2D;
     public PlayerController controller;
-    public GameObject DeadUI;
+    
     private SpriteRenderer spriteRenderer;
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
@@ -18,17 +18,19 @@ public class DamageReceived : MonoBehaviour
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
         capsuleCollider = GetComponent<CapsuleCollider2D>();
-        PlayerUI = GetComponent<PlayerUI>();
         CapsuleCollider2D = GetComponent<CapsuleCollider2D>();
         controller = GetComponent<PlayerController>();
-         spriteRenderer = GetComponent<SpriteRenderer>();
+        spriteRenderer = GetComponent<SpriteRenderer>();
     }
 
     // Update is called once per frame
     void Update()
     {
         Die();
-        PlayerUI.SetHeath(controller.PlayerMainData.health);
+
+        UIController.Instance.GetPlayerUI().GetComponent<PlayerUI>().SetHeath(controller.PlayerMainData.health);
+
+        //controller.PlayerUI.SetHeath(controller.PlayerMainData.health);
 
     }
 
@@ -66,7 +68,7 @@ public class DamageReceived : MonoBehaviour
     void StopGame()
     {
         Time.timeScale = 0f;
-        DeadUI.SetActive(true);
+        UIController.Instance.GetDeadMenu().SetActive(true);
     }
 
     private void OnCollisionEnter2D(Collision2D collision)

@@ -9,7 +9,6 @@ public class PlayerAttack : MonoBehaviour
     private int AttackCount = 0;
     private int MaxAttack = 3;
     public Rigidbody2D rb;
-    protected PlMove PlMove;
 
     [SerializeField] private Vector2 _groundCheckSize = new Vector2(0.23f, 0.3f);
     public float attackRange = 1.5f; // Tầm đánh của nhân vật
@@ -22,7 +21,6 @@ public class PlayerAttack : MonoBehaviour
     {
         animator = GetComponent<Animator>();
         rb = GetComponent<Rigidbody2D>();
-        PlMove = GetComponent<PlMove>();
        
         playerController = GetComponent<PlayerController>();
     }
