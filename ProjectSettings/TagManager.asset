@@ -11,6 +11,8 @@ TagManager:
   - HP
   - StartGate
   - SpawnRange
+  - DeadUI
+  - PauseMenu
   layers:
   - Default
   - TransparentFX

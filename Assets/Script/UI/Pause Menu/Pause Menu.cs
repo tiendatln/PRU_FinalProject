@@ -4,14 +4,14 @@ using UnityEngine.SceneManagement;
 
 public class PauseMenu : MonoBehaviour
 {
-    public GameObject MainMenu;
+
     public void ContinueBtn()
     {
         Time.timeScale = 1.0f;
         MouseOff();
 
 
-        MainMenu.SetActive(false);
+        this.gameObject.SetActive(false);
     }
     public void MouseOff()
     {

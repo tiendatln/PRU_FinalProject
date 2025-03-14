@@ -9,7 +9,7 @@ public class MonsterSpawnSKill : MonoBehaviour
     public GameObject skil;
     private EnemyAI_2D _enemyAI;
     public float SkillSpeed;
-    public Transform player; // Gán Player vào Inspector
+    private Transform player; // Gán Player vào Inspector
     public float rotationSpeed = 5f;
     public AssetLabelReference fireBall;
     private AsyncOperationHandle<GameObject> Handle;
@@ -17,6 +17,8 @@ public class MonsterSpawnSKill : MonoBehaviour
     private void Start()
     {
         _enemyAI = GameObject.FindGameObjectWithTag("enemy").GetComponent<EnemyAI_2D>();
+        player = GameObject.Find("Character").transform;
+
     }
     // Start is called once before the first execution of Update after the MonoBehaviour is created
 

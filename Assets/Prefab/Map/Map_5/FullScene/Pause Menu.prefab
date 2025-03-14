@@ -11,11 +11,11 @@ GameObject:
   - component: {fileID: 3444275832521264938}
   m_Layer: 0
   m_Name: Pause Menu
-  m_TagString: Untagged
+  m_TagString: PauseMenu
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 0
+  m_IsActive: 1
 --- !u!4 &3444275832521264938
 Transform:
   m_ObjectHideFlags: 0
@@ -1234,7 +1234,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 3a766802ac1dfc244b739c596ddf5954, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  MainMenu: {fileID: 169753579376349653}
 --- !u!1 &6732407517691337499
 GameObject:
   m_ObjectHideFlags: 0

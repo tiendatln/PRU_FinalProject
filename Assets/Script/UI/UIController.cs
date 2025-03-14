@@ -29,6 +29,12 @@ public class UIController : MonoBehaviour
             return;
         }
         _instance = this;
+
+        deadMenu = GameObject.FindWithTag("DeadUI");
+        PlayerUI = GameObject.Find("Player UI");
+        PauseMenu = GameObject.FindWithTag("PauseMenu");
+        deadMenu.SetActive(false);
+        PauseMenu.SetActive(false);
     }
 
     public GameObject GetDeadMenu() => deadMenu;

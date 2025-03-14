@@ -4,14 +4,8 @@ using UnityEngine.UI;
 public class PlayerUI : MonoBehaviour
 {
     public Slider Slider;
-    public PlayerController controller;
     
-
-    private void Awake()
-    {
-        controller = GetComponent<PlayerController>();
-        
-    }
+    
     void Update()
     {
         if (Input.GetKeyDown(KeyCode.Escape) && Time.timeScale.Equals(1f))

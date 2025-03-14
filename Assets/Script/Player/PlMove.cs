@@ -41,7 +41,7 @@ public class PlMove : MonoBehaviour
     [HideInInspector]public Vector2 _moveInput;
     [Header("Checks")]
     [SerializeField] private Transform _groundCheckPoint;
-    [SerializeField] private Vector2 _groundCheckSize = new Vector2(0.1f, 0.01f);
+    [SerializeField] private Vector2 _groundCheckSize = new Vector2(0.1f, 0.03f);
     [Header("Layers & Tags")]
     [SerializeField] private LayerMask _groundLayer;
     [SerializeField] private Vector2 _wallCheckSize = new Vector2(0.02f, 0.25f);
