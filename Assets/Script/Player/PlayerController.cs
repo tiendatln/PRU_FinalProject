@@ -10,11 +10,12 @@ public class PlayerController : MonoBehaviour
     public DamageReceived DamageReceived;
     public PlayerAnimation PlayerAnimation;
     [SerializeField] private SpawnMagicSkill SpawnMagicSkill;
-    public PlayerMainData PlayerMainData;
     public PlayerLever PlayerLever;
     public SpawnMagicSkill PlayerSpawnMagicSkill;
     public float DashCoolDown;
-    
+
+    public PlayerMainData PlayerMainData; // Chứa data của Player xuyên suốt các màn chơi và khi load hoặc tắt game (SaveGame)
+
     void Awake()
     {
         PlayerAttack = GetComponent<PlayerAttack>();
