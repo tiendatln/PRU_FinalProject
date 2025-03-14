@@ -6,10 +6,11 @@ public class BossAnimation : MonoBehaviour
     
 
     [Header("Name Animation")]
-    public string AttackName;
+    private string _AttackName;
     public string _Walk;
     public string _Dead;
-    public string _TakeHit;
+
+
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
@@ -20,33 +21,28 @@ public class BossAnimation : MonoBehaviour
     {
         animator.SetFloat(_Walk, 2f);
     }
+
     public void Dead()
     {
         animator.SetBool(_Dead, true);
     }
-    public void TakeHit()
-    {
-        animator.SetBool(_TakeHit, true);
-    }
+    
     public void Attack(string name)
     {
         animator.SetBool(name, true);
-        AttackName = name;
+        _AttackName = name;
     }
-
-    public void StopTakeHit()
-    {
-        animator.SetBool(_TakeHit, false);
-    }
+    
     public void StopAttack()
     {
-        animator.SetBool(AttackName, false);
+        animator.SetBool(_AttackName, false);
     }
    
     public void Dash()
     {
         animator.SetBool("Dash",true);
     }
+
     public void StopDash()
     {
         animator.SetBool("Dash", false);

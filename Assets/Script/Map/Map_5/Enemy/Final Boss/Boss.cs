@@ -39,8 +39,6 @@ public class Boss : MonoBehaviour
     public BossAnimation BossAnimation;
     public GameObject Gate;
 
-    public bool isBoss;
-
     #region Private Value
 
     private bool isMove = true;
@@ -98,6 +96,8 @@ public class Boss : MonoBehaviour
                 nextAttackTime = Time.time + attackCooldown; // Đặt lại thời gian chờ
                 ChooseNextAttack(); // Chọn đòn tấn công tiếp theo
             }
+
+            // Quay mặt
             CheckDirectionToFace(player.position.x > transform.position.x);
 
             // Kiểm tra hồi máu
@@ -148,17 +148,6 @@ public class Boss : MonoBehaviour
             BossAnimation.Attack(AttackName[nextAttack]);
         }
 
-    }
-
-    void RangeAttack()
-    {
-
-        GameObject projectile = GameObject.CreatePrimitive(PrimitiveType.Sphere);
-        projectile.transform.position = AttackPoint + new Vector3(Mathf.Sign(player.position.x - AttackPoint.x), 0, 0); // Bắn từ trung tâm
-        Rigidbody rb = projectile.AddComponent<Rigidbody>();
-        rb.linearVelocity = new Vector3(Mathf.Sign(player.position.x - AttackPoint.x) * 10f, 0, 0); // Di chuyển trên trục X
-        Destroy(projectile, 5f);
-        BossAnimation.Attack(isAttackName);
     }
 
     void CheckHealing()
