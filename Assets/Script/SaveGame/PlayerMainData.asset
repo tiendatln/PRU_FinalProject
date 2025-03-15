@@ -15,15 +15,15 @@ MonoBehaviour:
   health: 100
   attack: 2
   attackSkill: 5
-  leverEX: 40
-  leverText: 1
+  leverEX: 1260
+  leverText: 16
   PlayerPosition:
-  - 0
-  - 0
+  - -0.04000002
+  - -1.1924858
   - 0
   StartPosition: {fileID: 0}
-  MonsterMainData: {fileID: 11400000, guid: b6f20831fcfec0447a0fa9d9551873e5, type: 2}
   StartGate:
   - {x: -25.54, y: -0.05, z: 20}
   - {x: -0.04, y: 0.41, z: 20}
-  Mapindex: 0
+  - {x: -291.75, y: 1.96, z: 20}
+  Mapindex: 3
