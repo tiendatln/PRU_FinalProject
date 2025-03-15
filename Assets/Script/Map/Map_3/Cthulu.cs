@@ -35,6 +35,14 @@ public class Cthulu : MonoBehaviour
     public BossAnimation BossAnimation;
     public GameObject Gate;
 
+    // Poision Attack
+    public GameObject poisionPrefab; // Prefab of the attack
+    public Transform firePoint; // The point where the attack spawns
+    public float poisionAttackSpeed = 5f; // Speed of the attack
+    public float shootCooldown = 2f; // Cooldown time between shots
+    private float nextShootTime = 0f; // Track when the next shot can be fired
+
+
     #region Private Value
 
     private bool isAlive = true;
@@ -55,6 +63,8 @@ public class Cthulu : MonoBehaviour
         spriteRenderer = GetComponent<SpriteRenderer>();
         AttackPoint = AttackPosition.transform.position;
 
+        // fire point as a position of Cthulu
+        firePoint = transform;
     }
 
     void Update()
@@ -98,8 +108,30 @@ public class Cthulu : MonoBehaviour
 
             // Kiểm tra hồi máu
             CheckHealing();
+
+            // Poision Skill
+            ShootPoisionSkill();
         }
         slider.value = currentHealth;
+    }
+
+    void ShootPoisionSkill()
+    {
+        if (Time.time >= nextShootTime)
+        {
+            // Instantiate the projectile at firePoint's position
+            GameObject poisionSkill = Instantiate(poisionPrefab, firePoint.position, Quaternion.identity);
+
+            // Get the Rigidbody2D of the projectile and apply force
+            Rigidbody2D rb = poisionSkill.GetComponent<Rigidbody2D>();
+            if (rb != null)
+            {
+                float direction = IsFacingRight ? 1f : -1f; // Check boss direction
+                rb.linearVelocity = new Vector2(direction * poisionAttackSpeed, 0);
+            }
+
+            nextShootTime = Time.time + shootCooldown; // Set next shoot time
+        }
     }
 
     void MoveTowardsPlayer()
