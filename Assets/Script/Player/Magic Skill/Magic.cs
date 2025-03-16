@@ -44,5 +44,9 @@ public class Magic : MonoBehaviour
         {
             medusa.TakeDamage(playerController.PlayerMainData.attack);
         }
+        if (collision.gameObject.TryGetComponent<Cthulu>(out Cthulu Cthulu))
+        {
+            Cthulu.TakeDamage(playerController.PlayerMainData.attack);
+        }
     }
 }

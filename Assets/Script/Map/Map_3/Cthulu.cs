@@ -8,7 +8,7 @@ public class Cthulu : MonoBehaviour
     public float maxHealth = 200f; // Máu tối đa
 
     public LayerMask PlayerMask;
-    public Slider slider;
+    private Slider slider;
 
     // Quản lý hồi máu
     private bool hasHealed50 = false; // Đánh dấu đã hồi máu ở 50% chưa
@@ -41,7 +41,7 @@ public class Cthulu : MonoBehaviour
     public float poisionAttackSpeed = 5f; // Speed of the attack
     public float shootCooldown = 2f; // Cooldown time between shots
     private float nextShootTime = 0f; // Track when the next shot can be fired
-
+    private SpriteRenderer SpriteRenderer;
 
     #region Private Value
 
@@ -62,9 +62,10 @@ public class Cthulu : MonoBehaviour
 
         spriteRenderer = GetComponent<SpriteRenderer>();
         AttackPoint = AttackPosition.transform.position;
-
+        SpriteRenderer = GetComponent<SpriteRenderer>();
         // fire point as a position of Cthulu
         firePoint = transform;
+        slider = GameObject.FindWithTag("BossHeathBar").GetComponent<Slider>();
     }
 
     void Update()
@@ -216,14 +217,20 @@ public class Cthulu : MonoBehaviour
     public void TakeDamage(float damage)
     {
         currentHealth -= damage;
-
-
+        SpriteRenderer.color = Color.red;
+        Invoke("StopTakeDamage", 0.2f);
         if (currentHealth <= 0)
         {
             isAlive = false;
             BossAnimation.StopAttack();
             BossAnimation.Dead();
         }
+    }
+
+    void StopTakeDamage()
+    {
+        isAlive = true;
+        spriteRenderer.color = Color.white;
     }
 
     void Die()

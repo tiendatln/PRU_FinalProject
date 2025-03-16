@@ -13,6 +13,7 @@ TagManager:
   - SpawnRange
   - DeadUI
   - PauseMenu
+  - BossHeathBar
   layers:
   - Default
   - TransparentFX
