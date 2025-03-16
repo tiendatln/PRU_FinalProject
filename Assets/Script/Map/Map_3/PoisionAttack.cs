@@ -3,7 +3,7 @@ using UnityEngine;
 public class PoisionAttack : MonoBehaviour
 {
     [SerializeField] private float damage = 0.0001f;
-    [SerializeField] private float lifetime = 5f; // Destroy projectile after this time
+    [SerializeField] private float lifetime = 10f; // Destroy projectile after this time
 
     void Start()
     {
