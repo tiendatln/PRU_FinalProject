@@ -15,7 +15,7 @@ GameObject:
   - component: {fileID: 9218385714565921245}
   - component: {fileID: 8517578779972838984}
   m_Layer: 6
-  m_Name: Mummy
+  m_Name: Mummy 1
   m_TagString: enemy
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -128,7 +128,7 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   speed: 2
   patrolDistance: 5
-  detectionRange: 5
+  detectionRange: 20
   attackRange: 1
   attackCooldown: 1
   MaxHP: 50
