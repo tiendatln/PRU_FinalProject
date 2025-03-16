@@ -3,8 +3,6 @@ using UnityEngine.SceneManagement;
 
 public class DeadMenu : MonoBehaviour
 {
-    public string scene;
-    public PlayerMainData playerMainData;
     private void Start()
     {
        
@@ -18,10 +16,10 @@ public class DeadMenu : MonoBehaviour
     {
         if (Application.isPlaying)
         {
-            SceneManager.LoadScene(scene);
+            SceneManager.LoadScene(GameManager.Instance.GetPlayerData().Mapindex);
             Time.timeScale = 1f;
-            playerMainData.health = 100;
-            playerMainData.CheckPointNew(SceneManager.GetActiveScene().buildIndex);
+            GameManager.Instance.GetPlayerData().health = 100;
+            GameManager.Instance.GetPlayerData().CheckPointNew(SceneManager.GetActiveScene().buildIndex);
         }
 
     }

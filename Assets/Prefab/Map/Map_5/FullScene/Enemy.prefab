@@ -105,7 +105,7 @@ Transform:
   - {fileID: 1661472300579854589}
   - {fileID: 1853510239246446340}
   - {fileID: 8986662034631615580}
-  - {fileID: 8824604762838311027}
+  - {fileID: 9209639159982558782}
   m_Father: {fileID: 1846843217252240051}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
 --- !u!212 &1050364211712682507
@@ -204,8 +204,8 @@ MonoBehaviour:
   checkWallPoint: {fileID: 0}
   PlayerMask:
     serializedVersion: 2
-    m_Bits: 0
-  slider: {fileID: 2277347668382499092}
+    m_Bits: 512
+  slider: {fileID: 1883277467376676697}
   healAmount50: 50
   healAmount20: 30
   attackCooldown: 2
@@ -221,7 +221,6 @@ MonoBehaviour:
   AttackPosition: {fileID: 7824421096580207973}
   BossAnimation: {fileID: 6788619504890168674}
   Gate: {fileID: 4871071974920479089, guid: 1f8111fa44a55174ab5f97ad0c921495, type: 3}
-  isBoss: 0
 --- !u!50 &7357761793650615535
 Rigidbody2D:
   serializedVersion: 5
@@ -262,10 +261,8 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   animator: {fileID: 1060152993690208093}
-  AttackName: 
   _Walk: Run
   _Dead: Dead
-  _TakeHit: Take Hit
 --- !u!70 &6842267190314979820
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -740,6 +737,14 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: 3709966462738433683, guid: ea9251b3b1b0f5e47b6fe77ecdbfa510, type: 3}
+      propertyPath: m_AnchorMax.x
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 3709966462738433683, guid: ea9251b3b1b0f5e47b6fe77ecdbfa510, type: 3}
+      propertyPath: m_AnchorMax.y
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 3946296305711065310, guid: ea9251b3b1b0f5e47b6fe77ecdbfa510, type: 3}
       propertyPath: m_AnchorMax.x
       value: 0
@@ -753,9 +758,9 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: ea9251b3b1b0f5e47b6fe77ecdbfa510, type: 3}
---- !u!114 &2277347668382499092 stripped
+--- !u!114 &1883277467376676697 stripped
 MonoBehaviour:
-  m_CorrespondingSourceObject: {fileID: 5576872490905611750, guid: ea9251b3b1b0f5e47b6fe77ecdbfa510, type: 3}
+  m_CorrespondingSourceObject: {fileID: 5250487672323474347, guid: ea9251b3b1b0f5e47b6fe77ecdbfa510, type: 3}
   m_PrefabInstance: {fileID: 5980714715999071474}
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 0}
@@ -764,9 +769,9 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 67db9e8f0e2ae9c40bc1e2b64352a6b4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
---- !u!224 &8824604762838311027 stripped
+--- !u!224 &9209639159982558782 stripped
 RectTransform:
-  m_CorrespondingSourceObject: {fileID: 2920741718336851073, guid: ea9251b3b1b0f5e47b6fe77ecdbfa510, type: 3}
+  m_CorrespondingSourceObject: {fileID: 3256369014625723084, guid: ea9251b3b1b0f5e47b6fe77ecdbfa510, type: 3}
   m_PrefabInstance: {fileID: 5980714715999071474}
   m_PrefabAsset: {fileID: 0}
 --- !u!1001 &9122023636633931498

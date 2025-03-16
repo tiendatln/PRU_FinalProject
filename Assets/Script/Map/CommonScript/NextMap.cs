@@ -5,6 +5,7 @@ public class NextMap : MonoBehaviour
 {
     public void nextMap()
     {
+        GameManager.Instance.GetPlayerData().Mapindex = SceneManager.GetActiveScene().buildIndex + 1;
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1); // lấy sceen hiện tại + 1 để chuyển sceen
     }
 

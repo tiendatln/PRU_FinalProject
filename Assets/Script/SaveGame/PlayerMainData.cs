@@ -71,6 +71,9 @@ public class PlayerMainData : ScriptableObject
         if(leverEX >= 100)  
         {
             leverText += 1;
+            leverEX = 0;
+            attack += (leverText / 10);
+            attackSkill += (leverText / 10);
         }
     }
 

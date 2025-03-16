@@ -146,6 +146,10 @@ public class PlayerAttack : MonoBehaviour
             {
                 boss.TakeDamage(playerController.PlayerMainData.attack);
             }
+            if (enemy.gameObject.TryGetComponent<Cthulu>(out Cthulu Cthulu))
+            {
+                Cthulu.TakeDamage(playerController.PlayerMainData.attack);
+            }
 
             Debug.Log("Hit " + enemy.name);
         }
