@@ -12,14 +12,14 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 781ec5597141dee4ea485d0e17314e4a, type: 3}
   m_Name: PlayerMainData
   m_EditorClassIdentifier: 
-  health: 100
-  attack: 2
-  attackSkill: 5
-  leverEX: 1260
-  leverText: 16
+  health: 90
+  attack: 4
+  attackSkill: 7
+  leverEX: 20
+  leverText: 20
   PlayerPosition:
-  - -0.04000002
-  - -1.1924858
+  - -217.55536
+  - 0.037513733
   - 0
   StartPosition: {fileID: 0}
   StartGate:
@@ -29,4 +29,4 @@ MonoBehaviour:
   - {x: -289.96, y: 0.84, z: 20}
   - {x: -0.04, y: 0.41, z: 20}
   - {x: -9.33, y: -16.88, z: 20}
-  Mapindex: 3
+  Mapindex: 4
