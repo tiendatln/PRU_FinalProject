@@ -74,7 +74,7 @@ public class Boss : MonoBehaviour
             }
             else
             {
-                squareAttackSize = new Vector2(2f, 2f); // Giá trị mặc định nếu không tìm thấy sprite
+                squareAttackSize = new Vector2(4f, 4f); // Giá trị mặc định nếu không tìm thấy sprite
 
             }
 
