@@ -1,4 +1,5 @@
-﻿using UnityEngine;
+﻿using System.Collections;
+using UnityEngine;
 using UnityEngine.UI;
 
 public class Cthulu : MonoBehaviour
@@ -19,6 +20,7 @@ public class Cthulu : MonoBehaviour
     // Quản lý tấn công
     public float attackCooldown = 0f; // Thời gian chờ giữa các đòn tấn công
     private float nextAttackTime; // Thời điểm có thể tấn công tiếp theo
+    private float nextShootTime;
 
 
     // Định nghĩa các đòn tấn công với tầm đánh riêng
@@ -31,16 +33,13 @@ public class Cthulu : MonoBehaviour
 
     // Trung tâm của boss
     private Vector3 AttackPoint; // Vị trí trung tâm của boss
-    public GameObject AttackPosition;
-    public BossAnimation BossAnimation;
+    public CthuluAnimationScript cthuluAnimation;
     public GameObject Gate;
 
     // Poision Attack
     public GameObject poisionPrefab; // Prefab of the attack
     public Transform firePoint; // The point where the attack spawns
-    public float poisionAttackSpeed = 5f; // Speed of the attack
-    public float shootCooldown = 2f; // Cooldown time between shots
-    private float nextShootTime = 0f; // Track when the next shot can be fired
+    public float poisionAttackSpeed = 20f; // Speed of the attack
     private SpriteRenderer SpriteRenderer;
 
     #region Private Value
@@ -61,7 +60,7 @@ public class Cthulu : MonoBehaviour
         ChooseNextAttack(); // Chọn đòn tấn công đầu tiên
 
         spriteRenderer = GetComponent<SpriteRenderer>();
-        AttackPoint = AttackPosition.transform.position;
+        AttackPoint = transform.position;
         SpriteRenderer = GetComponent<SpriteRenderer>();
         // fire point as a position of Cthulu
         firePoint = transform;
@@ -72,7 +71,7 @@ public class Cthulu : MonoBehaviour
     {
         if (isAlive)
         {
-            AttackPoint = AttackPosition.transform.position;
+            AttackPoint = transform.position;
             if (spriteRenderer != null && spriteRenderer.sprite != null)
             {
                 squareAttackSize = spriteRenderer.sprite.bounds.size; // Lấy kích thước thực của sprite
@@ -91,17 +90,28 @@ public class Cthulu : MonoBehaviour
             // Xác định tầm đánh hiện tại dựa trên đòn tấn công tiếp theo
             float currentAttackRange = squareAttackSize.x;
 
-            // Di chuyển tới người chơi nếu ngoài tầm tấn công
-            if (distanceToPlayer > currentAttackRange)
+            // Nếu nằm trong tầm cận chiến
+            if (distanceToPlayer < currentAttackRange)
             {
-                MoveTowardsPlayer();
+                if (Time.time >= nextAttackTime)
+                {
+                    AttackAnimation();
+                    nextAttackTime = Time.time + attackCooldown;
+                    ChooseNextAttack(); // Chọn đòn đánh tiếp theo
+                }
             }
-            // Tấn công nếu trong tầm và hết thời gian chờ
-            else if (Time.time >= nextAttackTime)
+            // Nếu nằm ngoài tầm đánh cận chiến
+            if(distanceToPlayer > currentAttackRange)
             {
-                AttackAnimation();
-                nextAttackTime = Time.time + attackCooldown; // Đặt lại thời gian chờ
-                ChooseNextAttack(); // Chọn đòn tấn công tiếp theo
+                if(Time.time >= nextShootTime)
+                {
+                    StartCoroutine(ShootPoisionSkillAnimation());
+                    nextShootTime = Time.time + 10f;
+                    Debug.Log("check");
+                } else
+                {
+                    MoveTowardsPlayer();
+                }
             }
 
             // Quay mặt
@@ -109,29 +119,34 @@ public class Cthulu : MonoBehaviour
 
             // Kiểm tra hồi máu
             CheckHealing();
-
-            // Poision Skill
-            ShootPoisionSkill();
         }
         slider.value = currentHealth;
     }
 
-    void ShootPoisionSkill()
+    /* Set in animation event of shoot animation to create poision skill*/
+    public void CreatePoisionSkill()
     {
-        if (Time.time >= nextShootTime)
+        // Instantiate the projectile at firePoint's position
+        GameObject poisionSkill = Instantiate(poisionPrefab, firePoint.position, Quaternion.identity);
+
+        // Get the Rigidbody2D of the projectile and apply force
+        Rigidbody2D rb = poisionSkill.GetComponent<Rigidbody2D>();
+        if (rb != null)
         {
-            // Instantiate the projectile at firePoint's position
-            GameObject poisionSkill = Instantiate(poisionPrefab, firePoint.position, Quaternion.identity);
+            float direction = IsFacingRight ? 1f : -1f; // Check boss direction
+            rb.linearVelocity = new Vector2(direction * poisionAttackSpeed * 2f, 0);
+        }
+    }
 
-            // Get the Rigidbody2D of the projectile and apply force
-            Rigidbody2D rb = poisionSkill.GetComponent<Rigidbody2D>();
-            if (rb != null)
-            {
-                float direction = IsFacingRight ? 1f : -1f; // Check boss direction
-                rb.linearVelocity = new Vector2(direction * poisionAttackSpeed, 0);
-            }
+    // Run animation Shoot with random number
+    IEnumerator ShootPoisionSkillAnimation()
+    {
+        int numberOfSkill = Random.Range(1, 6);
 
-            nextShootTime = Time.time + shootCooldown; // Set next shoot time
+        for (int i = 0; i < numberOfSkill; i++) 
+        {
+            cthuluAnimation.Shoot(); // run animation shoot
+            yield return new WaitForSeconds(1.5f);
         }
     }
 
@@ -140,7 +155,7 @@ public class Cthulu : MonoBehaviour
         float directionx = Mathf.Sign(player.position.x - transform.position.x);
         Vector3 moveVector = new Vector3(directionx * moveSpeed * Time.deltaTime, 0, 0);
         transform.position += moveVector;
-        BossAnimation.Walk();
+        cthuluAnimation.Walk();
     }
 
     #region turn
@@ -161,20 +176,15 @@ public class Cthulu : MonoBehaviour
 
     void ChooseNextAttack()
     {
-        // randome đòn đánh tiếp theo
-
-        nextAttack = Random.Range(0, AttackName.Length);
-
+        nextAttack = Random.Range(0, AttackName.Length); // Chọn tấn công cận chiến
     }
-
-
 
     void AttackAnimation()
     {
 
         if (Mathf.Abs(AttackPoint.x - player.position.x) <= squareAttackSize.x)
         {
-            BossAnimation.Attack(AttackName[nextAttack]);
+            cthuluAnimation.Attack(AttackName[nextAttack]);
         }
 
     }
@@ -185,12 +195,12 @@ public class Cthulu : MonoBehaviour
 
         if (healthPercentage <= (maxHealth / 2) && !hasHealed50)
         {
-            BossAnimation.DrinkPotion();
+            cthuluAnimation.DrinkPotion();
         }
         else if (healthPercentage <= (maxHealth / 3) && !hasHealed20)
 
         {
-            BossAnimation.DrinkPotion();
+            cthuluAnimation.DrinkPotion();
         }
     }
 
@@ -222,8 +232,8 @@ public class Cthulu : MonoBehaviour
         if (currentHealth <= 0)
         {
             isAlive = false;
-            BossAnimation.StopAttack();
-            BossAnimation.Dead();
+            cthuluAnimation.StopAttack();
+            cthuluAnimation.Dead();
         }
     }
 
