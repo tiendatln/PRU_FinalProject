@@ -25,15 +25,15 @@ public class Shadow : MonoBehaviour
     public LayerMask enemyLayer;
     public float AttackDamage;
 
-    [Header("Time Animation")]
-
-    private float TimeStopAnimation;
 
     [Header("Name Animation")]
     public string WalkAnimationName;
     public string DeathAnimationName;
     public string[] AttackNames;
     private int nextAttack;
+
+    // Shield
+    private bool isShieldOn = false;
 
     public GameObject HpSlider;
     public Slider Slider;
@@ -70,31 +70,32 @@ public class Shadow : MonoBehaviour
         if (player == null) return;
 
         float distanceToPlayer = Vector2.Distance(attackPoint.position, player.position);
-        AnimatorStateInfo animationState = animator.GetCurrentAnimatorStateInfo(0);
-        TimeStopAnimation = animationState.length;
+        
         if (HP <= 0)
         {
             animator.SetBool(DeathAnimationName, true);
-            Invoke("Dead", TimeStopAnimation);
         }
         else
         {
-            if (distanceToPlayer <= attackRange)
+            if(isShieldOn == false)
             {
-                if (canAttack && attackCooldown <= 0)
+                if (distanceToPlayer <= attackRange)
                 {
-                    canAttack = false;
-                    Attack();
-                    attackCooldown = 2f; // reset attack cooldown
+                    if (canAttack && attackCooldown <= 0)
+                    {
+                        canAttack = false;
+                        Attack();
+                        attackCooldown = 2f; // reset attack cooldown
+                    }
                 }
-            }
-            else if (distanceToPlayer <= detectionRange)
-            {
-                ChasePlayer();
-            }
-            else
-            {
-                Patrol();
+                else if (distanceToPlayer <= detectionRange)
+                {
+                    ChasePlayer();
+                }
+                else
+                {
+                    Patrol();
+                }
             }
         }
     }
@@ -167,13 +168,35 @@ public class Shadow : MonoBehaviour
 
     public void TakeDamage(float damage)
     {
-        HP -= damage;
-        canAttack = false;
-        Slider.value = HP;
-        if (HP > 0)
+        if(isShieldOn == false)
         {
-            spriteRenderer.color = Color.red;
-            Invoke("StopTakeDamage", 0.2f);
+            int random = Random.Range(0, 4);
+
+            if (random == 0)
+            {
+                isShieldOn = true;
+            }
+            else
+            {
+                isShieldOn = false;
+            }
+        }
+
+        // khi không mở shield thì mới trừ máu
+        if(isShieldOn)
+        {
+            animator.SetBool("isShield", true);
+            Invoke("StopShieldAnimation", 10f);
+        } else
+        {
+            HP -= damage;
+            canAttack = false;
+            Slider.value = HP;
+            if (HP > 0)
+            {
+                spriteRenderer.color = Color.red;
+                Invoke("StopTakeDamage", 0.2f);
+            }
         }
     }
 
@@ -181,6 +204,13 @@ public class Shadow : MonoBehaviour
     {
         canAttack = true;
         spriteRenderer.color = Color.white;
+    }
+
+    void StopShieldAnimation()
+    {
+        animator.SetBool("isShield", false);
+
+        isShieldOn = false;
     }
 
     void Dead()
