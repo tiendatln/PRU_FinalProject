@@ -82,6 +82,7 @@ GameObject:
   - component: {fileID: 7357761793650615535}
   - component: {fileID: 6788619504890168674}
   - component: {fileID: 6842267190314979820}
+  - component: {fileID: 9083745525225725969}
   m_Layer: 6
   m_Name: Dragon knight
   m_TagString: enemy
@@ -217,7 +218,7 @@ MonoBehaviour:
   - Attack3
   - AttackDown
   squareAttackSize: {x: 2, y: 2}
-  _damage: 20
+  _damage: 0.0000001
   AttackPosition: {fileID: 7824421096580207973}
   BossAnimation: {fileID: 6788619504890168674}
   Gate: {fileID: 4871071974920479089, guid: 1f8111fa44a55174ab5f97ad0c921495, type: 3}
@@ -300,6 +301,18 @@ CapsuleCollider2D:
   m_Offset: {x: 0.015907288, y: 0.60534286}
   m_Size: {x: 0.5474396, y: 1.3812981}
   m_Direction: 0
+--- !u!114 &9083745525225725969
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5307776890786147125}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: e97ef65dc8f5f5a4fb4867c01754a084, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!1 &7471967788181400125
 GameObject:
   m_ObjectHideFlags: 0
@@ -548,6 +561,10 @@ PrefabInstance:
     - target: {fileID: 5041828931839331786, guid: c9b58519e187eee4696f8e4ca1e3e1ce, type: 3}
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 7734511964284734839, guid: c9b58519e187eee4696f8e4ca1e3e1ce, type: 3}
+      propertyPath: m_GravityScale
+      value: 3
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
