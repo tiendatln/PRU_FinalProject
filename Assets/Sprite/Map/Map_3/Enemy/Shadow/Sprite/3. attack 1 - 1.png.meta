@@ -1,40 +1,37 @@
 fileFormatVersion: 2
-guid: 3d9f2bca57f67b147a1e8ac8228db3ca
+guid: e4796255cb11331479dd2989fdc462ff
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -8516153976547529731
-    second: Air Explosion_0
+      213: 7413562724740240151
+    second: 3. attack 1 - 1_0
   - first:
-      213: -3652247989094841198
-    second: Air Explosion_1
+      213: -8283298704238284667
+    second: 3. attack 1 - 1_1
   - first:
-      213: 395165433124736376
-    second: Air Explosion_2
+      213: -549135731963958581
+    second: 3. attack 1 - 1_2
   - first:
-      213: -6114058597518003140
-    second: Air Explosion_3
+      213: -8119896754860741109
+    second: 3. attack 1 - 1_3
   - first:
-      213: -5903198615492529345
-    second: Air Explosion_4
+      213: -7086821705444571697
+    second: 3. attack 1 - 1_4
   - first:
-      213: 5392151338402813852
-    second: Air Explosion_5
+      213: -3099257745554784509
+    second: 3. attack 1 - 1_5
   - first:
-      213: 9213250134051382510
-    second: Air Explosion_6
+      213: -1603301083631515596
+    second: 3. attack 1 - 1_6
   - first:
-      213: 1719959420281114382
-    second: Air Explosion_7
+      213: 2449647001836036978
+    second: 3. attack 1 - 1_7
   - first:
-      213: 3052992938131275685
-    second: Air Explosion_8
+      213: -4980543172393542805
+    second: 3. attack 1 - 1_8
   - first:
-      213: -3477607665764554817
-    second: Air Explosion_9
-  - first:
-      213: -8520576337521128494
-    second: Air Explosion_10
+      213: -1362583490988499007
+    second: 3. attack 1 - 1_9
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -67,7 +64,7 @@ TextureImporter:
   maxTextureSize: 2048
   textureSettings:
     serializedVersion: 2
-    filterMode: 1
+    filterMode: 0
     aniso: 1
     mipBias: 0
     wrapU: 1
@@ -81,7 +78,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 10
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -130,243 +127,177 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Air Explosion_0
+      name: 3. attack 1 - 1_0
       rect:
         serializedVersion: 2
-        x: 7
-        y: 68
-        width: 21
-        height: 22
+        x: 8
+        y: 0
+        width: 16
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: dfbaa5f241b80d980800000000000000
-      internalID: -8516153976547529731
+      spriteID: 7131838f40442e660800000000000000
+      internalID: 7413562724740240151
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Air Explosion_1
+      name: 3. attack 1 - 1_1
       rect:
         serializedVersion: 2
-        x: 37
-        y: 68
-        width: 24
-        height: 24
+        x: 142
+        y: 0
+        width: 20
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 2940e5aedcb905dc0800000000000000
-      internalID: -3652247989094841198
+      spriteID: 5807c6d17bfcb0d80800000000000000
+      internalID: -8283298704238284667
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Air Explosion_2
+      name: 3. attack 1 - 1_2
       rect:
         serializedVersion: 2
-        x: 67
-        y: 67
+        x: 277
+        y: 0
+        width: 22
+        height: 40
+      alignment: 0
+      pivot: {x: 0.5, y: 0.5}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bca60d216f31168f0800000000000000
+      internalID: -549135731963958581
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 3. attack 1 - 1_3
+      rect:
+        serializedVersion: 2
+        x: 410
+        y: 0
         width: 26
-        height: 26
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 87dc9e42ed8eb7500800000000000000
-      internalID: 395165433124736376
+      spriteID: b0eada92ce4505f80800000000000000
+      internalID: -8119896754860741109
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Air Explosion_3
+      name: 3. attack 1 - 1_4
       rect:
         serializedVersion: 2
-        x: 99
-        y: 66
-        width: 26
-        height: 28
+        x: 553
+        y: 0
+        width: 125
+        height: 38
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c3434076910862ba0800000000000000
-      internalID: -6114058597518003140
+      spriteID: fc5c27cd43d86ad90800000000000000
+      internalID: -7086821705444571697
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Air Explosion_4
+      name: 3. attack 1 - 1_5
       rect:
         serializedVersion: 2
-        x: 3
-        y: 35
-        width: 28
-        height: 26
+        x: 745
+        y: 0
+        width: 74
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: f337dfcb220a31ea0800000000000000
-      internalID: -5903198615492529345
+      spriteID: 30f34d040893df4d0800000000000000
+      internalID: -3099257745554784509
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Air Explosion_5
+      name: 3. attack 1 - 1_7
       rect:
         serializedVersion: 2
-        x: 33
-        y: 37
-        width: 32
-        height: 21
+        x: 886
+        y: 0
+        width: 70
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: c9795acc215c4da40800000000000000
-      internalID: 5392151338402813852
+      spriteID: 273a98928f4eef120800000000000000
+      internalID: 2449647001836036978
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Air Explosion_6
+      name: 3. attack 1 - 1_9
       rect:
         serializedVersion: 2
-        x: 64
-        y: 40
-        width: 15
-        height: 18
+        x: 1029
+        y: 0
+        width: 22
+        height: 40
       alignment: 0
-      pivot: {x: 0, y: 0}
+      pivot: {x: 0.5, y: 0.5}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: ee4e3fade2a0cdf70800000000000000
-      internalID: 9213250134051382510
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Air Explosion_7
-      rect:
-        serializedVersion: 2
-        x: 71
-        y: 37
-        width: 39
-        height: 21
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: e0f41f1eaf58ed710800000000000000
-      internalID: 1719959420281114382
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Air Explosion_8
-      rect:
-        serializedVersion: 2
-        x: 100
-        y: 37
-        width: 21
-        height: 15
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 5af371bd6e86e5a20800000000000000
-      internalID: 3052992938131275685
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Air Explosion_9
-      rect:
-        serializedVersion: 2
-        x: 121
-        y: 41
-        width: 7
-        height: 6
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: fb7adedc04e0dbfc0800000000000000
-      internalID: -3477607665764554817
-      vertices: []
-      indices: 
-      edges: []
-      weights: []
-    - serializedVersion: 2
-      name: Air Explosion_10
-      rect:
-        serializedVersion: 2
-        x: 0
-        y: 4
-        width: 33
-        height: 23
-      alignment: 0
-      pivot: {x: 0, y: 0}
-      border: {x: 0, y: 0, z: 0, w: 0}
-      customData: 
-      outline: []
-      physicsShape: []
-      tessellationDetail: -1
-      bones: []
-      spriteID: 2db447807f4d0c980800000000000000
-      internalID: -8520576337521128494
+      spriteID: 1cf91d2c881271de0800000000000000
+      internalID: -1362583490988499007
       vertices: []
       indices: 
       edges: []
@@ -375,7 +306,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 
+    spriteID: f930635f3816ab240832003bfc791c2e
     internalID: 0
     vertices: []
     indices: 
@@ -385,17 +316,16 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Air Explosion_0: -8516153976547529731
-      Air Explosion_1: -3652247989094841198
-      Air Explosion_10: -8520576337521128494
-      Air Explosion_2: 395165433124736376
-      Air Explosion_3: -6114058597518003140
-      Air Explosion_4: -5903198615492529345
-      Air Explosion_5: 5392151338402813852
-      Air Explosion_6: 9213250134051382510
-      Air Explosion_7: 1719959420281114382
-      Air Explosion_8: 3052992938131275685
-      Air Explosion_9: -3477607665764554817
+      3. attack 1 - 1_0: 7413562724740240151
+      3. attack 1 - 1_1: -8283298704238284667
+      3. attack 1 - 1_2: -549135731963958581
+      3. attack 1 - 1_3: -8119896754860741109
+      3. attack 1 - 1_4: -7086821705444571697
+      3. attack 1 - 1_5: -3099257745554784509
+      3. attack 1 - 1_6: -1603301083631515596
+      3. attack 1 - 1_7: 2449647001836036978
+      3. attack 1 - 1_8: -4980543172393542805
+      3. attack 1 - 1_9: -1362583490988499007
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
