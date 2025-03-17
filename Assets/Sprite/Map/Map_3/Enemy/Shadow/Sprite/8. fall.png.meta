@@ -1,16 +1,16 @@
 fileFormatVersion: 2
-guid: fcd3899430dbe434292c87e6cc18bcec
+guid: b1b774bf1caa75345848a8b3e2ddd94d
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: 2649847697073447219
-    second: Dead_0
+      213: -2793630417734593648
+    second: 8. fall_0
   - first:
-      213: -8293461521501190705
-    second: Dead_1
+      213: 4476173388773833102
+    second: 8. fall_1
   - first:
-      213: -1631342717326862633
-    second: Dead_2
+      213: 8644567676371153285
+    second: 8. fall_2
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -57,7 +57,7 @@ TextureImporter:
   spriteMeshType: 1
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
-  spritePixelsToUnits: 26
+  spritePixelsToUnits: 32
   spriteBorder: {x: 0, y: 0, z: 0, w: 0}
   spriteGenerateFallbackPhysicsShape: 1
   alphaUsage: 1
@@ -106,67 +106,67 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Dead_0
+      name: 8. fall_0
       rect:
         serializedVersion: 2
-        x: 22
+        x: 0
         y: 0
-        width: 68
-        height: 91
+        width: 25
+        height: 39
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 33123f4e07626c420800000000000000
-      internalID: 2649847697073447219
+      spriteID: 0931435bfe70b39d0800000000000000
+      internalID: -2793630417734593648
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dead_1
+      name: 8. fall_1
       rect:
         serializedVersion: 2
-        x: 150
+        x: 23
         y: 0
-        width: 68
-        height: 91
+        width: 26
+        height: 39
       alignment: 0
-      pivot: {x: 0.5, y: 0.5}
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: fc50d84dfa4b7ec80800000000000000
-      internalID: -8293461521501190705
+      spriteID: e89bbe63bff8e1e30800000000000000
+      internalID: 4476173388773833102
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Dead_2
+      name: 8. fall_2
       rect:
         serializedVersion: 2
-        x: 278
+        x: 47
         y: 0
-        width: 85
-        height: 27
-      alignment: 9
-      pivot: {x: 0.5, y: 1.4046583}
+        width: 48
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
       customData: 
       outline: []
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 7d6dfca117e4c59e0800000000000000
-      internalID: -1631342717326862633
+      spriteID: 5813de2308ca7f770800000000000000
+      internalID: 8644567676371153285
       vertices: []
       indices: 
       edges: []
@@ -175,7 +175,7 @@ TextureImporter:
     customData: 
     physicsShape: []
     bones: []
-    spriteID: 9be52aae80103d14db1f6e6918a98085
+    spriteID: 
     internalID: 0
     vertices: []
     indices: 
@@ -185,9 +185,9 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Dead_0: 2649847697073447219
-      Dead_1: -8293461521501190705
-      Dead_2: -1631342717326862633
+      8. fall_0: -2793630417734593648
+      8. fall_1: 4476173388773833102
+      8. fall_2: 8644567676371153285
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
