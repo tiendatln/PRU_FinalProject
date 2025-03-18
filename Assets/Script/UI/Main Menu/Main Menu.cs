@@ -21,7 +21,7 @@ public class MainMenu : MonoBehaviour
 
     public void LoadGame()
     {
-        SceneManager.LoadScene(playerMainData.Mapindex);
+        SceneManager.LoadScene(playerMainData.indexOfCurrentMap);
         
     }
     public void OptionBtn()

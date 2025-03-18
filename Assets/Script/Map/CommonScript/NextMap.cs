@@ -5,7 +5,10 @@ public class NextMap : MonoBehaviour
 {
     public void nextMap()
     {
-        GameManager.Instance.GetPlayerData().Mapindex = SceneManager.GetActiveScene().buildIndex + 1;
+        GameManager.Instance.GetPlayerData().indexOfCurrentMap = SceneManager.GetActiveScene().buildIndex + 1;
+
+        GameManager.Instance.GetPlayerData().setPositionNextMap(); // set vị trí của nhân vật là vị trí cổng ở map tiếp theo
+
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex + 1); // lấy sceen hiện tại + 1 để chuyển sceen
     }
 

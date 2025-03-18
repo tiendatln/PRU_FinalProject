@@ -11,13 +11,20 @@ public class PlayerMainData : ScriptableObject
     public int leverEX;
     public int leverText;
     public float[] PlayerPosition = new float[3]; // Khởi tạo mặc định
-    public GameObject StartPosition;
-    public Vector3[] StartGate;
-    public int Mapindex;
+
+    private GameObject StartPosition;
+
+    public Vector3[] StartGateOfCurrentMap; // Mảng chứa vị trí của các cổng ở từng map
+    public int indexOfCurrentMap; // map hiện tại của player đang chơi
+
+    public void setPositionNextMap()
+    {
+        SetVectorPlayer(StartGateOfCurrentMap[indexOfCurrentMap - 1]); // indexOfCurrentMap - 1 -> bắt đầu từ screen 1 nhưng vị trí của các cổng ở từng map từ "0"
+    }
 
     public void SavePlayer(string filePath = null)
     {
-        Mapindex = SceneManager.GetActiveScene().buildIndex;
+        indexOfCurrentMap = SceneManager.GetActiveScene().buildIndex;
         StartPosition = GameObject.Find("Character");
         SetVectorPlayer(StartPosition.transform.position);
         SaveSystem.SavePlayer(this, filePath);
@@ -33,7 +40,7 @@ public class PlayerMainData : ScriptableObject
             attackSkill = data.attackSkill;
             leverEX = data.leverEX;
             leverText = data.leverText;
-            Mapindex = data.MapIndex;
+            indexOfCurrentMap = data.MapIndex;
 
             if (data.PlayerPosition != null && data.PlayerPosition.Length >= 3)
             {
@@ -58,12 +65,12 @@ public class PlayerMainData : ScriptableObject
         attackSkill = 5f;
         leverEX = 0;
         leverText = 1;
-        Mapindex = 1;
+        indexOfCurrentMap = 1;
     }
 
     public void CheckPointNew(int mapIndex)
     {
-        SetVectorPlayer(StartGate[mapIndex - 1] - new Vector3(0,0, 20));
+        SetVectorPlayer(StartGateOfCurrentMap[mapIndex - 1] - new Vector3(0,0, 20));
     }
 
     public void leverUP()
