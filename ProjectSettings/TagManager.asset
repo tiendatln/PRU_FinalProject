@@ -16,6 +16,7 @@ TagManager:
   - BossHeathBar
   - Tele
   - CongDichChuyen
+  - BossAttackMap5
   layers:
   - Default
   - TransparentFX

@@ -21,6 +21,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - FireBall
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: e0f467d248b3e644e94065bfb392a2ec
+    m_Address: Assets/Prefab/UI/HeathForPlayer.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - HeathForPlayer
+    FlaggedDuringContentUpdateRestriction: 0
   m_ReadOnly: 0
   m_Settings: {fileID: 11400000, guid: c9281c55f89fceb458369d3ed6e887ca, type: 2}
   m_SchemaSet:

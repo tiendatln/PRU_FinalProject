@@ -325,7 +325,6 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 70528704636304020}
-  - component: {fileID: 1016643040719443414}
   m_Layer: 0
   m_Name: FrontWallCheckPoint
   m_TagString: Untagged
@@ -348,19 +347,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 6320668518161887702}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &1016643040719443414
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 672923274748294091}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 97ccdfdbec4dc4541a6f8d59bc0797a1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  target: {fileID: 6320668518161887702}
 --- !u!1 &740604588896499983
 GameObject:
   m_ObjectHideFlags: 0
@@ -1793,10 +1779,10 @@ MonoBehaviour:
   DamageReceived: {fileID: 0}
   PlayerAnimation: {fileID: 0}
   SpawnMagicSkill: {fileID: 2797250392235255603}
-  PlayerMainData: {fileID: 11400000, guid: 1670c51ad9f0db24981d83bef9e0dad5, type: 2}
   PlayerLever: {fileID: 7587312217556020124}
   PlayerSpawnMagicSkill: {fileID: 0}
   DashCoolDown: 0
+  PlayerMainData: {fileID: 11400000, guid: 1670c51ad9f0db24981d83bef9e0dad5, type: 2}
 --- !u!114 &1736921801746266794
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -2356,14 +2342,13 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 4220712568884626201}
-  - component: {fileID: 5152780789109503620}
   m_Layer: 0
   m_Name: BackWallCheckPoint
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &4220712568884626201
 Transform:
   m_ObjectHideFlags: 0
@@ -2379,19 +2364,6 @@ Transform:
   m_Children: []
   m_Father: {fileID: 6320668518161887702}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
---- !u!114 &5152780789109503620
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 6724363298350971374}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 97ccdfdbec4dc4541a6f8d59bc0797a1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  target: {fileID: 6320668518161887702}
 --- !u!1 &6736379575510479746
 GameObject:
   m_ObjectHideFlags: 0

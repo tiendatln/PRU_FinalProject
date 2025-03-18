@@ -76,6 +76,14 @@ public class PlayerMainData : ScriptableObject
             attackSkill += (leverText / 10);
         }
     }
+    public void Heal(int heal)
+    {
+        if (health < 100)
+        {
+            health += heal;
+        }
+        
+    }
 
     public Vector3 GetVectorPLayer()
     {

@@ -55,7 +55,7 @@ public class MonsterSpawnSKill : MonoBehaviour
         Handle = Addressables.LoadAssetAsync<GameObject>(fireBall.labelString);
         Handle.Completed += (AsyncOperationHandle<GameObject> task) =>
         {
-             GameObject fire = MyPoolManager.instance.GetFromPool(skil);
+             GameObject fire = MyPoolManager.instance.GetFromPool(task.Result);
             fire.transform.position = transform.position;
             fire.transform.rotation = transform.rotation;
             Rigidbody2D rb = fire.GetComponent<Rigidbody2D>();

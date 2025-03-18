@@ -46,7 +46,7 @@ public class PlayerController : MonoBehaviour
             PlMove.StopJump(0.43f);
         }
 
-        if (PlMove.rb.linearVelocityY < 0 && PlMove.LastOnGroundTime < 0)
+        if (PlMove.rb.linearVelocityY < -1 && PlMove.LastOnGroundTime < 0)
         {
             PlayerAnimation.Fallen(true);
         }
