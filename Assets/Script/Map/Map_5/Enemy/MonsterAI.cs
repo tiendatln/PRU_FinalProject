@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using Unity.VisualScripting;
 using UnityEngine;
+using UnityEngine.AddressableAssets;
+using UnityEngine.ResourceManagement.AsyncOperations;
 using UnityEngine.UI;
 using static UnityEditor.ShaderGraph.Internal.KeywordDependentCollection;
 using static UnityEngine.UI.Image;
@@ -47,10 +49,16 @@ public class EnemyAI_2D : MonoBehaviour
 
     public MonsterSpawnSKill monsterSpawnSkill;
     public PlayerController playerController;
+
+    [Header("HP Prefab")]
+    public GameObject HeathPlayer;
+    public AssetLabelReference _HeathPlayer;
+
     private SpriteRenderer spriteRenderer;
    
     private bool resetLine = false;
 
+    private AsyncOperationHandle<GameObject> Handle;
     [HideInInspector]public float distanceToPlayer;
     void Start()
     {
@@ -77,7 +85,7 @@ public class EnemyAI_2D : MonoBehaviour
        
         AnimatorStateInfo animationState = animator.GetCurrentAnimatorStateInfo(0);
         TimeStopAnimation = animationState.length;
-        if (HP <= 0)
+        if (HP <= 0 && animator.GetBool(DeathAnimationName) == false)
         {
             animator.SetBool(DeathAnimationName, true);
             Invoke("Dead", TimeStopAnimation);
@@ -218,7 +226,29 @@ public class EnemyAI_2D : MonoBehaviour
     void Dead()
     {
         playerController.PlayerLever.TakeLever(EX);
-        Destroy(this.gameObject);
+        Handle = Addressables.LoadAssetAsync<GameObject>(_HeathPlayer.labelString);
+        for (int i = 0; i < 3; i++)
+        {
+            SpawnHeath();
+        }
+        //Destroy(this.gameObject);
+        this.gameObject.SetActive(false);
+    }
+
+    private void SpawnHeath()
+    {
+        if (HeathPlayer == null || string.IsNullOrEmpty(_HeathPlayer.labelString))
+        {
+            
+            return;
+        }
+
+        Handle.Completed += (AsyncOperationHandle<GameObject> task) =>
+        {
+            GameObject heathPlayer = UnityEngine.Object.Instantiate(task.Result); // Tạo instance từ asset đã tải
+            heathPlayer.transform.position = this.transform.position + new Vector3(0,1,0);
+
+        };
     }
 
     public void SeandDamage()
