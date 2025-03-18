@@ -13,6 +13,7 @@ public class PlayerController : MonoBehaviour
     public PlayerLever PlayerLever;
     public SpawnMagicSkill PlayerSpawnMagicSkill;
     public float DashCoolDown;
+    public SoundEffects SoundEffects;
 
     public PlayerMainData PlayerMainData; // Chứa data của Player xuyên suốt các màn chơi và khi load hoặc tắt game (SaveGame)
 
@@ -76,6 +77,4 @@ public class PlayerController : MonoBehaviour
         PlMove.canMove = 0;
         PlMove._moveInput = Vector2.zero;
     }
-
-
 }

@@ -16,7 +16,7 @@ public class DeadMenu : MonoBehaviour
     {
         if (Application.isPlaying)
         {
-            SceneManager.LoadScene(GameManager.Instance.GetPlayerData().Mapindex);
+            SceneManager.LoadScene(GameManager.Instance.GetPlayerData().indexOfCurrentMap);
             Time.timeScale = 1f;
             GameManager.Instance.GetPlayerData().health = 100;
             GameManager.Instance.GetPlayerData().CheckPointNew(SceneManager.GetActiveScene().buildIndex);

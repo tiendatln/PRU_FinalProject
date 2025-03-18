@@ -20,7 +20,7 @@ using UnityEngine;
             leverEX = player.leverEX;
             leverText = player.leverText;
             attackSkill = player.attackSkill;
-            MapIndex = player.Mapindex;
+            MapIndex = player.indexOfCurrentMap;
 
 
             if (player != null && player.PlayerPosition != null && player.PlayerPosition.Length >= 3)
