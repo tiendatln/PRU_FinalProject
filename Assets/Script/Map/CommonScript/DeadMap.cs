@@ -4,6 +4,9 @@ public class DeadMap : MonoBehaviour
 {
     private void OnTriggerEnter2D(Collider2D collision)
     {
-        GameManager.Instance.GetPlayerData().health = 0;
+        if (collision.gameObject.CompareTag("Player"))
+        {
+            GameManager.Instance.GetPlayerData().health = 0;
+        }
     }
 }
