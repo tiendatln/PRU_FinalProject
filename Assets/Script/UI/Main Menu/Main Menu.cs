@@ -6,6 +6,7 @@ public class MainMenu : MonoBehaviour
 {
     public PlayerMainData playerMainData;
     private GameObject tutorial;
+    private GameObject audioSetting;
 
     private void Start()
     {
@@ -14,6 +15,9 @@ public class MainMenu : MonoBehaviour
             Cursor.lockState = CursorLockMode.None;
         tutorial = GameObject.Find("Tutorial Menu");
         tutorial.SetActive(false);
+
+        audioSetting = GameObject.Find("Audio Setting");
+        audioSetting.SetActive(false);
     }
     public void StartNew()
     {
@@ -26,9 +30,16 @@ public class MainMenu : MonoBehaviour
         SceneManager.LoadScene(playerMainData.indexOfCurrentMap);
         
     }
-    public void OptionBtn()
+    public void AudioBtn()
     {
-
+        if (audioSetting.active == true)
+        {
+            audioSetting.SetActive(false);
+        }
+        else
+        {
+            audioSetting.SetActive(true);
+        }
     }
     public void QuitGame()
     {
