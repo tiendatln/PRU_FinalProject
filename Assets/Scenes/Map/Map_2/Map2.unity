@@ -485,11 +485,11 @@ PrefabInstance:
       objectReference: {fileID: 595605114}
     - target: {fileID: 3043244200727967366, guid: 9f27e47f27407cd4aafffd6474d73d70, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3043244200727967366, guid: 9f27e47f27407cd4aafffd6474d73d70, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 3824885507251219440, guid: 9f27e47f27407cd4aafffd6474d73d70, type: 3}
       propertyPath: m_Name
@@ -497,11 +497,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 7250376409192044798, guid: 9f27e47f27407cd4aafffd6474d73d70, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 7250376409192044798, guid: 9f27e47f27407cd4aafffd6474d73d70, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
@@ -795,11 +795,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2406794505456752706, guid: ae985c2457bff7143966ca51ac7bcf89, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2406794505456752706, guid: ae985c2457bff7143966ca51ac7bcf89, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 2773025650285318857, guid: ae985c2457bff7143966ca51ac7bcf89, type: 3}
       propertyPath: Gate
@@ -819,11 +819,11 @@ PrefabInstance:
       objectReference: {fileID: 1345898295}
     - target: {fileID: 6349167795407020639, guid: ae985c2457bff7143966ca51ac7bcf89, type: 3}
       propertyPath: m_AnchorMax.x
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 6349167795407020639, guid: ae985c2457bff7143966ca51ac7bcf89, type: 3}
       propertyPath: m_AnchorMax.y
-      value: 1
+      value: 0
       objectReference: {fileID: 0}
     - target: {fileID: 8773469808944544017, guid: ae985c2457bff7143966ca51ac7bcf89, type: 3}
       propertyPath: m_AnimatedTiles.Array.data[0].second.m_AnimationSpeed

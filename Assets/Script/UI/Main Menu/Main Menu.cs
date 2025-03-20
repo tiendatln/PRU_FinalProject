@@ -5,13 +5,15 @@ using UnityEngine.SceneManagement;
 public class MainMenu : MonoBehaviour
 {
     public PlayerMainData playerMainData;
+    private GameObject tutorial;
 
     private void Start()
     {
-        
+            
             Cursor.visible = true;
             Cursor.lockState = CursorLockMode.None;
-        
+        tutorial = GameObject.Find("Tutorial Menu");
+        tutorial.SetActive(false);
     }
     public void StartNew()
     {
@@ -31,5 +33,17 @@ public class MainMenu : MonoBehaviour
     public void QuitGame()
     {
         Application.Quit();
+    }
+
+    public void TutorialBtn()
+    {
+        if (tutorial.active == true)
+        {
+            tutorial.SetActive(false);
+        }
+        else
+        {
+            tutorial.SetActive(true);
+        }
     }
 }
