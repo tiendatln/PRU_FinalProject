@@ -3,7 +3,7 @@ using UnityEngine;
 public class BossMap6Animation : MonoBehaviour
 {
     public Animator animator;
-
+    private BossMap6 boss;
 
     [Header("Name Animation")]
     private string _AttackName;
@@ -15,11 +15,17 @@ public class BossMap6Animation : MonoBehaviour
     void Start()
     {
         animator = GetComponent<Animator>();
+        boss = GetComponent<BossMap6>();
     }
 
     public void Walk()
     {
         animator.SetFloat(_Walk, 2f);
+    }
+
+    public void Idle()
+    {
+        animator.SetFloat(_Walk, 0);
     }
 
     public void Dead()
@@ -35,6 +41,7 @@ public class BossMap6Animation : MonoBehaviour
 
     public void StopAttack()
     {
+        boss.ChooseNextAttack();
         animator.SetBool(_AttackName, false);
     }
 
@@ -56,5 +63,15 @@ public class BossMap6Animation : MonoBehaviour
     public void StopDrinkPotion()
     {
         animator.SetBool("DrinkPotion", false);
+    }
+
+    public void CallEnemy()
+    {
+        animator.SetBool("isAttack3", true);
+    }
+
+    public void StopCallEnemy()
+    {
+        animator.SetBool("isAttack3", false);
     }
 }

@@ -1,120 +1,100 @@
-﻿using TMPro;
+﻿
 using UnityEngine;
+using UnityEngine.SceneManagement;
 using UnityEngine.UI;
 
 public class BossMap6 : MonoBehaviour
 {
-    public Transform player; // Tham chiếu đến người chơi
-    public float moveSpeed = 3f; // Tốc độ di chuyển của boss
-    public float maxHealth = 200f; // Máu tối đa
+    public GameObject[] enemyPrefabs; // Mảng chứa nhiều loại quái
+    public Transform spawnPoint; // Vị trí spawn quái
 
-    public Vector2 checkWallSize; // ko dùng
-    public Transform checkWallPoint; // ko dùng
+    public Transform player;
+    public float moveSpeed = 3f;
+    public float maxHealth = 200f;
 
-    public LayerMask PlayerMask;
     public Slider slider;
-
-    // Quản lý hồi máu
-    private bool hasHealed50 = false; // Đánh dấu đã hồi máu ở 50% chưa
-    private bool hasHealed20 = false; // Đánh dấu đã hồi máu ở 20% chưa
-    public float healAmount50 = 30f; // Lượng máu hồi ở 50%
-    public float healAmount20 = 15f; // Lượng máu hồi ở 20%
-
-    // Quản lý tấn công
-    public float attackCooldown = 0f; // Thời gian chờ giữa các đòn tấn công
-    private float nextAttackTime; // Thời điểm có thể tấn công tiếp theo
+    public LayerMask PlayerMask;
 
 
-    // Định nghĩa các đòn tấn công với tầm đánh riêng
+    private bool hasHealed50 = false;
+    private bool hasHealed20 = false;
+    public float healAmount50 = 30f;
+    public float healAmount20 = 15f;
+
+    public float attackCooldown = 0f;
+    private float nextAttackTime;
+
     public string[] AttackName;
     private int nextAttack;
-    [Header("Attack Range")]
-    public Vector2 squareAttackSize; // Kích thước hình vuông tấn công
 
+    public Vector2 squareAttackSize;
     public float _damage;
 
-    // Trung tâm của boss
-    private Vector3 AttackPoint; // Vị trí trung tâm của boss
+    private Vector3 AttackPoint;
     public GameObject AttackPosition;
     public BossMap6Animation BossAnimation;
     public GameObject Gate;
 
-    #region Private Value
-
     private bool isMove = true;
-    private string isAttackName;
-    private SpriteRenderer spriteRenderer; // Tham chiếu đến SpriteRenderer
     private bool IsFacingRight = true;
-    private float currentHealth; // Máu hiện tại
-    private int numbarAttack;
-    #endregion
+    private float currentHealth;
+    private SpriteRenderer spriteRenderer;
+    private SpawnSkillMap6 SpawnSkillBoss;
+    private float isSpawning;
+
 
     void Start()
     {
-        currentHealth = maxHealth; // Khởi tạo máu
-        player = GameObject.FindGameObjectWithTag("Player").transform; // Tìm người chơi qua tag
-
-        ChooseNextAttack(); // Chọn đòn tấn công đầu tiên
-
+        currentHealth = maxHealth;
+        player = GameObject.FindGameObjectWithTag("Player").transform;
+        ChooseNextAttack();
         spriteRenderer = GetComponent<SpriteRenderer>();
         AttackPoint = AttackPosition.transform.position;
-
+        SpawnSkillBoss = GameObject.Find("AttackPointMap6").GetComponent<SpawnSkillMap6>(); 
     }
 
     void Update()
     {
+        
         if (isMove)
         {
             AttackPoint = AttackPosition.transform.position;
-            if (spriteRenderer != null && spriteRenderer.sprite != null)
-            {
-                squareAttackSize = spriteRenderer.sprite.bounds.size; // Lấy kích thước thực của sprite
-                                                                      // Nếu cần điều chỉnh tỷ lệ, bạn có thể nhân thêm hệ số
-                                                                      // squareAttackSize *= 1f; // Ví dụ: giữ nguyên kích thước sprite
-            }
-            else
-            {
-                squareAttackSize = new Vector2(4f, 4f); // Giá trị mặc định nếu không tìm thấy sprite
-
-            }
-
-            // Tính khoảng cách từ trung tâm boss đến người chơi trên trục X
             float distanceToPlayer = Mathf.Abs(AttackPoint.x - player.position.x);
-
-            // Xác định tầm đánh hiện tại dựa trên đòn tấn công tiếp theo
             float currentAttackRange = squareAttackSize.x;
 
-            // Di chuyển tới người chơi nếu ngoài tầm tấn công
             if (distanceToPlayer > currentAttackRange)
             {
                 MoveTowardsPlayer();
             }
-            // Tấn công nếu trong tầm và hết thời gian chờ
-            else if (Time.time >= nextAttackTime)
+            else if (Time.time >= nextAttackTime && isSpawning > Time.time)
             {
                 AttackAnimation();
-                nextAttackTime = Time.time + attackCooldown; // Đặt lại thời gian chờ
-                ChooseNextAttack(); // Chọn đòn tấn công tiếp theo
+                nextAttackTime = Time.time + attackCooldown;
             }
+            else
+            {
+                BossAnimation.Idle();
+            }
+            if (Time.time >= isSpawning)
+            {
+                BossAnimation.CallEnemy();
+                isSpawning = Time.time + 50;
+            }
+            
 
-            // Quay mặt
             CheckDirectionToFace(player.position.x > transform.position.x);
-
-            // Kiểm tra hồi máu
             CheckHealing();
         }
-        slider.value = currentHealth;
+        //slider.value = currentHealth;
     }
 
     void MoveTowardsPlayer()
     {
         float directionx = Mathf.Sign(player.position.x - transform.position.x);
-        Vector3 moveVector = new Vector3(directionx * moveSpeed * Time.deltaTime, 0, 0);
-        transform.position += moveVector;
+        transform.position += new Vector3(directionx * moveSpeed * Time.deltaTime, 0, 0);
         BossAnimation.Walk();
     }
 
-    #region turn
     private void Turn()
     {
         Vector3 rotation = transform.rotation.eulerAngles;
@@ -128,38 +108,36 @@ public class BossMap6 : MonoBehaviour
         if (isMovingRight != IsFacingRight)
             Turn();
     }
-    #endregion
 
-    void ChooseNextAttack()
+    public void ChooseNextAttack()
     {
-        // randome đòn đánh tiếp theo
+        int compareAttack = nextAttack;
+        do
+        {
+            nextAttack = Random.Range(0, AttackName.Length);
 
-        nextAttack = Random.Range(0, AttackName.Length);
-
+        } while (compareAttack == nextAttack);
+        
     }
-
-
 
     void AttackAnimation()
     {
-
         if (Mathf.Abs(AttackPoint.x - player.position.x) <= squareAttackSize.x)
         {
             BossAnimation.Attack(AttackName[nextAttack]);
         }
-
     }
+
+  
 
     void CheckHealing()
     {
         float healthPercentage = (currentHealth / maxHealth) * maxHealth;
-
         if (healthPercentage <= (maxHealth / 2) && !hasHealed50)
         {
             BossAnimation.DrinkPotion();
         }
         else if (healthPercentage <= (maxHealth / 3) && !hasHealed20)
-
         {
             BossAnimation.DrinkPotion();
         }
@@ -169,18 +147,15 @@ public class BossMap6 : MonoBehaviour
     {
         float healthPercentage = (currentHealth / maxHealth) * 200f;
         float heal = 0;
-
         if (healthPercentage <= 100f && !hasHealed50)
         {
             heal = healAmount50;
             hasHealed50 = true;
-
         }
         else if (healthPercentage <= 50f && !hasHealed20)
         {
             heal = healAmount20;
             hasHealed20 = true;
-
         }
         currentHealth = Mathf.Min(currentHealth + heal, maxHealth);
     }
@@ -188,8 +163,6 @@ public class BossMap6 : MonoBehaviour
     public void TakeDamage(float damage)
     {
         currentHealth -= damage;
-
-
         if (currentHealth <= 0)
         {
             isMove = false;
@@ -201,28 +174,26 @@ public class BossMap6 : MonoBehaviour
     void Die()
     {
         GameObject gate = Instantiate(Gate, transform.position + new Vector3(0, 0, 10), transform.rotation);
-        gate.AddComponent<NextMap>(); // add script chuyển map
+        gate.AddComponent<NextMap>();
         Destroy(gameObject);
     }
 
-    void OnDrawGizmosSelected()
+    public void Shoot()
     {
-        Gizmos.color = Color.yellow;
-        Gizmos.DrawWireCube(AttackPoint, new Vector3(squareAttackSize.x, squareAttackSize.y, 0));
+        SpawnSkillBoss.Shoot();
     }
-
-    public void SendDamage()
+    public void CallEnemy()
     {
-        Collider2D[] hitEnemies = Physics2D.OverlapBoxAll(AttackPoint, squareAttackSize, PlayerMask);
-        foreach (Collider2D enemy in hitEnemies)
-        {
+        if (enemyPrefabs.Length == 0) return; // Kiểm tra nếu không có Prefab nào tránh lỗi
 
-            // Kiểm tra xem enemy có component EnemyAI_2D hay không
-            if (enemy.gameObject.TryGetComponent<DamageReceived>(out DamageReceived player))
-            {
-                player.TakeDamage(_damage); // Gây sát thương lên kẻ địch
-            }
+        // Chọn ngẫu nhiên 1 quái trong danh sách enemyPrefabs
+        int randomIndex = Random.Range(0, enemyPrefabs.Length);
+        GameObject enemyPrefab = enemyPrefabs[randomIndex];
 
-        }
+        int ran = Random.Range(-90, 90);
+        GameObject enemy = Instantiate(enemyPrefab, AttackPoint + new Vector3(3,0,0), enemyPrefab.transform.rotation);
+        
+  
+
     }
 }
