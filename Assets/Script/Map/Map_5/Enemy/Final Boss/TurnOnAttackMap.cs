@@ -14,7 +14,7 @@ public class TurnOnAttackMap : MonoBehaviour
     public void AttackMapDownOn()
     {
         attackMap.SetActive(true);
-        Invoke("AttackMapDownOff", 2f);
+        Invoke("AttackMapDownOff", 1f);
     }
 
     public void AttackMapDownOff()

@@ -264,6 +264,7 @@ MonoBehaviour:
   animator: {fileID: 1060152993690208093}
   _Walk: Run
   _Dead: Dead
+  _heal: DrinkPotion
 --- !u!70 &6842267190314979820
 CapsuleCollider2D:
   m_ObjectHideFlags: 0

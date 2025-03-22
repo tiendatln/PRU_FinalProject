@@ -1,10 +1,9 @@
-﻿using System.Collections;
-using Unity.VisualScripting;
+﻿
 using UnityEngine;
 using UnityEngine.AddressableAssets;
 using UnityEngine.ResourceManagement.AsyncOperations;
 using UnityEngine.UI;
-using static UnityEngine.UI.Image;
+
 
 public class EnemyAI_2D : MonoBehaviour
 {
