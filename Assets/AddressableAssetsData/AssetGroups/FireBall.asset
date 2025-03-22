@@ -21,6 +21,12 @@ MonoBehaviour:
     m_SerializedLabels:
     - FireBall
     FlaggedDuringContentUpdateRestriction: 0
+  - m_GUID: b4d4006c4978fde44a90f7f67a276629
+    m_Address: Assets/Prefab/Map/Map_6/FireBird.prefab
+    m_ReadOnly: 0
+    m_SerializedLabels:
+    - FireBird
+    FlaggedDuringContentUpdateRestriction: 0
   - m_GUID: e0f467d248b3e644e94065bfb392a2ec
     m_Address: Assets/Prefab/UI/HeathForPlayer.prefab
     m_ReadOnly: 0

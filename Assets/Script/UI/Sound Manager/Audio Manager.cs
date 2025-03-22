@@ -8,7 +8,7 @@ public class AudioManager : MonoBehaviour
     public AudioSource[] audioSFX;
     public AudioSource audioMusic;
 
-    private void Awake()
+    private void Start()
     {
         audioSFX[0].volume = GameManager.Instance.GetPlayerData().SFXVolume;
         audioMusic.volume = GameManager.Instance.GetPlayerData().musicVolume;

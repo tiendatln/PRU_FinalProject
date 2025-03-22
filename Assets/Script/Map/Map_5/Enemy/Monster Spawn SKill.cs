@@ -44,18 +44,19 @@ public class MonsterSpawnSKill : MonoBehaviour
 
     }
 
-     public virtual void Shoot()
+
+    public virtual void Shoot()
     {
         if (fireBall == null || string.IsNullOrEmpty(fireBall.labelString))
         {
-         
+
             return;
         }
 
         Handle = Addressables.LoadAssetAsync<GameObject>(fireBall.labelString);
         Handle.Completed += (AsyncOperationHandle<GameObject> task) =>
         {
-             GameObject fire = MyPoolManager.instance.GetFromPool(task.Result);
+            GameObject fire = MyPoolManager.instance.GetFromPool(task.Result);
             fire.transform.position = transform.position;
             fire.transform.rotation = transform.rotation;
             Rigidbody2D rb = fire.GetComponent<Rigidbody2D>();
