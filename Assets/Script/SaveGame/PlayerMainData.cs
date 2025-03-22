@@ -17,6 +17,10 @@ public class PlayerMainData : ScriptableObject
     public Vector3[] StartGateOfCurrentMap; // Mảng chứa vị trí của các cổng ở từng map
     public int indexOfCurrentMap; // map hiện tại của player đang chơi
 
+    public float musicVolume;
+    public float SFXVolume;
+
+    public bool isNewGame;
     public void setPositionNextMap()
     {
         SetVectorPlayer(StartGateOfCurrentMap[indexOfCurrentMap - 1]); // indexOfCurrentMap - 1 -> bắt đầu từ screen 1 nhưng vị trí của các cổng ở từng map từ "0"
@@ -24,9 +28,15 @@ public class PlayerMainData : ScriptableObject
 
     public void SavePlayer(string filePath = null)
     {
-        indexOfCurrentMap = SceneManager.GetActiveScene().buildIndex;
+        musicVolume = AudioManager.Instance.audioMusic.volume;
+        SFXVolume = AudioManager.Instance.audioSFX[0].volume;
+        indexOfCurrentMap = SceneManager.GetActiveScene().buildIndex > 0 ? SceneManager.GetActiveScene().buildIndex: indexOfCurrentMap;
         StartPosition = GameObject.Find("Character");
-        SetVectorPlayer(StartPosition.transform.position);
+        if (StartPosition != null)
+        {
+            SetVectorPlayer(StartPosition.transform.position);
+        }
+        
         SaveSystem.SavePlayer(this, filePath);
     }
 
@@ -41,6 +51,8 @@ public class PlayerMainData : ScriptableObject
             leverEX = data.leverEX;
             leverText = data.leverText;
             indexOfCurrentMap = data.MapIndex;
+            musicVolume = data.musicVolume;
+            SFXVolume = data.SFXVolume;
 
             if (data.PlayerPosition != null && data.PlayerPosition.Length >= 3)
             {
@@ -48,6 +60,11 @@ public class PlayerMainData : ScriptableObject
                 PlayerPosition[1] = data.PlayerPosition[1];
                 PlayerPosition[2] = data.PlayerPosition[2];
             }
+            isNewGame = false;
+        }
+        else
+        {
+            isNewGame = true;
         }
     }
 
