@@ -1,19 +1,31 @@
 fileFormatVersion: 2
-guid: 6d813a0dc79cc6c40a8c4247c8aea482
+guid: eb28c1b594a0261459050f972a1f49d2
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -5966621866309598838
-    second: Fall_0
+      213: 1192843865154028290
+    second: 40_0
   - first:
-      213: -2069157278089061004
-    second: Fall_1
+      213: -1008717397128904155
+    second: 40_1
   - first:
-      213: 6596617931644657277
-    second: Fall_2
+      213: -1944829928770959233
+    second: 40_2
   - first:
-      213: 7514022213351704123
-    second: Fall_3
+      213: 3917085136172914207
+    second: 40_3
+  - first:
+      213: 5457442955309790875
+    second: 40_4
+  - first:
+      213: -2451134151869939673
+    second: 40_5
+  - first:
+      213: 5968336837274867684
+    second: 40_6
+  - first:
+      213: -6950802225540680431
+    second: 40_7
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -57,7 +69,7 @@ TextureImporter:
   compressionQuality: 50
   spriteMode: 2
   spriteExtrude: 1
-  spriteMeshType: 1
+  spriteMeshType: 0
   alignment: 0
   spritePivot: {x: 0.5, y: 0.5}
   spritePixelsToUnits: 16
@@ -109,13 +121,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: Fall_0
+      name: 40_0
       rect:
         serializedVersion: 2
-        x: 106
-        y: 82
-        width: 67
-        height: 88
+        x: 3
+        y: 0
+        width: 26
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -124,20 +136,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: a81c98d660d423da0800000000000000
-      internalID: -5966621866309598838
+      spriteID: 2038207ec25dd8010800000000000000
+      internalID: 1192843865154028290
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fall_1
+      name: 40_1
       rect:
         serializedVersion: 2
-        x: 153
-        y: 161
-        width: 8
-        height: 9
+        x: 35
+        y: 0
+        width: 26
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -146,20 +158,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: 47d561f1b60e843e0800000000000000
-      internalID: -2069157278089061004
+      spriteID: 52200692fd05002f0800000000000000
+      internalID: -1008717397128904155
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fall_2
+      name: 40_2
       rect:
         serializedVersion: 2
-        x: 356
-        y: 82
-        width: 66
-        height: 95
+        x: 67
+        y: 0
+        width: 26
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -168,20 +180,20 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: d7ed6a6fe05eb8b50800000000000000
-      internalID: 6596617931644657277
+      spriteID: f780f03eb739205e0800000000000000
+      internalID: -1944829928770959233
       vertices: []
       indices: 
       edges: []
       weights: []
     - serializedVersion: 2
-      name: Fall_3
+      name: 40_3
       rect:
         serializedVersion: 2
-        x: 407
-        y: 163
-        width: 6
-        height: 7
+        x: 99
+        y: 0
+        width: 26
+        height: 48
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -190,8 +202,96 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b36093d546b274860800000000000000
-      internalID: 7514022213351704123
+      spriteID: f169c808d284c5630800000000000000
+      internalID: 3917085136172914207
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40_4
+      rect:
+        serializedVersion: 2
+        x: 131
+        y: 0
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96b23df37bbcbb40800000000000000
+      internalID: 5457442955309790875
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40_5
+      rect:
+        serializedVersion: 2
+        x: 163
+        y: 0
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 720c6fcb972dbfdd0800000000000000
+      internalID: -2451134151869939673
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40_6
+      rect:
+        serializedVersion: 2
+        x: 195
+        y: 0
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4e795ad5bbac3d250800000000000000
+      internalID: 5968336837274867684
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: 40_7
+      rect:
+        serializedVersion: 2
+        x: 227
+        y: 0
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 11537aae33ac98f90800000000000000
+      internalID: -6950802225540680431
       vertices: []
       indices: 
       edges: []
@@ -210,10 +310,14 @@ TextureImporter:
     spriteCustomMetadata:
       entries: []
     nameFileIdTable:
-      Fall_0: -5966621866309598838
-      Fall_1: -2069157278089061004
-      Fall_2: 6596617931644657277
-      Fall_3: 7514022213351704123
+      40_0: 1192843865154028290
+      40_1: -1008717397128904155
+      40_2: -1944829928770959233
+      40_3: 3917085136172914207
+      40_4: 5457442955309790875
+      40_5: -2451134151869939673
+      40_6: 5968336837274867684
+      40_7: -6950802225540680431
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
