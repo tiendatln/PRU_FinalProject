@@ -15,7 +15,7 @@ MonoBehaviour:
   m_DefaultGroup: 9661e0e6d8465854f8943ac19d0d351c
   m_currentHash:
     serializedVersion: 2
-    Hash: 89ea7e648c3538be7456565e4d0bfd95
+    Hash: 179eda782b46d13b5070432542d97e90
   m_OptimizeCatalogSize: 0
   m_BuildRemoteCatalog: 0
   m_CatalogRequestsTimeout: 0
@@ -100,6 +100,7 @@ MonoBehaviour:
   m_LabelTable:
     m_LabelNames:
     - FireBall
+    - HeathForPlayer
   m_SchemaTemplates: []
   m_GroupTemplateObjects:
   - {fileID: 11400000, guid: 2751ed96eca74144e98fa0fd07d6ec54, type: 2}

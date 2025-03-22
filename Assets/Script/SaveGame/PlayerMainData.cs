@@ -1,4 +1,4 @@
-﻿using Unity.VisualScripting;
+﻿
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -11,15 +11,32 @@ public class PlayerMainData : ScriptableObject
     public int leverEX;
     public int leverText;
     public float[] PlayerPosition = new float[3]; // Khởi tạo mặc định
-    public GameObject StartPosition;
-    public Vector3[] StartGate;
-    public int Mapindex;
+
+    private GameObject StartPosition;
+
+    public Vector3[] StartGateOfCurrentMap; // Mảng chứa vị trí của các cổng ở từng map
+    public int indexOfCurrentMap; // map hiện tại của player đang chơi
+
+    public float musicVolume;
+    public float SFXVolume;
+
+    public bool isNewGame;
+    public void setPositionNextMap()
+    {
+        SetVectorPlayer(StartGateOfCurrentMap[indexOfCurrentMap - 1]); // indexOfCurrentMap - 1 -> bắt đầu từ screen 1 nhưng vị trí của các cổng ở từng map từ "0"
+    }
 
     public void SavePlayer(string filePath = null)
     {
-        Mapindex = SceneManager.GetActiveScene().buildIndex;
+        musicVolume = AudioManager.Instance.audioMusic.volume;
+        SFXVolume = AudioManager.Instance.audioSFX[0].volume;
+        indexOfCurrentMap = SceneManager.GetActiveScene().buildIndex > 0 ? SceneManager.GetActiveScene().buildIndex: indexOfCurrentMap;
         StartPosition = GameObject.Find("Character");
-        SetVectorPlayer(StartPosition.transform.position);
+        if (StartPosition != null)
+        {
+            SetVectorPlayer(StartPosition.transform.position);
+        }
+        
         SaveSystem.SavePlayer(this, filePath);
     }
 
@@ -33,7 +50,9 @@ public class PlayerMainData : ScriptableObject
             attackSkill = data.attackSkill;
             leverEX = data.leverEX;
             leverText = data.leverText;
-            Mapindex = data.MapIndex;
+            indexOfCurrentMap = data.MapIndex;
+            musicVolume = data.musicVolume;
+            SFXVolume = data.SFXVolume;
 
             if (data.PlayerPosition != null && data.PlayerPosition.Length >= 3)
             {
@@ -41,6 +60,11 @@ public class PlayerMainData : ScriptableObject
                 PlayerPosition[1] = data.PlayerPosition[1];
                 PlayerPosition[2] = data.PlayerPosition[2];
             }
+            isNewGame = false;
+        }
+        else
+        {
+            isNewGame = true;
         }
     }
 
@@ -51,6 +75,12 @@ public class PlayerMainData : ScriptableObject
         CheckPointNew(mapIndex);
 
     }
+
+    public void resetPlayer()
+    {
+        SetVectorPlayer(GameObject.Find("StartGate").transform.position);
+    }
+
     void SetDefaultData()
     {
         health = 100f;
@@ -58,12 +88,12 @@ public class PlayerMainData : ScriptableObject
         attackSkill = 5f;
         leverEX = 0;
         leverText = 1;
-        Mapindex = 1;
+        indexOfCurrentMap = 1;
     }
 
     public void CheckPointNew(int mapIndex)
     {
-        SetVectorPlayer(StartGate[mapIndex - 1] - new Vector3(0,0, 20));
+        SetVectorPlayer(StartGateOfCurrentMap[mapIndex - 1] - new Vector3(0,0, 20));
     }
 
     public void leverUP()
@@ -75,6 +105,14 @@ public class PlayerMainData : ScriptableObject
             attack += (leverText / 10);
             attackSkill += (leverText / 10);
         }
+    }
+    public void Heal(int heal)
+    {
+        if (health < 100)
+        {
+            health += heal;
+        }
+        
     }
 
     public Vector3 GetVectorPLayer()

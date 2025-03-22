@@ -501,7 +501,7 @@ GameObject:
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
-  m_IsActive: 1
+  m_IsActive: 0
 --- !u!4 &3414836967752305687
 Transform:
   m_ObjectHideFlags: 0
@@ -530,8 +530,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 42427705fc395f94bba3320d81839ab6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scene: Map_5
-  playerMainData: {fileID: 0}
 --- !u!1 &5876910011622593902
 GameObject:
   m_ObjectHideFlags: 0

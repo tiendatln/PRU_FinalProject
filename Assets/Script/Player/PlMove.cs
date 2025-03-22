@@ -272,7 +272,7 @@ public class PlMove : MonoBehaviour
         float speedDif = targetSpeed - rb.linearVelocityX;
         float movement = (speedDif * accelRate);
         rb.AddForce(movement * Vector2.right, ForceMode2D.Force);
-        animator.SetFloat("speed", Mathf.Abs(movement));
+        animator.SetFloat("speed", Mathf.Abs(_moveInput.x));
     }
     void jump()
     {

@@ -3,18 +3,21 @@ using UnityEngine;
 public class BossAnimation : MonoBehaviour
 {
     public Animator animator;
+    private Boss boss;
     
 
     [Header("Name Animation")]
     private string _AttackName;
     public string _Walk;
     public string _Dead;
+    public string _heal;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
         animator = GetComponent<Animator>();
+        boss = GetComponent<Boss>();
     }
 
     public void Walk()
@@ -29,12 +32,15 @@ public class BossAnimation : MonoBehaviour
     
     public void Attack(string name)
     {
+        boss.isMove = false;
         animator.SetBool(name, true);
         _AttackName = name;
     }
     
     public void StopAttack()
     {
+        boss.ChooseNextAttack();
+        boss.isMove = true;
         animator.SetBool(_AttackName, false);
     }
    
@@ -50,11 +56,13 @@ public class BossAnimation : MonoBehaviour
 
     public void DrinkPotion()
     {
-        animator.SetBool("DrinkPotion", true);
+        boss.isMove=false;
+        animator.SetBool(_heal, true);
     }
 
     public void StopDrinkPotion()
     {
-        animator.SetBool("DrinkPotion", false);
+        boss.isMove=true;
+        animator.SetBool(_heal, false);
     }
 }

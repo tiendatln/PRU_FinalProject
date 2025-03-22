@@ -1,4 +1,4 @@
-﻿using TMPro;
+﻿
 using UnityEngine;
 using UnityEngine.UI;
 
@@ -41,12 +41,11 @@ public class Boss : MonoBehaviour
 
     #region Private Value
 
-    private bool isMove = true;
+    [HideInInspector]public bool isMove = true;
     private string isAttackName;
     private SpriteRenderer spriteRenderer; // Tham chiếu đến SpriteRenderer
     private bool IsFacingRight = true;
     private float currentHealth; // Máu hiện tại
-    private int numbarAttack;
     #endregion
 
     void Start()
@@ -74,7 +73,7 @@ public class Boss : MonoBehaviour
             }
             else
             {
-                squareAttackSize = new Vector2(2f, 2f); // Giá trị mặc định nếu không tìm thấy sprite
+                squareAttackSize = new Vector2(4f, 4f); // Giá trị mặc định nếu không tìm thấy sprite
 
             }
 
@@ -94,7 +93,7 @@ public class Boss : MonoBehaviour
             {
                 AttackAnimation();
                 nextAttackTime = Time.time + attackCooldown; // Đặt lại thời gian chờ
-                ChooseNextAttack(); // Chọn đòn tấn công tiếp theo
+                 // Chọn đòn tấn công tiếp theo
             }
 
             // Quay mặt
@@ -130,11 +129,14 @@ public class Boss : MonoBehaviour
     }
     #endregion
 
-    void ChooseNextAttack()
+    public void ChooseNextAttack()
     {
         // randome đòn đánh tiếp theo
-
-        nextAttack = Random.Range(0, AttackName.Length);
+        int compareAttack = nextAttack;
+        do
+        {
+            nextAttack = Random.Range(0, AttackName.Length);
+        }while (nextAttack == compareAttack);
        
     }
 

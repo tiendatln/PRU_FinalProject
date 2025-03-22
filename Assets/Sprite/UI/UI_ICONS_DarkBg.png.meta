@@ -1,0 +1,2873 @@
+fileFormatVersion: 2
+guid: 56ca462bb57c79a43b6b91940152dcd9
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 877088274126164066
+    second: UI_ICONS_DarkBg_0
+  - first:
+      213: 7940763726888726140
+    second: UI_ICONS_DarkBg_1
+  - first:
+      213: 8825704928568270085
+    second: UI_ICONS_DarkBg_2
+  - first:
+      213: 5749757593376169337
+    second: UI_ICONS_DarkBg_3
+  - first:
+      213: 7282766646068224214
+    second: UI_ICONS_DarkBg_4
+  - first:
+      213: 1862730802674219022
+    second: UI_ICONS_DarkBg_5
+  - first:
+      213: -163007992582371416
+    second: UI_ICONS_DarkBg_6
+  - first:
+      213: -5542102402607631286
+    second: UI_ICONS_DarkBg_7
+  - first:
+      213: 1429349665347460887
+    second: UI_ICONS_DarkBg_8
+  - first:
+      213: 1707963891525841972
+    second: UI_ICONS_DarkBg_9
+  - first:
+      213: 5622765634695202318
+    second: UI_ICONS_DarkBg_10
+  - first:
+      213: -4216164783197860372
+    second: UI_ICONS_DarkBg_11
+  - first:
+      213: -6303966736944991251
+    second: UI_ICONS_DarkBg_12
+  - first:
+      213: 5646396818708436813
+    second: UI_ICONS_DarkBg_13
+  - first:
+      213: -3104546290927365960
+    second: UI_ICONS_DarkBg_14
+  - first:
+      213: -5574003662096774765
+    second: UI_ICONS_DarkBg_15
+  - first:
+      213: -8213733840838290656
+    second: UI_ICONS_DarkBg_16
+  - first:
+      213: -1314669596782940823
+    second: UI_ICONS_DarkBg_17
+  - first:
+      213: 7957636852406389089
+    second: UI_ICONS_DarkBg_18
+  - first:
+      213: -3710423049811772315
+    second: UI_ICONS_DarkBg_19
+  - first:
+      213: -783867443143899110
+    second: UI_ICONS_DarkBg_20
+  - first:
+      213: -8898624027192348951
+    second: UI_ICONS_DarkBg_21
+  - first:
+      213: 5993852738260546632
+    second: UI_ICONS_DarkBg_22
+  - first:
+      213: 100715360836835964
+    second: UI_ICONS_DarkBg_23
+  - first:
+      213: 61131508450465370
+    second: UI_ICONS_DarkBg_24
+  - first:
+      213: 3411575702768141662
+    second: UI_ICONS_DarkBg_25
+  - first:
+      213: 5845219616635373002
+    second: UI_ICONS_DarkBg_26
+  - first:
+      213: -3341803239381490144
+    second: UI_ICONS_DarkBg_27
+  - first:
+      213: 8931469876260384668
+    second: UI_ICONS_DarkBg_28
+  - first:
+      213: -5109758747399016108
+    second: UI_ICONS_DarkBg_29
+  - first:
+      213: 8465166967549994288
+    second: UI_ICONS_DarkBg_30
+  - first:
+      213: 301410756277587992
+    second: UI_ICONS_DarkBg_31
+  - first:
+      213: 8181378270903527786
+    second: UI_ICONS_DarkBg_32
+  - first:
+      213: -9043999324088113097
+    second: UI_ICONS_DarkBg_33
+  - first:
+      213: 7056934405013075933
+    second: UI_ICONS_DarkBg_34
+  - first:
+      213: 4878849849668917522
+    second: UI_ICONS_DarkBg_35
+  - first:
+      213: 4178980949659389784
+    second: UI_ICONS_DarkBg_36
+  - first:
+      213: -332980236430949643
+    second: UI_ICONS_DarkBg_37
+  - first:
+      213: 8085612568268056005
+    second: UI_ICONS_DarkBg_38
+  - first:
+      213: 6435212002796107126
+    second: UI_ICONS_DarkBg_39
+  - first:
+      213: -5061223829568297220
+    second: UI_ICONS_DarkBg_40
+  - first:
+      213: -2473966011686259526
+    second: UI_ICONS_DarkBg_41
+  - first:
+      213: 5265581130771870511
+    second: UI_ICONS_DarkBg_42
+  - first:
+      213: 544248836011148718
+    second: UI_ICONS_DarkBg_43
+  - first:
+      213: -5334819762549011549
+    second: UI_ICONS_DarkBg_44
+  - first:
+      213: -5807239496527955592
+    second: UI_ICONS_DarkBg_45
+  - first:
+      213: -494867320626423754
+    second: UI_ICONS_DarkBg_46
+  - first:
+      213: -7555554326241371020
+    second: UI_ICONS_DarkBg_47
+  - first:
+      213: -3800972324176676136
+    second: UI_ICONS_DarkBg_48
+  - first:
+      213: -1020323813660939799
+    second: UI_ICONS_DarkBg_49
+  - first:
+      213: -1570662340040852643
+    second: UI_ICONS_DarkBg_50
+  - first:
+      213: 4166091773801543242
+    second: UI_ICONS_DarkBg_51
+  - first:
+      213: -5292094417352858951
+    second: UI_ICONS_DarkBg_52
+  - first:
+      213: 6428380081003596292
+    second: UI_ICONS_DarkBg_53
+  - first:
+      213: 1965875382448255131
+    second: UI_ICONS_DarkBg_54
+  - first:
+      213: -6016388621352368736
+    second: UI_ICONS_DarkBg_55
+  - first:
+      213: 4105908161348540589
+    second: UI_ICONS_DarkBg_56
+  - first:
+      213: 7142666956680614356
+    second: UI_ICONS_DarkBg_57
+  - first:
+      213: 3353194163491574824
+    second: UI_ICONS_DarkBg_58
+  - first:
+      213: 6622506649197786173
+    second: UI_ICONS_DarkBg_59
+  - first:
+      213: 3022044778483332074
+    second: UI_ICONS_DarkBg_60
+  - first:
+      213: -797518013265671945
+    second: UI_ICONS_DarkBg_61
+  - first:
+      213: -2491563623628303924
+    second: UI_ICONS_DarkBg_62
+  - first:
+      213: -1481502701712646947
+    second: UI_ICONS_DarkBg_63
+  - first:
+      213: -490909075676445667
+    second: UI_ICONS_DarkBg_64
+  - first:
+      213: -3764137614456669889
+    second: UI_ICONS_DarkBg_65
+  - first:
+      213: 7817667484926864826
+    second: UI_ICONS_DarkBg_66
+  - first:
+      213: 1006539801589887154
+    second: UI_ICONS_DarkBg_67
+  - first:
+      213: 2601353802153811691
+    second: UI_ICONS_DarkBg_68
+  - first:
+      213: 4070325471494602670
+    second: UI_ICONS_DarkBg_69
+  - first:
+      213: 1331302192958124738
+    second: UI_ICONS_DarkBg_70
+  - first:
+      213: -7426806700195005526
+    second: UI_ICONS_DarkBg_71
+  - first:
+      213: 5119360251023780739
+    second: UI_ICONS_DarkBg_72
+  - first:
+      213: -6944747467184277939
+    second: UI_ICONS_DarkBg_73
+  - first:
+      213: 4822634186936548844
+    second: UI_ICONS_DarkBg_74
+  - first:
+      213: 6191732549052253094
+    second: UI_ICONS_DarkBg_75
+  - first:
+      213: -6070361739529251920
+    second: UI_ICONS_DarkBg_76
+  - first:
+      213: -2797696410563277929
+    second: UI_ICONS_DarkBg_77
+  - first:
+      213: -1571239074501900860
+    second: UI_ICONS_DarkBg_78
+  - first:
+      213: 7896533123635574147
+    second: UI_ICONS_DarkBg_79
+  - first:
+      213: 3919972761562679982
+    second: UI_ICONS_DarkBg_80
+  - first:
+      213: 1103282231346746709
+    second: UI_ICONS_DarkBg_81
+  - first:
+      213: 2372938258261009172
+    second: UI_ICONS_DarkBg_82
+  - first:
+      213: -1851478651802281298
+    second: UI_ICONS_DarkBg_83
+  - first:
+      213: 2969175882970320785
+    second: UI_ICONS_DarkBg_84
+  - first:
+      213: -6605164449785940370
+    second: UI_ICONS_DarkBg_85
+  - first:
+      213: -4475875887462728397
+    second: UI_ICONS_DarkBg_86
+  - first:
+      213: -1403176318258556395
+    second: UI_ICONS_DarkBg_87
+  - first:
+      213: 248842552618598264
+    second: UI_ICONS_DarkBg_88
+  - first:
+      213: 4493511256656339315
+    second: UI_ICONS_DarkBg_89
+  - first:
+      213: -3814737260944929966
+    second: UI_ICONS_DarkBg_90
+  - first:
+      213: 2086600074630505899
+    second: UI_ICONS_DarkBg_91
+  - first:
+      213: 907158252348729091
+    second: UI_ICONS_DarkBg_92
+  - first:
+      213: 8744756834175786828
+    second: UI_ICONS_DarkBg_93
+  - first:
+      213: -3021306687507771464
+    second: UI_ICONS_DarkBg_94
+  - first:
+      213: 8836477277666168082
+    second: UI_ICONS_DarkBg_95
+  - first:
+      213: -6757444302282631563
+    second: UI_ICONS_DarkBg_96
+  - first:
+      213: 5911136812652754587
+    second: UI_ICONS_DarkBg_97
+  - first:
+      213: 1417966397670529573
+    second: UI_ICONS_DarkBg_98
+  - first:
+      213: -7159246076755765091
+    second: UI_ICONS_DarkBg_99
+  - first:
+      213: 243795333303825733
+    second: UI_ICONS_DarkBg_100
+  - first:
+      213: -3268392943761391955
+    second: UI_ICONS_DarkBg_101
+  - first:
+      213: 4179371274160618511
+    second: UI_ICONS_DarkBg_102
+  - first:
+      213: -2825908791879823858
+    second: UI_ICONS_DarkBg_103
+  - first:
+      213: 813184936670980998
+    second: UI_ICONS_DarkBg_104
+  - first:
+      213: 9036603076947144957
+    second: UI_ICONS_DarkBg_105
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 0
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_0
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 3299
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 26053f7632b0c2c00800000000000000
+      internalID: 877088274126164066
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_1
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 3299
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7e6282a982433e60800000000000000
+      internalID: 7940763726888726140
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_2
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 3299
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 50dd9b73fd33b7a70800000000000000
+      internalID: 8825704928568270085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_3
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 3299
+        width: 254
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 97d9ac1511e3bcf40800000000000000
+      internalID: 5749757593376169337
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_4
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 3299
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6d0a5f8cda5911560800000000000000
+      internalID: 7282766646068224214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_5
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 3299
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e08339dbbcfb9d910800000000000000
+      internalID: 1862730802674219022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_6
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 3299
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8a7049a2811ecbdf0800000000000000
+      internalID: -163007992582371416
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_7
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 3299
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a44bbb76a3f7613b0800000000000000
+      internalID: -5542102402607631286
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_8
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 3299
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 71fdbd692f116d310800000000000000
+      internalID: 1429349665347460887
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_9
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 3299
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 43477933c18e3b710800000000000000
+      internalID: 1707963891525841972
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_10
+      rect:
+        serializedVersion: 2
+        x: 3329
+        y: 3299
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e060847dd83180e40800000000000000
+      internalID: 5622765634695202318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_11
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 3299
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedcaf6c77c2d75c0800000000000000
+      internalID: -4216164783197860372
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_12
+      rect:
+        serializedVersion: 2
+        x: 3967
+        y: 3299
+        width: 254
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: de3f38017afc388a0800000000000000
+      internalID: -6303966736944991251
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_13
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 3006
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d471300adf70c5e40800000000000000
+      internalID: 5646396818708436813
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_14
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 3006
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8b09484d89f6ae4d0800000000000000
+      internalID: -3104546290927365960
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_15
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 3006
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 399ceff933925a2b0800000000000000
+      internalID: -5574003662096774765
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_16
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 3006
+        width: 254
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0239a390794f20e80800000000000000
+      internalID: -8213733840838290656
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_17
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 3006
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 96d2fb697fa51cde0800000000000000
+      internalID: -1314669596782940823
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_18
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 3006
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 1698d3f4e843f6e60800000000000000
+      internalID: 7957636852406389089
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_19
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 3006
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 56c3c8515ede18cc0800000000000000
+      internalID: -3710423049811772315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_20
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 3006
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a180a6ca6b42f15f0800000000000000
+      internalID: -783867443143899110
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_21
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 3006
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9eea17d189cb18480800000000000000
+      internalID: -8898624027192348951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_22
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 3006
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 844b5040f417e2350800000000000000
+      internalID: 5993852738260546632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_23
+      rect:
+        serializedVersion: 2
+        x: 3329
+        y: 3006
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c7ada1a4610d56100800000000000000
+      internalID: 100715360836835964
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_24
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 3006
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a5616c578ce29d000800000000000000
+      internalID: 61131508450465370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_25
+      rect:
+        serializedVersion: 2
+        x: 3967
+        y: 3006
+        width: 254
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e5549dfb60a585f20800000000000000
+      internalID: 3411575702768141662
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_26
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2685
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ac542b3a5446e1150800000000000000
+      internalID: 5845219616635373002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_27
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2685
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 026aa6fc8a78f91d0800000000000000
+      internalID: -3341803239381490144
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_28
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 2685
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c9f2a901884f2fb70800000000000000
+      internalID: 8931469876260384668
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_29
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 2685
+        width: 254
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 451365ded7d7619b0800000000000000
+      internalID: -5109758747399016108
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_30
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 2685
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0352031b1805a7570800000000000000
+      internalID: 8465166967549994288
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_31
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 2685
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 81058636c73de2400800000000000000
+      internalID: 301410756277587992
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_32
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 2685
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a69ed4ac0381a8170800000000000000
+      internalID: 8181378270903527786
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_33
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 2685
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 738eada28824d7280800000000000000
+      internalID: -9043999324088113097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_34
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 2685
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dd7790eb3744fe160800000000000000
+      internalID: 7056934405013075933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_35
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 2685
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 219dbf9c61825b340800000000000000
+      internalID: 4878849849668917522
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_36
+      rect:
+        serializedVersion: 2
+        x: 3329
+        y: 2685
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 85f82935809bef930800000000000000
+      internalID: 4178980949659389784
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_37
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 2685
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5f2ce4a3d34016bf0800000000000000
+      internalID: -332980236430949643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_38
+      rect:
+        serializedVersion: 2
+        x: 3967
+        y: 2685
+        width: 254
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5c52d0b9acdd53070800000000000000
+      internalID: 8085612568268056005
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_39
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2359
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 675fdf8a8377e4950800000000000000
+      internalID: 6435212002796107126
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_40
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2359
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cf6e6d51ebbe2c9b0800000000000000
+      internalID: -5061223829568297220
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_41
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 2359
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ab4fc0f1505baadd0800000000000000
+      internalID: -2473966011686259526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_42
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 2359
+        width: 254
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f2338a3e32a131940800000000000000
+      internalID: 5265581130771870511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_43
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 2359
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ea54ddbce6f8d8700800000000000000
+      internalID: 544248836011148718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_44
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 2359
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3ab4888e0b9e6f5b0800000000000000
+      internalID: -5334819762549011549
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_45
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 2359
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87935db227a886fa0800000000000000
+      internalID: -5807239496527955592
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_46
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 2359
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 638dc173bc0e129f0800000000000000
+      internalID: -494867320626423754
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_47
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 2359
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 47c973f0f57452790800000000000000
+      internalID: -7555554326241371020
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_48
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 2359
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8dabb504fcb304bc0800000000000000
+      internalID: -3800972324176676136
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_49
+      rect:
+        serializedVersion: 2
+        x: 3329
+        y: 2359
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9e92edab5e417d1f0800000000000000
+      internalID: -1020323813660939799
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_50
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 2359
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d5bf7c76ce2e33ae0800000000000000
+      internalID: -1570662340040852643
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_51
+      rect:
+        serializedVersion: 2
+        x: 3967
+        y: 2359
+        width: 254
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: a463e17356ee0d930800000000000000
+      internalID: 4166091773801543242
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_52
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 2007
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 9b2ead78a24be86b0800000000000000
+      internalID: -5292094417352858951
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_53
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 2007
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 40a8a69ef91363950800000000000000
+      internalID: 6428380081003596292
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_54
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 2007
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b907383ae31384b10800000000000000
+      internalID: 1965875382448255131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_55
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 2007
+        width: 254
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0a50791dc6e718ca0800000000000000
+      internalID: -6016388621352368736
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_56
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 2007
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: da89e8df7bd1bf830800000000000000
+      internalID: 4105908161348540589
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_57
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 2007
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4d15edde0c9df1360800000000000000
+      internalID: 7142666956680614356
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_58
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 2007
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 82414d16350f88e20800000000000000
+      internalID: 3353194163491574824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_59
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 2007
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d34b81cb5bed7eb50800000000000000
+      internalID: 6622506649197786173
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_60
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 2007
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ae3b2dce6b570f920800000000000000
+      internalID: 3022044778483332074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_61
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 2007
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 7f80355a795aee4f0800000000000000
+      internalID: -797518013265671945
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_62
+      rect:
+        serializedVersion: 2
+        x: 3329
+        y: 2007
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cc1995ec5103c6dd0800000000000000
+      internalID: -2491563623628303924
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_63
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 2007
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ddcd2a26425a07be0800000000000000
+      internalID: -1481502701712646947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_64
+      rect:
+        serializedVersion: 2
+        x: 3967
+        y: 2007
+        width: 254
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d144a4febc0ff29f0800000000000000
+      internalID: -490909075676445667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_65
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1677
+        width: 255
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f39bf9c68c813cbc0800000000000000
+      internalID: -3764137614456669889
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_66
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1677
+        width: 255
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: abdef23682fed7c60800000000000000
+      internalID: 7817667484926864826
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_67
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1677
+        width: 255
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2b0be0edd92f7fd00800000000000000
+      internalID: 1006539801589887154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_68
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1677
+        width: 254
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: bee5d70208dd91420800000000000000
+      internalID: 2601353802153811691
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_69
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1677
+        width: 255
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaff8a86373bc7830800000000000000
+      internalID: 4070325471494602670
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_70
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1677
+        width: 255
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 2c2b7fb7a4cb97210800000000000000
+      internalID: 1331302192958124738
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_71
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1677
+        width: 255
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: aabb263b7aeaee890800000000000000
+      internalID: -7426806700195005526
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_72
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 1677
+        width: 255
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 38be687560f9b0740800000000000000
+      internalID: 5119360251023780739
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_73
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 1677
+        width: 255
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d46ffa339fc4f9f90800000000000000
+      internalID: -6944747467184277939
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_74
+      rect:
+        serializedVersion: 2
+        x: 3002
+        y: 1677
+        width: 255
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: cedf10add307de240800000000000000
+      internalID: 4822634186936548844
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_75
+      rect:
+        serializedVersion: 2
+        x: 3329
+        y: 1677
+        width: 255
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 6a3cb7ab2f37de550800000000000000
+      internalID: 6191732549052253094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_76
+      rect:
+        serializedVersion: 2
+        x: 3639
+        y: 1677
+        width: 255
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 0b39c39f82eb1cba0800000000000000
+      internalID: -6070361739529251920
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_77
+      rect:
+        serializedVersion: 2
+        x: 3967
+        y: 1677
+        width: 254
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 79b8dfaffe59c29d0800000000000000
+      internalID: -2797696410563277929
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_78
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1356
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 4c5c913f266d13ae0800000000000000
+      internalID: -1571239074501900860
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_79
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1356
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 385776fc90f169d60800000000000000
+      internalID: 7896533123635574147
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_80
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1356
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa862e257a866630800000000000000
+      internalID: 3919972761562679982
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_81
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1356
+        width: 254
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 5555c6e0855af4f00800000000000000
+      internalID: 1103282231346746709
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_82
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1356
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 413e49506ce5ee020800000000000000
+      internalID: 2372938258261009172
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_83
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1356
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: eaa1b1ac9f93e46e0800000000000000
+      internalID: -1851478651802281298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_84
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1356
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 19f4a14fbb1a43920800000000000000
+      internalID: 2969175882970320785
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_85
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 1356
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e667877bdedb554a0800000000000000
+      internalID: -6605164449785940370
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_86
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 1356
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 33d3c05389e72e1c0800000000000000
+      internalID: -4475875887462728397
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_87
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 1360
+        width: 254
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 51255f8a29ae68ce0800000000000000
+      internalID: -1403176318258556395
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_88
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 1360
+        width: 254
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 87f35d1bbf0147300800000000000000
+      internalID: 248842552618598264
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_89
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 1360
+        width: 255
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 37168372ea82c5e30800000000000000
+      internalID: 4493511256656339315
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_90
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 1360
+        width: 254
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 25b4ee92ca45f0bc0800000000000000
+      internalID: -3814737260944929966
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_91
+      rect:
+        serializedVersion: 2
+        x: 77
+        y: 1037
+        width: 255
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: ba5a7ac66b715fc10800000000000000
+      internalID: 2086600074630505899
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_92
+      rect:
+        serializedVersion: 2
+        x: 412
+        y: 1037
+        width: 255
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 3076f4acf9fd69c00800000000000000
+      internalID: 907158252348729091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_93
+      rect:
+        serializedVersion: 2
+        x: 742
+        y: 1037
+        width: 255
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: c4f973c420e9b5970800000000000000
+      internalID: 8744756834175786828
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_94
+      rect:
+        serializedVersion: 2
+        x: 1049
+        y: 1037
+        width: 254
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 8bf469543992216d0800000000000000
+      internalID: -3021306687507771464
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_95
+      rect:
+        serializedVersion: 2
+        x: 1371
+        y: 1037
+        width: 255
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 21d4a11344971aa70800000000000000
+      internalID: 8836477277666168082
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_96
+      rect:
+        serializedVersion: 2
+        x: 1703
+        y: 1037
+        width: 255
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 576d4f4a53cb832a0800000000000000
+      internalID: -6757444302282631563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_97
+      rect:
+        serializedVersion: 2
+        x: 2034
+        y: 1037
+        width: 255
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: b96f6e0dc93980250800000000000000
+      internalID: 5911136812652754587
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_98
+      rect:
+        serializedVersion: 2
+        x: 2369
+        y: 1037
+        width: 255
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 52a979c0de0ada310800000000000000
+      internalID: 1417966397670529573
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_99
+      rect:
+        serializedVersion: 2
+        x: 2677
+        y: 1037
+        width: 255
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: d981d5fdf9f35ac90800000000000000
+      internalID: -7159246076755765091
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_100
+      rect:
+        serializedVersion: 2
+        x: 2998
+        y: 1044
+        width: 254
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 545f87f5092226300800000000000000
+      internalID: 243795333303825733
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_101
+      rect:
+        serializedVersion: 2
+        x: 3332
+        y: 1044
+        width: 254
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: dae75b03fe554a2d0800000000000000
+      internalID: -3268392943761391955
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_102
+      rect:
+        serializedVersion: 2
+        x: 3641
+        y: 1044
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: f0cb0d4d70c100a30800000000000000
+      internalID: 4179371274160618511
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_103
+      rect:
+        serializedVersion: 2
+        x: 3968
+        y: 1044
+        width: 254
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: e0e89541dea58c8d0800000000000000
+      internalID: -2825908791879823858
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_104
+      rect:
+        serializedVersion: 2
+        x: 90
+        y: 721
+        width: 565
+        height: 256
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: 68be8f63463094b00800000000000000
+      internalID: 813184936670980998
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: UI_ICONS_DarkBg_105
+      rect:
+        serializedVersion: 2
+        x: 739
+        y: 718
+        width: 255
+        height: 257
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: -1
+      bones: []
+      spriteID: df0f2a9de96786d70800000000000000
+      internalID: 9036603076947144957
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: 
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      UI_ICONS_DarkBg_0: 877088274126164066
+      UI_ICONS_DarkBg_1: 7940763726888726140
+      UI_ICONS_DarkBg_10: 5622765634695202318
+      UI_ICONS_DarkBg_100: 243795333303825733
+      UI_ICONS_DarkBg_101: -3268392943761391955
+      UI_ICONS_DarkBg_102: 4179371274160618511
+      UI_ICONS_DarkBg_103: -2825908791879823858
+      UI_ICONS_DarkBg_104: 813184936670980998
+      UI_ICONS_DarkBg_105: 9036603076947144957
+      UI_ICONS_DarkBg_11: -4216164783197860372
+      UI_ICONS_DarkBg_12: -6303966736944991251
+      UI_ICONS_DarkBg_13: 5646396818708436813
+      UI_ICONS_DarkBg_14: -3104546290927365960
+      UI_ICONS_DarkBg_15: -5574003662096774765
+      UI_ICONS_DarkBg_16: -8213733840838290656
+      UI_ICONS_DarkBg_17: -1314669596782940823
+      UI_ICONS_DarkBg_18: 7957636852406389089
+      UI_ICONS_DarkBg_19: -3710423049811772315
+      UI_ICONS_DarkBg_2: 8825704928568270085
+      UI_ICONS_DarkBg_20: -783867443143899110
+      UI_ICONS_DarkBg_21: -8898624027192348951
+      UI_ICONS_DarkBg_22: 5993852738260546632
+      UI_ICONS_DarkBg_23: 100715360836835964
+      UI_ICONS_DarkBg_24: 61131508450465370
+      UI_ICONS_DarkBg_25: 3411575702768141662
+      UI_ICONS_DarkBg_26: 5845219616635373002
+      UI_ICONS_DarkBg_27: -3341803239381490144
+      UI_ICONS_DarkBg_28: 8931469876260384668
+      UI_ICONS_DarkBg_29: -5109758747399016108
+      UI_ICONS_DarkBg_3: 5749757593376169337
+      UI_ICONS_DarkBg_30: 8465166967549994288
+      UI_ICONS_DarkBg_31: 301410756277587992
+      UI_ICONS_DarkBg_32: 8181378270903527786
+      UI_ICONS_DarkBg_33: -9043999324088113097
+      UI_ICONS_DarkBg_34: 7056934405013075933
+      UI_ICONS_DarkBg_35: 4878849849668917522
+      UI_ICONS_DarkBg_36: 4178980949659389784
+      UI_ICONS_DarkBg_37: -332980236430949643
+      UI_ICONS_DarkBg_38: 8085612568268056005
+      UI_ICONS_DarkBg_39: 6435212002796107126
+      UI_ICONS_DarkBg_4: 7282766646068224214
+      UI_ICONS_DarkBg_40: -5061223829568297220
+      UI_ICONS_DarkBg_41: -2473966011686259526
+      UI_ICONS_DarkBg_42: 5265581130771870511
+      UI_ICONS_DarkBg_43: 544248836011148718
+      UI_ICONS_DarkBg_44: -5334819762549011549
+      UI_ICONS_DarkBg_45: -5807239496527955592
+      UI_ICONS_DarkBg_46: -494867320626423754
+      UI_ICONS_DarkBg_47: -7555554326241371020
+      UI_ICONS_DarkBg_48: -3800972324176676136
+      UI_ICONS_DarkBg_49: -1020323813660939799
+      UI_ICONS_DarkBg_5: 1862730802674219022
+      UI_ICONS_DarkBg_50: -1570662340040852643
+      UI_ICONS_DarkBg_51: 4166091773801543242
+      UI_ICONS_DarkBg_52: -5292094417352858951
+      UI_ICONS_DarkBg_53: 6428380081003596292
+      UI_ICONS_DarkBg_54: 1965875382448255131
+      UI_ICONS_DarkBg_55: -6016388621352368736
+      UI_ICONS_DarkBg_56: 4105908161348540589
+      UI_ICONS_DarkBg_57: 7142666956680614356
+      UI_ICONS_DarkBg_58: 3353194163491574824
+      UI_ICONS_DarkBg_59: 6622506649197786173
+      UI_ICONS_DarkBg_6: -163007992582371416
+      UI_ICONS_DarkBg_60: 3022044778483332074
+      UI_ICONS_DarkBg_61: -797518013265671945
+      UI_ICONS_DarkBg_62: -2491563623628303924
+      UI_ICONS_DarkBg_63: -1481502701712646947
+      UI_ICONS_DarkBg_64: -490909075676445667
+      UI_ICONS_DarkBg_65: -3764137614456669889
+      UI_ICONS_DarkBg_66: 7817667484926864826
+      UI_ICONS_DarkBg_67: 1006539801589887154
+      UI_ICONS_DarkBg_68: 2601353802153811691
+      UI_ICONS_DarkBg_69: 4070325471494602670
+      UI_ICONS_DarkBg_7: -5542102402607631286
+      UI_ICONS_DarkBg_70: 1331302192958124738
+      UI_ICONS_DarkBg_71: -7426806700195005526
+      UI_ICONS_DarkBg_72: 5119360251023780739
+      UI_ICONS_DarkBg_73: -6944747467184277939
+      UI_ICONS_DarkBg_74: 4822634186936548844
+      UI_ICONS_DarkBg_75: 6191732549052253094
+      UI_ICONS_DarkBg_76: -6070361739529251920
+      UI_ICONS_DarkBg_77: -2797696410563277929
+      UI_ICONS_DarkBg_78: -1571239074501900860
+      UI_ICONS_DarkBg_79: 7896533123635574147
+      UI_ICONS_DarkBg_8: 1429349665347460887
+      UI_ICONS_DarkBg_80: 3919972761562679982
+      UI_ICONS_DarkBg_81: 1103282231346746709
+      UI_ICONS_DarkBg_82: 2372938258261009172
+      UI_ICONS_DarkBg_83: -1851478651802281298
+      UI_ICONS_DarkBg_84: 2969175882970320785
+      UI_ICONS_DarkBg_85: -6605164449785940370
+      UI_ICONS_DarkBg_86: -4475875887462728397
+      UI_ICONS_DarkBg_87: -1403176318258556395
+      UI_ICONS_DarkBg_88: 248842552618598264
+      UI_ICONS_DarkBg_89: 4493511256656339315
+      UI_ICONS_DarkBg_9: 1707963891525841972
+      UI_ICONS_DarkBg_90: -3814737260944929966
+      UI_ICONS_DarkBg_91: 2086600074630505899
+      UI_ICONS_DarkBg_92: 907158252348729091
+      UI_ICONS_DarkBg_93: 8744756834175786828
+      UI_ICONS_DarkBg_94: -3021306687507771464
+      UI_ICONS_DarkBg_95: 8836477277666168082
+      UI_ICONS_DarkBg_96: -6757444302282631563
+      UI_ICONS_DarkBg_97: 5911136812652754587
+      UI_ICONS_DarkBg_98: 1417966397670529573
+      UI_ICONS_DarkBg_99: -7159246076755765091
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

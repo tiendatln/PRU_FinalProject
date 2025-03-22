@@ -81,8 +81,6 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 42427705fc395f94bba3320d81839ab6, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  scene: Map_3
-  playerMainData: {fileID: 11400000, guid: 1670c51ad9f0db24981d83bef9e0dad5, type: 2}
 --- !u!1 &5148580528871596402
 GameObject:
   m_ObjectHideFlags: 0

@@ -150,7 +150,14 @@ public class PlayerAttack : MonoBehaviour
             {
                 Cthulu.TakeDamage(playerController.PlayerMainData.attack);
             }
-
+            if (enemy.gameObject.TryGetComponent<Shadow>(out Shadow shadow))
+            {
+                shadow.TakeDamage(playerController.PlayerMainData.attack);
+            }
+            if (enemy.gameObject.TryGetComponent<SandSwormAI>(out SandSwormAI SandSwormAI))
+            {
+                SandSwormAI.TakeDamage(playerController.PlayerMainData.attack);
+            }
             Debug.Log("Hit " + enemy.name);
         }
     }

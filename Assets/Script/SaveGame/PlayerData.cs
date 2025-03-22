@@ -13,6 +13,8 @@ using UnityEngine;
         public int leverText;
         public float[] PlayerPosition;
         public int MapIndex;
+        public float musicVolume;
+        public float SFXVolume;
     public PlayerData(PlayerMainData player)
         {
             health = player.health;
@@ -20,8 +22,9 @@ using UnityEngine;
             leverEX = player.leverEX;
             leverText = player.leverText;
             attackSkill = player.attackSkill;
-            MapIndex = player.Mapindex;
-
+            MapIndex = player.indexOfCurrentMap;
+            musicVolume = player.musicVolume;
+            SFXVolume = player.SFXVolume;
 
             if (player != null && player.PlayerPosition != null && player.PlayerPosition.Length >= 3)
             {
