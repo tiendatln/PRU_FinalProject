@@ -1,4 +1,4 @@
-﻿using Unity.VisualScripting;
+﻿
 using UnityEngine;
 using UnityEngine.SceneManagement;
 
@@ -75,6 +75,12 @@ public class PlayerMainData : ScriptableObject
         CheckPointNew(mapIndex);
 
     }
+
+    public void resetPlayer()
+    {
+        SetVectorPlayer(GameObject.Find("StartGate").transform.position);
+    }
+
     void SetDefaultData()
     {
         health = 100f;

@@ -19,7 +19,7 @@ public class DeadMenu : MonoBehaviour
             SceneManager.LoadScene(GameManager.Instance.GetPlayerData().indexOfCurrentMap);
             Time.timeScale = 1f;
             GameManager.Instance.GetPlayerData().health = 100;
-            GameManager.Instance.GetPlayerData().CheckPointNew(SceneManager.GetActiveScene().buildIndex);
+            GameManager.Instance.GetPlayerData().resetPlayer();
         }
 
     }

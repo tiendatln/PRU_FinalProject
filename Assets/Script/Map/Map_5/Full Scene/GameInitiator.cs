@@ -14,7 +14,7 @@ public class GameInitiator : MonoBehaviour
     [SerializeField] private GameObject _objectPool;
     [SerializeField] private GameObject _DeadUI;
     [SerializeField] private GameObject _enemy;
-    
+    [SerializeField] private GameObject _audioManager;
 
 
     // Start is called once before the first execution of Update after the MonoBehaviour is created
@@ -26,6 +26,7 @@ public class GameInitiator : MonoBehaviour
 
     private void CreateGameObject()
     {
+        _audioManager = Instantiate(_audioManager);
         _gameManager = Instantiate(_gameManager);
         _Camera = Instantiate(_Camera);
         _player = Instantiate(_player);

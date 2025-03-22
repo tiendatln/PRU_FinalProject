@@ -1,8 +1,8 @@
-﻿using TMPro;
+﻿
 using UnityEngine;
 using UnityEngine.UI;
 using System.Collections;
-using UnityEngine.Events;
+
 
 public class FinalBoss : MonoBehaviour
 {
