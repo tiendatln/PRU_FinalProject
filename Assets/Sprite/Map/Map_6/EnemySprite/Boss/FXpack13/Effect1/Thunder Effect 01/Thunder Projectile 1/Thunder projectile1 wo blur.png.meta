@@ -234,7 +234,12 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      Thunder projectile1 wo blur_0: 7666334394838116369
+      Thunder projectile1 wo blur_1: 4553078293868461108
+      Thunder projectile1 wo blur_2: -1012203741942079947
+      Thunder projectile1 wo blur_3: 3260714212148884173
+      Thunder projectile1 wo blur_4: -1711625435418426776
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
