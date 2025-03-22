@@ -39,6 +39,7 @@ public class GameManager : MonoBehaviour
     {
         if (playerData != null)
         {
+            
             playerData.SavePlayer();
             Debug.Log("Player data saved on game quit.");
         }

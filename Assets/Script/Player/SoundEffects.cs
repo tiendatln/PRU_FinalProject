@@ -9,41 +9,39 @@ public class SoundEffects : MonoBehaviour
     public AudioClip MagicSkill;
     public AudioClip FootStep;
 
-    public AudioSource AudioSource;
 
     public void playAttack1Sound()
     {
-        AudioSource.clip = Attack1;
-        AudioSource.Play();
+        AudioManager.Instance.playSFXSound(Attack1);
     }
 
     public void playAttack2Sound()
     {
-        AudioSource.clip = Attack2;
-        AudioSource.Play();
+        AudioManager.Instance.playSFXSound(Attack2);
     }
 
     public void playAttack3Sound()
     {
-        AudioSource.clip = Attack3;
-        AudioSource.Play();
+        AudioManager.Instance.playSFXSound(Attack3);
     }
 
     public void playBowShootSound()
     {
-        AudioSource.clip = BowShoot;
-        AudioSource.Play();
+        AudioManager.Instance.playSFXSound(BowShoot);
     }
 
     public void playMagicSkill()
     {
-        AudioSource.clip = MagicSkill;
-        AudioSource.Play();
+        AudioManager.Instance.playSFXSound(MagicSkill);
     }
 
     public void playFootStepSound()
     {
-        AudioSource.clip = FootStep;
-        AudioSource.Play();
+        AudioManager.Instance.playSFXSound(FootStep);
+    }
+
+    public void playJumpSound()
+    {
+
     }
 }
