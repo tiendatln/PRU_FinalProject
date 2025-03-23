@@ -6,7 +6,7 @@ public class DeadMap : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            GameManager.Instance.GetPlayerData().health = 0;
+            GameManager.Instance.getMainData().health = 0;
         }
     }
 }

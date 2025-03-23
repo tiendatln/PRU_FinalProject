@@ -24,21 +24,20 @@ public class MonsterSpawnSKill : MonoBehaviour
 
     void Update()
     {
-        
+
         if (player != null)
         {
             // Tính hướng quay
             Vector3 direction = (player.position - transform.position).normalized;
 
-            // Tạo góc quay mới nhưng giữ nguyên trục Y
-            Quaternion lookRotation = Quaternion.LookRotation(new Vector3(direction.x, direction.y, direction.z));
+            // Chuyển hướng thành góc quay cho 2D
+            float angle = Mathf.Atan2(direction.y, direction.x) * Mathf.Rad2Deg;
 
-            // Xoay 90 độ quanh trục Y để trục X hướng về player
-            lookRotation *= Quaternion.Euler(0, -90, 0);
+            // Áp dụng góc quay theo trục Z thay vì sử dụng LookRotation
+            Quaternion targetRotation = Quaternion.Euler(new Vector3(0, 0, angle));
 
             // Quay dần về hướng Player 
-            transform.rotation = Quaternion.Slerp(transform.rotation, lookRotation, Time.deltaTime * rotationSpeed);
-
+            transform.rotation = Quaternion.Slerp(transform.rotation, targetRotation, Time.deltaTime * rotationSpeed);
         }
 
 

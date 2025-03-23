@@ -3,6 +3,7 @@ using UnityEngine;
 public class TurnOnAttackMap : MonoBehaviour
 {
     // Start is called once before the first execution of Update after the MonoBehaviour is created
+    public AudioClip FireAttack;
     private GameObject attackMap;
     private void Awake()
     {
@@ -14,7 +15,8 @@ public class TurnOnAttackMap : MonoBehaviour
     public void AttackMapDownOn()
     {
         attackMap.SetActive(true);
-        Invoke("AttackMapDownOff", 1f);
+        AudioManager.Instance.playSFXSound(FireAttack);
+        Invoke("AttackMapDownOff", 0.5f);
     }
 
     public void AttackMapDownOff()

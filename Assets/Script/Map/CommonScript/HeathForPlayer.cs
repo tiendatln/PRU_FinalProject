@@ -24,7 +24,7 @@ public class HeathForPlayer : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            GameManager.Instance.GetPlayerData().Heal(5);
+            GameManager.Instance.getMainData().Heal(5);
             this.gameObject.SetActive(false);
         }
     }

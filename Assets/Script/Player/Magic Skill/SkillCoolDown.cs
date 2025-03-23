@@ -14,8 +14,8 @@ public class SkillCoolDown : MonoBehaviour
     void Start()
     {
         playerController = GameObject.Find("Character").gameObject.GetComponent<PlayerController>();
-        CoolDownMagic.fillAmount = playerController.PlayerSpawnMagicSkill.MagicCoolDownSkill;
-        CoolDownArrow.fillAmount = playerController.PlayerSpawnMagicSkill.ArrowCoolDownSkill;
+        //CoolDownMagic.fillAmount = playerController.PlayerSpawnMagicSkill.MagicCoolDownSkill;
+        //CoolDownArrow.fillAmount = playerController.PlayerSpawnMagicSkill.ArrowCoolDownSkill;
     }
 
     // Update is called once per frame

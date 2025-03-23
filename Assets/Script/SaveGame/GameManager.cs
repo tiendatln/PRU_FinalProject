@@ -5,7 +5,8 @@ public class GameManager : MonoBehaviour
     private static GameManager _instance;
     public static GameManager Instance => _instance;
 
-    [SerializeField] private PlayerMainData playerData;  // Gắn ScriptableObject trong Inspector
+    
+    [SerializeField] private MainData mainData;
     private bool isDataLoaded = false;
 
     private void Awake()
@@ -20,27 +21,29 @@ public class GameManager : MonoBehaviour
         DontDestroyOnLoad(gameObject);
 
         // Load dữ liệu chỉ một lần
-        if (!isDataLoaded && playerData != null)
+        if (!isDataLoaded && mainData != null)
         {
-            playerData.LoadData();
+            mainData.LoadData();
             isDataLoaded = true;
             Debug.Log("Player data loaded once at game start.");
         }
     }
 
     // Truy cập PlayerMainData từ bất kỳ đâu
-    public PlayerMainData GetPlayerData()
+
+    public MainData getMainData()
     {
-        return playerData;
+        return mainData;
     }
 
     // Lưu dữ liệu khi cần (ví dụ: khi thoát game)
     private void OnApplicationQuit()
     {
-        if (playerData != null)
+        if (mainData != null)
         {
-            
-            playerData.SavePlayer();
+
+            mainData.SavePlayer();
+            //playerData.SaveStartGateOfCurrentMap();
             Debug.Log("Player data saved on game quit.");
         }
     }

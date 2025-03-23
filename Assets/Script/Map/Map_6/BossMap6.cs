@@ -196,4 +196,20 @@ public class BossMap6 : MonoBehaviour
   
 
     }
+
+
+    public void SendDamage()
+    {
+        Collider2D[] hitEnemies = Physics2D.OverlapBoxAll(AttackPoint, squareAttackSize, PlayerMask);
+        foreach (Collider2D enemy in hitEnemies)
+        {
+
+            // Kiểm tra xem enemy có component EnemyAI_2D hay không
+            if (enemy.gameObject.TryGetComponent<DamageReceived>(out DamageReceived player))
+            {
+                player.TakeDamage(_damage); // Gây sát thương lên kẻ địch
+            }
+
+        }
+    }
 }

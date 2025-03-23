@@ -28,7 +28,7 @@ public class DamageReceived : MonoBehaviour
     {
         Die();
 
-        UIController.Instance.GetPlayerUI().GetComponent<PlayerUI>().SetHeath(controller.PlayerMainData.health);
+        UIController.Instance.GetPlayerUI().GetComponent<PlayerUI>().SetHeath(controller.PlayerMainData().health);
 
         //controller.PlayerUI.SetHeath(controller.PlayerMainData.health);
 
@@ -36,7 +36,7 @@ public class DamageReceived : MonoBehaviour
 
     public virtual void TakeDamage(float _damage)
     {
-        controller.PlayerMainData.health -= _damage;
+        controller.PlayerMainData().health -= _damage;
         spriteRenderer.color = Color.red;
         Invoke("setDefaulColor", 0.3f);
     }
@@ -49,7 +49,7 @@ public class DamageReceived : MonoBehaviour
 
     void Die()
     {
-        if (controller.PlayerMainData.health <= 0)
+        if (controller.PlayerMainData().health <= 0)
         {
             animator.SetBool("Death", true);
             controller.SetCanMove();

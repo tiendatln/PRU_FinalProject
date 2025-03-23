@@ -132,33 +132,42 @@ public class PlayerAttack : MonoBehaviour
         Collider2D[] hitEnemies = Physics2D.OverlapCircleAll(attackPoint.position, attackRange, enemyLayer);
         foreach (Collider2D enemy in hitEnemies)
         {
-
+           
             // Kiểm tra xem enemy có component EnemyAI_2D hay không
             if (enemy.gameObject.TryGetComponent<EnemyAI_2D>(out EnemyAI_2D _enemy))
             {
-                _enemy.TakeDamage(playerController.PlayerMainData.attack); // Gây sát thương lên kẻ địch
+                _enemy.TakeDamage(playerController.PlayerMainData().attack); // Gây sát thương lên kẻ địch
             }
             if(enemy.gameObject.TryGetComponent<Medusa>(out Medusa medusa))
             {
-                medusa.TakeDamage(playerController.PlayerMainData.attack);
+                medusa.TakeDamage(playerController.PlayerMainData().attack);
             }
             if (enemy.gameObject.TryGetComponent<Boss>(out Boss boss))
             {
-                boss.TakeDamage(playerController.PlayerMainData.attack);
+                boss.TakeDamage(playerController.PlayerMainData().attack);
             }
             if (enemy.gameObject.TryGetComponent<Cthulu>(out Cthulu Cthulu))
             {
-                Cthulu.TakeDamage(playerController.PlayerMainData.attack);
+                Cthulu.TakeDamage(playerController.PlayerMainData().attack);
             }
             if (enemy.gameObject.TryGetComponent<Shadow>(out Shadow shadow))
             {
-                shadow.TakeDamage(playerController.PlayerMainData.attack);
+                shadow.TakeDamage(playerController.PlayerMainData().attack);
             }
             if (enemy.gameObject.TryGetComponent<SandSwormAI>(out SandSwormAI SandSwormAI))
             {
-                SandSwormAI.TakeDamage(playerController.PlayerMainData.attack);
+                SandSwormAI.TakeDamage(playerController.PlayerMainData().attack);
             }
-            Debug.Log("Hit " + enemy.name);
+            if (enemy.gameObject.TryGetComponent<BossMap6>(out BossMap6 BossMap6))
+            {
+                BossMap6.TakeDamage(playerController.PlayerMainData().attack);
+            }
+            if (enemy.gameObject.TryGetComponent<FinalBoss>(out FinalBoss FinalBoss))
+            {
+                FinalBoss.TakeDamage(playerController.PlayerMainData().attack);
+            }
+
+            Debug.Log("Hit " + enemy);
         }
     }
 
