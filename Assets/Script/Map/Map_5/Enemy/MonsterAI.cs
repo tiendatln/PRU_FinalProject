@@ -78,9 +78,9 @@ public class EnemyAI_2D : MonoBehaviour
     void Update()
     {
         if (player == null) return;
-        
+
         distanceToPlayer = Vector2.Distance(attackPoint.position, player.position);
-       
+
         AnimatorStateInfo animationState = animator.GetCurrentAnimatorStateInfo(0);
         TimeStopAnimation = animationState.length;
         if (HP <= 0 && animator.GetBool(DeathAnimationName) == false)
@@ -90,27 +90,28 @@ public class EnemyAI_2D : MonoBehaviour
         }
         else
         {
-            if (distanceToPlayer <= attackRange && (distanceToPlayer <= detectionRange && isFly == false))
+            // Kiểm tra xem player có trong phạm vi patrol không
+            bool isPlayerInPatrolRange = this.transform.position.x >= (startPosition.x - patrolDistance) &&
+                                       this.transform.position.x <= (startPosition.x + patrolDistance);
+
+            if (distanceToPlayer <= attackRange && isPlayerInPatrolRange)
             {
                 if (canAttack)
                 {
                     canAttack = false;
                     Attack();
                 }
-                
             }
-            else if (distanceToPlayer <= detectionRange)
+            else if (distanceToPlayer <= detectionRange && isPlayerInPatrolRange)
             {
-                
-                    ChasePlayer();
-
-            }else
+                ChasePlayer();
+            }
+            else
             {
                 Patrol();
             }
         }
     }
- 
 
     void Patrol()
     {
@@ -121,7 +122,6 @@ public class EnemyAI_2D : MonoBehaviour
                 animator.SetFloat(WalkAnimationName, 2f);
             }
         }
-        
 
         // Move towards target position
         transform.position = Vector2.MoveTowards(transform.position, targetPosition, speed * Time.deltaTime);
@@ -137,8 +137,6 @@ public class EnemyAI_2D : MonoBehaviour
             else
                 targetPosition = startPosition + Vector2.right * patrolDistance; // Move right
         }
-        
-        
     }
 
     void ChasePlayer()
