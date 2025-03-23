@@ -1,4 +1,6 @@
 using UnityEngine;
+using UnityEngine.Audio;
+using UnityEngine.Rendering;
 
 public class AudioManager : MonoBehaviour
 {
@@ -8,11 +10,10 @@ public class AudioManager : MonoBehaviour
     public AudioSource[] audioSFX;
     public AudioSource audioMusic;
 
+    public AudioMixer audioMixer;
+
     private void Start()
     {
-        audioSFX[0].volume = GameManager.Instance.GetPlayerData().SFXVolume;
-        audioMusic.volume = GameManager.Instance.GetPlayerData().musicVolume;
-
 
         if (_instance != null && _instance != this)
         {
@@ -21,6 +22,9 @@ public class AudioManager : MonoBehaviour
         }
         _instance = this;
         DontDestroyOnLoad(gameObject);
+
+        audioMixer.SetFloat("SFX", GameManager.Instance.getMainData().SFXVolume);
+        audioMixer.SetFloat("Music", GameManager.Instance.getMainData().musicVolume);
     }
 
     public void playSFXSound(AudioClip _SFXSound)
@@ -29,9 +33,12 @@ public class AudioManager : MonoBehaviour
         {
             if (audioSFX[i].isPlaying == false)
             {
-                audioSFX[i].clip = _SFXSound;
-                audioSFX[i].Play();
+                audioSFX[i].PlayOneShot(_SFXSound);
                 return;
+            }
+            else
+            {
+                audioSFX[i].PlayOneShot(_SFXSound);
             }
             
         }
@@ -59,16 +66,14 @@ public class AudioManager : MonoBehaviour
 
     public void setSFXVolume(float _volume)
     {
-        for (int i = 0; i < audioSFX.Length; i++)
-        {
-            audioSFX[i].volume = _volume;
-        }
+        audioMixer.SetFloat("SFX", _volume);
+        GameManager.Instance.getMainData().SFXVolume = _volume;
     }
 
     public void setMusicVolume(float _volume)
     {
-        
-            audioMusic.volume = _volume;
-        
+
+        audioMixer.SetFloat("Music", _volume);
+        GameManager.Instance.getMainData().musicVolume = _volume;
     }
 }

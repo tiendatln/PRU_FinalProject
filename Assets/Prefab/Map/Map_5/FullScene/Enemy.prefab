@@ -76,13 +76,13 @@ GameObject:
   serializedVersion: 6
   m_Component:
   - component: {fileID: 5266845234866467093}
+  - component: {fileID: 2450782274089481993}
   - component: {fileID: 1050364211712682507}
   - component: {fileID: 1060152993690208093}
-  - component: {fileID: 8601226169935443955}
   - component: {fileID: 7357761793650615535}
-  - component: {fileID: 6788619504890168674}
   - component: {fileID: 6842267190314979820}
   - component: {fileID: 9083745525225725969}
+  - component: {fileID: 1836803742016898889}
   m_Layer: 6
   m_Name: Dragon knight
   m_TagString: enemy
@@ -109,6 +109,45 @@ Transform:
   - {fileID: 9209639159982558782}
   m_Father: {fileID: 1846843217252240051}
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
+--- !u!114 &2450782274089481993
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5307776890786147125}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: ee4fc8838c34d114b8f20c081f33a950, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  player: {fileID: 0}
+  moveSpeed: 3
+  maxHealth: 200
+  checkWallSize: {x: 0.1, y: 1}
+  checkWallPoint: {fileID: 1853510239246446340}
+  layerCheckWall:
+    serializedVersion: 2
+    m_Bits: 128
+  PlayerMask:
+    serializedVersion: 2
+    m_Bits: 512
+  slider: {fileID: 1883277467376676697}
+  healAmount50: 60
+  healAmount20: 30
+  attackCooldown: 0
+  AttackName:
+  - Attack1
+  - Attack2
+  - Attack3
+  - FireBreath
+  - AttackDown
+  squareAttackSize: {x: 4, y: 4}
+  _damage: 0
+  AttackPosition: {fileID: 5307776890786147125}
+  BossAnimation: {fileID: 1836803742016898889}
+  Gate: {fileID: 0}
+  isMove: 1
 --- !u!212 &1050364211712682507
 SpriteRenderer:
   m_ObjectHideFlags: 0
@@ -186,42 +225,6 @@ Animator:
   m_AllowConstantClipSamplingOptimization: 1
   m_KeepAnimatorStateOnDisable: 0
   m_WriteDefaultValuesOnDisable: 0
---- !u!114 &8601226169935443955
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5307776890786147125}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 6f6478828e13e98488248b23c56373ca, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  player: {fileID: 0}
-  moveSpeed: 3
-  maxHealth: 100
-  checkWallSize: {x: 0, y: 0}
-  checkWallPoint: {fileID: 0}
-  PlayerMask:
-    serializedVersion: 2
-    m_Bits: 512
-  slider: {fileID: 1883277467376676697}
-  healAmount50: 50
-  healAmount20: 30
-  attackCooldown: 2
-  AttackName:
-  - Attack1
-  - Attack2
-  - FireBreath
-  - FireBreath
-  - Attack3
-  - AttackDown
-  squareAttackSize: {x: 2, y: 2}
-  _damage: 0.0000001
-  AttackPosition: {fileID: 7824421096580207973}
-  BossAnimation: {fileID: 6788619504890168674}
-  Gate: {fileID: 4871071974920479089, guid: 1f8111fa44a55174ab5f97ad0c921495, type: 3}
 --- !u!50 &7357761793650615535
 Rigidbody2D:
   serializedVersion: 5
@@ -249,22 +252,6 @@ Rigidbody2D:
   m_SleepingMode: 1
   m_CollisionDetection: 1
   m_Constraints: 4
---- !u!114 &6788619504890168674
-MonoBehaviour:
-  m_ObjectHideFlags: 0
-  m_CorrespondingSourceObject: {fileID: 0}
-  m_PrefabInstance: {fileID: 0}
-  m_PrefabAsset: {fileID: 0}
-  m_GameObject: {fileID: 5307776890786147125}
-  m_Enabled: 1
-  m_EditorHideFlags: 0
-  m_Script: {fileID: 11500000, guid: 44e0a0c4211f8fd48afa42240530e8a1, type: 3}
-  m_Name: 
-  m_EditorClassIdentifier: 
-  animator: {fileID: 1060152993690208093}
-  _Walk: Run
-  _Dead: Dead
-  _heal: DrinkPotion
 --- !u!70 &6842267190314979820
 CapsuleCollider2D:
   m_ObjectHideFlags: 0
@@ -314,6 +301,23 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e97ef65dc8f5f5a4fb4867c01754a084, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  FireAttack: {fileID: 8300000, guid: 1c9b1ed3c898db94fac28b8529826984, type: 3}
+--- !u!114 &1836803742016898889
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 5307776890786147125}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 189de8d45277f4a42acb711cc49083d2, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  animator: {fileID: 0}
+  _Walk: Run
+  _Dead: Dead
+  _heal: DrinkPotion
 --- !u!1 &7471967788181400125
 GameObject:
   m_ObjectHideFlags: 0

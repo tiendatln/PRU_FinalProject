@@ -15,7 +15,7 @@ using UnityEngine;
         public int MapIndex;
         public float musicVolume;
         public float SFXVolume;
-    public PlayerData(PlayerMainData player)
+    public PlayerData(MainData player)
         {
             health = player.health;
             attack = player.attack;
@@ -25,6 +25,7 @@ using UnityEngine;
             MapIndex = player.indexOfCurrentMap;
             musicVolume = player.musicVolume;
             SFXVolume = player.SFXVolume;
+        
 
             if (player != null && player.PlayerPosition != null && player.PlayerPosition.Length >= 3)
             {

@@ -15,9 +15,12 @@ public class PlayerController : MonoBehaviour
     public float DashCoolDown;
     public SoundEffects SoundEffects;
 
-    public PlayerMainData PlayerMainData; // Chứa data của Player xuyên suốt các màn chơi và khi load hoặc tắt game (SaveGame)
+    public MainData PlayerMainData()
+    {
+        return GameManager.Instance.getMainData();
+    } // Chứa data của Player xuyên suốt các màn chơi và khi load hoặc tắt game (SaveGame)
 
-    void Awake()
+    void Start()
     {
         PlayerAttack = GetComponent<PlayerAttack>();
         PlMove = GetComponent<PlMove>();
@@ -25,7 +28,7 @@ public class PlayerController : MonoBehaviour
         PlayerAnimation = GetComponent<PlayerAnimation>();
         PlayerLever = GetComponent<PlayerLever>();
         PlayerSpawnMagicSkill = GameObject.Find("SpawnSkill").gameObject.GetComponent<SpawnMagicSkill>();
-        transform.position = new Vector3(PlayerMainData.PlayerPosition[0], PlayerMainData.PlayerPosition[1], PlayerMainData.PlayerPosition[2]);
+        transform.position = GameManager.Instance.getMainData().GetVectorPLayer();
         Time.timeScale = 1f;
     }
     

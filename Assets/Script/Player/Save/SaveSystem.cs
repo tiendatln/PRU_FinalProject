@@ -6,7 +6,7 @@ public static class SaveSystem
 {
     private static string defaultSavePath = Application.persistentDataPath + "/playerData.json";
 
-    public static void SavePlayer(PlayerMainData player, string filePath = null)
+    public static void SavePlayer(MainData player, string filePath = null)
     {
         string path = filePath ?? defaultSavePath;
         PlayerData data = new PlayerData(player);
@@ -28,6 +28,8 @@ public static class SaveSystem
         }
         return null;
     }
+
+
     public static void DeleteSaveFile(string filePath = null)
     {
         try

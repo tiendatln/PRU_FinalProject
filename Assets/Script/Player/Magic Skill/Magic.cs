@@ -20,7 +20,7 @@ public class Magic : MonoBehaviour
     {
         if (collision.gameObject.TryGetComponent<EnemyAI_2D>(out EnemyAI_2D enemy))
         {
-            enemy.TakeDamage(playerController.PlayerMainData.attackSkill);
+            enemy.TakeDamage(playerController.PlayerMainData().attackSkill);
             skill.SetActive(false);
         }
         if (collision.CompareTag("Ground"))
@@ -37,24 +37,28 @@ public class Magic : MonoBehaviour
         }
         if (collision.gameObject.TryGetComponent<Boss>(out Boss boss))
         {
-            boss.TakeDamage(playerController.PlayerMainData.attackSkill);
+            boss.TakeDamage(playerController.PlayerMainData().attackSkill); // Map 5
             skill.SetActive(false);
         }
         if (collision.gameObject.TryGetComponent<Medusa>(out Medusa medusa))
         {
-            medusa.TakeDamage(playerController.PlayerMainData.attack);
+            medusa.TakeDamage(playerController.PlayerMainData().attackSkill); // Map 3
+            skill.SetActive(false);
         }
         if (collision.gameObject.TryGetComponent<Cthulu>(out Cthulu Cthulu))
         {
-            Cthulu.TakeDamage(playerController.PlayerMainData.attack);
+            Cthulu.TakeDamage(playerController.PlayerMainData().attackSkill); // Map 3
+            skill.SetActive(false);
         }
         if (collision.gameObject.TryGetComponent<Shadow>(out Shadow shadow))
         {
-            shadow.TakeDamage(playerController.PlayerMainData.attack);
+            shadow.TakeDamage(playerController.PlayerMainData().attackSkill); // map 3
+            skill.SetActive(false);
         }
         if (collision.gameObject.TryGetComponent<SandSwormAI>(out SandSwormAI SandSwormAI))
         {
-            SandSwormAI.TakeDamage(playerController.PlayerMainData.attack);
+            SandSwormAI.TakeDamage(playerController.PlayerMainData().attackSkill); // Map 2
+            skill.SetActive(false);
         }
     }
 }
