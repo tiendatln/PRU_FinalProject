@@ -54,7 +54,7 @@ public class EnemyAI_2D : MonoBehaviour
 
     private SpriteRenderer spriteRenderer;
    
-    private bool resetLine = false;
+    
 
     private AsyncOperationHandle<GameObject> Handle;
     [HideInInspector]public float distanceToPlayer;
@@ -90,7 +90,7 @@ public class EnemyAI_2D : MonoBehaviour
         }
         else
         {
-            if (distanceToPlayer <= attackRange)
+            if (distanceToPlayer <= attackRange && (distanceToPlayer <= detectionRange && isFly == false))
             {
                 if (canAttack)
                 {
@@ -103,14 +103,7 @@ public class EnemyAI_2D : MonoBehaviour
             {
                 
                     ChasePlayer();
-                
 
-                resetLine = true;
-            }else if (!isFly && distanceToPlayer >= detectionRange && resetLine)
-            {
-                Vector2 newLine = new Vector2(transform.position.x, transform.position.y);
-                targetPosition = newLine + Vector2.right * patrolDistance;
-                resetLine = false;
             }else
             {
                 Patrol();
