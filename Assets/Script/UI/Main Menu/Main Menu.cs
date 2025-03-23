@@ -1,6 +1,8 @@
 ﻿using System.Collections;
 using UnityEngine;
+using UnityEngine.Playables;
 using UnityEngine.SceneManagement;
+using UnityEngine.Timeline;
 using UnityEngine.UI;
 
 public class MainMenu : MonoBehaviour
@@ -25,9 +27,12 @@ public class MainMenu : MonoBehaviour
     private Image SFXImg;
     private Image MusicImg;
 
+    private PlayableDirector playableDirector;
+
     private void Start()
     {
-        
+        playableDirector = GameObject.Find("CutScene").GetComponent<PlayableDirector>();
+        playableDirector.gameObject.SetActive(false);
         AudioManager.Instance.playMusicLoopSound(mainMusic);
         Cursor.visible = true;
             Cursor.lockState = CursorLockMode.None;
@@ -56,11 +61,39 @@ public class MainMenu : MonoBehaviour
 
     public void StartNew()
     {
+        // Phát âm thanh nút bấm
         AudioManager.Instance.playSFXSound(buttonClick);
         AudioManager.Instance.stopMusicLoopSound();
-        SceneManager.LoadSceneAsync(SceneManager.GetActiveScene().buildIndex + 1);
-        GameManager.Instance.getMainData().NewGame(SceneManager.GetActiveScene().buildIndex + 1);
+
+        // Kích hoạt và chạy cutscene
+        playableDirector.gameObject.SetActive(true);
+        
+
+        // Bắt đầu Coroutine để chờ cutscene chạy xong
+        StartCoroutine(PlayCutSceneAndLoadNext());
     }
+
+    private IEnumerator PlayCutSceneAndLoadNext()
+    {
+        // Chờ cho đến khi timeline kết thúc
+        while (playableDirector.state == PlayState.Playing)
+        {
+            //playableDirector.time += Time.deltaTime; // Đặt lại về đầu
+            
+            yield return null; // Chờ mỗi frame cho đến khi timeline dừng
+        }
+
+        // Khi cutscene kết thúc, load scene tiếp theo
+        int nextSceneIndex = SceneManager.GetActiveScene().buildIndex + 1;
+        SceneManager.LoadSceneAsync(nextSceneIndex);
+
+        // Gọi NewGame với chỉ số scene mới
+        GameManager.Instance.getMainData().NewGame(nextSceneIndex);
+
+        // Dừng PlayableDirector (không cần thiết lắm vì scene đã chuyển, nhưng để chắc chắn)
+        playableDirector.Stop();
+    }
+
 
     public void LoadGame()
     {
@@ -71,7 +104,7 @@ public class MainMenu : MonoBehaviour
     public void AudioBtn()
     {
         AudioManager.Instance.playSFXSound(buttonClick);
-        if (audioSetting.active == true)
+        if (audioSetting.activeInHierarchy == true)
         {
             audioSetting.SetActive(false);
         }
@@ -91,7 +124,7 @@ public class MainMenu : MonoBehaviour
     public void TutorialBtn()
     {
         AudioManager.Instance.playSFXSound(buttonClick);
-        if (tutorial.active == true)
+        if (tutorial.activeInHierarchy == true)
         {
             tutorial.SetActive(false);
         }
