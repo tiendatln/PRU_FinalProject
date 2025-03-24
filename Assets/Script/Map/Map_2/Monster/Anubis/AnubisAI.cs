@@ -40,7 +40,7 @@ public class AnubisAI : MonoBehaviour
 
     #region Private Value
 
-    private bool isMove = true;
+    [HideInInspector]public bool isMove = true;
     private string isAttackName;
     private SpriteRenderer spriteRenderer; // Tham chiếu đến SpriteRenderer
     private bool IsFacingRight = true;
@@ -48,10 +48,7 @@ public class AnubisAI : MonoBehaviour
     private int numbarAttack;
     #endregion
 
-    [Header("Summon Abilities")]
-    public GameObject mummyPrefab;
-    public GameObject spikePrefab;
-
+ 
 
     void Start()
     {
@@ -98,7 +95,7 @@ public class AnubisAI : MonoBehaviour
             {
                 AttackAnimation();
                 nextAttackTime = Time.time + attackCooldown; // Đặt lại thời gian chờ
-                ChooseNextAttack(); // Chọn đòn tấn công tiếp theo
+                
             }
 
             // Quay mặt
@@ -134,7 +131,7 @@ public class AnubisAI : MonoBehaviour
     }
     #endregion
 
-    void ChooseNextAttack()
+    public void ChooseNextAttack()
     {
         // randome đòn đánh tiếp theo
 
@@ -160,14 +157,9 @@ public class AnubisAI : MonoBehaviour
         {
             BossAnimation.DrinkPotion();
         }
-        else if (healthPercentage <= (maxHealth / 3) && !hasHealed20)
-
-        {
-            BossAnimation.DrinkPotion();
-        }
     }
 
-    public void Heal(float amount)
+    public void Heal()
     {
         float healthPercentage = (currentHealth / maxHealth) * 200f;
         float heal = 0;
@@ -204,7 +196,7 @@ public class AnubisAI : MonoBehaviour
     {
         GameObject gate = Instantiate(Gate, transform.position + new Vector3(0, 0, 10), transform.rotation);
         gate.AddComponent<NextMap>(); // add script chuyển map
-        Destroy(gameObject);
+        this.gameObject.SetActive(false);
     }
 
     void OnDrawGizmosSelected()
@@ -227,6 +219,11 @@ public class AnubisAI : MonoBehaviour
 
         }
     }
+
+    [Header("Summon Abilities")]
+    public GameObject mummyPrefab;
+    public GameObject spikePrefab;
+
     public float mummySummonOffsetX = 2f; // Tùy chỉnh vị trí triệu hồi mummy
     public float mummyCooldown = 10f; // Thời gian hồi chiêu triệu hồi mummy
     private float nextMummyTime = 0f; // Lưu thời điểm có thể triệu hồi tiếp theo
@@ -249,7 +246,7 @@ public class AnubisAI : MonoBehaviour
     {
         if (spikePrefab != null && player != null)
         {
-            Vector3 summonPos = new Vector3(player.position.x, player.position.y - 0.1f, player.position.z);
+            Vector3 summonPos = new Vector3(player.position.x, player.position.y, player.position.z);
             GameObject spike = Instantiate(spikePrefab, summonPos, Quaternion.identity);
             Destroy(spike, 2f); // Tự hủy sau 2 giây
         }

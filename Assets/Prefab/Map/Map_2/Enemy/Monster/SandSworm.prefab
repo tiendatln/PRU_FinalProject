@@ -111,7 +111,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0.5, y: 0.5}
   m_AnchorMax: {x: 0.5, y: 0.5}
-  m_AnchoredPosition: {x: 0.44, y: 2.56}
+  m_AnchoredPosition: {x: 0.04, y: 0.24}
   m_SizeDelta: {x: 2.0662, y: 0.1768}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!223 &5157981300793576936
@@ -335,14 +335,14 @@ MonoBehaviour:
   detectionRange: 5
   attackRange: 4
   attackCooldown: 1
-  MaxHP: 20
+  MaxHP: 10
   EX: 30
   animator: {fileID: 5173011658238179943}
   attackPoint: {fileID: 7897112036967344453}
   enemyLayer:
     serializedVersion: 2
     m_Bits: 512
-  AttackDamage: 0
+  AttackDamage: 7
   groundLayer:
     serializedVersion: 2
     m_Bits: 0
@@ -588,7 +588,7 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 0, y: 0}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -0.9, y: -2.63}
+  m_AnchoredPosition: {x: -0.02, y: -0}
   m_SizeDelta: {x: 0.0000076294, y: 0.0000076294}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &4735689773469043381

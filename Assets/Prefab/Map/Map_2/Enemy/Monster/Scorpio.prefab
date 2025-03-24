@@ -210,8 +210,8 @@ MonoBehaviour:
   attackPoint: {fileID: 8036501699510018520}
   enemyLayer:
     serializedVersion: 2
-    m_Bits: 0
-  AttackDamage: 10
+    m_Bits: 512
+  AttackDamage: 3
   groundLayer:
     serializedVersion: 2
     m_Bits: 0
@@ -224,6 +224,9 @@ MonoBehaviour:
   isAttack: 1
   monsterSpawnSkill: {fileID: 0}
   playerController: {fileID: 0}
+  HeathPlayer: {fileID: 8333536574482172173, guid: e0f467d248b3e644e94065bfb392a2ec, type: 3}
+  _HeathPlayer:
+    m_LabelString: HeathForPlayer
   distanceToPlayer: 0
 --- !u!1001 &2578758274041023514
 PrefabInstance:

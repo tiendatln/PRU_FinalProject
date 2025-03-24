@@ -60,9 +60,15 @@ public class Magic : MonoBehaviour
             SandSwormAI.TakeDamage(playerController.PlayerMainData().attackSkill); // Map 2
             skill.SetActive(false);
         }
+
         if (collision.gameObject.TryGetComponent<FinalBoss>(out FinalBoss FinalBoss))
         {
             FinalBoss.TakeDamage(playerController.PlayerMainData().attackSkill); // Map 2
+        }
+        if (collision.gameObject.TryGetComponent<AnubisAI>(out AnubisAI AnubisAI))
+        {
+            AnubisAI.TakeDamage(playerController.PlayerMainData().attackSkill); // Map 2
+
             skill.SetActive(false);
         }
     }

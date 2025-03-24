@@ -166,6 +166,10 @@ public class PlayerAttack : MonoBehaviour
             {
                 FinalBoss.TakeDamage(playerController.PlayerMainData().attack);
             }
+            if (enemy.gameObject.TryGetComponent<AnubisAI>(out AnubisAI AnubisAI))
+            {
+                AnubisAI.TakeDamage(playerController.PlayerMainData().attack);
+            }
 
             Debug.Log("Hit " + enemy);
         }
