@@ -127,7 +127,7 @@ public class Dragon : MonoBehaviour
         float directionx = Mathf.Sign(player.position.x - transform.position.x);
         Vector3 moveVector = new Vector3(directionx * moveSpeed * Time.deltaTime, 0, 0);
         transform.position += moveVector;
-        if(BossAnimation.animator.GetFloat(BossAnimation._Walk) < 0.01)
+        if(BossAnimation.animator.GetFloat(BossAnimation._Walk) < 0.01 && BossAnimation.animator.GetBool("Dash") == true)
         {
             BossAnimation.Walk();
         }

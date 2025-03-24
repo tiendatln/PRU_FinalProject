@@ -1,12 +1,14 @@
-﻿    using System.Collections;
+﻿using System.Collections;
 using UnityEngine;
 using UnityEngine.Playables;
 using UnityEngine.SceneManagement;
+using UnityEngine.Timeline;
 
 public class NextMap : MonoBehaviour
 {
 
     public PlayableDirector playableDirector;
+
     public void nextMap()
     {
         playableDirector = GameObject.FindWithTag("CutScene").GetComponent<PlayableDirector>();
@@ -24,6 +26,7 @@ public class NextMap : MonoBehaviour
         {
             playableDirector.gameObject.SetActive(true);
 
+            //playableDirector.
 
             // Bắt đầu Coroutine để chờ cutscene chạy xong
             StartCoroutine(PlayCutSceneAndLoadNext());

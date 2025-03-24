@@ -211,11 +211,11 @@ MonoBehaviour:
   attackPoint: {fileID: 626303924754024572}
   enemyLayer:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 512
   AttackDamage: 20
   groundLayer:
     serializedVersion: 2
-    m_Bits: 0
+    m_Bits: 128
   isFly: 0
   WalkAnimationName: Walk
   AttackAnimationName: Attack
@@ -227,7 +227,7 @@ MonoBehaviour:
   playerController: {fileID: 0}
   HeathPlayer: {fileID: 0}
   _HeathPlayer:
-    m_LabelString: 
+    m_LabelString: HeathForPlayer
   distanceToPlayer: 0
 --- !u!1001 &4186958872108661196
 PrefabInstance:

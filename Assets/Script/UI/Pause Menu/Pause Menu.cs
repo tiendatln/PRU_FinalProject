@@ -9,8 +9,6 @@ public class PauseMenu : MonoBehaviour
     {
         Time.timeScale = 1.0f;
         MouseOff();
-
-
         this.gameObject.SetActive(false);
     }
     public void MouseOff()
@@ -25,6 +23,7 @@ public class PauseMenu : MonoBehaviour
     {
         GameManager.Instance.getMainData().SavePlayer();
         SceneManager.LoadScene("Main Menu Game");
+        AudioManager.Instance.stopMusicLoopSound();
     }
 
     public void Save()
