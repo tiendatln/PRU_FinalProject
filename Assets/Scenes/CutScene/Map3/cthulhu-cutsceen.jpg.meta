@@ -134,7 +134,8 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable: {}
+    nameFileIdTable:
+      cthulhu-cutsceen_0: -7611731957933630467
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
