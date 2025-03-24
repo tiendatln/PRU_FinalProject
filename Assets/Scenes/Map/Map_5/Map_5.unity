@@ -1610,6 +1610,11 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 030c46c6afe06ca4d8f0585e3d95d92e, type: 3}
+--- !u!82 &1267450548 stripped
+AudioSource:
+  m_CorrespondingSourceObject: {fileID: 7059680485881195785, guid: 030c46c6afe06ca4d8f0585e3d95d92e, type: 3}
+  m_PrefabInstance: {fileID: 1267450547}
+  m_PrefabAsset: {fileID: 0}
 --- !u!1 &1330089655
 GameObject:
   m_ObjectHideFlags: 0
@@ -10089,6 +10094,8 @@ PlayableDirector:
     value: {fileID: 1330089659}
   - key: {fileID: 3817444955357700676, guid: a93c8e5c6f0192c41983d4331e3356ca, type: 2}
     value: {fileID: 580951467}
+  - key: {fileID: -6406595001038487882, guid: a93c8e5c6f0192c41983d4331e3356ca, type: 2}
+    value: {fileID: 1267450548}
   m_ExposedReferences:
     m_References: []
 --- !u!1001 &2114367100

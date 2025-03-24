@@ -6,9 +6,9 @@ public class DamageReceived : MonoBehaviour
    
     private Rigidbody2D rb;
     private Animator animator;
-    private CapsuleCollider2D capsuleCollider;
+
     private Vector2 capsuleColliderSize = new Vector2(0.31f, 0.13f);
-    public CapsuleCollider2D CapsuleCollider2D;
+   
     public PlayerController controller;
     
     private SpriteRenderer spriteRenderer;
@@ -17,8 +17,7 @@ public class DamageReceived : MonoBehaviour
     {
         rb = GetComponent<Rigidbody2D>();
         animator = GetComponent<Animator>();
-        capsuleCollider = GetComponent<CapsuleCollider2D>();
-        CapsuleCollider2D = GetComponent<CapsuleCollider2D>();
+
         controller = GetComponent<PlayerController>();
         spriteRenderer = GetComponent<SpriteRenderer>();
     }
@@ -53,7 +52,7 @@ public class DamageReceived : MonoBehaviour
         {
             animator.SetBool("Death", true);
             controller.SetCanMove();
-            capsuleCollider.isTrigger = true;
+    
             
             Invoke("StopGame", 2f);
         }
@@ -61,7 +60,7 @@ public class DamageReceived : MonoBehaviour
 
     void StopReceived()
     {
-        capsuleCollider.enabled = true;
+
         animator.SetBool("Damage Recived", false);
     }
 
