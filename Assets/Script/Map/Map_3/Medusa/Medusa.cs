@@ -1,5 +1,7 @@
 ﻿using TMPro;
 using UnityEngine;
+using UnityEngine.AddressableAssets;
+using UnityEngine.ResourceManagement.AsyncOperations;
 using UnityEngine.UI;
 
 public class Medusa : MonoBehaviour
@@ -26,9 +28,7 @@ public class Medusa : MonoBehaviour
     public LayerMask enemyLayer;
     public float AttackDamage;
 
-    [Header("Time Animation")]
 
-    private float TimeStopAnimation;
 
     [Header("Name Animation")]
     public string WalkAnimationName;
@@ -37,14 +37,19 @@ public class Medusa : MonoBehaviour
     public string[] AttackNames;
     private int nextAttack;
 
+    // Hp slider
     public GameObject HpSlider;
-    public Slider Slider;
+    private Slider Slider;
     [HideInInspector] public bool isAttack = true;
 
-    public MonsterSpawnSKill monsterSpawnSkill;
-    public PlayerController playerController;
+    // player controller
+    private PlayerController playerController;
     private SpriteRenderer spriteRenderer;
 
+    // Heal Hp
+    [Header("HP Prefab")]
+    public AssetLabelReference _HeathPlayer;
+    private AsyncOperationHandle<GameObject> Handle;
 
     void Start()
     {
@@ -73,11 +78,10 @@ public class Medusa : MonoBehaviour
 
         float distanceToPlayer = Vector2.Distance(attackPoint.position, player.position);
         AnimatorStateInfo animationState = animator.GetCurrentAnimatorStateInfo(0);
-        TimeStopAnimation = animationState.length;
+
         if (HP <= 0)
         {
             animator.SetBool(DeathAnimationName, true);
-            Invoke("Dead", TimeStopAnimation);
         }
         else
         {
@@ -199,7 +203,27 @@ public class Medusa : MonoBehaviour
     void Dead()
     {
         playerController.PlayerLever.TakeLever(EX);
-        Destroy(this.gameObject);
+        Handle = Addressables.LoadAssetAsync<GameObject>(_HeathPlayer.labelString);
+        for (int i = 0; i < 3; i++)
+        {
+            SpawnHeath();
+        }
+        this.gameObject.SetActive(false);
+    }
+
+    private void SpawnHeath()
+    {
+        if (string.IsNullOrEmpty(_HeathPlayer.labelString))
+        {
+            return;
+        }
+
+        Handle.Completed += (AsyncOperationHandle<GameObject> task) =>
+        {
+            GameObject heathPlayer = UnityEngine.Object.Instantiate(task.Result); // Tạo instance từ asset đã tải
+            heathPlayer.transform.position = this.transform.position + new Vector3(0, 1, 0);
+
+        };
     }
 
     public void SeandDamage()
@@ -212,11 +236,6 @@ public class Medusa : MonoBehaviour
                 player.TakeDamage(AttackDamage);
             }
         }
-    }
-
-    public void Shoot()
-    {
-        monsterSpawnSkill.Shoot();
     }
 
 

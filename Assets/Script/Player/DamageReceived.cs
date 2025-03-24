@@ -29,8 +29,6 @@ public class DamageReceived : MonoBehaviour
 
         UIController.Instance.GetPlayerUI().GetComponent<PlayerUI>().SetHeath(controller.PlayerMainData().health);
 
-        //controller.PlayerUI.SetHeath(controller.PlayerMainData.health);
-
     }
 
     public virtual void TakeDamage(float _damage)

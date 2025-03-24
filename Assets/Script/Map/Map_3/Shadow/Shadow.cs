@@ -1,5 +1,8 @@
 ﻿using UnityEngine;
+using UnityEngine.AddressableAssets;
+using UnityEngine.ResourceManagement.AsyncOperations;
 using UnityEngine.UI;
+using static UnityEngine.Rendering.VirtualTexturing.Debugging;
 
 public class Shadow : MonoBehaviour
 {
@@ -35,14 +38,19 @@ public class Shadow : MonoBehaviour
     // Shield
     private bool isShieldOn = false;
 
+    // Hp Slider
     public GameObject HpSlider;
-    public Slider Slider;
+    private Slider Slider;
     [HideInInspector] public bool isAttack = true;
 
-    public MonsterSpawnSKill monsterSpawnSkill;
-    public PlayerController playerController;
+    // player controller
+    private PlayerController playerController;
     private SpriteRenderer spriteRenderer;
 
+    // Heal Hp
+    [Header("HP Prefab")]
+    public AssetLabelReference _HeathPlayer;
+    private AsyncOperationHandle<GameObject> Handle;
 
     void Start()
     {
@@ -216,7 +224,27 @@ public class Shadow : MonoBehaviour
     void Dead()
     {
         playerController.PlayerLever.TakeLever(EX);
-        Destroy(this.gameObject);
+        Handle = Addressables.LoadAssetAsync<GameObject>(_HeathPlayer.labelString);
+        for (int i = 0; i < 3; i++)
+        {
+            SpawnHeath();
+        }
+        this.gameObject.SetActive(false);
+    }
+
+    private void SpawnHeath()
+    {
+        if (string.IsNullOrEmpty(_HeathPlayer.labelString))
+        {
+            return;
+        }
+
+        Handle.Completed += (AsyncOperationHandle<GameObject> task) =>
+        {
+            GameObject heathPlayer = UnityEngine.Object.Instantiate(task.Result); // Tạo instance từ asset đã tải
+            heathPlayer.transform.position = this.transform.position + new Vector3(0, 1, 0);
+
+        };
     }
 
     public void SendDamage()
@@ -230,12 +258,6 @@ public class Shadow : MonoBehaviour
             }
         }
     }
-
-    public void Shoot()
-    {
-        monsterSpawnSkill.Shoot();
-    }
-
 
     void OnDrawGizmosSelected()
     {
