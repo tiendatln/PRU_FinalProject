@@ -58,7 +58,7 @@ public class Dragon : MonoBehaviour
         currentHealth = maxHealth; // Khởi tạo máu
         player = GameObject.FindGameObjectWithTag("Player").transform; // Tìm người chơi qua tag
 
-        ChooseNextAttack(); // Chọn đòn tấn công đầu tiên
+        ; // Chọn đòn tấn công đầu tiên
 
         spriteRenderer = GetComponent<SpriteRenderer>();
         AttackPoint = AttackPosition.transform.position;
