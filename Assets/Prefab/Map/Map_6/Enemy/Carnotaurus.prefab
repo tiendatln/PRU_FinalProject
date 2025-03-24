@@ -597,7 +597,7 @@ MonoBehaviour:
   playerController: {fileID: 0}
   HeathPlayer: {fileID: 0}
   _HeathPlayer:
-    m_LabelString: 
+    m_LabelString: HeathForPlayer
   distanceToPlayer: 0
 --- !u!61 &2807039210653599681
 BoxCollider2D:

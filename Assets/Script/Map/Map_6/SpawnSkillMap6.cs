@@ -8,8 +8,8 @@ public class SpawnSkillMap6 : MonoBehaviour
     private EnemyAI_2D _enemyAI;
     
     public float rotationSpeed = 5f;
-    public AssetLabelReference fireBall;
-    private AsyncOperationHandle<GameObject> Handle;
+    //public AssetLabelReference fireBall;
+    //private AsyncOperationHandle<GameObject> Handle;
 
     private Transform player; 
 
@@ -75,17 +75,17 @@ public class SpawnSkillMap6 : MonoBehaviour
     //    };
 
     //}
-    void UnloadAsset()
-    {
-        if (Handle.IsValid())
-        {
-            Addressables.Release(Handle); // Releases the asset from memory
-        }
-    }
+    //void UnloadAsset()
+    //{
+    //    if (Handle.IsValid())
+    //    {
+    //        Addressables.Release(Handle); // Releases the asset from memory
+    //    }
+    //}
 
 
-    void OnDestroy()
-    {
-        UnloadAsset(); // Clean up when the object is destroyed
-    }
+    //void OnDestroy()
+    //{
+    //    UnloadAsset(); // Clean up when the object is destroyed
+    //}
 }
