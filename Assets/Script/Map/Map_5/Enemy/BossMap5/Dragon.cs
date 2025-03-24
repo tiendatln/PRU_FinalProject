@@ -24,6 +24,9 @@ public class Dragon : MonoBehaviour
     [Header("Cool Down Skill")]
     public float attackCooldown = 0f; // Thời gian chờ giữa các đòn tấn công
     public float DashCoolDown;
+    public float AttackMapCoolDown;
+    private float AttackMapTime = 40;
+    private float dashTime = 50;
     private float nextAttackTime; // Thời điểm có thể tấn công tiếp theo
 
 
@@ -91,11 +94,23 @@ public class Dragon : MonoBehaviour
                 MoveTowardsPlayer();
             }
             // Tấn công nếu trong tầm và hết thời gian chờ
-            else if (Time.time >= nextAttackTime)
+            else if (Time.time >= nextAttackTime && Time.time < dashTime)
             {
                 AttackAnimation();
                 nextAttackTime = Time.time + attackCooldown; // Đặt lại thời gian chờ
                                                              // Chọn đòn tấn công tiếp theo
+            }
+            if (Time.time >= dashTime)
+            {
+                BossAnimation.PreDash();
+                dashTime = Time.time + DashCoolDown; // Đặt lại thời gian chờ
+                                                             // Chọn đòn tấn công tiếp theo
+            }
+            if (Time.time >= AttackMapTime)
+            {
+                BossAnimation.Attack("AttackDown"); 
+                AttackMapTime = Time.time + AttackMapCoolDown; // Đặt lại thời gian chờ
+                                                     // Chọn đòn tấn công tiếp theo
             }
 
             // Quay mặt
@@ -112,7 +127,11 @@ public class Dragon : MonoBehaviour
         float directionx = Mathf.Sign(player.position.x - transform.position.x);
         Vector3 moveVector = new Vector3(directionx * moveSpeed * Time.deltaTime, 0, 0);
         transform.position += moveVector;
-        BossAnimation.Walk();
+        if(BossAnimation.animator.GetFloat(BossAnimation._Walk) < 0.01)
+        {
+            BossAnimation.Walk();
+        }
+        
     }
 
     #region turn
@@ -227,6 +246,15 @@ public class Dragon : MonoBehaviour
                 player.TakeDamage(_damage); // Gây sát thương lên kẻ địch
             }
 
+        }
+    }
+
+
+    public void checkWall()
+    {
+        if (Physics2D.OverlapBox(checkWallPoint.transform.position, checkWallSize, layerCheckWall))
+        {
+            BossAnimation.StopDash();
         }
     }
 }

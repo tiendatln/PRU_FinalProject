@@ -33,7 +33,7 @@ public class MainMenu : MonoBehaviour
     {
         playableDirector = GameObject.Find("CutScene").GetComponent<PlayableDirector>();
         playableDirector.gameObject.SetActive(false);
-        AudioManager.Instance.playMusicLoopSound(mainMusic);
+        
         Cursor.visible = true;
             Cursor.lockState = CursorLockMode.None;
         tutorial = GameObject.Find("Tutorial Menu");
@@ -56,6 +56,12 @@ public class MainMenu : MonoBehaviour
         {
             GameObject.Find("Load Btn").SetActive(true);
         }
+        Invoke("playMusic", 0.1f);
+    }
+
+    public void playMusic()
+    {
+        AudioManager.Instance.playMusicLoopSound(mainMusic);
     }
 
 
@@ -67,7 +73,7 @@ public class MainMenu : MonoBehaviour
 
         // Kích hoạt và chạy cutscene
         playableDirector.gameObject.SetActive(true);
-        
+        playableDirector.Play();
 
         // Bắt đầu Coroutine để chờ cutscene chạy xong
         StartCoroutine(PlayCutSceneAndLoadNext());
@@ -78,8 +84,13 @@ public class MainMenu : MonoBehaviour
         // Chờ cho đến khi timeline kết thúc
         while (playableDirector.state == PlayState.Playing)
         {
-            //playableDirector.time += Time.deltaTime; // Đặt lại về đầu
+            if (playableDirector.time < 5550)
+            {
+                playableDirector.time += Time.deltaTime; // Đặt lại về đầu
+                playableDirector.Evaluate();
+            }
             
+
             yield return null; // Chờ mỗi frame cho đến khi timeline dừng
         }
 
@@ -99,8 +110,13 @@ public class MainMenu : MonoBehaviour
     {
         AudioManager.Instance.stopMusicLoopSound();
         SceneManager.LoadSceneAsync(GameManager.Instance.getMainData().indexOfCurrentMap);
-        
     }
+
+    public void Skip()
+    {
+        playableDirector.Stop();
+    }
+
     public void AudioBtn()
     {
         AudioManager.Instance.playSFXSound(buttonClick);

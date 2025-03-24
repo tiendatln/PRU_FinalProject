@@ -25,6 +25,8 @@ public class DragonAnimation : MonoBehaviour
     public void Walk()
     {
         animator.SetFloat(_Walk, 2f);
+        animator.SetBool("Dash", false);
+        animator.SetBool("PrepDash", false);
     }
 
     public void Dead()
@@ -46,18 +48,46 @@ public class DragonAnimation : MonoBehaviour
         animator.SetBool(_AttackName, false);
     }
 
-    public void Dash()
+
+    public void AttackMap()
+    {
+        animator.SetBool("AttackDown", true);
+        boss.isMove = false;
+    }
+
+    public void StopAttackMap()
+    {
+        animator.SetBool("AttackDown", false);
+        boss.isMove = true;
+    }
+
+    public void PreDash()
+    {
+        animator.SetBool("PrepDash", true);
+        boss.isMove = false;
+    }
+
+
+    public void playDash()
     {
         animator.SetBool("Dash", true);
+        Dash();
+    }
+
+
+    public void Dash()
+    {
+
+        
         if(boss.IsFacingRight == true )
         {
-            rb.AddForce(Vector2.right * 500, ForceMode2D.Impulse);
+            rb.AddForce(Vector2.right * 3000, ForceMode2D.Impulse);
         }
         else
         {
-            rb.AddForce(Vector2.left * 500, ForceMode2D.Impulse);
+            rb.AddForce(Vector2.left * 3000, ForceMode2D.Impulse);
         }
-        
+        boss.checkWall();
     }
 
     public void StopDash()
@@ -65,6 +95,9 @@ public class DragonAnimation : MonoBehaviour
         boss.isMove = true;
         boss.ChooseNextAttack();
         animator.SetBool("Dash", false);
+        animator.SetBool("PrepDash", false);
+        
+
     }
 
     public void DrinkPotion()
