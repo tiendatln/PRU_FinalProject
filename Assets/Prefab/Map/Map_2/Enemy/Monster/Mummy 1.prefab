@@ -127,18 +127,18 @@ MonoBehaviour:
   m_Name: 
   m_EditorClassIdentifier: 
   speed: 2
-  patrolDistance: 5
-  detectionRange: 20
+  patrolDistance: 50
+  detectionRange: 50
   attackRange: 1
   attackCooldown: 1
-  MaxHP: 50
+  MaxHP: 20
   EX: 0
   animator: {fileID: 6552998031643627535}
   attackPoint: {fileID: 2433537563686503540}
   enemyLayer:
     serializedVersion: 2
     m_Bits: 512
-  AttackDamage: 0.1
+  AttackDamage: 5
   groundLayer:
     serializedVersion: 2
     m_Bits: 0
@@ -151,6 +151,9 @@ MonoBehaviour:
   isAttack: 1
   monsterSpawnSkill: {fileID: 0}
   playerController: {fileID: 0}
+  HeathPlayer: {fileID: 8333536574482172173, guid: e0f467d248b3e644e94065bfb392a2ec, type: 3}
+  _HeathPlayer:
+    m_LabelString: HeathForPlayer
   distanceToPlayer: 0
 --- !u!61 &9218385714565921245
 BoxCollider2D:
@@ -243,11 +246,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 2178523822949481371, guid: 22dc6250e69ca3a498573dd7c934f41b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: -0.52
+      value: -0.02
       objectReference: {fileID: 0}
     - target: {fileID: 2178523822949481371, guid: 22dc6250e69ca3a498573dd7c934f41b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: -2.39
+      value: 0.01
       objectReference: {fileID: 0}
     - target: {fileID: 3255385919630622321, guid: 22dc6250e69ca3a498573dd7c934f41b, type: 3}
       propertyPath: m_Pivot.x
@@ -275,11 +278,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3255385919630622321, guid: 22dc6250e69ca3a498573dd7c934f41b, type: 3}
       propertyPath: m_SizeDelta.x
-      value: 2.0662
+      value: 1.6573
       objectReference: {fileID: 0}
     - target: {fileID: 3255385919630622321, guid: 22dc6250e69ca3a498573dd7c934f41b, type: 3}
       propertyPath: m_SizeDelta.y
-      value: 0.1768
+      value: 0.1954
       objectReference: {fileID: 0}
     - target: {fileID: 3255385919630622321, guid: 22dc6250e69ca3a498573dd7c934f41b, type: 3}
       propertyPath: m_LocalPosition.x
@@ -311,11 +314,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 3255385919630622321, guid: 22dc6250e69ca3a498573dd7c934f41b, type: 3}
       propertyPath: m_AnchoredPosition.x
-      value: 0.936
+      value: 0.12
       objectReference: {fileID: 0}
     - target: {fileID: 3255385919630622321, guid: 22dc6250e69ca3a498573dd7c934f41b, type: 3}
       propertyPath: m_AnchoredPosition.y
-      value: 2.955
+      value: 0.57
       objectReference: {fileID: 0}
     - target: {fileID: 3255385919630622321, guid: 22dc6250e69ca3a498573dd7c934f41b, type: 3}
       propertyPath: m_LocalEulerAnglesHint.x

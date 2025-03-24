@@ -1,8 +1,9 @@
-using UnityEngine;
+﻿using UnityEngine;
 
 public class AnubisAnimation : MonoBehaviour
 {
     public Animator animator;
+    private AnubisAI boss;
 
 
     [Header("Name Animation")]
@@ -14,6 +15,7 @@ public class AnubisAnimation : MonoBehaviour
     // Start is called once before the first execution of Update after the MonoBehaviour is created
     void Start()
     {
+        boss = GetComponent<AnubisAI>();
         animator = GetComponent<Animator>();
     }
 
@@ -31,11 +33,14 @@ public class AnubisAnimation : MonoBehaviour
     {
         animator.SetBool(name, true);
         _AttackName = name;
+        boss.isMove = false;
     }
 
     public void StopAttack()
     {
         animator.SetBool(_AttackName, false);
+        boss.ChooseNextAttack();
+        boss.isMove = true;
     }
 
     public void Dash()
@@ -50,11 +55,11 @@ public class AnubisAnimation : MonoBehaviour
 
     public void DrinkPotion()
     {
-        animator.SetBool("DrinkPotion", true);
+        animator.SetBool("IsAttack4", true);
     }
 
     public void StopDrinkPotion()
     {
-        animator.SetBool("DrinkPotion", false);
+        animator.SetBool("IsAttack4", false);
     }
 }
