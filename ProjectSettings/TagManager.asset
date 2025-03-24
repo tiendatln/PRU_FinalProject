@@ -17,10 +17,7 @@ TagManager:
   - Tele
   - CongDichChuyen
   - BossAttackMap5
-  - monsterPosition1
-  - monsterPosition2
-  - monsterPosition3
-  - monsterPosition4
+  - CutScene
   layers:
   - Default
   - TransparentFX

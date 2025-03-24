@@ -170,6 +170,10 @@ public class PlayerAttack : MonoBehaviour
             {
                 AnubisAI.TakeDamage(playerController.PlayerMainData().attack);
             }
+            if (enemy.gameObject.TryGetComponent<Dragon>(out Dragon Dragon))
+            {
+                Dragon.TakeDamage(playerController.PlayerMainData().attack);
+            }
 
             Debug.Log("Hit " + enemy);
         }

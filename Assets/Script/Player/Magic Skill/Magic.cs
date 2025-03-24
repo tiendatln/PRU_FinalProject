@@ -72,5 +72,10 @@ public class Magic : MonoBehaviour
 
             skill.SetActive(false);
         }
+        if (collision.gameObject.TryGetComponent<Dragon>(out Dragon Dragon))
+        {
+            Dragon.TakeDamage(playerController.PlayerMainData().attack);
+            skill.SetActive(false);
+        }
     }
 }

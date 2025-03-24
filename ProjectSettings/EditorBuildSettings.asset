@@ -9,23 +9,44 @@ EditorBuildSettings:
     path: Assets/Scenes/Main Menu Game.unity
     guid: 8c9cfa26abfee488c85f1582747f6a02
   - enabled: 1
+    path: Assets/Scenes/CutScene/Map1/CutSceneMap1.unity
+    guid: 3cb69dc1234d2c54da0bb1b9437f187b
+  - enabled: 1
     path: Assets/Scenes/Map/Map_1/Map_1.unity
     guid: 676ead544d4fbb849ae6decc79bc9dae
   - enabled: 1
-    path: Assets/Prefab/Map/Map_2/Full Map2/Map2.unity
+    path: Assets/Scenes/CutScene/Map2/CutSceneMap2.unity
+    guid: 04109147be791e1489e555f38614847d
+  - enabled: 1
+    path: Assets/Scenes/Map/Map_2/Map2.unity
     guid: f86f47a7eee2ebc42b6aa7bd7949759c
+  - enabled: 1
+    path: Assets/Scenes/CutScene/Map3/CutSceneMap3.unity
+    guid: d77a3bba1b5e5834591c65b276ac9545
   - enabled: 1
     path: Assets/Scenes/Map/Map_3/Map_3.unity
     guid: 48dd16296f6b80546a55e741142de19b
   - enabled: 1
+    path: Assets/Scenes/CutScene/Map4/CutSceneMap4.unity
+    guid: c7bbf4d4a55792e408eed1de06b04e84
+  - enabled: 1
     path: Assets/Scenes/Map/Map_4/Map4.unity
     guid: 5eb9b62abcffa7e4593d01b433ae8bc2
+  - enabled: 1
+    path: Assets/Scenes/CutScene/Map5/CutSceneMap5.unity
+    guid: 961989e834fbb974787fb5558df58b0d
   - enabled: 1
     path: Assets/Scenes/Map/Map_5/Map_5.unity
     guid: 02adfcd16ccd97546936ac5e0f3fb91b
   - enabled: 1
+    path: Assets/Scenes/CutScene/Map6/CutSceneMap6.unity
+    guid: f9336c5b63e7306469bf7cd03e9a6048
+  - enabled: 1
     path: Assets/Scenes/Map/Map_6/map6.unity
     guid: b7c4468d41b6b784498434b5d654167d
+  - enabled: 1
+    path: Assets/Scenes/CutScene/EndCutScene/EndCutScene.unity
+    guid: 22831c2a6d45a794d9ae55420e5bb13d
   m_configObjects:
     com.unity.addressableassets: {fileID: 11400000, guid: 2d7d6dfbee093a5459a13c8e2b39ecc7, type: 2}
     com.unity.input.settings.actions: {fileID: -944628639613478452, guid: 2bcd2660ca9b64942af0de543d8d7100, type: 3}
