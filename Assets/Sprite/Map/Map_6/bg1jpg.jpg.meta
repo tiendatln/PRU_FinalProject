@@ -1,10 +1,10 @@
 fileFormatVersion: 2
-guid: 793354be62380e140b826bee8ec52bc6
+guid: 157b065c42d7ddb4ead42c2345074bba
 TextureImporter:
   internalIDToNameTable:
   - first:
-      213: -6883106822226780309
-    second: _Generate an image of a dark (2)_0
+      213: 1242896831220092459
+    second: bg1jpg_0
   externalObjects: {}
   serializedVersion: 13
   mipmaps:
@@ -100,13 +100,13 @@ TextureImporter:
     serializedVersion: 2
     sprites:
     - serializedVersion: 2
-      name: _Generate an image of a dark (2)_0
+      name: bg1jpg_0
       rect:
         serializedVersion: 2
         x: 0
         y: 0
-        width: 3072
-        height: 2048
+        width: 734
+        height: 401
       alignment: 0
       pivot: {x: 0, y: 0}
       border: {x: 0, y: 0, z: 0, w: 0}
@@ -115,8 +115,8 @@ TextureImporter:
       physicsShape: []
       tessellationDetail: -1
       bones: []
-      spriteID: b6fda1e30da4a70a0800000000000000
-      internalID: -6883106822226780309
+      spriteID: b2e05553518af3110800000000000000
+      internalID: 1242896831220092459
       vertices: []
       indices: 
       edges: []
@@ -134,8 +134,7 @@ TextureImporter:
     secondaryTextures: []
     spriteCustomMetadata:
       entries: []
-    nameFileIdTable:
-      _Generate an image of a dark (2)_0: -6883106822226780309
+    nameFileIdTable: {}
   mipmapLimitGroupName: 
   pSDRemoveMatte: 0
   userData: 
