@@ -12459,8 +12459,9 @@ GameObject:
   - component: {fileID: 7067426131458104402}
   - component: {fileID: 636530262570209072}
   - component: {fileID: 8921255329982223443}
+  - component: {fileID: 8084557100004528984}
   m_Layer: 0
-  m_Name: Grid
+  m_Name: Map
   m_TagString: Untagged
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
@@ -12646,3 +12647,16 @@ TilemapCollider2D:
   m_MaximumTileChangeCount: 1000
   m_ExtrusionFactor: 0
   m_UseDelaunayMesh: 0
+--- !u!114 &8084557100004528984
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 3171571328416231957}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: b51ef20449638a04fb322e1ca8dfaa26, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  bg: {fileID: 8300000, guid: fe7e0abd45d9a3b4eafe4f5cfa59646c, type: 3}
