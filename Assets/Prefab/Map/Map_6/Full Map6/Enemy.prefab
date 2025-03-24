@@ -965,7 +965,7 @@ GameObject:
   m_Component:
   - component: {fileID: 4159891401652586964}
   - component: {fileID: 2043400826906479285}
-  - component: {fileID: 3129428150734745602}
+  - component: {fileID: 1854311516233630015}
   m_Layer: 6
   m_Name: spawnpoint
   m_TagString: Untagged
@@ -1034,7 +1034,7 @@ BoxCollider2D:
   m_AutoTiling: 0
   m_Size: {x: 3.99, y: 1.69}
   m_EdgeRadius: 0
---- !u!114 &3129428150734745602
+--- !u!114 &1854311516233630015
 MonoBehaviour:
   m_ObjectHideFlags: 0
   m_CorrespondingSourceObject: {fileID: 0}
@@ -1046,7 +1046,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: b4e615738fc4b974192aa6003dbf262b, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  spawnBoss: {fileID: 149086039114193435, guid: 4c0d967d8d58f3145928d71ff88d0b37, type: 3}
+  spawnBoss: {fileID: 0}
 --- !u!1 &5171064784513564938
 GameObject:
   m_ObjectHideFlags: 0

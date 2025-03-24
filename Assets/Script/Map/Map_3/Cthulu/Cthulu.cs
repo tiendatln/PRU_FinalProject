@@ -42,6 +42,11 @@ public class Cthulu : MonoBehaviour
     public float poisionAttackSpeed = 20f; // Speed of the attack
     private SpriteRenderer SpriteRenderer;
 
+    // Audio
+    [Header("Audio")]
+    public AudioClip winnerSound;
+    public AudioClip normalBackgroundSound;
+
     #region Private Value
 
     private bool isAlive = true;
@@ -247,6 +252,11 @@ public class Cthulu : MonoBehaviour
     {
         GameObject gate = Instantiate(Gate, transform.position + new Vector3(0, 0, 10), transform.rotation);
         gate.AddComponent<NextMap>(); // add script chuyển map
+
+        // audio
+        AudioManager.Instance.playSFXSound(winnerSound);
+        AudioManager.Instance.playMusicLoopSound(normalBackgroundSound);
+
         Destroy(gameObject);
     }
 

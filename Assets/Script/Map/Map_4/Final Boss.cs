@@ -21,7 +21,7 @@ public class FinalBoss : MonoBehaviour
     public float invulnerableDuration = 3f; // Thời gian miễn nhiễm
     public string immuneParamName; // Sự kiện khi kết thúc miễn nhiễm
     private float lastInvulnerableTime = 0f; // Thời gian cuối cùng kích hoạt bất tử
-    private float invulnerableCooldown = 15f; // Khoảng thời gian giữa mỗi lần bất tử
+    private float invulnerableCooldown = 10f; // Khoảng thời gian giữa mỗi lần bất tử
 
     // Quản lý hồi máu
     private bool hasHealed50 = false; // Đánh dấu đã hồi máu ở 50% chưa
@@ -46,9 +46,16 @@ public class FinalBoss : MonoBehaviour
     // Trung tâm của boss
     private Vector3 AttackPoint; // Vị trí trung tâm của boss
     public GameObject AttackPosition;
-    public BossAnimation BossAnimation;
+    public FinalBossAnimation BossAnimation;
     public GameObject Gate;
 
+    private float lastSummonTime; // Biến lưu thời gian triệu hồi cuối cùng
+    private float summonCooldown = 40f; // Thời gian hồi triệu hồi (50s)
+
+
+    [Header("Summon Abilities")]
+    public GameObject mummyPrefab;
+    public GameObject spikePrefab;
     #region Private Value
 
     private bool isMove = true;
@@ -65,7 +72,7 @@ public class FinalBoss : MonoBehaviour
     void Start()
     {
         currentHealth = maxHealth; // Khởi tạo máu
-       
+
         player = GameObject.FindGameObjectWithTag("Player").transform; // Tìm người chơi qua tag
 
         ChooseNextAttack(); // Chọn đòn tấn công đầu tiên
@@ -107,7 +114,7 @@ public class FinalBoss : MonoBehaviour
             else if (Time.time >= nextAttackTime && !isShield && !isShoot)
             {
                 AttackAnimation();
-             
+
                 nextAttackTime = Time.time + attackCooldown;
             }
 
@@ -117,7 +124,7 @@ public class FinalBoss : MonoBehaviour
             // Kiểm tra hồi máu
             CheckHealing();
 
-            // **Tự động kích hoạt bất tử mỗi 15 giây**
+
             // **Tự động kích hoạt bất tử mỗi 15 giây**
             if (!isInvulnerable && Time.time >= lastInvulnerableTime + invulnerableCooldown)
             {
@@ -125,6 +132,13 @@ public class FinalBoss : MonoBehaviour
                 isShield = true;
                 ActivateInvulnerability();
             }
+            // Tự động triệu hồi mummy mỗi 40 giây
+            if (Time.time >= lastSummonTime + summonCooldown)
+            {
+                lastSummonTime = Time.time; // Cập nhật thời gian triệu hồi
+                SummonMummy();
+            }
+
 
 
         }
@@ -136,15 +150,15 @@ public class FinalBoss : MonoBehaviour
     {
         isShoot = true;
         bossLazer.gameObject.SetActive(true);
-        
-    }    
+
+    }
     public void Lazer()
     {
         animator.SetBool("glow", false);
         animator.SetBool("shoot", true);
         Debug.Log(animator.GetBool("glow"));
         Debug.Log(animator.GetBool("shoot"));
-    }    
+    }
 
     public void ArmLazerOpen()
     {
@@ -157,16 +171,18 @@ public class FinalBoss : MonoBehaviour
         animator.SetBool("shoot", false);
         ArmLazer.gameObject.SetActive(false);
         bossLazer.gameObject.SetActive(false);
-    }    
+    }
     public void ActivateInvulnerability()
     {
         if (!isInvulnerable && !string.IsNullOrEmpty(immuneParamName))
         {
             isInvulnerable = true;
-            animator.SetBool(immuneParamName, true); // Bật animation miễn nhiễm
+            animator.SetBool(immuneParamName, true);
+            Debug.Log("Boss đã kích hoạt miễn nhiễm!");
             StartCoroutine(DisableInvulnerabilityAfterTime(invulnerableDuration));
         }
     }
+
 
 
     private IEnumerator DisableInvulnerabilityAfterTime(float duration)
@@ -185,7 +201,7 @@ public class FinalBoss : MonoBehaviour
         float directionx = Mathf.Sign(player.position.x - transform.position.x);
         Vector3 moveVector = new Vector3(directionx * moveSpeed * Time.deltaTime, 0, 0);
         transform.position += moveVector;
-        BossAnimation.Walk();
+
     }
 
     #region turn
@@ -207,7 +223,7 @@ public class FinalBoss : MonoBehaviour
     public void ChooseNextAttack()
     {
         // randome đòn đánh tiếp theo
-        
+
         nextAttack = Random.Range(0, AttackName.Length);
     }
 
@@ -238,8 +254,18 @@ public class FinalBoss : MonoBehaviour
         }
     }
 
-    public void Heal(float amount)
+    public void Heal()
+
     {
+        if (isInvulnerable)
+        {
+            isShield = false;
+            isInvulnerable = false;
+            animator.SetBool(immuneParamName, false); // Tắt animation miễn nhiễm
+        }
+
+
+
         float healthPercentage = (currentHealth / maxHealth) * 200f;
         float heal = 0;
 
@@ -256,26 +282,28 @@ public class FinalBoss : MonoBehaviour
 
         }
         currentHealth = Mathf.Min(currentHealth + heal, maxHealth);
+
     }
 
     public void TakeDamage(float damage)
     {
-        if (isInvulnerable) return;
+        if (isInvulnerable) return; // Nếu boss đang miễn nhiễm thì không nhận sát thương
 
         currentHealth -= damage;
+        Debug.Log("FinalBoss nhận sát thương: " + damage + ". Máu còn lại: " + currentHealth);
 
-            
         if (currentHealth <= 0)
         {
-            isMove = false;
+
             BossAnimation.StopAttack();
             BossAnimation.Dead();
         }
     }
 
+
     void Die()
     {
-        GameObject gate = Instantiate(Gate, transform.position + new Vector3(0, 0, 10), transform.rotation);
+        GameObject gate = Instantiate(Gate, transform.position + new Vector3(0, 2.8f, 10), transform.rotation);
         gate.AddComponent<NextMap>(); // add script chuyển map
         Destroy(gameObject);
     }
@@ -298,6 +326,46 @@ public class FinalBoss : MonoBehaviour
                 player.TakeDamage(_damage); // Gây sát thương lên kẻ địch
             }
 
+        }
+    }
+
+    public float mummySummonOffsetX = 10f; // Tùy chỉnh vị trí triệu hồi mummy
+    public float mummyCooldown = 35f; // Thời gian hồi chiêu triệu hồi mummy
+    private float nextMummyTime = 0f; // Lưu thời điểm có thể triệu hồi tiếp theo
+
+    void SummonMummy()
+    {
+        if (Time.time >= nextMummyTime) // Kiểm tra hồi chiêu
+        {
+            if (mummyPrefab != null && AttackPosition != null)
+            {
+                float direction = IsFacingRight ? 1 : -1; // Xác định hướng boss đang quay mặt
+                Vector3 summonPos = AttackPosition.transform.position + new Vector3(5 * direction, 0, 0);
+
+                // Tạo mummy
+                GameObject mummy = Instantiate(mummyPrefab, summonPos, mummyPrefab.transform.rotation);
+
+                // Đặt scale để Mummy luôn cùng hướng với Boss
+                mummy.transform.localScale = new Vector3(Mathf.Abs(mummy.transform.localScale.x) * direction,
+                                                         mummy.transform.localScale.y,
+                                                         mummy.transform.localScale.z);
+
+                nextMummyTime = Time.time + mummyCooldown; // Đặt lại thời gian hồi chiêu
+            }
+        }
+    }
+
+
+
+
+
+    void SummonSpike()
+    {
+        if (spikePrefab != null && player != null)
+        {
+            Vector3 summonPos = new Vector3(player.position.x, player.position.y - 0.1f, player.position.z);
+            GameObject spike = Instantiate(spikePrefab, summonPos, Quaternion.identity);
+            Destroy(spike, 2f); // Tự hủy sau 2 giây
         }
     }
 }
