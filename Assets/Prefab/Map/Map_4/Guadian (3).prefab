@@ -381,7 +381,7 @@ MonoBehaviour:
   detectionRange: 5
   attackRange: 3
   attackCooldown: 1
-  MaxHP: 10
+  MaxHP: 200
   EX: 100
   animator: {fileID: 7061387700572996743}
   attackPoint: {fileID: 8593509429103752789}

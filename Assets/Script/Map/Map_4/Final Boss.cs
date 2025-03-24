@@ -50,7 +50,7 @@ public class FinalBoss : MonoBehaviour
     public GameObject Gate;
 
     private float lastSummonTime; // Biến lưu thời gian triệu hồi cuối cùng
-    private float summonCooldown = 40f; // Thời gian hồi triệu hồi (50s)
+    private float summonCooldown = 60f; // Thời gian hồi triệu hồi (50s)
 
 
     [Header("Summon Abilities")]
