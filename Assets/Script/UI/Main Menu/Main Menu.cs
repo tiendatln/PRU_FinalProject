@@ -84,7 +84,7 @@ public class MainMenu : MonoBehaviour
         // Chờ cho đến khi timeline kết thúc
         while (playableDirector.state == PlayState.Playing)
         {
-            if (playableDirector.time < 5550)
+            if (playableDirector.time < 330)
             {
                 playableDirector.time += Time.deltaTime; // Đặt lại về đầu
                 playableDirector.Evaluate();

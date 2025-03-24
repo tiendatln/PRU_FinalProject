@@ -49,7 +49,7 @@ public class EnemyAI_2D : MonoBehaviour
     public PlayerController playerController;
 
     [Header("HP Prefab")]
-    public GameObject HeathPlayer;
+   
     public AssetLabelReference _HeathPlayer;
 
     private SpriteRenderer spriteRenderer;
@@ -226,7 +226,7 @@ public class EnemyAI_2D : MonoBehaviour
 
     private void SpawnHeath()
     {
-        if (HeathPlayer == null || string.IsNullOrEmpty(_HeathPlayer.labelString))
+        if (string.IsNullOrEmpty(_HeathPlayer.labelString))
         {
             
             return;
