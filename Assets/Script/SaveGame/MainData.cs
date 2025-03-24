@@ -1,4 +1,5 @@
-﻿    using UnityEngine;
+﻿using System.Collections.Generic;
+using UnityEngine;
     using UnityEngine.SceneManagement;
 
     public class MainData : MonoBehaviour
@@ -10,6 +11,7 @@
     public int leverText;
     public float[] PlayerPosition = new float[3];
     private GameObject StartPosition;
+
     public Vector3[] StartGateOfCurrentMap;
     public int indexOfCurrentMap;
     public float musicVolume;
@@ -18,7 +20,7 @@
     public PlayerMainData PlayerMainData;
     public void setPositionNextMap()
     {
-        SetVectorPlayer(StartGateOfCurrentMap[indexOfCurrentMap - 1]);
+        SetVectorPlayer(StartGateOfCurrentMap[(indexOfCurrentMap / 2) - 1]);
     }
 
     public void SavePlayer(string filePath = null)
@@ -73,8 +75,6 @@
         {
             SaveSystem.DeleteSaveFile(Application.persistentDataPath + "/playerData.json");
             SetDefaultData();
-            CheckPointNew(mapIndex);
-
         }
 
         public void resetPlayer()
@@ -90,11 +90,6 @@
             leverEX = 0;
             leverText = 1;
             indexOfCurrentMap = 1;
-        }
-
-        public void CheckPointNew(int mapIndex)
-        {
-            SetVectorPlayer(StartGateOfCurrentMap[mapIndex - 1]);
         }
 
         public void leverUP()

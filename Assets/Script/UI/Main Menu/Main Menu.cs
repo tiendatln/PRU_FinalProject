@@ -27,12 +27,11 @@ public class MainMenu : MonoBehaviour
     private Image SFXImg;
     private Image MusicImg;
 
-    private PlayableDirector playableDirector;
+   
 
     private void Start()
     {
-        playableDirector = GameObject.Find("CutScene").GetComponent<PlayableDirector>();
-        playableDirector.gameObject.SetActive(false);
+        
         
         Cursor.visible = true;
             Cursor.lockState = CursorLockMode.None;
@@ -56,7 +55,7 @@ public class MainMenu : MonoBehaviour
         {
             GameObject.Find("Load Btn").SetActive(true);
         }
-        Invoke("playMusic", 0.1f);
+        Invoke("playMusic", 0.0001f);
     }
 
     public void playMusic()
@@ -71,39 +70,15 @@ public class MainMenu : MonoBehaviour
         AudioManager.Instance.playSFXSound(buttonClick);
         AudioManager.Instance.stopMusicLoopSound();
 
-        // Kích hoạt và chạy cutscene
-        playableDirector.gameObject.SetActive(true);
-        playableDirector.Play();
-
-        // Bắt đầu Coroutine để chờ cutscene chạy xong
-        StartCoroutine(PlayCutSceneAndLoadNext());
-    }
-
-    private IEnumerator PlayCutSceneAndLoadNext()
-    {
-        // Chờ cho đến khi timeline kết thúc
-        while (playableDirector.state == PlayState.Playing)
-        {
-            if (playableDirector.time < 330)
-            {
-                playableDirector.time += Time.deltaTime; // Đặt lại về đầu
-                playableDirector.Evaluate();
-            }
-            
-
-            yield return null; // Chờ mỗi frame cho đến khi timeline dừng
-        }
-
-        // Khi cutscene kết thúc, load scene tiếp theo
         int nextSceneIndex = SceneManager.GetActiveScene().buildIndex + 1;
         SceneManager.LoadSceneAsync(nextSceneIndex);
 
         // Gọi NewGame với chỉ số scene mới
         GameManager.Instance.getMainData().NewGame(nextSceneIndex);
 
-        // Dừng PlayableDirector (không cần thiết lắm vì scene đã chuyển, nhưng để chắc chắn)
-        playableDirector.Stop();
+        
     }
+
 
 
     public void LoadGame()
@@ -112,10 +87,7 @@ public class MainMenu : MonoBehaviour
         SceneManager.LoadSceneAsync(GameManager.Instance.getMainData().indexOfCurrentMap);
     }
 
-    public void Skip()
-    {
-        playableDirector.Stop();
-    }
+    
 
     public void AudioBtn()
     {
@@ -159,7 +131,7 @@ public class MainMenu : MonoBehaviour
         {
             AudioManager.Instance.playSFXSound(buttonClick);
         }
-        if (SFXVolumeSlider.value == -80)
+        if (SFXVolumeSlider.value == 0)
         {
             SFXImg.sprite = _muteSFXVolume;
         }
@@ -172,7 +144,7 @@ public class MainMenu : MonoBehaviour
     public void settingMusicVolume()
     {
         AudioManager.Instance.setMusicVolume(MusicVolumeSlider.value);
-        if (MusicVolumeSlider.value == -80)
+        if (MusicVolumeSlider.value == 0)
         {
             MusicImg.sprite = _muteMusicVolume;
         }
@@ -184,17 +156,17 @@ public class MainMenu : MonoBehaviour
 
     public void muteSFXVolume()
     {
-        if (SFXVolumeSlider.value > -80)
+        if (SFXVolumeSlider.value > 0)
         {
-            AudioManager.Instance.setSFXVolume(-80);
-            SFXVolumeSlider.value = -80;
+            AudioManager.Instance.setSFXVolume(0);
+            SFXVolumeSlider.value = 0;
             SFXImg.sprite = _muteSFXVolume;
             //SFXImg.color = Color.HSVToRGB(230,125,171);
         }
         else
         {
-            AudioManager.Instance.setSFXVolume(-30f);
-            SFXVolumeSlider.value = -30f;
+            AudioManager.Instance.setSFXVolume(0.3f);
+            SFXVolumeSlider.value = 0.3f;
             SFXImg.sprite = _noMuteSFXVolume;
             //SFXImg.color = Color.HSVToRGB(230, 125, 171);
         }
@@ -202,17 +174,17 @@ public class MainMenu : MonoBehaviour
 
     public void muteMusicVolume()
     {
-        if (MusicVolumeSlider.value > -80)
+        if (MusicVolumeSlider.value > 0)
         {
-            AudioManager.Instance.setMusicVolume(-80);
-            MusicVolumeSlider.value = -80;
+            AudioManager.Instance.setMusicVolume(0);
+            MusicVolumeSlider.value = 0;
             MusicImg.sprite = _muteMusicVolume;
             //MusicImg.color = Color.HSVToRGB(230, 125, 171);
         }
         else
         {
-            AudioManager.Instance.setMusicVolume(-30f);
-            MusicVolumeSlider.value = -30f;
+            AudioManager.Instance.setMusicVolume(0.3f);
+            MusicVolumeSlider.value = 0.3f;
             MusicImg.sprite = _noMuteMusicVolume;
             //MusicImg.color = Color.HSVToRGB(230, 125, 171);
         }

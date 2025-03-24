@@ -10,8 +10,6 @@ public class AudioManager : MonoBehaviour
     public AudioSource[] audioSFX;
     public AudioSource audioMusic;
 
-    public AudioMixer audioMixer;
-
     private void Start()
     {
 
@@ -23,8 +21,8 @@ public class AudioManager : MonoBehaviour
         _instance = this;
         DontDestroyOnLoad(gameObject);
 
-        audioMixer.SetFloat("SFX", GameManager.Instance.getMainData().SFXVolume);
-        audioMixer.SetFloat("Music", GameManager.Instance.getMainData().musicVolume);
+        setSFXVolume(GameManager.Instance.getMainData().SFXVolume);
+       setMusicVolume(GameManager.Instance.getMainData().musicVolume);
     }
 
     public void playSFXSound(AudioClip _SFXSound)
@@ -66,14 +64,17 @@ public class AudioManager : MonoBehaviour
 
     public void setSFXVolume(float _volume)
     {
-        audioMixer.SetFloat("SFX", _volume);
+        for (int i = 0; i < audioSFX.Length; i++)
+        {
+            audioSFX [i].volume = _volume;
+        }
         GameManager.Instance.getMainData().SFXVolume = _volume;
     }
 
     public void setMusicVolume(float _volume)
     {
 
-        audioMixer.SetFloat("Music", _volume);
+        audioMusic.volume = _volume;
         GameManager.Instance.getMainData().musicVolume = _volume;
     }
 }
