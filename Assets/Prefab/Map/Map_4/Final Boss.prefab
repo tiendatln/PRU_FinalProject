@@ -793,8 +793,8 @@ MonoBehaviour:
   animator: {fileID: 8058296228404043400}
   invulnerableDuration: 3
   immuneParamName: shlied
-  healAmount50: 100
-  healAmount20: 100
+  healAmount50: 0
+  healAmount20: 0
   attackCooldown: 3
   AttackName:
   - Melee

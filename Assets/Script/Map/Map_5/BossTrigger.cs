@@ -1,3 +1,4 @@
+using System.Collections;
 using UnityEngine;
 
 public class BossTrigger : MonoBehaviour
@@ -8,7 +9,13 @@ public class BossTrigger : MonoBehaviour
     {
         if (collision.gameObject.CompareTag("Player"))
         {
-            Instantiate(boss,this.transform.position, boss.transform.rotation);
+            StartCoroutine(Spwan());
         }
+    }
+
+    private IEnumerator Spwan()
+    {
+        yield return null;
+        Instantiate(boss, this.transform.position, boss.transform.rotation);
     }
 }

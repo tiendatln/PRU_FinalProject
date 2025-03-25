@@ -6,7 +6,7 @@ using UnityEngine.ResourceManagement.AsyncOperations;
 
 public class MonsterSpawnSKill : MonoBehaviour
 {
-    public GameObject skil;
+
     private EnemyAI_2D _enemyAI;
     public float SkillSpeed;
     private Transform player; // Gán Player vào Inspector
@@ -46,7 +46,7 @@ public class MonsterSpawnSKill : MonoBehaviour
 
     public virtual void Shoot()
     {
-        if (fireBall == null || string.IsNullOrEmpty(fireBall.labelString))
+        if ( string.IsNullOrEmpty(fireBall.labelString))
         {
 
             return;

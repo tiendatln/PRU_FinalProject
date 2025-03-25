@@ -19,7 +19,7 @@ public class LeverTrap : MonoBehaviour
     {
         for (int i = 0; i < Monster.Length; i++)
         {
-            Instantiate(Monster[i], this.transform.position - new Vector3(2,-1,0), Monster[i].transform.rotation);
+            Instantiate(Monster[i], this.transform.position - new Vector3(2 + i,-1,0), Monster[i].transform.rotation);
             yield return null;
         }
     }
