@@ -9,8 +9,12 @@ public class SkipCutScene : MonoBehaviour
     private GameObject nextScene;
     void Start()
     {
-        nextScene = GameObject.FindWithTag("NextScene");
-        nextScene.gameObject.SetActive(false);
+        //nextScene = GameObject.FindWithTag("NextScene");
+        //if (nextScene.gameObject.activeSelf == true)
+        //{
+        //    nextScene.gameObject.SetActive(false);
+        //}
+        
         Invoke("take", 0.00001f);
         AudioManager.Instance.stopMusicLoopSound();
     }

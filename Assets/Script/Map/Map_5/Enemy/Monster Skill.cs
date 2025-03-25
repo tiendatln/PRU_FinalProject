@@ -15,7 +15,7 @@ public class Skill : MonoBehaviour
     {
         if (Physics2D.OverlapCircle(transform.position, 2f, Ground))
         {
-            gameObject.SetActive(false);
+            //gameObject.SetActive(false);
         }
         if (collision.gameObject.TryGetComponent<DamageReceived>(out DamageReceived player))
         {

@@ -21,6 +21,9 @@ public class CutSceneMap2 : MonoBehaviour
         }
         else
         {
+
+            GameManager.Instance.getMainData().NewGame();
+
             GameManager.Instance.getMainData().indexOfCurrentMap = 2;
 
             GameManager.Instance.getMainData().setPositionNextMap(); // set vị trí của nhân vật là vị trí cổng ở map tiếp theo

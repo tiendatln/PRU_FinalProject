@@ -223,7 +223,7 @@ public class Dragon : MonoBehaviour
 
     void Die()
     {
-        GameObject gate = Instantiate(Gate, transform.position + new Vector3(0, 0, 10), transform.rotation);
+        GameObject gate = Instantiate(Gate, transform.position + new Vector3(0, 1.5f, 10), transform.rotation);
         gate.AddComponent<NextMap>(); // add script chuyển map
         Destroy(gameObject);
     }

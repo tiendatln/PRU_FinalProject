@@ -351,6 +351,10 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 4211224512010126709}
     m_Modifications:
+    - target: {fileID: 68848484012122323, guid: ce9f531fc361dac46b03eca5367b4cc3, type: 3}
+      propertyPath: fireBall.m_LabelString
+      value: FireBall
+      objectReference: {fileID: 0}
     - target: {fileID: 2143864781318459521, guid: ce9f531fc361dac46b03eca5367b4cc3, type: 3}
       propertyPath: m_Name
       value: Attack Point
