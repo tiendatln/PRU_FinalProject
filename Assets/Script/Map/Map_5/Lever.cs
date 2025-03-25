@@ -15,7 +15,7 @@ public class Lever : MonoBehaviour
     void Start()
     {
         Bride = GameObject.Find("BrideMission");
-
+        cambound = GameObject.Find("Camera");
     }
 
     // Update is called once per frame

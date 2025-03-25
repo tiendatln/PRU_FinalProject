@@ -20,7 +20,9 @@ using UnityEngine;
     public PlayerMainData PlayerMainData;
     public void setPositionNextMap()
     {
+
         SetVectorPlayer(StartGateOfCurrentMap[(indexOfCurrentMap / 2) - 1]);
+        
     }
 
     public void SavePlayer(string filePath = null)
@@ -71,7 +73,7 @@ using UnityEngine;
         }
 
 
-        public void NewGame(int mapIndex)
+        public void NewGame()
         {
             SaveSystem.DeleteSaveFile(Application.persistentDataPath + "/playerData.json");
             SetDefaultData();

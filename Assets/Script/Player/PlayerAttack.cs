@@ -174,6 +174,10 @@ public class PlayerAttack : MonoBehaviour
             {
                 Dragon.TakeDamage(playerController.PlayerMainData().attack);
             }
+            if (enemy.gameObject.TryGetComponent<BossMap6>(out BossMap6 bossMap6))
+            {
+                bossMap6.TakeDamage(playerController.PlayerMainData().attack);
+            }
 
             Debug.Log("Hit " + enemy);
         }

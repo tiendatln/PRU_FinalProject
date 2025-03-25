@@ -77,5 +77,10 @@ public class Magic : MonoBehaviour
             Dragon.TakeDamage(playerController.PlayerMainData().attack);
             skill.SetActive(false);
         }
+        if (collision.gameObject.TryGetComponent<BossMap6>(out BossMap6 bossMap6))
+        {
+            bossMap6.TakeDamage(playerController.PlayerMainData().attack);
+            skill.SetActive(false);
+        }
     }
 }

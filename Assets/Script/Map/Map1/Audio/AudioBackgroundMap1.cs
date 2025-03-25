@@ -8,8 +8,13 @@ public class AudioBackgroundMap1 : MonoBehaviour
     public AudioClip bg;
     void Start()
     {
-        AudioManager.Instance.playMusicLoopSound(bg);     
+        Invoke("play", 0.00001f);
     }
 
+
+    void play()
+    {
+        AudioManager.Instance.playMusicLoopSound(bg);
+    }
     
 }

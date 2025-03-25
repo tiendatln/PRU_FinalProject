@@ -18,6 +18,7 @@ TagManager:
   - CongDichChuyen
   - BossAttackMap5
   - CutScene
+  - NextScene
   layers:
   - Default
   - TransparentFX

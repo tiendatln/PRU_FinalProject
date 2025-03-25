@@ -491,7 +491,7 @@ GameObject:
   - component: {fileID: 961400488533659148}
   m_Layer: 0
   m_Name: CutSceane
-  m_TagString: Untagged
+  m_TagString: CutScene
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -548,6 +548,8 @@ PlayableDirector:
   - key: {fileID: -8749432043921425059, guid: adba02c7d8fd59842bb356473d76af0e, type: 2}
     value: {fileID: 1372126541139473960}
   - key: {fileID: -510055417196111204, guid: adba02c7d8fd59842bb356473d76af0e, type: 2}
+    value: {fileID: 0}
+  - key: {fileID: -2036895021084402055, guid: adba02c7d8fd59842bb356473d76af0e, type: 2}
     value: {fileID: 0}
   m_ExposedReferences:
     m_References: []

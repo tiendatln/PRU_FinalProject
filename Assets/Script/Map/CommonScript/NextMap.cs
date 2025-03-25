@@ -11,9 +11,9 @@ public class NextMap : MonoBehaviour
 
     public void nextMap()
     {
-        playableDirector = GameObject.FindWithTag("CutScene").GetComponent<PlayableDirector>();
+       
 
-        if (SceneManager.GetActiveScene().buildIndex + 1 < 6)
+        if (SceneManager.GetActiveScene().buildIndex != 13)
         {
             GameManager.Instance.getMainData().indexOfCurrentMap = SceneManager.GetActiveScene().buildIndex + 1;
 
@@ -24,35 +24,16 @@ public class NextMap : MonoBehaviour
         }
         else
         {
-            playableDirector.gameObject.SetActive(true);
+            GameManager.Instance.getMainData().indexOfCurrentMap = 2;
 
-            //playableDirector.
+            GameManager.Instance.getMainData().setPositionNextMap(); // set vị trí của nhân vật là vị trí cổng ở map tiếp theo
 
-            // Bắt đầu Coroutine để chờ cutscene chạy xong
-            StartCoroutine(PlayCutSceneAndLoadNext());
-            
+            SceneManager.LoadSceneAsync(0);
+
         }
 
     }
-    private IEnumerator PlayCutSceneAndLoadNext()
-    {
-        // Chờ cho đến khi timeline kết thúc
-        while (playableDirector.state == PlayState.Playing)
-        {
-            //playableDirector.time += Time.deltaTime; // Đặt lại về đầu
-
-            yield return null; // Chờ mỗi frame cho đến khi timeline dừng
-        }
-
-        GameManager.Instance.getMainData().indexOfCurrentMap = 1;
-
-        GameManager.Instance.getMainData().setPositionNextMap(); // set vị trí của nhân vật là vị trí cổng ở map tiếp theo
-
-        SceneManager.LoadSceneAsync(0); // lấy sceen hiện tại + 1 để chuyển sceen
-
-        // Dừng PlayableDirector (không cần thiết lắm vì scene đã chuyển, nhưng để chắc chắn)
-        playableDirector.Stop();
-    }
+   
     private void OnTriggerStay2D(Collider2D collision)
     {
         if(collision.gameObject.CompareTag("Player"))

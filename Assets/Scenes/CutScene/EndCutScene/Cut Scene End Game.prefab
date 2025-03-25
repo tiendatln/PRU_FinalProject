@@ -393,7 +393,7 @@ GameObject:
   - component: {fileID: 2536964894217235811}
   m_Layer: 5
   m_Name: Cut Scene End Game
-  m_TagString: Untagged
+  m_TagString: CutScene
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -508,6 +508,8 @@ PlayableDirector:
     value: {fileID: 7930670910266410961}
   - key: {fileID: 4167186362789870500, guid: a93c8e5c6f0192c41983d4331e3356ca, type: 2}
     value: {fileID: 1606208550840855927}
+  - key: {fileID: -4551840278238377041, guid: a93c8e5c6f0192c41983d4331e3356ca, type: 2}
+    value: {fileID: 0}
   m_ExposedReferences:
     m_References: []
 --- !u!1 &4980101462700372943

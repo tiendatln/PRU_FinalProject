@@ -130,11 +130,11 @@ public class EnemyAI_2D : MonoBehaviour
                 }
                 else
                 {
-                    if (isPlayerInPatrolRangeX)
+                    if (isPlayerInPatrolRangeX == false && isFly == false)
                     {
                         Invoke("backToPatrol", 1f);
                     }
-                    else
+                    else if (isPlayerInPatrolRangeX == true)
                     {
                         Patrol();
                     }

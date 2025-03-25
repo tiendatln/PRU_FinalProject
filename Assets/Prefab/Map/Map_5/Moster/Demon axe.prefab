@@ -202,7 +202,7 @@ MonoBehaviour:
   enemyLayer:
     serializedVersion: 2
     m_Bits: 0
-  AttackDamage: 20
+  AttackDamage: 1
   groundLayer:
     serializedVersion: 2
     m_Bits: 0
@@ -215,7 +215,6 @@ MonoBehaviour:
   isAttack: 1
   monsterSpawnSkill: {fileID: 0}
   playerController: {fileID: 0}
-  HeathPlayer: {fileID: 0}
   _HeathPlayer:
     m_LabelString: HeathForPlayer
   distanceToPlayer: 0

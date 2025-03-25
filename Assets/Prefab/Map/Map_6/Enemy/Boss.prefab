@@ -136,7 +136,7 @@ MonoBehaviour:
   spawnPoint: {fileID: 0}
   player: {fileID: 0}
   moveSpeed: 3
-  maxHealth: 500
+  maxHealth: 200
   slider: {fileID: 2585415590233678387}
   PlayerMask:
     serializedVersion: 2
@@ -152,7 +152,7 @@ MonoBehaviour:
   _damage: 0.0000001
   AttackPosition: {fileID: 6720718079194963864}
   BossAnimation: {fileID: 6479723525058645981}
-  Gate: {fileID: 0}
+  Gate: {fileID: 5558312770599910627, guid: aed47b4c72cb896478d4c0043a2d77cd, type: 3}
 --- !u!114 &6479723525058645981
 MonoBehaviour:
   m_ObjectHideFlags: 0
@@ -278,8 +278,6 @@ MonoBehaviour:
   m_EditorClassIdentifier: 
   skil: {fileID: 5278125521422391272, guid: b4d4006c4978fde44a90f7f67a276629, type: 3}
   rotationSpeed: 10
-  fireBall:
-    m_LabelString: FireBird
 --- !u!1001 &7727129674715373976
 PrefabInstance:
   m_ObjectHideFlags: 0
@@ -382,11 +380,11 @@ PrefabInstance:
       objectReference: {fileID: 0}
     - target: {fileID: 5250487672323474347, guid: ea9251b3b1b0f5e47b6fe77ecdbfa510, type: 3}
       propertyPath: m_Value
-      value: 500
+      value: 2
       objectReference: {fileID: 0}
     - target: {fileID: 5250487672323474347, guid: ea9251b3b1b0f5e47b6fe77ecdbfa510, type: 3}
       propertyPath: m_MaxValue
-      value: 500
+      value: 200
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []

@@ -85,7 +85,7 @@ public class BossMap6 : MonoBehaviour
             CheckDirectionToFace(player.position.x > transform.position.x);
             CheckHealing();
         }
-        //slider.value = currentHealth;
+        slider.value = currentHealth;
     }
 
     void MoveTowardsPlayer()

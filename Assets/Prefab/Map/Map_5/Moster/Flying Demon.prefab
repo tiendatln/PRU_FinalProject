@@ -166,7 +166,7 @@ MonoBehaviour:
   patrolDistance: 5
   detectionRange: 9
   attackRange: 6
-  attackCooldown: 1
+  attackCooldown: 3
   MaxHP: 100
   EX: 20
   animator: {fileID: 2029022641770965293}
@@ -187,7 +187,6 @@ MonoBehaviour:
   isAttack: 1
   monsterSpawnSkill: {fileID: 8100611012890467987}
   playerController: {fileID: 0}
-  HeathPlayer: {fileID: 0}
   _HeathPlayer:
     m_LabelString: HeathForPlayer
   distanceToPlayer: 0

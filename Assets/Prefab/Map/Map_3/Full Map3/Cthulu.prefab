@@ -305,7 +305,7 @@ MonoBehaviour:
   - isAtack1
   - isAtack2
   squareAttackSize: {x: 4, y: 4}
-  _damage: 0.00000001
+  _damage: 3
   cthuluAnimation: {fileID: 6277909708964211890}
   Gate: {fileID: 3264563415333259061, guid: ad58488e08149d84da0cb95fa563b26e, type: 3}
   poisionPrefab: {fileID: 8915795003775387371, guid: 58c1592f7b91e97459ae676246cbc632, type: 3}
