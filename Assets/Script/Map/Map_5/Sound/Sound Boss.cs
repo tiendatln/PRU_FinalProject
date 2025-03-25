@@ -7,6 +7,7 @@ public class SoundBoss : MonoBehaviour
 
     private void OnTriggerEnter2D(Collider2D collision)
     {
+        AudioManager.Instance.stopMusicLoopSound();
         AudioManager.Instance.playMusicLoopSound(BossMusic);
     }
 }

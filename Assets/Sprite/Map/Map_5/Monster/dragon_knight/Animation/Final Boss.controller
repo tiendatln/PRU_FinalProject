@@ -115,6 +115,12 @@ AnimatorStateTransition:
   - m_ConditionMode: 2
     m_ConditionEvent: Attack2
     m_EventTreshold: 0
+  - m_ConditionMode: 2
+    m_ConditionEvent: AttackDown
+    m_EventTreshold: 0
+  - m_ConditionMode: 2
+    m_ConditionEvent: FireBreath
+    m_EventTreshold: 0
   m_DstStateMachine: {fileID: 0}
   m_DstState: {fileID: -1963397109582016525}
   m_Solo: 0

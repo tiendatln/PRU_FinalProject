@@ -27,6 +27,12 @@ public class DragonAnimation : MonoBehaviour
         animator.SetFloat(_Walk, 2f);
         animator.SetBool("Dash", false);
         animator.SetBool("PrepDash", false);
+        boss.isMove = true;
+    }
+
+    public void Idle()
+    {
+        animator.SetFloat(_Walk, 0f);
     }
 
     public void Dead()
@@ -37,6 +43,7 @@ public class DragonAnimation : MonoBehaviour
     public void Attack(string name)
     {
         boss.isMove = false;
+        Idle();
         animator.SetBool(name, true);
         _AttackName = name;
     }
@@ -64,6 +71,7 @@ public class DragonAnimation : MonoBehaviour
     public void PreDash()
     {
         animator.SetBool("PrepDash", true);
+        Idle();
         boss.isMove = false;
     }
 
@@ -81,11 +89,11 @@ public class DragonAnimation : MonoBehaviour
         
         if(boss.IsFacingRight == true )
         {
-            rb.AddForce(Vector2.right * 3000, ForceMode2D.Impulse);
+            rb.AddForce(Vector2.right * 5000, ForceMode2D.Impulse);
         }
         else
         {
-            rb.AddForce(Vector2.left * 3000, ForceMode2D.Impulse);
+            rb.AddForce(Vector2.left * 5000, ForceMode2D.Impulse);
         }
         boss.checkWall();
     }
