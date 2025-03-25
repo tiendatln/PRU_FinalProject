@@ -136,7 +136,7 @@ GameObject:
   - component: {fileID: 344713744}
   m_Layer: 0
   m_Name: NextScene
-  m_TagString: Untagged
+  m_TagString: NextScene
   m_Icon: {fileID: 0}
   m_NavMeshLayer: 0
   m_StaticEditorFlags: 0
@@ -191,6 +191,18 @@ PrefabInstance:
     serializedVersion: 3
     m_TransformParent: {fileID: 0}
     m_Modifications:
+    - target: {fileID: 562267841905330685, guid: c1434a4e72c55b74a912627328d27bce, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_Target
+      value: 
+      objectReference: {fileID: 1101725213}
+    - target: {fileID: 562267841905330685, guid: c1434a4e72c55b74a912627328d27bce, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_MethodName
+      value: Skip
+      objectReference: {fileID: 0}
+    - target: {fileID: 562267841905330685, guid: c1434a4e72c55b74a912627328d27bce, type: 3}
+      propertyPath: m_OnClick.m_PersistentCalls.m_Calls.Array.data[0].m_TargetAssemblyTypeName
+      value: SkipCutScene, Assembly-CSharp
+      objectReference: {fileID: 0}
     - target: {fileID: 1286615523157309894, guid: c1434a4e72c55b74a912627328d27bce, type: 3}
       propertyPath: m_LocalPosition.x
       value: -3.1813161
@@ -341,6 +353,17 @@ PrefabInstance:
     m_AddedGameObjects: []
     m_AddedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: c1434a4e72c55b74a912627328d27bce, type: 3}
+--- !u!114 &1101725213 stripped
+MonoBehaviour:
+  m_CorrespondingSourceObject: {fileID: 4540878833529220111, guid: c1434a4e72c55b74a912627328d27bce, type: 3}
+  m_PrefabInstance: {fileID: 1101725212}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 907854605}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 295965179a77b98499b82ee63bdd2661, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
 --- !u!95 &1214179741 stripped
 Animator:
   m_CorrespondingSourceObject: {fileID: 3514324851576511854, guid: c1434a4e72c55b74a912627328d27bce, type: 3}

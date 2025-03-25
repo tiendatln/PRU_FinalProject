@@ -53,8 +53,8 @@ public class EnemyAI_2D : MonoBehaviour
     public AssetLabelReference _HeathPlayer;
 
     private SpriteRenderer spriteRenderer;
-   
-    
+
+    private bool isMove;
 
     private AsyncOperationHandle<GameObject> Handle;
     [HideInInspector]public float distanceToPlayer;
@@ -72,45 +72,82 @@ public class EnemyAI_2D : MonoBehaviour
         Slider.maxValue = MaxHP;
         Slider.value = MaxHP;
         HP = MaxHP;
+        animator.enabled = false;
+        isMove = false;
+    }
 
+    private void OnTriggerExit2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("SpawnRange"))
+        {
+            animator.enabled = false;
+            isMove = false;
+        }
+    }
+    private void OnTriggerEnter2D(Collider2D collision)
+    {
+        if (collision.gameObject.CompareTag("SpawnRange"))
+        {
+            animator.enabled = true;
+            isMove = true;
+            Debug.Log(isMove);
+        }
     }
 
     void Update()
     {
-        if (player == null) return;
 
-        distanceToPlayer = Vector2.Distance(attackPoint.position, player.position);
-
-        AnimatorStateInfo animationState = animator.GetCurrentAnimatorStateInfo(0);
-        TimeStopAnimation = animationState.length;
-        if (HP <= 0 && animator.GetBool(DeathAnimationName) == false)
+        if (isMove == true)
         {
-            animator.SetBool(DeathAnimationName, true);
-            Invoke("Dead", TimeStopAnimation);
-        }
-        else
-        {
-            // Kiểm tra xem player có trong phạm vi patrol không
-            bool isPlayerInPatrolRange = this.transform.position.x >= (startPosition.x - patrolDistance) &&
-                                       this.transform.position.x <= (startPosition.x + patrolDistance);
+            if (player == null) return;
 
-            if (distanceToPlayer <= attackRange && isPlayerInPatrolRange)
+            distanceToPlayer = Vector2.Distance(attackPoint.position, player.position);
+
+            AnimatorStateInfo animationState = animator.GetCurrentAnimatorStateInfo(0);
+            TimeStopAnimation = animationState.length;
+            if (HP <= 0 && animator.GetBool(DeathAnimationName) == false)
             {
-                if (canAttack)
-                {
-                    canAttack = false;
-                    Attack();
-                }
-            }
-            else if (distanceToPlayer <= detectionRange && isPlayerInPatrolRange)
-            {
-                ChasePlayer();
+                animator.SetBool(DeathAnimationName, true);
+                Invoke("Dead", TimeStopAnimation);
             }
             else
             {
-                Patrol();
+                // Kiểm tra xem player có trong phạm vi patrol không
+                bool isPlayerInPatrolRangeX = this.transform.position.x >= (startPosition.x - patrolDistance) &&
+                                           this.transform.position.x <= (startPosition.x + patrolDistance);
+
+                if (distanceToPlayer <= attackRange)
+                {
+                    if (canAttack)
+                    {
+                        canAttack = false;
+                        Attack();
+                    }
+                }
+                else if (distanceToPlayer <= detectionRange)
+                {
+                    ChasePlayer();
+                }
+                else
+                {
+                    if (isPlayerInPatrolRangeX == false && isFly == false)
+                    {
+                        Invoke("backToPatrol", 1f);
+                    }
+                    else if (isPlayerInPatrolRangeX == true)
+                    {
+                        Patrol();
+                    }
+
+                }
             }
         }
+        
+    }
+
+    void backToPatrol()
+    {
+        this.transform.position = targetPosition;
     }
 
     void Patrol()

@@ -74,7 +74,7 @@ public class MainMenu : MonoBehaviour
         SceneManager.LoadSceneAsync(nextSceneIndex);
 
         // Gọi NewGame với chỉ số scene mới
-        GameManager.Instance.getMainData().NewGame(nextSceneIndex);
+        GameManager.Instance.getMainData().NewGame();
 
         
     }

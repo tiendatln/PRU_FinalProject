@@ -381,7 +381,7 @@ MonoBehaviour:
   detectionRange: 5
   attackRange: 3
   attackCooldown: 1
-  MaxHP: 200
+  MaxHP: 50
   EX: 100
   animator: {fileID: 7061387700572996743}
   attackPoint: {fileID: 8593509429103752789}
@@ -401,7 +401,6 @@ MonoBehaviour:
   isAttack: 1
   monsterSpawnSkill: {fileID: 0}
   playerController: {fileID: 0}
-  HeathPlayer: {fileID: 8333536574482172173, guid: e0f467d248b3e644e94065bfb392a2ec, type: 3}
   _HeathPlayer:
     m_LabelString: HeathForPlayer
   distanceToPlayer: 0

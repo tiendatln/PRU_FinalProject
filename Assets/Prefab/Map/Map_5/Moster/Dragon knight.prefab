@@ -161,19 +161,19 @@ MonoBehaviour:
   slider: {fileID: 2969700908613822668}
   healAmount50: 60
   healAmount20: 30
-  attackCooldown: 0
-  DashCoolDown: 0
-  AttackMapCoolDown: 0
+  attackCooldown: 2
+  DashCoolDown: 50
+  AttackMapCoolDown: 40
   AttackName:
   - Attack1
   - Attack2
   - Attack3
   - FireBreath
   squareAttackSize: {x: 0, y: 0}
-  _damage: 0
+  _damage: 5
   AttackPosition: {fileID: 8844439833502477472}
   BossAnimation: {fileID: 3056082241859453148}
-  Gate: {fileID: 0}
+  Gate: {fileID: 4727561907587669443, guid: b206e529d1e67b646988020ad1724b6b, type: 3}
   isMove: 1
   IsFacingRight: 1
 --- !u!212 &4433623896599948702
@@ -453,6 +453,14 @@ PrefabInstance:
     - target: {fileID: 3946296305711065310, guid: ea9251b3b1b0f5e47b6fe77ecdbfa510, type: 3}
       propertyPath: m_AnchorMax.y
       value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: 5250487672323474347, guid: ea9251b3b1b0f5e47b6fe77ecdbfa510, type: 3}
+      propertyPath: m_Value
+      value: 2
+      objectReference: {fileID: 0}
+    - target: {fileID: 5250487672323474347, guid: ea9251b3b1b0f5e47b6fe77ecdbfa510, type: 3}
+      propertyPath: m_MaxValue
+      value: 200
       objectReference: {fileID: 0}
     m_RemovedComponents: []
     m_RemovedGameObjects: []
